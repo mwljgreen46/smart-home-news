@@ -10,7 +10,7 @@
     { "id": 7, "date": "2025-07-19", "category": "product", "categoryLabel": "产品方案", "title": "小米Xiaomi HyperOS 2.0发布：设备互联延迟降至8ms", "summary": "小米推出全新操作系统，通过自研星芒协议实现设备间直连，连接延迟降至8ms。", "source": "小米" },
     { "id": 8, "date": "2025-07-18", "category": "policy", "categoryLabel": "政策标准", "title": "工信部发布《智慧家庭综合标准化体系建设指南》", "summary": "指南明确到2027年初步建成覆盖设备互联、场景智能、数据安全三大领域的标准体系。", "source": "工信部" },
     { "id": 9, "date": "2025-07-18", "category": "scenario", "categoryLabel": "场景落地", "title": "美的智慧厨房落地100家门店：AI菜谱复刻成功率超90%", "summary": "美的推出AI厨房解决方案，已在北上广深100家门店落地。", "source": "美的集团" },
-    { "id": 10, "date": "2025-07-17", "category": "tech", "categoryLabel": "技术前沿", "title": "云边端算力调度新范式：家庭网关变身分布式节点", "summary": "清华大学联合头部企业提出"家庭超算节点"概念，将家庭网关纳入边缘计算网络。", "source": "清华大学" },
+    { "id": 10, "date": "2025-07-17", "category": "tech", "categoryLabel": "技术前沿", "title": "云边端算力调度新范式：家庭网关变身分布式节点", "summary": "清华大学联合头部企业提出「家庭超算节点」概念，将家庭网关纳入边缘计算网络。", "source": "清华大学" },
     { "id": 11, "date": "2025-07-17", "category": "security", "categoryLabel": "数据安全", "title": "首款通过国密认证的智慧家庭安全芯片量产", "summary": "紫光同芯发布智慧家庭专用安全芯片，支持SM2/3/4国密算法，通过EAL5+安全认证。", "source": "紫光同芯" },
     { "id": 12, "date": "2025-07-16", "category": "product", "categoryLabel": "产品方案", "title": "萤石发布HomeGPT：首款家庭场景专用多模态大模型", "summary": "萤石AI实验室推出面向智慧家庭场景的多模态大模型，支持视频理解、语音交互和情感感知。", "source": "萤石" },
     { "id": 13, "date": "2025-07-15", "category": "policy", "categoryLabel": "政策标准", "title": "欧盟《智慧家庭数据保护条例》2025年全面生效", "summary": "新条例要求智慧家庭设备必须提供本地数据处理选项，用户可一键禁用云端数据上传。", "source": "欧盟委员会" },
