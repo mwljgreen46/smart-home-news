@@ -1,20 +1,140 @@
 {
-  "lastUpdated": "2025-07-20",
+  "lastUpdated": "2026-07-20",
   "news": [
-    { "id": 1, "date": "2025-07-20", "category": "tech", "categoryLabel": "技术前沿", "title": "Matter 1.4 标准正式发布：多协议网关迎来统一元年", "summary": "连接标准联盟正式发布 Matter 1.4 规范，新增对 Thread 边界路由器的原生支持，并简化了设备配对流程。", "source": "CSA" },
-    { "id": 2, "date": "2025-07-20", "category": "tech", "categoryLabel": "技术前沿", "title": "边缘推理芯片新突破：算力提升3倍，功耗降低40%", "summary": "国产芯片厂商发布新一代端侧AI推理芯片，采用新型存算一体架构，可实时运行70亿参数大模型。", "source": "电子技术应用" },
-    { "id": 3, "date": "2025-07-20", "category": "product", "categoryLabel": "产品方案", "title": "华为全屋智能4.0：AI语义感知引擎重磅登场", "summary": "华为发布新一代全屋智能解决方案，搭载自研AI语义感知引擎，支持自然语言多轮对话控灯、调温。", "source": "华为" },
-    { "id": 4, "date": "2025-07-20", "category": "scenario", "categoryLabel": "场景落地", "title": "万科首个AI适老社区落地深圳：跌倒检测覆盖率达100%", "summary": "万科与科大讯飞合作打造智慧适老社区，部署超过2000个毫米波雷达传感器。", "source": "万科集团" },
-    { "id": 5, "date": "2025-07-19", "category": "security", "categoryLabel": "数据安全", "title": "智慧家庭成为黑客攻击新目标：攻击量增长170%", "summary": "安全研究机构报告显示，2024年上半年针对家庭摄像头的勒索软件攻击显著增加。", "source": "安全内参" },
-    { "id": 6, "date": "2025-07-19", "category": "tech", "categoryLabel": "技术前沿", "title": "多Agent协同框架开源：家庭机器人终于能自主规划任务了", "summary": "阿里云开源多Agent协同框架MAGE-Home，首次实现家庭机器人跨设备协作规划。", "source": "阿里云" },
-    { "id": 7, "date": "2025-07-19", "category": "product", "categoryLabel": "产品方案", "title": "小米Xiaomi HyperOS 2.0发布：设备互联延迟降至8ms", "summary": "小米推出全新操作系统，通过自研星芒协议实现设备间直连，连接延迟降至8ms。", "source": "小米" },
-    { "id": 8, "date": "2025-07-18", "category": "policy", "categoryLabel": "政策标准", "title": "工信部发布《智慧家庭综合标准化体系建设指南》", "summary": "指南明确到2027年初步建成覆盖设备互联、场景智能、数据安全三大领域的标准体系。", "source": "工信部" },
-    { "id": 9, "date": "2025-07-18", "category": "scenario", "categoryLabel": "场景落地", "title": "美的智慧厨房落地100家门店：AI菜谱复刻成功率超90%", "summary": "美的推出AI厨房解决方案，已在北上广深100家门店落地。", "source": "美的集团" },
-    { "id": 10, "date": "2025-07-17", "category": "tech", "categoryLabel": "技术前沿", "title": "云边端算力调度新范式：家庭网关变身分布式节点", "summary": "清华大学联合头部企业提出「家庭超算节点」概念，将家庭网关纳入边缘计算网络。", "source": "清华大学" },
-    { "id": 11, "date": "2025-07-17", "category": "security", "categoryLabel": "数据安全", "title": "首款通过国密认证的智慧家庭安全芯片量产", "summary": "紫光同芯发布智慧家庭专用安全芯片，支持SM2/3/4国密算法，通过EAL5+安全认证。", "source": "紫光同芯" },
-    { "id": 12, "date": "2025-07-16", "category": "product", "categoryLabel": "产品方案", "title": "萤石发布HomeGPT：首款家庭场景专用多模态大模型", "summary": "萤石AI实验室推出面向智慧家庭场景的多模态大模型，支持视频理解、语音交互和情感感知。", "source": "萤石" },
-    { "id": 13, "date": "2025-07-15", "category": "policy", "categoryLabel": "政策标准", "title": "欧盟《智慧家庭数据保护条例》2025年全面生效", "summary": "新条例要求智慧家庭设备必须提供本地数据处理选项，用户可一键禁用云端数据上传。", "source": "欧盟委员会" },
-    { "id": 14, "date": "2025-07-14", "category": "scenario", "categoryLabel": "场景落地", "title": "绿地集团智慧社区标配：千人千面的智能安防体系", "summary": "绿地集团宣布新建住宅项目全面接入智能安防系统。", "source": "绿地集团" },
-    { "id": 15, "date": "2025-07-13", "category": "tech", "categoryLabel": "技术前沿", "title": "Wi-Fi HaLow落地智慧家庭：穿墙距离提升10倍", "summary": "Wi-Fi联盟宣布HaLow标准进入智慧家庭市场，信号穿墙能力提升10倍。", "source": "Wi-Fi联盟" }
+    {
+      "id": 1,
+      "date": "2026-07-20",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "Matter 1.4 标准正式发布：多协议网关迎来统一元年",
+      "summary": "连接标准联盟正式发布 Matter 1.4 规范，新增对 Thread 边界路由器的原生支持，并简化了设备配对流程。",
+      "source": "CSA"
+    },
+    {
+      "id": 2,
+      "date": "2026-07-20",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "边缘推理芯片新突破：算力提升3倍，功耗降低40%",
+      "summary": "国产芯片厂商发布新一代端侧AI推理芯片，采用新型存算一体架构，可实时运行70亿参数大模型。",
+      "source": "电子技术应用"
+    },
+    {
+      "id": 3,
+      "date": "2026-07-20",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "华为全屋智能4.0：AI语义感知引擎重磅登场",
+      "summary": "华为发布新一代全屋智能解决方案，搭载自研AI语义感知引擎，支持自然语言多轮对话控灯、调温。",
+      "source": "华为"
+    },
+    {
+      "id": 4,
+      "date": "2026-07-20",
+      "category": "scenario",
+      "categoryLabel": "场景落地",
+      "title": "万科首个AI适老社区落地深圳：跌倒检测覆盖率达100%",
+      "summary": "万科与科大讯飞合作打造智慧适老社区，部署超过2000个毫米波雷达传感器。",
+      "source": "万科集团"
+    },
+    {
+      "id": 5,
+      "date": "2026-07-19",
+      "category": "security",
+      "categoryLabel": "数据安全",
+      "title": "智慧家庭成为黑客攻击新目标：攻击量增长170%",
+      "summary": "安全研究机构报告显示，2024年上半年针对家庭摄像头的勒索软件攻击显著增加。",
+      "source": "安全内参"
+    },
+    {
+      "id": 6,
+      "date": "2026-07-19",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "多Agent协同框架开源：家庭机器人终于能自主规划任务了",
+      "summary": "阿里云开源多Agent协同框架MAGE-Home，首次实现家庭机器人跨设备协作规划。",
+      "source": "阿里云"
+    },
+    {
+      "id": 7,
+      "date": "2026-07-19",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "小米Xiaomi HyperOS 2.0发布：设备互联延迟降至8ms",
+      "summary": "小米推出全新操作系统，通过自研星芒协议实现设备间直连，连接延迟降至8ms。",
+      "source": "小米"
+    },
+    {
+      "id": 8,
+      "date": "2026-07-18",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "工信部发布《智慧家庭综合标准化体系建设指南》",
+      "summary": "指南明确到2027年初步建成覆盖设备互联、场景智能、数据安全三大领域的标准体系。",
+      "source": "工信部"
+    },
+    {
+      "id": 9,
+      "date": "2026-07-18",
+      "category": "scenario",
+      "categoryLabel": "场景落地",
+      "title": "美的智慧厨房落地100家门店：AI菜谱复刻成功率超90%",
+      "summary": "美的推出AI厨房解决方案，已在北上广深100家门店落地。",
+      "source": "美的集团"
+    },
+    {
+      "id": 10,
+      "date": "2026-07-17",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "云边端算力调度新范式：家庭网关变身分布式节点",
+      "summary": "清华大学联合头部企业提出「家庭超算节点」概念，将家庭网关纳入边缘计算网络。",
+      "source": "清华大学"
+    },
+    {
+      "id": 11,
+      "date": "2026-07-17",
+      "category": "security",
+      "categoryLabel": "数据安全",
+      "title": "首款通过国密认证的智慧家庭安全芯片量产",
+      "summary": "紫光同芯发布智慧家庭专用安全芯片，支持SM2/3/4国密算法，通过EAL5+安全认证。",
+      "source": "紫光同芯"
+    },
+    {
+      "id": 12,
+      "date": "2026-07-16",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "萤石发布HomeGPT：首款家庭场景专用多模态大模型",
+      "summary": "萤石AI实验室推出面向智慧家庭场景的多模态大模型，支持视频理解、语音交互和情感感知。",
+      "source": "萤石"
+    },
+    {
+      "id": 13,
+      "date": "2026-07-15",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "欧盟《智慧家庭数据保护条例》2025年全面生效",
+      "summary": "新条例要求智慧家庭设备必须提供本地数据处理选项，用户可一键禁用云端数据上传。",
+      "source": "欧盟委员会"
+    },
+    {
+      "id": 14,
+      "date": "2026-07-14",
+      "category": "scenario",
+      "categoryLabel": "场景落地",
+      "title": "绿地集团智慧社区标配：千人千面的智能安防体系",
+      "summary": "绿地集团宣布新建住宅项目全面接入智能安防系统。",
+      "source": "绿地集团"
+    },
+    {
+      "id": 15,
+      "date": "2026-07-13",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "Wi-Fi HaLow落地智慧家庭：穿墙距离提升10倍",
+      "summary": "Wi-Fi联盟宣布HaLow标准进入智慧家庭市场，信号穿墙能力提升10倍。",
+      "source": "Wi-Fi联盟"
+    }
   ]
 }
