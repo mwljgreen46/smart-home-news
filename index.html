@@ -95,6 +95,7 @@
       color: var(--accent); flex-shrink: 0; 
     }
     .news-item .item-meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .news-item .item-meta .date-badge { font-size: 11px; color: var(--text-muted); background: var(--bg-secondary); padding: 2px 6px; border-radius: 4px; border: 1px solid var(--border); }
     .news-item .item-title { font-size: 16px; font-weight: 600; line-height: 1.4; margin-bottom: 10px; }
     .news-item .item-summary { font-size: 14px; color: var(--text-secondary); line-height: 1.7; margin-bottom: 14px; }
     .news-item .item-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
@@ -378,7 +379,8 @@
                 <div class="item-index">${String(i+1).padStart(2,'0')}</div>
                 <div class="item-meta">
                   <span class="card-tag ${item.category}">${item.categoryLabel}</span>
-                  ${item.keywords ? item.keywords.slice(0, 3).map(k => `<span class="keyword-tag">${k}</span>`).join('') : ''}
+                  <span class="date-badge">📅 ${item.published || item.date}</span>
+                  ${item.keywords ? item.keywords.slice(0, 2).map(k => `<span class="keyword-tag">${k}</span>`).join('') : ''}
                 </div>
               </div>
               <div class="item-title">${item.title}</div>
