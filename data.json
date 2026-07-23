@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22",
+  "lastUpdated": "2026-07-23",
   "news": [
     {
       "id": 1,
@@ -1903,6 +1903,476 @@
         "消费电子"
       ],
       "id": 101
+    },
+    {
+      "id": 102,
+      "date": "2026-07-23",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "Shelly Gen4全系确认支持Matter over Thread",
+      "summary": "智能家居设备厂商Shelly官方确认，Gen4全系设备将通过固件更新支持Matter over Thread协议。Gen4内置ESP32-C6芯片已具备硬件基础，官方社区投票仅涉及实现细节而非功能本身。此举将大幅扩充Thread生态设备阵容，推动Matter协议互联互通加速落地。",
+      "source": "stadt-bremerhaven.de",
+      "url": "https://stadt-bremerhaven.de/shelly-alle-gen4-geraete-werden-ein-update-auf-matter-over-thread-erhalten/",
+      "keywords": [
+        "Shelly",
+        "Matter over Thread",
+        "Thread协议",
+        "智能家居",
+        "设备互联"
+      ],
+      "published": "2026-07-22"
+    },
+    {
+      "id": 103,
+      "date": "2026-07-23",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "Nordic 2026 CMGC Matter Open Day圆满收官：边缘AI离线语音控制方案量产",
+      "summary": "Nordic Semiconductor在广州建博会上展出基于nRF54LM20芯片的电池供电Matter外设方案，实现完全离线的本地语音识别与指令控制，无需云端中转。同时推出Aliro标准智能门锁参考设计，支持NFC轻触解锁与Bluetooth LE+UWB双模式，打通跨生态门禁体系。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-17/doc-iniiatfh1464064.shtml",
+      "keywords": [
+        "Nordic",
+        "Matter",
+        "Thread",
+        "边缘AI",
+        "离线语音",
+        "智能家居"
+      ],
+      "published": "2026-07-17"
+    },
+    {
+      "id": 104,
+      "date": "2026-07-23",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "2026端侧AI战事升级：苹果谷歌高通联发科全面布局",
+      "summary": "2026年端侧AI竞争全面升级，苹果围绕Apple Silicon推出Core AI，高通、联发科、英特尔搭建端侧AI平台。面壁智能CEO李大海指出，大模型正逐步迁移至国产芯片和集群训练，端侧推理对软硬协同依赖加深，模型需贴合芯片计算方式，芯片也需围绕大模型推理持续优化。",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3864280705520640",
+      "keywords": [
+        "端侧AI",
+        "大模型",
+        "苹果",
+        "高通",
+        "联发科",
+        "国产芯片"
+      ],
+      "published": "2026-07-23"
+    },
+    {
+      "id": 105,
+      "date": "2026-07-23",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "具身智能独立成馆：WAIC 2026展出208款终端超300台真机",
+      "summary": "WAIC 2026具身智能展区成为最大亮点，200余家企业参展（较去年80余家翻倍），集中展示208款具身智能终端、超300台真机。从能表演到能干活，行业已从技术验证阶段全面进入产业交付阶段，2026年被业界称为具身智能产业化元年。",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4033315.html",
+      "keywords": [
+        "具身智能",
+        "人形机器人",
+        "WAIC",
+        "产业化",
+        "智能家居"
+      ],
+      "published": "2026-07-22"
+    },
+    {
+      "id": 106,
+      "date": "2026-07-23",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "边缘AI与硬件生态典范转移：百亿参数模型可终端离线运行",
+      "summary": "模型蒸馏与量化技术突破，百亿参数级模型已能在智能手机、PC及穿戴式装置上高效离线运行，大幅降低云端算力成本。边缘AI崛起正改变智能家居算力架构，端-边-云协同成为核心方向，终端设备从单纯联网传输向自主感知、智能决策的高阶形态迭代。",
+      "source": "蕃新闻",
+      "url": "https://n.yam.com/Article/20260718924975",
+      "keywords": [
+        "边缘AI",
+        "端侧推理",
+        "模型蒸馏",
+        "量化技术",
+        "智能家居"
+      ],
+      "published": "2026-07-18"
+    },
+    {
+      "id": 107,
+      "date": "2026-07-23",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "智传网AI Flow获2026 SAIL奖：端-边-云一体化智能传输体系",
+      "summary": "中国电信CTO李学龙带领团队自研的智传网（AI Flow）技术融合人工智能、通信、网络关键技术，打破终端设备、边缘计算、云端服务器孤立格局，构建端-边-云协同的一体化智能传输体系，实现从数据传输到智能流转的根本性变革，荣获WAIC 2026 SAIL奖。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1051827131_610727",
+      "keywords": [
+        "智传网",
+        "AI Flow",
+        "端边云协同",
+        "WAIC",
+        "边缘计算"
+      ],
+      "published": "2026-07-18"
+    },
+    {
+      "id": 108,
+      "date": "2026-07-23",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "Silicon Labs详解Matter 1.6策略：应对复杂功能与硬件平衡",
+      "summary": "Silicon Labs首席产品经理指出，Matter 1.6规格加入复杂功能后，芯片厂商面临功能与硬件负载的平衡挑战。目前主流厂商正全面转向Thread-first产品组合，Matter生态加速成熟，边缘AIoT装置完整互联性成为核心升级方向。",
+      "source": "Matter Alpha",
+      "url": "https://www.matteralpha.com/explainer/silicon-labs-series-3-matter-1-6-strategy",
+      "keywords": [
+        "Silicon Labs",
+        "Matter 1.6",
+        "Thread",
+        "智能家居",
+        "互联互通"
+      ],
+      "published": "2026-07"
+    },
+    {
+      "id": 109,
+      "date": "2026-07-23",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "2026年国补第三批625亿全面落地：7月22日正式到位",
+      "summary": "2026全年2500亿元换新补贴分四批发放，第三批625亿元于7月全面到位，全国31省市统一标准无地域差价。大家电按成交价15%直接减免，单件最高1500元；手机、平板、智能穿戴单件最高500元。京东搜索国补160、淘宝搜索补贴领起来直达申领通道。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-22/doc-iniisxzw7914816.shtml",
+      "keywords": [
+        "国补",
+        "以旧换新",
+        "625亿",
+        "发改委",
+        "商务部",
+        "智能家居补贴"
+      ],
+      "published": "2026-07-22"
+    },
+    {
+      "id": 110,
+      "date": "2026-07-23",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "工信部：将加快出台人工智能+软件行动方案",
+      "summary": "7月20日国新办新闻发布会，工信部表示将持续增强关键软件产品和服务供给能力，加快出台人工智能+软件行动方案，推动软件开发智能化转型、软件产品及服务智能化升级，以及智能体软件新业态培育。",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4028639.html",
+      "keywords": [
+        "工信部",
+        "AI+软件",
+        "政策",
+        "智能体"
+      ],
+      "published": "2026-07-20"
+    },
+    {
+      "id": 111,
+      "date": "2026-07-23",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "工信部：规模以上制造业企业人工智能技术应用普及率超30%",
+      "summary": "工信部数据显示，我国规模以上制造业企业人工智能技术应用普及率已超30%，软件是新一代信息技术的灵魂，是制造强国、网络强国、数字中国建设的关键支撑。工信部将深入实施人工智能+制造行动，持续推动制造业智能化转型。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniimkkk9788254.d.html",
+      "keywords": [
+        "工信部",
+        "AI普及率",
+        "智能制造",
+        "人工智能+制造"
+      ],
+      "published": "2026-07-20"
+    },
+    {
+      "id": 112,
+      "date": "2026-07-23",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "人工智能国际标准化论坛召开：WAIC 2026聚焦标准引领",
+      "summary": "2026世界人工智能大会期间，标准引领智能共治人工智能国际标准化论坛在上海世博中心举办，由上海人工智能研究院、中国电子技术标准化研究院等承办，国内外数百位专家代表参会，共同研讨人工智能国际标准化方向。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L26Q6O2I0514R9OJ.html",
+      "keywords": [
+        "WAIC",
+        "人工智能标准化",
+        "国际标准",
+        "智能家居"
+      ],
+      "published": "2026-07-17"
+    },
+    {
+      "id": 113,
+      "date": "2026-07-23",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "商务部等八部门：推动人工智能+居家服务，智能家居纳入好房子建设指南",
+      "summary": "2026年6月商务部等八部门联合印发《关于加快人工智能+消费发展的实施意见》，明确推动人工智能+居家服务，普及智能扫拖机器人、智能厨房设备，将智能家居纳入好房子建设指南。据奥维云网数据，一季度国内AI家电市场规模同比大涨59.7%，家电AI渗透率已突破50%。",
+      "source": "艾媒网",
+      "url": "https://www.iimedia.cn/c1104/113052.html",
+      "keywords": [
+        "AI+消费",
+        "智能家居",
+        "好房子",
+        "政策",
+        "市场数据"
+      ],
+      "published": "2026-07"
+    },
+    {
+      "id": 114,
+      "date": "2026-07-23",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "全国首部智能终端AI交互标准公开征集起草单位",
+      "summary": "国家网信办等五部门联合公布的《人工智能拟人化互动服务管理暂行办法》于2026年7月15日正式施行，首次从国家层面对AI拟人化交互标识、情感依赖干预等作出规范。同时，全国首部智能终端AI交互标准现公开征集起草单位和专家。",
+      "source": "电子工程专辑",
+      "url": "https://www.eet-china.com/mp/a511388.html",
+      "keywords": [
+        "AI交互标准",
+        "国家标准",
+        "政策",
+        "智能终端"
+      ],
+      "published": "2026-07-15"
+    },
+    {
+      "id": 115,
+      "date": "2026-07-23",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "小度发布家庭智能体中枢系统：适配全家庭成员多设备协同",
+      "summary": "WAIC 2026现场，小度发布家庭智能体中枢系统，采用三层协同架构：超能小度智能大脑（意图理解+长期记忆+决策规划）、全域终端感知网络、开放智能体服务层。实现孩子回家自动识别平安推送、作业清单同步家长与孩子、任务从创建到反馈的完整闭环，破解单点智能困局。",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8068255.html",
+      "keywords": [
+        "小度",
+        "家庭智能体",
+        "多Agent协同",
+        "智能家居",
+        "WAIC"
+      ],
+      "published": "2026-07-17"
+    },
+    {
+      "id": 116,
+      "date": "2026-07-23",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "华为鸿蒙6系统全品类终端突破7000万台",
+      "summary": "2026年7月初，搭载鸿蒙6系统的全品类终端设备总装机量突破7000万台，整个鸿蒙操作系统用户规模正朝1亿台里程碑迈进，全场景生态扩张速度明显加快。鸿蒙已成为中国第二大智能手机操作系统，以微内核设计、分布式协同能力和36个专用API构建差异化竞争力。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L29O4S8G0511CPVM.html",
+      "keywords": [
+        "华为",
+        "鸿蒙6",
+        "全屋智能",
+        "鸿蒙智家",
+        "智能家居"
+      ],
+      "published": "2026-07-20"
+    },
+    {
+      "id": 117,
+      "date": "2026-07-23",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "海尔L4级智能体家电Seeker套系亮相建博会：AI Agent系统HomeClaw首发",
+      "summary": "2026年7月8日第28届广州建博会，海尔智慧家庭以603㎡第一大展位亮相，带来行业最高L4级智能体家电Seeker套系和AI Agent系统HomeClaw，实现从听指令到主动服务的交互革命。海尔承建的消费领域家居家电方向国家AI应用中试基地也在WAIC期间正式揭牌。",
+      "source": "艾媒网",
+      "url": "https://www.iimedia.cn/c1104/113052.html",
+      "keywords": [
+        "海尔",
+        "L4级智能体",
+        "Seeker",
+        "HomeClaw",
+        "建博会",
+        "空间革命"
+      ],
+      "published": "2026-07-08"
+    },
+    {
+      "id": 118,
+      "date": "2026-07-23",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "亿道发布Ailyn AI中枢平台：软硬一体化推动边缘AI落地",
+      "summary": "智能计算设备领先企业亿道（Emdoor）在WAIC 2026上正式发布Ailyn软硬一体化AI中枢平台，本届大会以万物智联、边缘无界为主题，Ailyn可实现多设备间的智能贯通，推动边缘AI在智能家居场景的规模化落地。",
+      "source": "China Newswire",
+      "url": "https://mediatcb.com/news/20260720/19720/",
+      "keywords": [
+        "亿道",
+        "Ailyn",
+        "AI中枢",
+        "WAIC",
+        "边缘AI",
+        "智能家居"
+      ],
+      "published": "2026-07-20"
+    },
+    {
+      "id": 119,
+      "date": "2026-07-23",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "傅利叶发布GR-3康养机器人居家方案：全流程操作演示",
+      "summary": "WAIC 2026期间，傅利叶在展台搭建完整居家场景，GR-3人形机器人完成取物、递送、安防巡检等任务，观众可用自然语言下达指令自主完成全流程操作。同期发布首款轮式双臂机器人GRW，适配康养照护等高负载人机协同场景。",
+      "source": "机器人大讲堂",
+      "url": "https://www.leaderobot.com/news/8549",
+      "keywords": [
+        "傅利叶",
+        "人形机器人",
+        "康养机器人",
+        "WAIC",
+        "智慧养老"
+      ],
+      "published": "2026-07"
+    },
+    {
+      "id": 120,
+      "date": "2026-07-23",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "黎曼动力专注家用具身智能：Riemann-1.0世界动作模型亮相",
+      "summary": "黎曼动力在WAIC 2026上专注布局家用具身智能，搭建复刻真实户型的开放式厨房、起居室两大生活场景。多台搭载自研Riemann-1.0世界动作模型的人形样机循环演示全套家务流程（餐具收纳、桌面油污擦拭、衣物折叠、布艺整理），模型以23.2万小时人类居家第一视角操作视频完成训练，泛化能力突出。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L2EUKOQ40552HBC9.html",
+      "keywords": [
+        "黎曼动力",
+        "家用具身智能",
+        "Riemann-1.0",
+        "WAIC",
+        "家庭机器人"
+      ],
+      "published": "2026-07-22"
+    },
+    {
+      "id": 121,
+      "date": "2026-07-23",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "海信发布AI驱动增长战略：持续深耕智慧生活赛道",
+      "summary": "全球消费电子与家电领军品牌海信正式发布完整AI驱动增长战略，为企业下一阶段全球化发展指明方向，将持续深耕技术创新、智慧生活赛道，坚守长期用户价值。海信AI战略以用户场景为核心，推动家电产品从功能型向智能服务型转变。",
+      "source": "TheHubNews",
+      "url": "https://www.thehubnews.net/archives/646646",
+      "keywords": [
+        "海信",
+        "AI战略",
+        "智慧生活",
+        "智能家居"
+      ],
+      "published": "2026-07-21"
+    },
+    {
+      "id": 122,
+      "date": "2026-07-23",
+      "category": "scenario",
+      "categoryLabel": "场景落地",
+      "title": "WAIC 2026：具身智能从能运动到能干活，产业化拐点已至",
+      "summary": "2024年WAIC还是18台人形机器人列队迎宾；2026年，60台机器人已在展馆里承担导览和问询等支持工作，不是摆在那里让人拍照，而是真的在干活。行业已从要不要做机器人的阶段，走到做什么样的机器人的阶段，社会层面从观望转向真正投入。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L240FQDE0514R9OJ.html",
+      "keywords": [
+        "具身智能",
+        "人形机器人",
+        "WAIC",
+        "产业化",
+        "场景落地"
+      ],
+      "published": "2026-07-18"
+    },
+    {
+      "id": 123,
+      "date": "2026-07-23",
+      "category": "scenario",
+      "categoryLabel": "场景落地",
+      "title": "海尔好房子建设成果落地青岛品牌日：五大智慧场景集中呈现",
+      "summary": "海尔智慧家庭战略落地和好房子建设成果在青岛品牌日集中呈现，海尔作为住建部好房子共建单位，已将全场景AI解决方案带进青岛、长沙、济南、成都、济宁、雄安新区等多个城市，让好房子从概念变成可触摸的日常。",
+      "source": "青报网",
+      "url": "https://www.dailyqd.com/guanhai/463057_1.html",
+      "keywords": [
+        "海尔",
+        "好房子",
+        "青岛",
+        "全屋智能",
+        "智慧场景"
+      ],
+      "published": "2026-07"
+    },
+    {
+      "id": 124,
+      "date": "2026-07-23",
+      "category": "scenario",
+      "categoryLabel": "场景落地",
+      "title": "蚂蚁灵波机器人智慧药房落地国大药房：90秒完成药品分拣",
+      "summary": "蚂蚁集团旗下蚂蚁灵波携手国大药房打造的机器人智慧药房入选WAIC 2026十大镇馆之宝。三台品牌不同、构型各异的机器人由同一具身基座模型LingBot-VLA 2.0驱动，根据随机订单自主分工，从接收订单到药品打包全程仅需90秒。该方案已在国大药房上海门店实际运营，门店无需改造。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L240FQDE0514R9OJ.html",
+      "keywords": [
+        "蚂蚁灵波",
+        "具身智能",
+        "智慧药房",
+        "WAIC",
+        "机器人"
+      ],
+      "published": "2026-07-18"
+    },
+    {
+      "id": 125,
+      "date": "2026-07-23",
+      "category": "security",
+      "categoryLabel": "数据安全",
+      "title": "2026年智能家居隐私全面指南：Matter、Zigbee和Thread对比分析",
+      "summary": "Smart Home Wizards发布2026智能家居隐私全面指南，详尽分析Matter、Zigbee和Thread三大协议在家庭数据保护方面的差异。智能家居设备持续在后台收集行为数据，Ring、Wyze、TP-Link等设备均存在已知安全漏洞，用户需了解各协议安全性差异并采取相应保护措施。",
+      "source": "Smart Home Wizards",
+      "url": "https://smarthomewizards.com/smart-home-privacy-concerns-2026-a-comprehensive-guide-to-protecting-your-data/",
+      "keywords": [
+        "智能家居",
+        "隐私保护",
+        "Matter",
+        "Thread",
+        "Zigbee",
+        "数据安全"
+      ],
+      "published": "2026-07"
+    },
+    {
+      "id": 126,
+      "date": "2026-07-23",
+      "category": "security",
+      "categoryLabel": "数据安全",
+      "title": "AKM开始量产AK5816AIM毫米波雷达模块：无摄像头感知人体活动",
+      "summary": "旭化成微电子（AKM）开始量产AK5816AIM毫米波雷达模块，可检测人体存在、活动、呼吸等，无需依赖摄像头，适用于隐私敏感的家居、养老院、医院等室内环境监控。该模块集成天线、封装紧凑、分辨率高，推动无摄像头监控方案快速落地。",
+      "source": "audioXpress",
+      "url": "https://audioxpress.com/news/akm-begins-mass-production-of-mmwave-radar-module-for-activity-and-presence-sensing",
+      "keywords": [
+        "毫米波雷达",
+        "隐私保护",
+        "智能感知",
+        "跌倒检测",
+        "智能家居",
+        "AKM"
+      ],
+      "published": "2026-07"
+    },
+    {
+      "id": 127,
+      "date": "2026-07-23",
+      "category": "security",
+      "categoryLabel": "数据安全",
+      "title": "周鸿祎WAIC谈AI安全：AI正成为能自主执行任务的新物种",
+      "summary": "360创始人周鸿祎在WAIC 2026现场表示，AI正从辅助工具演变为能自主执行任务的新物种，必须做到可信、可靠、可控。大会以智能伙伴共创未来为主题，聚焦基础设施、数据安全、企业AI原生转型、智能体应用等核心议题，强调发展和安全并重。",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202607173811364932.html",
+      "keywords": [
+        "AI安全",
+        "周鸿祎",
+        "WAIC",
+        "智能体安全",
+        "网络安全"
+      ],
+      "published": "2026-07-17"
     }
   ]
 }
