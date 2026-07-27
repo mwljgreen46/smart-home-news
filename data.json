@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26",
+  "lastUpdated": "2026-07-27",
   "news": [
     {
       "id": 1,
@@ -3036,6 +3036,528 @@
         "消费电子"
       ],
       "id": 169
+    },
+    {
+      "date": "2026-07-27",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "Nanoleaf推出模块化显示器支架：支持Matter over Thread，RGB氛围灯+护眼台灯三合一",
+      "summary": "Nanoleaf发布Smart Modular Monitor Stand桌面智能照明支架，采用多层实木胡桃木饰面，支持双区RGB氛围灯（102颗独立寻址LED，160度壁挂式光效）与前向CRI97台灯（1700K-6500K色温，550流明），支持Matter over Thread协议，兼容Apple Home等主流平台。",
+      "source": "HomeKitNews",
+      "url": "https://homekitnews.com/2026/07/26/nanoleaf-announces-modular-monitor-stand-with-matter-over-thread/",
+      "keywords": [
+        "Nanoleaf",
+        "Matter over Thread",
+        "智能照明",
+        "桌面设备",
+        "Apple Home"
+      ],
+      "published": "2026-07-26",
+      "id": 170
+    },
+    {
+      "date": "2026-07-27",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "Shelly Gen4全系确认将获Matter over Thread固件升级",
+      "summary": "Shelly官方正式确认，所有Gen4设备将通过固件更新获得Matter over Thread支持。创始人发起的社区投票显示用户强烈支持此功能，Thread 1.4的凭证共享机制将打通各品牌Border Router之间的壁垒。",
+      "source": "Smarthomeassistent.de / stadt-bremerhaven.de",
+      "url": "https://stadt-bremerhaven.de/shelly-alle-gen4-geraete-werden-ein-update-auf-matter-over-thread-erhalten/",
+      "keywords": [
+        "Shelly",
+        "Matter over Thread",
+        "Thread协议",
+        "Gen4",
+        "设备互联"
+      ],
+      "published": "2026-07-22",
+      "id": 171
+    },
+    {
+      "date": "2026-07-27",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "苹果/谷歌全面推送Thread 1.4：Credential Sharing打通各品牌Border Router孤岛",
+      "summary": "Apple TV（tvOS 27开发者Beta）和Google TV Streamer同步迎来Thread 1.4标准。2026年1月1日起Thread Group仅发放Thread 1.4 Border Router认证，强制要求凭证共享，解决了此前各厂商Thread网络各自孤立的问题。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets",
+      "keywords": [
+        "Thread 1.4",
+        "Apple",
+        "Google",
+        "Matter",
+        "Border Router",
+        "智能家居"
+      ],
+      "published": "2026-07",
+      "id": 172
+    },
+    {
+      "date": "2026-07-27",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "WAIC 2026：端侧算力竞赛爆发，AI焦点从云端转向泛终端硬件",
+      "summary": "WAIC 2026释放明确信号：AI赛道焦点正从云端超算集群向手机、AI PC、人形机器人、智能座舱、全屋中控等泛终端硬件转移。聆思科技宣布年底发布Nebula系列端侧大模型AI推理芯片，瞄准终端智能硬件爆发背后的底层算力需求。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L2CS6BPV051180F7.html",
+      "keywords": [
+        "WAIC 2026",
+        "端侧算力",
+        "聆思科技",
+        "Nebula",
+        "AI芯片",
+        "全屋智能"
+      ],
+      "published": "2026-07-21",
+      "id": 173
+    },
+    {
+      "date": "2026-07-27",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "中科创达发布AquaClaw for IoT：打造面向物理世界的统一智能体操作系统",
+      "summary": "中科创达发布AquaClaw for IoT，赋能智能家居AI场景，使家庭设备具备主动理解用户需求、设备协同和智能服务能力。在智能家居领域实现端侧AI、多模态感知和设备智能融合，支持具身智能发展。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-20/doc-iniimqsn4937168.shtml",
+      "keywords": [
+        "中科创达",
+        "AquaClaw",
+        "IoT",
+        "智能体操作系统",
+        "端侧AI",
+        "全屋智能"
+      ],
+      "published": "2026-07-20",
+      "id": 174
+    },
+    {
+      "date": "2026-07-27",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "2026端侧AI战事升级：国产芯片软硬协同成核心竞争力",
+      "summary": "面壁智能CEO李大海表示今年以来已将训练工作逐步转移到国产芯片和国产集群。端侧大模型趋势显示：模型越往终端走，越依赖软硬协同，模型需要贴合芯片计算方式，芯片也需要围绕大模型推理持续优化。",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3864280705520640",
+      "keywords": [
+        "端侧AI",
+        "国产芯片",
+        "面壁智能",
+        "软硬协同",
+        "大模型"
+      ],
+      "published": "2026-07-22",
+      "id": 175
+    },
+    {
+      "date": "2026-07-27",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "北京：10类智能家居纳入以旧换新补贴，含全屋智能主机、具身机器人，最高补1500元",
+      "summary": "北京市7月23日起实施新一轮补贴扩容，新增智能门锁、智能摄像头、智能扫地机、智能马桶、数码相机、智能耳机、全屋智能主机、智能床、智能电动轮椅、具身智能机器人10类产品，补贴标准为最终售价15%，每人每类限补1件最高1500元，采用立减补贴模式。",
+      "source": "新京报",
+      "url": "https://www.bjnews.com.cn/detail/1784863654019480.html",
+      "keywords": [
+        "北京补贴",
+        "智能家居",
+        "以旧换新",
+        "全屋智能",
+        "具身机器人",
+        "政策"
+      ],
+      "published": "2026-07-23",
+      "id": 176
+    },
+    {
+      "date": "2026-07-27",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "三明市：征集2026年智能家居产品购新补贴参与商家，补贴15%上限1500元",
+      "summary": "三明市商务局发布预征集公告，对个人消费者购买智能马桶盖、智能干衣机等9类智能家居产品，补贴标准为最终售价15%，每人每类产品可补贴1件，每件不超过1500元。",
+      "source": "三明市商务局",
+      "url": "http://swj.sm.gov.cn/xxgk/tzgg/202607/t20260722_2262040.htm",
+      "keywords": [
+        "三明",
+        "智能家居补贴",
+        "以旧换新",
+        "政策"
+      ],
+      "published": "2026-07-22",
+      "id": 177
+    },
+    {
+      "date": "2026-07-27",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "福州：智能家居补贴扩围，新增数码相机、智能洗碗机等5类产品",
+      "summary": "福州市扩大2026年智能家居产品购新补贴范围，新增5类产品按最终售价15%补贴，每人每类限补1件上限1500元，有效期至2026年12月31日。",
+      "source": "福州新闻网",
+      "url": "https://news.fznews.com.cn/fzyw/20260724/6a62c82828115.shtml",
+      "keywords": [
+        "福州",
+        "智能家居补贴",
+        "以旧换新",
+        "扩围",
+        "政策"
+      ],
+      "published": "2026-07-24",
+      "id": 178
+    },
+    {
+      "date": "2026-07-27",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "重庆：对智能家居补贴垫付超50万企业预拨付资金",
+      "summary": "重庆市商务委对2026年智能家居产品（含适老化家居产品）购新补贴垫付资金超50万元的参与单位进行预拨付，以缓解企业资金垫付压力，数据截至7月24日以银联统计为依据。",
+      "source": "重庆市商务委",
+      "url": "https://sww.cq.gov.cn/ztzl_247/gxbt2026/zcwj/202607/t20260724_15852635.html",
+      "keywords": [
+        "重庆",
+        "智能家居补贴",
+        "预拨付",
+        "适老化",
+        "政策"
+      ],
+      "published": "2026-07-24",
+      "id": 179
+    },
+    {
+      "date": "2026-07-27",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "福建：全省扩大2026年智能家居购新补贴范围，7月22日起实施",
+      "summary": "福建省扩大补贴范围，对新扩围5类智能家居产品按最终售价15%补贴，每人每类限补1件上限1500元，有效期至2026年12月31日，并优化智能按摩椅品类覆盖范围，将智能沙发纳入补贴范畴。",
+      "source": "福州新闻网",
+      "url": "https://news.fznews.com.cn/fzyw/20260723/73Y31pk5DL.shtml",
+      "keywords": [
+        "福建",
+        "智能家居补贴",
+        "扩围",
+        "适老化",
+        "政策"
+      ],
+      "published": "2026-07-23",
+      "id": 180
+    },
+    {
+      "date": "2026-07-27",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "华为智能门锁推送鸿蒙6.1.0.1更新：四大功能升级，覆盖访客交互/隐私/协同/连接",
+      "summary": "华为于2026年7月25日推送鸿蒙系统6.1.0.1版本，带来四项升级：访客视频留言（无人接听时自动录制）、一键关闭摄像头（保护隐私）、蓝牙连接一键抢占（多人协同）、双网自适应模式（蓝牙/WiFi无缝切换）。适用X1系列及智能门锁2全系机型。",
+      "source": "中关村在线",
+      "url": "https://ai.zol.com.cn/1220/12208211.html",
+      "keywords": [
+        "华为",
+        "智能门锁",
+        "鸿蒙",
+        "6.1.0.1",
+        "安全"
+      ],
+      "published": "2026-07-25",
+      "id": 181
+    },
+    {
+      "date": "2026-07-27",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "小米米家中央空调风管机巨省电Pro预售：国补价5609元起",
+      "summary": "小米米家中央空调风管机巨省电Pro 3匹/4匹上架预售，搭配智能空气管理面板，享受国家补贴后价格5609元起，标志着小米在全屋暖通领域持续深化布局。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/",
+      "keywords": [
+        "小米",
+        "米家",
+        "中央空调",
+        "风管机",
+        "全屋智能"
+      ],
+      "published": "2026-07-20",
+      "id": 182
+    },
+    {
+      "date": "2026-07-27",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "华为Mate 90系列领衔，多家厂商旗舰机型9月扎堆发布",
+      "summary": "华为Mate 90系列预计包含Mate 90、Mate 90 Pro、Mate 90 Pro Max及Mate 90 RS非凡大师四款，新一代折叠屏Mate XT2及配套智能手表、耳机等全场景周边有望同台亮相。",
+      "source": "凤凰网",
+      "url": "https://tech.ifeng.com/c/8v1F4iGdBP2",
+      "keywords": [
+        "华为",
+        "Mate 90",
+        "折叠屏",
+        "全场景",
+        "旗舰"
+      ],
+      "published": "2026-07-25",
+      "id": 183
+    },
+    {
+      "date": "2026-07-27",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "2026智能家居品牌TOP3热门榜单：高端首选通晏科技，入门选小米全屋智能",
+      "summary": "2026年智能家居全面进入AI主动智能、总线稳定智能、高端定制、生态融合新时代。高端别墅/大平层首选通晏科技；预算有限、局部智能升级的年轻家庭可选小米全屋智能。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L2OUDR8C0556H6QK.html",
+      "keywords": [
+        "智能家居品牌",
+        "全屋智能",
+        "小米",
+        "华为",
+        "选购指南"
+      ],
+      "published": "2026-07-26",
+      "id": 184
+    },
+    {
+      "date": "2026-07-27",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "华为、小米、荣耀AI手机大对决：荣耀ROBOTPHONE发布，跨域问答华为92%准确率领先",
+      "summary": "2026年AI手机旗舰对决：荣耀发布机器人手机ROBOTPHONE搭载四自由度机械云台；小米HyperOS打通手机/汽车/智能家居；华为YOYO跨域问答准确率达92%，领先荣耀68%。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.com.cn/article_7879777292_1d5abdc0c06801et2o.html?from=tech",
+      "keywords": [
+        "华为",
+        "小米",
+        "荣耀",
+        "AI手机",
+        "全屋智能",
+        "YOYO"
+      ],
+      "published": "2026-07-26",
+      "id": 185
+    },
+    {
+      "date": "2026-07-27",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "全志科技智慧视界生态大会：移邦智能展示端侧AI安防，涂鸦演示端云协同",
+      "summary": "全志科技举办智慧视界生态创新大会，移邦智能展示全志平台在智能安防和宠物看护领域的端侧AI落地案例；涂鸦智能演示端云协同方案；晨芯时代分享融合4G的AI教育陪伴产品创新。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-24/doc-iniiwkuk9267177.shtml",
+      "keywords": [
+        "全志科技",
+        "涂鸦智能",
+        "端侧AI",
+        "安防",
+        "生态"
+      ],
+      "published": "2026-07-24",
+      "id": 186
+    },
+    {
+      "date": "2026-07-27",
+      "category": "scene",
+      "categoryLabel": "场景落地",
+      "title": "傅利叶GR-3化身智能管家：模糊指令我渴了自主理解并完成递送",
+      "summary": "WAIC 2026上，傅利叶GR-3机器人展示未来居家服务全链路：当体验者说'我渴了'，机器人无需明确目标即可自主理解需求，结合空间语义地图定位桌面饮品，自主规划路径完成取物递送，完成从环境感知到多机协同执行的全流程自主闭环。",
+      "source": "香港文汇报",
+      "url": "https://www.wenweipo.com/epaper/view/newsDetail/2078534074397495296.html",
+      "keywords": [
+        "傅利叶",
+        "GR-3",
+        "智能管家",
+        "具身智能",
+        "WAIC"
+      ],
+      "published": "2026-07",
+      "id": 187
+    },
+    {
+      "date": "2026-07-27",
+      "category": "scene",
+      "categoryLabel": "场景落地",
+      "title": "美的全屋智能率先接入微信AI，掀家电巨头AI Agent化浪潮",
+      "summary": "美的宣布全屋智能率先接入微信AI，标志家电巨头AI Agent化浪潮启动。美的、海尔等大家电品牌正将空调、冰箱、洗衣机、热水器等核心生活设备AI Agent化，实现睡觉时自动除湿、洗衣机按作息运行等场景化主动服务。",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3865205179955846",
+      "keywords": [
+        "美的",
+        "微信AI",
+        "AI Agent",
+        "全屋智能",
+        "家电"
+      ],
+      "published": "2026-07",
+      "id": 188
+    },
+    {
+      "date": "2026-07-27",
+      "category": "scene",
+      "categoryLabel": "场景落地",
+      "title": "2026全屋定制新趋势：AI智能体让家从被动响应跨越到主动服务时代",
+      "summary": "2026年全屋智能已从被动响应跨越到主动服务时代，AI智能体通过多维传感器数据精准理解用户习惯并预判需求：提前调整唤醒灯光、回家前启动空调等。人形收纳机器人开始进入家庭，与扫地机器人、智能储物系统协同实现全屋自动清洁与收纳闭环。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.com.cn/article_7880068385_1d5b04d2106801nhia.html?from=home",
+      "keywords": [
+        "全屋定制",
+        "AI智能体",
+        "主动服务",
+        "人形机器人",
+        "智能家居"
+      ],
+      "published": "2026-07-21",
+      "id": 189
+    },
+    {
+      "date": "2026-07-27",
+      "category": "scene",
+      "categoryLabel": "场景落地",
+      "title": "致瓴科技完成数千万元A轮融资：累计融资过亿，构建家庭安防智慧大脑",
+      "summary": "家庭智能安防服务商致瓴科技（Glazero）完成数千万元A轮融资，坚果资本领投，累计融资过亿。公司旗下AOSU和DEKCO双品牌覆盖全球百万家庭，下一阶段将向家庭智能安防与AI大模型结合的应用2.0阶段发展，构建云边端一体化家庭安防智慧大脑。",
+      "source": "36氪出海",
+      "url": "https://36kr.com/p/2284130256131844",
+      "keywords": [
+        "致瓴科技",
+        "A轮融资",
+        "家庭安防",
+        "Glazero",
+        "AI大模型"
+      ],
+      "published": "2026-07-27",
+      "id": 190
+    },
+    {
+      "date": "2026-07-27",
+      "category": "scene",
+      "categoryLabel": "场景落地",
+      "title": "Aqara强调空间智能：传感器矩阵是AI判断家居场景的基础",
+      "summary": "Aqara持续强调空间智能核心战略，旗下门窗、人体、水浸、开关、窗帘、门锁等传感器矩阵为AI提供空间场景识别基础。AI判断准不准取决于能否感知客厅有没有人、窗户有没有关、厨房有没有漏水、老人夜里有没有起床，没有这些空间场景AI只能猜测。",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3865205179955846",
+      "keywords": [
+        "Aqara",
+        "空间智能",
+        "传感器矩阵",
+        "AI场景",
+        "全屋智能"
+      ],
+      "published": "2026-07",
+      "id": 191
+    },
+    {
+      "date": "2026-07-27",
+      "category": "scene",
+      "categoryLabel": "场景落地",
+      "title": "华为全屋智能：装修交付阶段即完成网络/照明/遮阳/安防/传感系统一体化",
+      "summary": "华为全屋智能在装修和交付阶段即完成网络、照明、遮阳、安防、中控屏和各类传感器的系统化布局，将智能家居能力内嵌至房屋基础设施，从源头避免后期智能化改造的兼容性问题。",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3865205179955846",
+      "keywords": [
+        "华为",
+        "全屋智能",
+        "系统化交付",
+        "基础设施",
+        "装修"
+      ],
+      "published": "2026-07",
+      "id": 192
+    },
+    {
+      "date": "2026-07-27",
+      "category": "security",
+      "categoryLabel": "数据安全",
+      "title": "2026上半年：80%智能家居用户要求定期安全更新，78%要求数据使用透明化",
+      "summary": "市场调研显示，截至2026年中，80%智能家居用户要求设备厂商提供规律性安全更新，78%要求数据使用透明度，反映出市场对隐私安全的成熟认知，智能家居行业正在从能用向可信升级。",
+      "source": "Belinus",
+      "url": "https://www.belinus.com/post/smart-home-advantages-what-homeowners-need-in-2026",
+      "keywords": [
+        "智能家居安全",
+        "隐私保护",
+        "数据透明",
+        "用户调研"
+      ],
+      "published": "2026-07",
+      "id": 193
+    },
+    {
+      "date": "2026-07-27",
+      "category": "security",
+      "categoryLabel": "数据安全",
+      "title": "OpenAI Workspace Agents现AgentForger漏洞：四天内已修复",
+      "summary": "安全公司Zenity Labs发现OpenAI Workspace Agents存在漏洞，攻击者发送含恶意提示词的ChatGPT链接即可在受害者账户下创建自主AI智能体，继承受害者身份和已授权应用权限并设置定时任务。OpenAI在四天内完成修复。",
+      "source": "AI HOT",
+      "url": "https://aihot.virxact.com/daily",
+      "keywords": [
+        "OpenAI",
+        "AI安全",
+        "漏洞",
+        "AgentForger",
+        "智能体安全"
+      ],
+      "published": "2026-07",
+      "id": 194
+    },
+    {
+      "date": "2026-07-27",
+      "category": "security",
+      "categoryLabel": "数据安全",
+      "title": "2026深圳网络安全展：聚焦数据安全治理、AI安全、云原生安全",
+      "summary": "2026深圳国际网络安全展聚焦数据安全治理、AI安全、云原生安全等前沿领域，在《网络安全法》《数据安全法》深入推进背景下，帮助企业构建与业务同频的安全体系，应对日益复杂的勒索软件、钓鱼攻击等威胁。",
+      "source": "展圈",
+      "url": "https://www.zhanhuiquan.com/info/txt?id=250311",
+      "keywords": [
+        "深圳网络安全展",
+        "数据安全",
+        "AI安全",
+        "网络安全法"
+      ],
+      "published": "2026-07",
+      "id": 195
+    },
+    {
+      "date": "2026-07-27",
+      "category": "security",
+      "categoryLabel": "数据安全",
+      "title": "Home Assistant AI乌龙揭示：开源平台隐私保护价值凸显",
+      "summary": "Home Assistant被AI营销号虚假发布AI兼容层，但真实情况是：HA生态作为开源平台，核心价值在于断网时本地自动化仍可运行，不同品牌设备可接入同一本地系统，无需上传云端的数据只留在用户家里，隐私风险远低于商业托管平台。",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3865205179955846",
+      "keywords": [
+        "Home Assistant",
+        "开源",
+        "隐私保护",
+        "本地化",
+        "智能家居"
+      ],
+      "published": "2026-07",
+      "id": 196
+    },
+    {
+      "date": "2026-07-27",
+      "category": "security",
+      "categoryLabel": "数据安全",
+      "title": "家庭Wi-Fi网络成家庭数字安全第一道防线",
+      "summary": "专家建议：家庭Wi-Fi网络已成为家庭数字前门，需要从网络层面保护家庭所有联网设备安全，包括智能家居设备。建议配置独立IoT网络、管理路由安全更新、启用强加密协议。",
+      "source": "OnlinePixelz",
+      "url": "https://onlinepixelz.xyz/simple-home-network-setup-that-actually-protects-your-family/",
+      "keywords": [
+        "家庭网络安全",
+        "Wi-Fi安全",
+        "物联网安全",
+        "智能家居"
+      ],
+      "published": "2026-07",
+      "id": 197
+    },
+    {
+      "date": "2026-07-27",
+      "category": "security",
+      "categoryLabel": "数据安全",
+      "title": "2026网络安全十大趋势：AI驱动安全自动化成核心方向",
+      "summary": "网络安全研究指出，2026年十大趋势中AI驱动安全自动化成为核心方向，同时智能家居数据泄露风险同步上升，智能设备持续后台采集行为数据，用户对设备数据流向的掌控能力成为重要议题。",
+      "source": "OneCyberValley",
+      "url": "https://www.onecybervalley.com/blog/top-10-cybersecurity-trends-shaping-2026-threats-solutions-ahead",
+      "keywords": [
+        "网络安全趋势",
+        "AI安全自动化",
+        "数据泄露",
+        "智能家居安全"
+      ],
+      "published": "2026-07",
+      "id": 198
     }
   ]
 }
