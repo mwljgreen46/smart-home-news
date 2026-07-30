@@ -3558,6 +3558,292 @@
       ],
       "published": "2026-07",
       "id": 198
+    },
+    {
+      "id": 199,
+      "date": "2026-07-29",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "苹果智能家居中枢搭载全新Siri AI，今秋至明年初发布",
+      "summary": "苹果筹备多年的智能家居中枢设备确定搭载重构后的全新Siri AI助手，产品最快于今年秋季10月推出，最晚不迟于2027年初上市，支持人脸识别，成为苹果智能家居生态的核心入口。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-29/doc-inikmqcr1595430.shtml",
+      "keywords": [
+        "苹果",
+        "智能家居中枢",
+        "Siri AI",
+        "AI",
+        "HomeKit"
+      ],
+      "published": "2026-07-29"
+    },
+    {
+      "id": 200,
+      "date": "2026-07-29",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "Matter 2.0标准预计2026年第四季度发布",
+      "summary": "CES 2025上已展示Matter 2.0原型，新版本将进一步提升智能家居设备互联互通能力，预计将在2026年第四季度正式发布，推动Matter生态加速扩张。",
+      "source": "oberflaechenschutz.at",
+      "url": "https://oberflaechenschutz.at/zukunftsfahigkeit-von-smart-home-systemen-warum-matter-der-entscheidende-standard-ist",
+      "keywords": [
+        "Matter",
+        "Matter 2.0",
+        "智能家居",
+        "Thread协议"
+      ],
+      "published": "2026-07-28"
+    },
+    {
+      "id": 201,
+      "date": "2026-07-29",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "边缘计算2026年市场规模将达820亿美元",
+      "summary": "边缘计算市场持续高速增长，预计2026年达到820亿美元，2027年940亿美元，2028年1050亿美元。边缘计算正在成为数字化转型的关键组成部分，从工厂产线到家庭场景加速渗透。",
+      "source": "Sci-Tech Today",
+      "url": "https://www.sci-tech-today.com/stats/edge-computing-adoption-statistics/",
+      "keywords": [
+        "边缘计算",
+        "Edge Computing",
+        "市场规模",
+        "云边端"
+      ],
+      "published": "2026-07-23"
+    },
+    {
+      "id": 202,
+      "date": "2026-07-29",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "云天励飞发布三款推理芯片路线图，DeepVerse系列覆盖云端到边缘",
+      "summary": "WAIC 2026期间，云天励飞正式公布面向AI推理芯片与集群的技术路线图，计划推出DeepVerse100P、100D、100L三款云端大算力推理芯片，加速国产AI芯片从推理走向训练。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-21/doc-iniinwms9565614.shtml",
+      "keywords": [
+        "云天励飞",
+        "DeepVerse",
+        "推理芯片",
+        "国产AI芯片",
+        "WAIC"
+      ],
+      "published": "2026-07-21"
+    },
+    {
+      "id": 203,
+      "date": "2026-07-29",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "华为昇腾Atlas 950超节点亮相：业界最大规模1024卡超节点",
+      "summary": "WAIC 2026开幕当天，华为昇腾950超节点（Atlas 950 SuperPoD）真机首次公开亮相，依托自研灵衢2.0全光互联协议，单柜64卡为基础可扩展至8192张NPU高速互联，支持万亿参数大模型训练与推理。",
+      "source": "ZAKER",
+      "url": "https://app.myzaker.com/news/article.php?pk=6a5f05018e9f094a4b0ff643",
+      "keywords": [
+        "华为",
+        "昇腾950",
+        "超节点",
+        "WAIC",
+        "AI芯片",
+        "国产算力"
+      ],
+      "published": "2026-07-26"
+    },
+    {
+      "id": 204,
+      "date": "2026-07-29",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "北京新增10类智能家居以旧换新补贴，含具身智能机器人",
+      "summary": "北京市商务局新增智能门锁、智能摄像头、智能扫地机、智能马桶、数码相机、智能耳机、全屋智能主机、智能床、智能电动轮椅、具身智能机器人等10类产品，按售价15%补贴，单件最高1500元。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-23/doc-iniiufvc1514318.shtml",
+      "keywords": [
+        "北京",
+        "智能家居补贴",
+        "以旧换新",
+        "具身机器人",
+        "政策"
+      ],
+      "published": "2026-07-23"
+    },
+    {
+      "id": 205,
+      "date": "2026-07-29",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "工信部等七部门联合发布AI终端智能化分级国标，覆盖7大品类",
+      "summary": "工信部等七部门联合发布《人工智能终端智能化分级》系列国家标准，采用L1响应级、L2工具级、L3辅助级、L4协同级四级分级框架，首批覆盖手机、电脑、电视、眼镜、汽车座舱、音箱、耳机7大品类。",
+      "source": "AI晨启Tech",
+      "url": "https://blog.aichanning.cn/cn-tech-2026-07-06",
+      "keywords": [
+        "AI终端分级",
+        "国家标准",
+        "工信部",
+        "智能家居",
+        "智能化标准"
+      ],
+      "published": "2026-07-19"
+    },
+    {
+      "id": 206,
+      "date": "2026-07-29",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "2026上半年以旧换新带动消费1.1万亿元，惠及1.5亿人次",
+      "summary": "商务部数据显示，2026年上半年消费品以旧换新累计带动相关商品销售额1.1万亿元，惠及1.5亿人次，其中家电以旧换新6326.6万台，数码和智能产品购新7909.8万台。",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1138/1138883.htm",
+      "keywords": [
+        "以旧换新",
+        "商务部",
+        "国补",
+        "智能家居",
+        "政策"
+      ],
+      "published": "2026-07-24"
+    },
+    {
+      "id": 207,
+      "date": "2026-07-29",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "海尔Seeker套系成行业首个L4级智能体家电，搭载AI之眼2.0",
+      "summary": "海尔智家在WAIC 2026期间宣布承建全国首个家居家电方向的国家人工智能应用中试基地，搭载AI之眼2.0的海尔Seeker套系已成为行业首个L4级智能体家电套系，依托UHomeOS实现全空间、全场景主动服务。",
+      "source": "海尔集团",
+      "url": "https://k.sina.com.cn/article_1644983660_620c756c02001tggg.html",
+      "keywords": [
+        "海尔",
+        "国家AI应用中试基地",
+        "WAIC",
+        "L4级智能体",
+        "智能家居"
+      ],
+      "published": "2026-07-22"
+    },
+    {
+      "id": 208,
+      "date": "2026-07-29",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "京东JoyInside AI Home实景样板间发布，覆盖全屋智能场景",
+      "summary": "京东在WAIC 2026期间首次系统展示JoyAI模型矩阵，并发布JoyInside AI Home实景样板间，覆盖客厅、书房到卧室，布置AI电视、AI茶吧、AI投影台灯、智能床垫等设备，提供全屋主动式智能协同体验。",
+      "source": "中关村在线",
+      "url": "https://ai.zol.com.cn/1217/12172622.html",
+      "keywords": [
+        "京东",
+        "AI Home",
+        "JoyInside",
+        "全屋智能",
+        "WAIC"
+      ],
+      "published": "2026-07-22"
+    },
+    {
+      "id": 209,
+      "date": "2026-07-29",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "全屋智能进入主动服务时代：从单品控制进化为AI智能体生态",
+      "summary": "2026年7月全屋定制装修与智能家居已从单品控制进化为以AI智能体为核心的自由操作自主居家生态，AI智能体能通过多维传感器数据精准理解用户习惯并提前预判需求，系统可提前启动空调、调整灯光。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.com.cn/article_7880068385_1d5b04d2106801nhia.html",
+      "keywords": [
+        "全屋智能",
+        "AI智能体",
+        "主动服务",
+        "智能家居"
+      ],
+      "published": "2026-07-22"
+    },
+    {
+      "id": 210,
+      "date": "2026-07-29",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "小米超级小爱同学发布：AI大模型+跨端多指令+6000+设备生态整合",
+      "summary": "小米超级小爱同学基于AI大模型实现跨端多指令控制，接入米家6000+设备生态，成为统一指挥中心。用户可实现一句话控制全家设备，超级小爱成为小米智能家居生态的核心交互入口。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.com.cn/article_7879777294_1d5abdc0e06801v94k.html?from=tech",
+      "keywords": [
+        "小米",
+        "超级小爱",
+        "米家",
+        "AI大模型",
+        "全屋智能"
+      ],
+      "published": "2026-07-26"
+    },
+    {
+      "id": 211,
+      "date": "2026-07-29",
+      "category": "scenario",
+      "categoryLabel": "场景落地",
+      "title": "WAIC 2026具身智能爆发：208款终端、超300台真机亮相，人形机器人进入家庭场景",
+      "summary": "WAIC 2026特设具身智能专属展区，展示208款具身智能终端、超300台真机。宇树科技、智元、傅利叶等企业展出的人形机器人已开始在工厂、仓储物流、商业服务等真实场景上岗，面向家庭场景的消费级机器人成为重要方向。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-20/doc-iniimzfz3033040.shtml",
+      "keywords": [
+        "具身智能",
+        "人形机器人",
+        "WAIC",
+        "量产",
+        "场景落地"
+      ],
+      "published": "2026-07-20"
+    },
+    {
+      "id": 212,
+      "date": "2026-07-29",
+      "category": "scenario",
+      "categoryLabel": "场景落地",
+      "title": "绵阳2026智慧养老云平台服务商推荐，本地化居家安全监护方案落地",
+      "summary": "绵阳市2026年智慧养老云平台服务商推荐名单公布，提供本地化居家安全监护方案，关键优势包括：工单闭环从老人一键呼叫到服务人员接单完成反馈全链路数字化；多端适配家属端APP、服务人员端小程序、机构管理后台。",
+      "source": "长三角城市网",
+      "url": "https://www.csjcs.com/news/shangxun/Article-rJrmxj-758618.html",
+      "keywords": [
+        "智慧养老",
+        "云平台",
+        "适老化",
+        "绵阳",
+        "居家监护"
+      ],
+      "published": "2026-07-22"
+    },
+    {
+      "id": 213,
+      "date": "2026-07-29",
+      "category": "scenario",
+      "categoryLabel": "场景落地",
+      "title": "致瓴科技完成数千万元A轮融资，家庭智能安防服务商累计融资过亿",
+      "summary": "致瓴科技成立于2020年12月，旗下有AOSU和DEKCO两个品牌，已推出可视门铃、室内云台摄像头、户外太阳能及电池监控摄像头等产品，覆盖室内、门前、庭院、车库等家庭安防场景，通过硬件产品和AIoT云平台满足家庭安防需求。",
+      "source": "36氪",
+      "url": "https://36kr.com/p/2284130256131844",
+      "keywords": [
+        "致瓴科技",
+        "智能安防",
+        "融资",
+        "家庭安防",
+        "IoT"
+      ],
+      "published": "2026-07-26"
+    },
+    {
+      "id": 214,
+      "date": "2026-07-29",
+      "category": "security",
+      "categoryLabel": "数据安全",
+      "title": "智能安防隐私保护：毫米波雷达技术突破，无需摄像头即可感知人体活动",
+      "summary": "毫米波雷达技术在智能家居场景中实现突破，可在无需摄像头的情况下感知人体活动、监测跌倒，适用于隐私敏感场景（养老院、医院）的监控以及智能家居的智能感知，突破了隐私保护与智能监控之间的矛盾，成为家庭安防的新选择。",
+      "source": "中华网",
+      "url": "https://tech.china.com/articles/20260716/202607161918790.html",
+      "keywords": [
+        "毫米波雷达",
+        "隐私保护",
+        "智能感知",
+        "跌倒检测",
+        "智能家居"
+      ],
+      "published": "2026-07-16"
     }
   ]
 }
