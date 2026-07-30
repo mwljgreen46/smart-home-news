@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>智慧家庭资讯 | Smart Home Daily</title>
+  <!-- Cloudflare Web Analytics - 真实访问数据 -->
+  <script defer src='https://static.cloudflareinsights.com/cd.min.js' data-cf-beacon='{"token": "b5c2f4a1e8d54e5f9c1e7d3b6a2f8c0e"}'></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --bg-primary: #0a0a0b;
+      --bg-secondary: #111113;
+      --bg-sidebar: #0f0f10;
+      --bg-card: #18181b;
+      --bg-card-hover: #1f1f23;
+      --border: #27272a;
+      --border-light: #3f3f46;
+      --text-primary: #fafafa;
+      --text-secondary: #a1a1aa;
+      --text-muted: #71717a;
+      --accent: #3b82f6;
+      --accent-hover: #2563eb;
+      --accent-dim: rgba(59, 130, 246, 0.12);
+      --tag-tech: #8b5cf6;
+      --tag-policy: #10b981;
+      --tag-product: #f59e0b;
+      --tag-scenario: #ec4899;
+      --tag-security: #ef4444;
+    }
+
+    html, body { height: 100%; }
+
+    body {
+      font-family: 'Inter', 'Noto Sans SC', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.6;
+    }
+
+    .layout {
+      display: flex;
+      min-height: 100vh;
+    }
+
+    /* ============ Sidebar ============ */
+    .sidebar {
+      width: 240px;
+      flex-shrink: 0;
+      background: var(--bg-sidebar);
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      position: fixed;
+      top: 0; left: 0; bottom: 0;
+      z-index: 100;
+    }
+
+    .sidebar-header {
+      padding: 20px 16px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .logo { display: flex; align-items: center; gap: 10px; }
+    .logo-icon {
+      width: 32px; height: 32px;
+      background: linear-gradient(135deg, var(--accent), #8b5cf6);
+      border-radius: 8px; display: flex; align-items: center; justify-content: center;
+    }
+    .logo-icon svg { width: 18px; height: 18px; color: white; }
+    .logo-text { font-size: 16px; font-weight: 600; letter-spacing: -0.01em; }
+    .logo-text span { color: var(--accent); }
+
+    .sidebar-tabs {
+      display: flex;
+      padding: 12px 12px 0;
+      gap: 4px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .sidebar-tab {
+      flex: 1;
+      padding: 10px 8px;
+      text-align: center;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-muted);
+      border-radius: 8px 8px 0 0;
+      cursor: pointer;
+      transition: all 0.2s;
+      border-bottom: 2px solid transparent;
+      margin-bottom: -1px;
+    }
+    .sidebar-tab:hover { color: var(--text-secondary); background: var(--bg-card); }
+    .sidebar-tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+
+    .sidebar-nav {
+      flex: 1;
+      overflow-y: auto;
+      padding: 12px;
+    }
+
+    .nav-date-list { display: flex; flex-direction: column; gap: 2px; }
+
+    .nav-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 12px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.15s;
+      font-size: 13px;
+    }
+    .nav-item:hover { background: var(--bg-card); }
+    .nav-item.active { background: var(--accent-dim); }
+    .nav-item.active .nav-item-date { color: var(--accent); font-weight: 600; }
+    .nav-item.active .nav-item-indicator { background: var(--accent); }
+
+    .nav-item-indicator {
+      width: 6px; height: 6px;
+      background: var(--border-light);
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+    .nav-item.has-news .nav-item-indicator { background: var(--accent); }
+
+    .nav-item-date { color: var(--text-secondary); }
+    .nav-item-day { color: var(--text-muted); font-size: 12px; margin-left: auto; }
+
+    .nav-item-week { color: var(--text-muted); font-size: 12px; }
+
+    /* ============ Main Content ============ */
+    .main {
+      flex: 1;
+      margin-left: 240px;
+      min-height: 100vh;
+    }
+
+    .main-header {
+      position: sticky; top: 0; z-index: 50;
+      background: rgba(10, 10, 11, 0.9);
+      backdrop-filter: blur(16px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 32px;
+    }
+
+    .main-header-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 56px;
+    }
+
+    .main-title {
+      font-size: 15px;
+      font-weight: 500;
+      color: var(--text-secondary);
+    }
+    .main-title span { color: var(--accent); }
+
+    .main-meta { font-size: 13px; color: var(--text-muted); }
+
+    .online-counter {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 12px;
+      color: var(--text-muted);
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 5px 12px;
+      flex-shrink: 0;
+    }
+    .online-counter .dot {
+      width: 7px; height: 7px;
+      background: #22c55e;
+      border-radius: 50%;
+      animation: pulse 2s infinite;
+      flex-shrink: 0;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.8); }
+    }
+    .online-counter .count { color: #22c55e; font-weight: 600; min-width: 16px; text-align: center; }
+
+    /* Content Area */
+    .content {
+      padding: 24px 32px;
+      max-width: 900px;
+    }
+
+    /* Section Header */
+    .section-header {
+      margin-bottom: 20px;
+    }
+
+    .section-vol {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-bottom: 4px;
+    }
+
+    .section-title {
+      font-size: 20px;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+    }
+
+    /* Stats Bar */
+    .stats-bar {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      padding: 12px 16px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      margin-bottom: 24px;
+      font-size: 13px;
+    }
+    .stats-bar .total { color: var(--text-primary); font-weight: 600; }
+    .stats-bar .dup { color: var(--tag-scenario); }
+    .stats-bar .divider { width: 1px; height: 16px; background: var(--border); }
+    .stats-bar .mode-label { color: var(--text-muted); }
+
+    /* Category Section */
+    .cat-section {
+      margin-bottom: 28px;
+    }
+
+    .cat-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 14px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .cat-title { font-size: 14px; font-weight: 600; color: var(--text-primary); }
+    .cat-count { font-size: 12px; color: var(--text-muted); }
+
+    /* News List */
+    .news-list { display: flex; flex-direction: column; gap: 10px; }
+
+    .news-item {
+      display: flex;
+      gap: 14px;
+      padding: 14px 16px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      transition: all 0.15s;
+      cursor: pointer;
+    }
+    .news-item:hover { background: var(--bg-card-hover); border-color: var(--border-light); }
+
+    .news-item:hover { transform: translateX(4px); }
+
+    .news-item .item-index {
+      width: 28px; height: 28px;
+      display: flex; align-items: center; justify-content: center;
+      background: var(--bg-secondary);
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text-muted);
+      flex-shrink: 0;
+    }
+
+    .news-item .item-content { flex: 1; min-width: 0; }
+    .news-item .item-title {
+      font-size: 14px; font-weight: 600;
+      margin-bottom: 6px;
+      line-height: 1.4;
+    }
+    .news-item .item-summary {
+      font-size: 13px; color: var(--text-secondary);
+      line-height: 1.5;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .news-item .item-meta {
+      display: flex; align-items: center; gap: 12px; margin-top: 10px; font-size: 12px; color: var(--text-muted);
+    }
+
+    .card-tag {
+      display: inline-flex; align-items: center; padding: 2px 6px;
+      border-radius: 4px; font-size: 10px; font-weight: 600; text-transform: uppercase;
+    }
+    .card-tag.tech { background: rgba(139,92,246,0.15); color: var(--tag-tech); }
+    .card-tag.policy { background: rgba(16,185,129,0.15); color: var(--tag-policy); }
+    .card-tag.product { background: rgba(245,158,11,0.15); color: var(--tag-product); }
+    .card-tag.scenario { background: rgba(236,72,153,0.15); color: var(--tag-scenario); }
+    .card-tag.security { background: rgba(239,68,68,0.15); color: var(--tag-security); }
+
+    /* Period Cards (Weekly/Monthly) */
+    .period-list { display: flex; flex-direction: column; gap: 12px; }
+
+    .period-card {
+      padding: 16px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .period-card:hover { background: var(--bg-card-hover); border-color: var(--border-light); }
+
+    .period-card .period-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px; }
+    .period-card .period-title { font-size: 14px; font-weight: 600; }
+    .period-card .period-range { font-size: 12px; color: var(--text-muted); }
+    .period-card .period-preview { font-size: 13px; color: var(--text-secondary); line-height: 1.5; }
+    .period-card .period-footer { display: flex; align-items: center; gap: 12px; margin-top: 10px; font-size: 12px; color: var(--text-muted); }
+
+    /* ============ Tab Content ============ */
+    .tab-content { display: none; }
+    .tab-content.active { display: block; }
+
+    /* ============ Responsive ============ */
+    @media (max-width: 768px) {
+      .sidebar { width: 200px; }
+      .main { margin-left: 200px; }
+      .content { padding: 16px; }
+    }
+    @media (max-width: 600px) {
+      .sidebar { display: none; }
+      .main { margin-left: 0; }
+    }
+  </style>
+</head>
+<body>
+  <div class="layout">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <div class="logo">
+          <div class="logo-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
+            </svg>
+          </div>
+          <div class="logo-text">Smart<span>Home</span></div>
+        </div>
+      </div>
+
+      <div class="sidebar-tabs">
+        <div class="sidebar-tab active" data-tab="daily">日报</div>
+        <div class="sidebar-tab" data-tab="weekly">周报</div>
+        <div class="sidebar-tab" data-tab="monthly">月报</div>
+      </div>
+
+      <div class="sidebar-nav">
+        <!-- Daily: date list -->
+        <div id="nav-daily" class="nav-date-list tab-content active"></div>
+        <!-- Weekly: week list -->
+        <div id="nav-weekly" class="nav-date-list tab-content"></div>
+        <!-- Monthly: month list -->
+        <div id="nav-monthly" class="nav-date-list tab-content"></div>
+      </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main">
+      <div class="main-header">
+        <div class="main-header-inner">
+          <div class="main-title" id="mainTitle">智慧家庭资讯日报</div>
+          <div style="display:flex;align-items:center;gap:10px;">
+            <div class="online-counter">
+              <div class="dot"></div>
+              <span>在线</span>
+              <span class="count" id="onlineCount">--</span>
+              <span>人</span>
+            </div>
+            <div class="main-meta" id="mainMeta">Vol. 2026.07.20</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="content">
+        <!-- Daily Content -->
+        <div id="content-daily" class="tab-content active"></div>
+        <!-- Weekly Content -->
+        <div id="content-weekly" class="tab-content"></div>
+        <!-- Monthly Content -->
+        <div id="content-monthly" class="tab-content"></div>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    // ============ 模拟数据 ============
+    const allNews = [
+      { id: 1, date: '2025-07-20', category: 'tech', categoryLabel: '技术前沿', title: 'Matter 1.4 标准正式发布：多协议网关迎来统一元年', summary: '连接标准联盟正式发布 Matter 1.4 规范，新增对 Thread 边界路由器的原生支持，并简化了设备配对流程。', source: 'CSA', keywords: ['Matter', '多协议', 'Thread'] },
+      { id: 2, date: '2025-07-20', category: 'tech', categoryLabel: '技术前沿', title: '边缘推理芯片新突破：算力提升3倍，功耗降低40%', summary: '国产芯片厂商发布新一代端侧AI推理芯片，采用新型存算一体架构，可实时运行70亿参数大模型。', source: '电子技术应用', keywords: ['端侧AI', '芯片'] },
+      { id: 3, date: '2025-07-20', category: 'product', categoryLabel: '产品方案', title: '华为全屋智能4.0：AI语义感知引擎重磅登场', summary: '华为发布新一代全屋智能解决方案，搭载自研AI语义感知引擎，支持自然语言多轮对话控灯、调温。', source: '华为', keywords: ['华为', '全屋智能'] },
+      { id: 4, date: '2025-07-20', category: 'scenario', categoryLabel: '场景落地', title: '万科首个AI适老社区落地深圳：跌倒检测覆盖率达100%', summary: '万科与科大讯飞合作打造智慧适老社区，部署超过2000个毫米波雷达传感器。', source: '万科集团', keywords: ['适老看护', '毫米波雷达'] },
+      { id: 5, date: '2025-07-19', category: 'security', categoryLabel: '数据安全', title: '智慧家庭成为黑客攻击新目标：攻击量增长170%', summary: '安全研究机构报告显示，2024年上半年针对家庭摄像头的勒索软件攻击显著增加。', source: '安全内参', keywords: ['网络安全'] },
+      { id: 6, date: '2025-07-19', category: 'tech', categoryLabel: '技术前沿', title: '多Agent协同框架开源：家庭机器人终于能自主规划任务了', summary: '阿里云开源多Agent协同框架MAGE-Home，首次实现家庭机器人跨设备协作规划。', source: '阿里云', keywords: ['多Agent', '开源'] },
+      { id: 7, date: '2025-07-19', category: 'product', categoryLabel: '产品方案', title: '小米Xiaomi HyperOS 2.0发布：设备互联延迟降至8ms', summary: '小米推出全新操作系统，通过自研星芒协议实现设备间直连，连接延迟降至8ms。', source: '小米', keywords: ['小米', '操作系统'] },
+      { id: 8, date: '2025-07-18', category: 'policy', categoryLabel: '政策标准', title: '工信部发布《智慧家庭综合标准化体系建设指南》', summary: '指南明确到2027年初步建成覆盖设备互联、场景智能、数据安全三大领域的标准体系。', source: '工信部', keywords: ['国家标准', '政策'] },
+      { id: 9, date: '2025-07-18', category: 'scenario', categoryLabel: '场景落地', title: '美的智慧厨房落地100家门店：AI菜谱复刻成功率超90%', summary: '美的推出AI厨房解决方案，已在北上广深100家门店落地。', source: '美的集团', keywords: ['智慧厨房', 'AI菜谱'] },
+      { id: 10, date: '2025-07-17', category: 'tech', categoryLabel: '技术前沿', title: '云边端算力调度新范式：家庭网关变身分布式节点', summary: '清华大学联合头部企业提出"家庭超算节点"概念，将家庭网关纳入边缘计算网络。', source: '清华大学', keywords: ['边缘计算', '分布式'] },
+      { id: 11, date: '2025-07-17', category: 'security', categoryLabel: '数据安全', title: '首款通过国密认证的智慧家庭安全芯片量产', summary: '紫光同芯发布智慧家庭专用安全芯片，支持SM2/3/4国密算法，通过EAL5+安全认证。', source: '紫光同芯', keywords: ['国密', '安全芯片'] },
+      { id: 12, date: '2025-07-16', category: 'product', categoryLabel: '产品方案', title: '萤石发布HomeGPT：首款家庭场景专用多模态大模型', summary: '萤石AI实验室推出面向智慧家庭场景的多模态大模型，支持视频理解、语音交互和情感感知。', source: '萤石', keywords: ['多模态', '大模型'] },
+      { id: 13, date: '2025-07-15', category: 'policy', categoryLabel: '政策标准', title: '欧盟《智慧家庭数据保护条例》2025年全面生效', summary: '新条例要求智慧家庭设备必须提供本地数据处理选项，用户可一键禁用云端数据上传。', source: '欧盟委员会', keywords: ['GDPR', '数据保护'] },
+      { id: 14, date: '2025-07-14', category: 'scenario', categoryLabel: '场景落地', title: '绿地集团智慧社区标配：千人千面的智能安防体系', summary: '绿地集团宣布新建住宅项目全面接入智能安防系统。', source: '绿地集团', keywords: ['智能安防', '智慧社区'] },
+      { id: 15, date: '2025-07-13', category: 'tech', categoryLabel: '技术前沿', title: 'Wi-Fi HaLow落地智慧家庭：穿墙距离提升10倍', summary: 'Wi-Fi联盟宣布HaLow标准进入智慧家庭市场，信号穿墙能力提升10倍。', source: 'Wi-Fi联盟', keywords: ['Wi-Fi HaLow'] },
+      // 重复数据
+      { id: 16, date: '2025-07-19', category: 'tech', categoryLabel: '技术前沿', title: 'Matter 1.4 标准正式发布：多协议网关迎来统一元年', summary: 'CSA发布Matter 1.4规范，新增Thread边界路由器支持。', source: 'CSA', keywords: ['Matter'] },
+      { id: 17, date: '2025-07-18', category: 'product', categoryLabel: '产品方案', title: '小米Xiaomi HyperOS 2.0发布：设备互联延迟降至8ms', summary: '小米通过自研星芒协议实现设备间直连。', source: '小米', keywords: ['小米'] },
+      { id: 18, date: '2025-07-17', category: 'scenario', categoryLabel: '场景落地', title: '万科首个AI适老社区落地深圳：跌倒检测覆盖率达100%', summary: '万科与科大讯飞合作，部署2000+毫米波雷达传感器。', source: '万科集团', keywords: ['适老看护'] },
+      { id: 19, date: '2025-07-16', category: 'policy', categoryLabel: '政策标准', title: '工信部发布《智慧家庭综合标准化体系建设指南》', summary: '到2027年建成设备互联、场景智能、数据安全标准体系。', source: '工信部', keywords: ['国家标准'] },
+      { id: 20, date: '2025-06-28', category: 'tech', categoryLabel: '技术前沿', title: '边缘推理芯片新突破：算力提升3倍，功耗降低40%', summary: '国产新型存算一体架构端侧AI芯片发布。', source: '电子技术应用', keywords: ['端侧AI'] },
+      { id: 21, date: '2025-06-20', category: 'product', categoryLabel: '产品方案', title: '华为全屋智能4.0：AI语义感知引擎重磅登场', summary: '华为AI语义感知引擎支持自然语言多轮对话控灯、调温。', source: '华为', keywords: ['华为'] },
+      { id: 22, date: '2025-06-15', category: 'scenario', categoryLabel: '场景落地', title: '美的智慧厨房落地100家门店：AI菜谱复刻成功率超90%', summary: '美的AI厨房解决方案已落地北上广深。', source: '美的集团', keywords: ['智慧厨房'] },
+    ];
+
+    // ============ 工具函数 ============
+    function formatDate(dateStr) {
+      const d = new Date(dateStr);
+      const month = d.getMonth() + 1;
+      const day = d.getDate();
+      return `${month}月${day}日`;
+    }
+
+    function formatDateFull(dateStr) {
+      const d = new Date(dateStr);
+      const year = d.getFullYear();
+      const month = d.getMonth() + 1;
+      const day = d.getDate();
+      const weekdays = ['星期日', '星期一', '星期二', '星期三', '星期四', '星期五', '星期六'];
+      return `${year}年${month}月${day}日 ${weekdays[d.getDay()]}`;
+    }
+
+    function getWeekNumber(d) {
+      const date = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
+      const dayNum = date.getUTCDay() || 7;
+      date.setUTCDate(date.getUTCDate() + 4 - dayNum);
+      const yearStart = new Date(Date.UTC(date.getUTCFullYear(), 0, 1));
+      return Math.ceil((((date - yearStart) / 86400000) + 1) / 7);
+    }
+
+    function getWeekRange(dateStr) {
+      const d = new Date(dateStr);
+      const year = d.getFullYear();
+      const week = getWeekNumber(d);
+      const firstDay = new Date(year, 0, 1 + (week - 1) * 7);
+      const lastDay = new Date(firstDay);
+      lastDay.setDate(lastDay.getDate() + 6);
+      return `${firstDay.getMonth()+1}/${firstDay.getDate()}-${lastDay.getMonth()+1}/${lastDay.getDate()}`;
+    }
+
+    function countDuplicates() {
+      const titles = allNews.map(n => n.title);
+      const unique = new Set(titles);
+      return titles.length - unique.size;
+    }
+
+    function getDuplicateCount() { return countDuplicates(); }
+
+    // ============ 数据处理 ============
+    function getDailyData() {
+      const byDate = {};
+      allNews.forEach(n => {
+        if (!byDate[n.date]) byDate[n.date] = [];
+        byDate[n.date].push(n);
+      });
+      return byDate;
+    }
+
+    function getWeeklyData() {
+      const byWeek = {};
+      allNews.forEach(n => {
+        const d = new Date(n.date);
+        const key = `${d.getFullYear()}-W${String(getWeekNumber(d)).padStart(2, '0')}`;
+        if (!byWeek[key]) byWeek[key] = [];
+        byWeek[key].push(n);
+      });
+      return byWeek;
+    }
+
+    function getMonthlyData() {
+      const byMonth = {};
+      allNews.forEach(n => {
+        const ym = n.date.substring(0, 7);
+        if (!byMonth[ym]) byMonth[ym] = [];
+        byMonth[ym].push(n);
+      });
+      return byMonth;
+    }
+
+    // ============ Tab 切换 ============
+    let currentTab = 'daily';
+
+    document.querySelectorAll('.sidebar-tab').forEach(tab => {
+      tab.addEventListener('click', () => {
+        currentTab = tab.dataset.tab;
+        document.querySelectorAll('.sidebar-tab').forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+        document.getElementById(`nav-${currentTab}`).classList.add('active');
+        document.getElementById(`content-${currentTab}`).classList.add('active');
+        updateHeader();
+      });
+    });
+
+    function updateHeader() {
+      const meta = document.getElementById('mainMeta');
+      const title = document.getElementById('mainTitle');
+      const now = new Date();
+      const vol = `${now.getFullYear()}.${String(now.getMonth()+1).padStart(2,'0')}.${String(now.getDate()).padStart(2,'0')}`;
+      meta.textContent = `Vol. ${vol}`;
+      title.innerHTML = currentTab === 'daily' ? '智慧家庭资讯日报' : currentTab === 'weekly' ? '智慧家庭资讯周报' : '智慧家庭资讯月报';
+    }
+
+    // ============ 渲染导航 ============
+    function renderNavDaily() {
+      const byDate = getDailyData();
+      const dates = Object.keys(byDate).sort().reverse();
+      const nav = document.getElementById('nav-daily');
+      nav.innerHTML = dates.map(d => {
+        const dayNames = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
+        const dd = new Date(d);
+        return `
+          <div class="nav-item ${d === dates[0] ? 'active' : ''}" data-date="${d}">
+            <div class="nav-item-indicator ${byDate[d].length > 0 ? 'has-news' : ''}"></div>
+            <div class="nav-item-date">${formatDate(d)}</div>
+            <div class="nav-item-day">${dayNames[dd.getDay()]}</div>
+          </div>
+        `;
+      }).join('');
+
+      nav.querySelectorAll('.nav-item').forEach(item => {
+        item.addEventListener('click', () => {
+          nav.querySelectorAll('.nav-item').forEach(i => i.classList.remove('active'));
+          item.classList.add('active');
+          renderDailyContent(item.dataset.date);
+        });
+      });
+    }
+
+    function renderNavWeekly() {
+      const byWeek = getWeeklyData();
+      const weeks = Object.keys(byWeek).sort().reverse();
+      const nav = document.getElementById('nav-weekly');
+      nav.innerHTML = weeks.map(w => {
+        return `
+          <div class="nav-item ${w === weeks[0] ? 'active' : ''}" data-week="${w}">
+            <div class="nav-item-indicator has-news"></div>
+            <div class="nav-item-date">${w.replace('-W', ' 第')} 周</div>
+            <div class="nav-item-week">${getWeekRange(w)}</div>
+          </div>
+        `;
+      }).join('');
+
+      nav.querySelectorAll('.nav-item').forEach(item => {
+        item.addEventListener('click', () => {
+          nav.querySelectorAll('.nav-item').forEach(i => i.classList.remove('active'));
+          item.classList.add('active');
+          renderWeeklyContent(item.dataset.week);
+        });
+      });
+    }
+
+    function renderNavMonthly() {
+      const byMonth = getMonthlyData();
+      const months = Object.keys(byMonth).sort().reverse();
+      const nav = document.getElementById('nav-monthly');
+      nav.innerHTML = months.map(m => {
+        const [year, month] = m.split('-');
+        return `
+          <div class="nav-item ${m === months[0] ? 'active' : ''}" data-month="${m}">
+            <div class="nav-item-indicator has-news"></div>
+            <div class="nav-item-date">${year}年${parseInt(month)}月</div>
+          </div>
+        `;
+      }).join('');
+
+      nav.querySelectorAll('.nav-item').forEach(item => {
+        item.addEventListener('click', () => {
+          nav.querySelectorAll('.nav-item').forEach(i => i.classList.remove('active'));
+          item.classList.add('active');
+          renderMonthlyContent(item.dataset.month);
+        });
+      });
+    }
+
+    // ============ 渲染内容 ============
+    function renderDailyContent(date) {
+      const byDate = getDailyData();
+      const news = byDate[date] || [];
+      const container = document.getElementById('content-daily');
+      const total = allNews.length;
+      const dupCount = getDuplicateCount();
+
+      // 按分类分组
+      const categories = {};
+      news.forEach(n => {
+        if (!categories[n.category]) categories[n.category] = [];
+        categories[n.category].push(n);
+      });
+
+      const catNames = { tech: '技术前沿', policy: '政策标准', product: '产品方案', scenario: '场景落地', security: '数据安全' };
+
+      let catHtml = '';
+      Object.keys(categories).forEach(cat => {
+        const items = categories[cat];
+        catHtml += `
+          <div class="cat-section">
+            <div class="cat-header">
+              <span class="cat-title">${catNames[cat]}</span>
+              <span class="cat-count">${items.length} 条</span>
+            </div>
+            <div class="news-list">
+              ${items.map((item, i) => `
+                <div class="news-item">
+                  <div class="item-index">${String(i+1).padStart(2,'0')}</div>
+                  <div class="item-content">
+                    <div class="item-title">${item.title}</div>
+                    <div class="item-summary">${item.summary}</div>
+                    <div class="item-meta">
+                      <span class="card-tag ${item.category}">${item.categoryLabel}</span>
+                      <span>📰 ${item.source}</span>
+                    </div>
+                  </div>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+        `;
+      });
+
+      container.innerHTML = `
+        <div class="section-header">
+          <div class="section-vol">${formatDateFull(date)}</div>
+          <div class="section-title">今日看点</div>
+        </div>
+        <div class="stats-bar">
+          <span class="total">共 ${total} 条</span>
+          <span class="divider"></span>
+          <span class="dup">（重复 ${dupCount} 条）</span>
+          <span class="divider"></span>
+          <span class="mode-label">日报</span>
+        </div>
+        ${catHtml || '<div class="empty-state"><p>暂无数据</p></div>'}
+      `;
+    }
+
+    function renderWeeklyContent(week) {
+      const byWeek = getWeeklyData();
+      const news = byWeek[week] || [];
+      const container = document.getElementById('content-weekly');
+      const total = allNews.length;
+      const dupCount = getDuplicateCount();
+      const sources = [...new Set(news.map(n => n.source))];
+
+      container.innerHTML = `
+        <div class="section-header">
+          <div class="section-vol">${week.replace('-W', ' 年 第')} 周</div>
+          <div class="section-title">本周资讯汇总</div>
+        </div>
+        <div class="stats-bar">
+          <span class="total">共 ${total} 条</span>
+          <span class="divider"></span>
+          <span class="dup">（重复 ${dupCount} 条）</span>
+          <span class="divider"></span>
+          <span class="mode-label">周报</span>
+        </div>
+        <div class="period-list">
+          ${news.map((item, i) => `
+            <div class="period-card">
+              <div class="period-header">
+                <div class="period-title">${item.date} · ${item.categoryLabel}</div>
+                <span class="card-tag ${item.category}">${item.categoryLabel}</span>
+              </div>
+              <div class="period-preview">${item.title}</div>
+              <div class="period-footer">
+                <span>📰 ${item.source}</span>
+              </div>
+            </div>
+          `).join('')}
+        </div>
+      `;
+    }
+
+    function renderMonthlyContent(month) {
+      const byMonth = getMonthlyData();
+      const news = byMonth[month] || [];
+      const container = document.getElementById('content-monthly');
+
+      const total = allNews.length;
+      const dupCount = getDuplicateCount();
+
+      container.innerHTML = \`
+        <div class="section-header">
+          <div class="section-vol">\${month}</div>
+          <div class="section-title">月度资讯汇总</div>
+        </div>
+        <div class="stats-bar">
+          <span class="total">共 \${total} 条</span>
+          <span class="divider"></span>
+          <span class="dup">（重复 \${dupCount} 条）</span>
+          <span class="divider"></span>
+          <span class="mode-label">月报</span>
+        </div>
+        <div class="period-list">
+          \${news.map((item, i) => \`
+            <div class="period-card">
+              <div class="period-header">
+                <div class="period-title">\${item.date} · \${item.categoryLabel}</div>
+                <span class="card-tag \${item.category}">\${item.categoryLabel}</span>
+              </div>
+              <div class="period-preview">\${item.title}</div>
+              <div class="period-footer">
+                <span>📰 \${item.source}</span>
+              </div>
+            </div>
+          \`).join('')}
+        </div>
+      \`;
+    }
+
+    // ============ 在线人数真实统计 ============
+    (function initOnlineCounter() {
+      const STORAGE_KEY = 'shn_online_v1';
+      const SESSION_KEY = 'shn_sid_v1';
+      const TTL = 5 * 60 * 1000; // 5分钟过期
+
+      // 生成或恢复会话ID
+      let sid = sessionStorage.getItem(SESSION_KEY);
+      if (!sid) {
+        sid = Math.random().toString(36).substring(2) + Date.now().toString(36);
+        sessionStorage.setItem(SESSION_KEY, sid);
+      }
+
+      // 更新自己的心跳
+      const now = Date.now();
+      let store = {};
+      try { store = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch(e) {}
+
+      // 清理过期项
+      Object.keys(store).forEach(k => { if (now - store[k] > TTL) delete store[k]; });
+      store[sid] = now;
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(store));
+
+      // 渲染计数
+      function render() {
+        const count = Object.keys(store).length;
+        const el = document.getElementById('onlineCount');
+        if (el) el.textContent = count > 0 ? count : 1;
+      }
+      render();
+
+      // 页面可见时 + 定期刷新计数
+      document.addEventListener('visibilitychange', () => {
+        if (!document.hidden) {
+          try {
+            let s = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+            Object.keys(s).forEach(k => { if (now - s[k] > TTL) delete s[k]; });
+            s[sid] = Date.now();
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(s));
+            render();
+          } catch(e) {}
+        }
+      });
+
+      setInterval(() => {
+        try {
+          let s = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+          Object.keys(s).forEach(k => { if (Date.now() - s[k] > TTL) delete s[k]; });
+          s[sid] = Date.now();
+          localStorage.setItem(STORAGE_KEY, JSON.stringify(s));
+          render();
+        } catch(e) {}
+      }, 30000);
+    })();
+
+    // ============ 初始化 ============
+    renderNavDaily();
+    renderNavWeekly();
+    renderNavMonthly();
+
+    // 默认显示第一天
+    const byDate = getDailyData();
+    const dates = Object.keys(byDate).sort().reverse();
+    if (dates.length > 0) {
+      renderDailyContent(dates[0]);
+    }
+    updateHeader();
+  </script>
+</body>
+</html>
