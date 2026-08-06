@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-06",
   "news": [
     {
       "id": 1,
@@ -4108,6 +4108,150 @@
       ],
       "published": "2026-07-26",
       "id": 229
+    },
+    {
+      "date": "2026-08-06",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "边缘计算从辅助能力发展为AI基础设施重要组成，异构计算成主流方向",
+      "summary": "WAIC 2026期间，边缘智能（Edge AI）成为产业界关注热点。具身智能、智能制造、智能汽车等新兴领域集中亮相，业内认为随着AI不断向终端侧延伸，边缘计算已从辅助能力发展为AI基础设施的重要组成部分，GPU+FPGA等异构计算成为主流方向。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L29R997R055040N3.html",
+      "keywords": [
+        "边缘AI",
+        "异构计算",
+        "FPGA",
+        "GPU",
+        "WAIC"
+      ],
+      "published": "2026-07-20",
+      "id": 230
+    },
+    {
+      "date": "2026-08-06",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "端侧大模型成为刚需，芯片准备好了吗？后摩漫界M50用存算一体做到160 TOPS",
+      "summary": "后摩漫界M50用存算一体做到160 TOPS，功耗约10瓦，单芯片能跑35B到120B参数模型，覆盖AI PC、机器人、边缘推理等场景。半年前端边芯片还只能跑7B模型，今天已可跑到120B参数，重新标定端边能力边界，已进入联想和长城供应链。",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3901953321338500",
+      "keywords": [
+        "端侧AI",
+        "后摩漫界",
+        "存算一体",
+        "NPU",
+        "大模型"
+      ],
+      "published": "2026-07-28",
+      "id": 231
+    },
+    {
+      "date": "2026-08-06",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "MiniMax H3开源：华为昇腾、摩尔线程、AMD、Intel等十六家芯片厂商同日适配",
+      "summary": "8月3日MiniMax H3模型正式开源。华为昇腾、摩尔线程、沐曦、海光信息、昆仑芯、天数智芯、壁仞科技、AMD、Intel等国内外芯片厂商，以及Hugging Face、魔搭ModelScope、ComfyUI、Runnil等平台同日完成适配，标志着国产AI生态进一步壮大。",
+      "source": "网易科技",
+      "url": "https://m.163.com/tech/article/L3DP2U3000098IEO.html",
+      "keywords": [
+        "MiniMax",
+        "H3开源",
+        "昇腾",
+        "摩尔线程",
+        "AI芯片"
+      ],
+      "published": "2026-08-03",
+      "id": 232
+    },
+    {
+      "date": "2026-08-06",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "北京\"立减补贴\"模式落地：须通过\"京通\"实人认证领取补贴资格券码",
+      "summary": "北京市商务局明确新增10类智能家居补贴采用\"立减补贴\"模式，消费者须通过\"京通\"移动端完成实人认证后，进入\"智能家居补贴\"专区按需领用补贴资格券码，订单支付环节享受立减，线上线下享受同等力度。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-24/doc-iniixnfw9277669.shtml",
+      "keywords": [
+        "北京补贴",
+        "立减补贴",
+        "京通",
+        "实人认证",
+        "智能家居"
+      ],
+      "published": "2026-07-24",
+      "id": 233
+    },
+    {
+      "date": "2026-08-06",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "Home Assistant推进AI Agent化：设备能主动联动和汇报状态",
+      "summary": "Home Assistant正在推进AI Agent化，Agent化后的空调能告诉系统当前模式、温度变化、能耗情况，能与平台内其他AIoT硬件联动，扫地机器人不再只是正在清扫，而是知道自己该扫哪里、为什么卡住，标志着智能家居从被动响应到主动服务的重要跨越。",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3865205179955846",
+      "keywords": [
+        "Home Assistant",
+        "AI Agent",
+        "智能家居",
+        "主动服务",
+        "设备联动"
+      ],
+      "published": "2026-07-24",
+      "id": 234
+    },
+    {
+      "date": "2026-08-06",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "京东JoyInside AI Home实景样板间：全屋主动式智能协同",
+      "summary": "京东在WAIC 2026期间首次系统展示JoyAI模型矩阵，并发布JoyInside AI Home实景样板间，覆盖客厅、书房到卧室，布置AI电视、AI茶吧、AI投影台灯、智能床垫等设备，覆盖语音、图像、视频、实时交互、世界模拟和具身智能基础模型体系。",
+      "source": "中关村在线",
+      "url": "https://ai.zol.com.cn/1217/12172622.html",
+      "keywords": [
+        "京东",
+        "AI Home",
+        "JoyInside",
+        "全屋智能",
+        "WAIC"
+      ],
+      "published": "2026-07-22",
+      "id": 235
+    },
+    {
+      "date": "2026-08-06",
+      "category": "scenario",
+      "categoryLabel": "场景落地",
+      "title": "绵阳2026智慧养老云平台：本地化居家安全监护方案",
+      "summary": "绵阳市2026年智慧养老云平台服务商推荐名单公布，提供本地化居家安全监护方案。关键优势包括：工单闭环从老人一键呼叫到服务人员接单完成反馈全链路数字化；多端适配家属端APP、服务人员端小程序、机构管理后台；可对接主流智能报警器与老人定位防走失设备。",
+      "source": "长三角城市网",
+      "url": "https://www.csjcs.com/news/shangxun/Article-rJrmxj-758618.html",
+      "keywords": [
+        "智慧养老",
+        "云平台",
+        "适老化",
+        "绵阳",
+        "居家监护"
+      ],
+      "published": "2026-07-22",
+      "id": 236
+    },
+    {
+      "date": "2026-08-06",
+      "category": "security",
+      "categoryLabel": "数据安全",
+      "title": "全球IoT安全立法加速：欧盟Cyber Resilience Act与加州物联网安全法同步推进",
+      "summary": "全球各国政府正加速出台物联网安全立法，美国加州物联网安全法和欧盟网络弹性法案（Cyber Resilience Act）同步推进，要求智能家居设备满足最低安全标准，包括禁止默认弱密码、要求安全更新、支持漏洞披露等，为智能家居行业设定新的安全合规门槛。",
+      "source": "MarTechDepot",
+      "url": "https://www.martechdepot.com/2026/07/21/how-to-meet-the-iot-security-requirements-of-today-and-tomorrow/",
+      "keywords": [
+        "IoT安全",
+        "物联网立法",
+        "安全合规",
+        "智能家居",
+        "CRA"
+      ],
+      "published": "2026-07-21",
+      "id": 237
     }
   ]
 }
