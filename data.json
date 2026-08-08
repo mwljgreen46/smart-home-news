@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07",
+  "lastUpdated": "2026-08-08",
   "news": [
     {
       "id": 1,
@@ -31,7 +31,7 @@
       "category": "tech",
       "categoryLabel": "技术前沿",
       "title": "Arduino Nano Matter发布：支持BLE/Zigbee/Thread多协议开发",
-      "summary": "Arduino推出Nano Matter开发板，基于Silicon Labs MGM240SD22VNA Series 2模块，集成Arm Cortex-M33处理器（32位）、1.536 kB Flash和256 kB RAM，同时支持蓝牙低功耗、Zigbee和Thread协议，专为低功耗Matter兼容物联网设备开发设计。",
+      "summary": "Arduino推出Nano Matter开发板，基于Silicon Labs MGM240SD22VNA Series 2模块，集成Arm Cortex-M33处理器，同时支持蓝牙低功耗、Zigbee和Thread协议，专为低功耗Matter兼容物联网设备开发设计。",
       "source": "Electronica Azi / 2026-08-03",
       "url": "https://electronica-azi.ro/conectivitate-wireless-cu-consum-ultra-redus-pentru-locuintele-inteligente-din-era-matter/",
       "keywords": ["Arduino", "Matter", "Thread", "Zigbee", "低功耗物联网"],
@@ -54,23 +54,23 @@
       "date": "2026-08-07",
       "category": "tech",
       "categoryLabel": "技术前沿",
-      "title": "国内首个2万亿参数大模型跑通国产超节点，正式进入规模化商用阶段",
-      "summary": "阿里真武M890×磐久AI128超节点成功适配Qwen3.8并上线阿里云百炼平台提供推理服务，这是国内首个2万亿参数大模型在国产超节点上运行的案例，标志着国产超节点技术正式进入规模化商用阶段。",
-      "source": "网易订阅 / 2026-08-02",
-      "url": "https://www.163.com/dy/article/L2HQ2EPU0514D3UH.html",
-      "keywords": ["Qwen3.8", "国产超节点", "阿里云", "端侧推理", "大模型"],
-      "published": "2026-08-02"
+      "title": "2026年上半年全球智能算力爆发：国内规模达2185EFLOPS，同比增177%",
+      "summary": "2026年上半年国内智能算力规模达2185EFLOPS，同比增长177%。同时2026年美国边缘计算风险投资预计达34亿美元创历史新高，Hailo、Rebellions等企业专攻边缘物理AI推理芯片。",
+      "source": "搜狐网 / 2026-08-03",
+      "url": "https://m.sohu.com/a/1058012084_468661",
+      "keywords": ["智能算力", "边缘计算", "AI芯片", "爆发式增长"],
+      "published": "2026-08-03"
     },
     {
       "id": 6,
       "date": "2026-08-07",
       "category": "tech",
       "categoryLabel": "技术前沿",
-      "title": "2026年上半年全球智能算力爆发：国内规模达2185EFLOPS，同比增177%",
-      "summary": "2026年上半年国内智能算力规模达2185EFLOPS，同比增长177%。同时2026年美国边缘计算风险投资预计达34亿美元创历史新高，Hailo、Rebellions等企业专攻边缘物理AI推理芯片。",
-      "source": "搜狐网 / 2026-08-03",
-      "url": "https://m.sohu.com/a/1058012084_468661",
-      "keywords": ["智能算力", "边缘计算", "AI芯片", "爆发式增长"],
+      "title": "MiniMax开源多模态大模型H3，沐曦曦云GPU首发适配并大幅降本",
+      "summary": "2026年8月3日，MiniMax正式对外开源全新一代多模态生成模型MiniMax H3。沐曦股份自主研发的曦云C系列GPU已完成对该模型的首发日适配，用户可在模型发布当日即通过沐曦自研MXMACA软件平台进行部署，显著降低推理成本。",
+      "source": "中关村在线 / 2026-08-03",
+      "url": "https://ai.zol.com.cn/1226/12264434.html",
+      "keywords": ["MiniMax", "H3", "沐曦", "多模态大模型", "开源", "GPU"],
       "published": "2026-08-03"
     },
     {
@@ -91,7 +91,7 @@
       "category": "tech",
       "categoryLabel": "技术前沿",
       "title": "华为昇腾Atlas 950超节点亮相：业界最大规模1024卡超节点",
-      "summary": "WAIC 2026开幕当天，华为昇腾950超节点（Atlas 950 SuperPoD）真机首次公开亮相，这是目前业界最大规模1024卡超节点产品，依托自研灵衢2.0全光互联协议，可扩展至8192张NPU高速互联，支持万亿参数大模型训练与推理。",
+      "summary": "WAIC 2026开幕当天，华为昇腾950超节点真机首次公开亮相，这是目前业界最大规模1024卡超节点产品，依托自研灵衢2.0全光互联协议，可扩展至8192张NPU高速互联，支持万亿参数大模型训练与推理。",
       "source": "ZAKER新闻 / 2026-07-05",
       "url": "https://app.myzaker.com/news/article.php?pk=6a5f05018e9f094a4b0ff643",
       "keywords": ["华为", "昇腾950", "超节点", "WAIC", "AI芯片", "国产算力"],
@@ -99,18 +99,6 @@
     },
     {
       "id": 9,
-      "date": "2026-08-07",
-      "category": "tech",
-      "categoryLabel": "技术前沿",
-      "title": "MiniMax开源多模态大模型H3，沐曦曦云GPU首发适配并大幅降本",
-      "summary": "2026年8月3日，MiniMax正式对外开源全新一代多模态生成模型MiniMax H3。沐曦股份自主研发的曦云C系列GPU已完成对该模型的首发日适配，用户可在模型发布当日即通过沐曦自研MXMACA软件平台进行部署，显著降低推理成本。",
-      "source": "中关村在线 / 2026-08-03",
-      "url": "https://ai.zol.com.cn/1226/12264434.html",
-      "keywords": ["MiniMax", "H3", "沐曦", "多模态大模型", "开源", "GPU"],
-      "published": "2026-08-03"
-    },
-    {
-      "id": 10,
       "date": "2026-08-07",
       "category": "tech",
       "categoryLabel": "技术前沿",
@@ -122,7 +110,7 @@
       "published": "2026-07-31"
     },
     {
-      "id": 11,
+      "id": 10,
       "date": "2026-08-07",
       "category": "tech",
       "categoryLabel": "技术前沿",
@@ -132,6 +120,18 @@
       "url": "https://www.trendforce.cn/industry-news/semiconductors/20260731-6930.html",
       "keywords": ["端侧AI", "大模型", "端云协同", "分布式智能"],
       "published": "2026-07-31"
+    },
+    {
+      "id": 11,
+      "date": "2026-08-07",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "边缘计算与云协同架构：算力融合新范式",
+      "summary": "在万物互联与人工智能加速落地的背景下，数据量呈指数级增长，传统集中式云计算在时延、带宽与隐私合规等方面逐渐显现不足。边缘计算将算力下沉至靠近终端的位置，与云端形成互补，云边协同并非简单的叠加，而是一套以业务需求为导向的分层算力体系。",
+      "source": "经纬循道信息 / 2026-08-08",
+      "url": "https://www.hfzn.net/news.php?id=10",
+      "keywords": ["边缘计算", "云边协同", "算力融合", "分布式计算", "IoT"],
+      "published": "2026-08-08"
     },
     {
       "id": 12,
@@ -280,6 +280,18 @@
     {
       "id": 24,
       "date": "2026-08-07",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "PerySmith发布五款智能家电新品：以\"空气工程化\"重新定义居家生活",
+      "summary": "马来西亚家居品牌PerySmith推出五款结合人工智能与空气动力技术的全新智能家居产品，并发布全新品牌理念\"Engineered by Air\"，强调以空气工程与AI技术结合，打造更智能、轻松的居家生活体验。",
+      "source": "The Interview Asia / 2026-08-05",
+      "url": "https://theinterview.asia/info/%E5%95%86%E8%AE%AF%E6%96%87%E6%97%85/209168/",
+      "keywords": ["PerySmith", "智能家电", "空气工程", "AI家居", "智能家居"],
+      "published": "2026-08-05"
+    },
+    {
+      "id": 25,
+      "date": "2026-08-07",
       "category": "scenario",
       "categoryLabel": "场景落地",
       "title": "武汉推进智慧养老：AI机器人\"上岗\"，1.1万独居老人将装智能监护",
@@ -290,7 +302,7 @@
       "published": "2026-08-05"
     },
     {
-      "id": 25,
+      "id": 26,
       "date": "2026-08-07",
       "category": "scenario",
       "categoryLabel": "场景落地",
@@ -302,7 +314,7 @@
       "published": "2026-08-07"
     },
     {
-      "id": 26,
+      "id": 27,
       "date": "2026-08-07",
       "category": "scenario",
       "categoryLabel": "场景落地",
@@ -314,7 +326,7 @@
       "published": "2026-07-20"
     },
     {
-      "id": 27,
+      "id": 28,
       "date": "2026-08-07",
       "category": "scenario",
       "categoryLabel": "场景落地",
@@ -326,7 +338,7 @@
       "published": "2026-08-04"
     },
     {
-      "id": 28,
+      "id": 29,
       "date": "2026-08-07",
       "category": "scenario",
       "categoryLabel": "场景落地",
@@ -338,7 +350,19 @@
       "published": "2026-07-20"
     },
     {
-      "id": 29,
+      "id": 30,
+      "date": "2026-08-07",
+      "category": "scenario",
+      "categoryLabel": "场景落地",
+      "title": "中保科整合集团资源打造智慧照顾生态系，亮相2026第三届高龄健康产业博览会",
+      "summary": "中保科技集团整合集团健康照顾资源，携手立伟电子、立远生医及立心健康参加2026第三届高龄健康产业博览会，展示涵盖高龄走失防护、居家安全、智慧照顾、乐龄社区管理及紧急救援等五大应用，打造从预防、守护到紧急应变的智慧照顾生态系。",
+      "source": "中保科技 / 2026-08-07",
+      "url": "https://www.technice.com.tw/issues/ai/252334/",
+      "keywords": ["中保科", "高龄健康", "智慧照顾", "适老化", "台湾"],
+      "published": "2026-08-07"
+    },
+    {
+      "id": 31,
       "date": "2026-08-07",
       "category": "security",
       "categoryLabel": "数据安全",
@@ -350,7 +374,7 @@
       "published": "2026-08-05"
     },
     {
-      "id": 30,
+      "id": 32,
       "date": "2026-08-07",
       "category": "security",
       "categoryLabel": "数据安全",
@@ -362,7 +386,7 @@
       "published": "2026-07-21"
     },
     {
-      "id": 31,
+      "id": 33,
       "date": "2026-08-07",
       "category": "security",
       "categoryLabel": "数据安全",
@@ -374,7 +398,7 @@
       "published": "2026-07-31"
     },
     {
-      "id": 32,
+      "id": 34,
       "date": "2026-08-07",
       "category": "security",
       "categoryLabel": "数据安全",
@@ -386,7 +410,7 @@
       "published": "2026-07-16"
     },
     {
-      "id": 33,
+      "id": 35,
       "date": "2026-08-07",
       "category": "security",
       "categoryLabel": "数据安全",
@@ -398,7 +422,7 @@
       "published": "2026-07-26"
     },
     {
-      "id": 34,
+      "id": 36,
       "date": "2026-08-07",
       "category": "security",
       "categoryLabel": "数据安全",
@@ -410,7 +434,7 @@
       "published": "2026-08-02"
     },
     {
-      "id": 35,
+      "id": 37,
       "date": "2026-08-07",
       "category": "scenario",
       "categoryLabel": "场景落地",
