@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08",
+  "lastUpdated": "2026-08-17",
   "news": [
     {
       "id": 1,
@@ -10,7 +10,13 @@
       "summary": "Matter 1.5版本正式发布，带来多项改进。其中Samsung SmartThings已率先完全实现Matter 1.5的摄像头功能支持，Apple Home和Google Home/Alexa的相关实现仍在推进中。该版本改进了桥接设备与Hub的配合方式，并解决了设备锁定问题，为消费者提供更多选择自由度。",
       "source": "core-da-core.com / 2026-08-03",
       "url": "https://www.core-da-core.com/matter-2026-jijikaisetsu/",
-      "keywords": ["Matter 1.5", "SmartThings", "摄像头", "Thread协议", "智能家居"],
+      "keywords": [
+        "Matter 1.5",
+        "SmartThings",
+        "摄像头",
+        "Thread协议",
+        "智能家居"
+      ],
       "published": "2026-08-03"
     },
     {
@@ -22,7 +28,13 @@
       "summary": "Home Assistant发布重大更新，新增一键更新所有设备按钮、红外与射频专用面板，以及彻底重构的ZHA Zigbee设备管理界面，并新增10个社区集成。Open Home Foundation也在同期展出，展示开源智能家居生态最新进展。",
       "source": "Home Assistant Blog / 2026-08-05",
       "url": "https://www.home-assistant.io/blog/",
-      "keywords": ["Home Assistant", "Thread Border Router", "Zigbee", "开源", "智能家居"],
+      "keywords": [
+        "Home Assistant",
+        "Thread Border Router",
+        "Zigbee",
+        "开源",
+        "智能家居"
+      ],
       "published": "2026-08-05"
     },
     {
@@ -34,7 +46,13 @@
       "summary": "Arduino推出Nano Matter开发板，基于Silicon Labs MGM240SD22VNA Series 2模块，集成Arm Cortex-M33处理器，同时支持蓝牙低功耗、Zigbee和Thread协议，专为低功耗Matter兼容物联网设备开发设计。",
       "source": "Electronica Azi / 2026-08-03",
       "url": "https://electronica-azi.ro/conectivitate-wireless-cu-consum-ultra-redus-pentru-locuintele-inteligente-din-era-matter/",
-      "keywords": ["Arduino", "Matter", "Thread", "Zigbee", "低功耗物联网"],
+      "keywords": [
+        "Arduino",
+        "Matter",
+        "Thread",
+        "Zigbee",
+        "低功耗物联网"
+      ],
       "published": "2026-08-03"
     },
     {
@@ -46,7 +64,13 @@
       "summary": "智能家居设备厂商Heiman宣布正在开发多款新型Zigbee、Matter及家庭安全设备，在最终确定部分功能之前，公开向Home Assistant社区征集反馈建议，显示出厂商对开源平台生态的重视。",
       "source": "Home Assistant Community / 2026-08-06",
       "url": "https://community.home-assistant.io/t/heiman-s-upcoming-zigbee-and-matter-devices-looking-for-home-assistant-community-feedback/1020114",
-      "keywords": ["Heiman", "Zigbee", "Matter", "Home Assistant", "社区反馈"],
+      "keywords": [
+        "Heiman",
+        "Zigbee",
+        "Matter",
+        "Home Assistant",
+        "社区反馈"
+      ],
       "published": "2026-08-06"
     },
     {
@@ -58,7 +82,12 @@
       "summary": "2026年上半年国内智能算力规模达2185EFLOPS，同比增长177%。同时2026年美国边缘计算风险投资预计达34亿美元创历史新高，Hailo、Rebellions等企业专攻边缘物理AI推理芯片。",
       "source": "搜狐网 / 2026-08-03",
       "url": "https://m.sohu.com/a/1058012084_468661",
-      "keywords": ["智能算力", "边缘计算", "AI芯片", "爆发式增长"],
+      "keywords": [
+        "智能算力",
+        "边缘计算",
+        "AI芯片",
+        "爆发式增长"
+      ],
       "published": "2026-08-03"
     },
     {
@@ -70,7 +99,14 @@
       "summary": "2026年8月3日，MiniMax正式对外开源全新一代多模态生成模型MiniMax H3。沐曦股份自主研发的曦云C系列GPU已完成对该模型的首发日适配，用户可在模型发布当日即通过沐曦自研MXMACA软件平台进行部署，显著降低推理成本。",
       "source": "中关村在线 / 2026-08-03",
       "url": "https://ai.zol.com.cn/1226/12264434.html",
-      "keywords": ["MiniMax", "H3", "沐曦", "多模态大模型", "开源", "GPU"],
+      "keywords": [
+        "MiniMax",
+        "H3",
+        "沐曦",
+        "多模态大模型",
+        "开源",
+        "GPU"
+      ],
       "published": "2026-08-03"
     },
     {
@@ -82,7 +118,13 @@
       "summary": "DeepSeek于2026年6月完成约510亿元人民币首轮外部融资，投后估值520至590亿美元。资金用途：扩建以国产芯片为主的算力中心、自研AI芯片、扩充全球顶尖人才团队。DeepSeek此前已在华为昇腾上完成V4模型训练，全面转向国产算力。",
       "source": "腾讯新闻 / 2026-07-21",
       "url": "https://news.qq.com/rain/a/20260721A030HS00",
-      "keywords": ["DeepSeek", "AI芯片", "国产算力", "昇腾", "融资"],
+      "keywords": [
+        "DeepSeek",
+        "AI芯片",
+        "国产算力",
+        "昇腾",
+        "融资"
+      ],
       "published": "2026-07-21"
     },
     {
@@ -94,7 +136,14 @@
       "summary": "WAIC 2026开幕当天，华为昇腾950超节点真机首次公开亮相，这是目前业界最大规模1024卡超节点产品，依托自研灵衢2.0全光互联协议，可扩展至8192张NPU高速互联，支持万亿参数大模型训练与推理。",
       "source": "ZAKER新闻 / 2026-07-05",
       "url": "https://app.myzaker.com/news/article.php?pk=6a5f05018e9f094a4b0ff643",
-      "keywords": ["华为", "昇腾950", "超节点", "WAIC", "AI芯片", "国产算力"],
+      "keywords": [
+        "华为",
+        "昇腾950",
+        "超节点",
+        "WAIC",
+        "AI芯片",
+        "国产算力"
+      ],
       "published": "2026-07-05"
     },
     {
@@ -106,7 +155,14 @@
       "summary": "DeepSeek-V4发布后，至少有8家国产AI芯片厂商官宣适配方案。华为昇腾、寒武纪、海光信息、摩尔线程、沐曦股份、昆仑芯、平头哥真武、天数智芯等均宣布适配，国产AI软硬件进入同频迭代新阶段。",
       "source": "东方财富 / 2026-07-31",
       "url": "https://caifuhao.eastmoney.com/news/20260731225759601591400",
-      "keywords": ["DeepSeek", "国产AI芯片", "昇腾", "寒武纪", "摩尔线程", "适配"],
+      "keywords": [
+        "DeepSeek",
+        "国产AI芯片",
+        "昇腾",
+        "寒武纪",
+        "摩尔线程",
+        "适配"
+      ],
       "published": "2026-07-31"
     },
     {
@@ -118,7 +174,12 @@
       "summary": "2026上半年端侧大模型进入新阶段，半年前端边芯片还只能跑7B模型，今天已可以跑到120B参数。2026年被称为端侧智能规模化落地元年，大模型正从云端单点智能走向端云分工、协同共生的分布式智能系统。",
       "source": "集邦咨询 / 2026-07-31",
       "url": "https://www.trendforce.cn/industry-news/semiconductors/20260731-6930.html",
-      "keywords": ["端侧AI", "大模型", "端云协同", "分布式智能"],
+      "keywords": [
+        "端侧AI",
+        "大模型",
+        "端云协同",
+        "分布式智能"
+      ],
       "published": "2026-07-31"
     },
     {
@@ -130,7 +191,13 @@
       "summary": "在万物互联与人工智能加速落地的背景下，数据量呈指数级增长，传统集中式云计算在时延、带宽与隐私合规等方面逐渐显现不足。边缘计算将算力下沉至靠近终端的位置，与云端形成互补，云边协同并非简单的叠加，而是一套以业务需求为导向的分层算力体系。",
       "source": "经纬循道信息 / 2026-08-08",
       "url": "https://www.hfzn.net/news.php?id=10",
-      "keywords": ["边缘计算", "云边协同", "算力融合", "分布式计算", "IoT"],
+      "keywords": [
+        "边缘计算",
+        "云边协同",
+        "算力融合",
+        "分布式计算",
+        "IoT"
+      ],
       "published": "2026-08-08"
     },
     {
@@ -142,7 +209,13 @@
       "summary": "7月21日至23日，智能家居互联互通接口要求专项组会议于上海美的全球创新园区召开，来自家电院、信通院、电子四院等权威机构与多家企业代表共同研讨核心技术方案，标志着我国智能家居互联互通标准正式从架构设计阶段迈入实质性编制的关键期。",
       "source": "新浪科技 / 2026-07-31",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-31/doc-inikstff0934443.shtml",
-      "keywords": ["互联互通", "智能家居标准", "美的", "信通院", "标准编制"],
+      "keywords": [
+        "互联互通",
+        "智能家居标准",
+        "美的",
+        "信通院",
+        "标准编制"
+      ],
       "published": "2026-08-01"
     },
     {
@@ -154,7 +227,13 @@
       "summary": "2026算力网发展大会将于9月在北京启幕，邬贺铨、方滨兴、梅宏等两院院士将现场发表主旨演讲，国家发改委、中国信通院等将解读全国一体化算力网和东数西算配套扶持政策，三大运营商与国产芯片厂商高管将分享落地实践。",
       "source": "AI中国网 / 2026-08-03",
       "url": "https://www.cnaiplus.com/a/bigdata/8916539.html",
-      "keywords": ["算力网", "两院院士", "东数西算", "政策", "国产芯片"],
+      "keywords": [
+        "算力网",
+        "两院院士",
+        "东数西算",
+        "政策",
+        "国产芯片"
+      ],
       "published": "2026-08-03"
     },
     {
@@ -166,7 +245,13 @@
       "summary": "8月1日国家发改委发布会透露，上半年全国智能算力规模达去年同期2.8倍，同时《人工智能法》立法进程加快。政策层、模型层、应用层同步动作，Token日均调用量已达140万亿，AI产业发展进入新阶段。",
       "source": "晨启Tech / 2026-08-01",
       "url": "https://blog.aichanning.cn/cn-tech-2026-08-01",
-      "keywords": ["智能算力", "国家发改委", "人工智能法", "政策", "Token"],
+      "keywords": [
+        "智能算力",
+        "国家发改委",
+        "人工智能法",
+        "政策",
+        "Token"
+      ],
       "published": "2026-08-01"
     },
     {
@@ -178,7 +263,13 @@
       "summary": "北京市商务局发布公告，新增智能门锁、智能摄像头、智能扫地机、智能马桶、数码相机、智能耳机、全屋智能主机、智能床、智能电动轮椅、具身智能机器人等10类产品纳入以旧换新补贴范围，补贴标准为售价15%，单件最高1500元。",
       "source": "新京报 / 2026-07-23",
       "url": "https://www.bjnews.com.cn/detail/1784863654019480.html",
-      "keywords": ["北京补贴", "智能家居", "具身机器人", "以旧换新", "适老化"],
+      "keywords": [
+        "北京补贴",
+        "智能家居",
+        "具身机器人",
+        "以旧换新",
+        "适老化"
+      ],
       "published": "2026-07-23"
     },
     {
@@ -190,7 +281,13 @@
       "summary": "全球各国政府正加速出台物联网安全立法，欧盟网络弹性法案（Cyber Resilience Act）和美国加州物联网安全法同步推进，要求智能家居设备满足最低安全标准，包括禁止默认弱密码、要求安全更新、支持漏洞披露等，为智能家居行业设定新的安全合规门槛。",
       "source": "MarTechDepot / 2026-07-21",
       "url": "https://www.martechdepot.com/2026/07/21/how-to-meet-the-iot-security-requirements-of-today-and-tomorrow/",
-      "keywords": ["IoT安全", "物联网立法", "安全合规", "欧盟CRA", "智能家居"],
+      "keywords": [
+        "IoT安全",
+        "物联网立法",
+        "安全合规",
+        "欧盟CRA",
+        "智能家居"
+      ],
       "published": "2026-07-21"
     },
     {
@@ -202,7 +299,13 @@
       "summary": "小米超级小爱同学基于AI大模型实现跨端多指令控制，接入米家6000+设备生态，成为统一指挥中心。小米/米家生态用户可实现一句话控制全家设备。但超级小爱的核心优势依托米家生态，苹果/华为HomeKit用户兼容性和联动深度会大打折扣。",
       "source": "新浪新闻 / 2026-07-26",
       "url": "https://k.sina.com.cn/article_7879777294_1d5abdc0e06801v94k.html",
-      "keywords": ["小米", "超级小爱", "米家", "AI大模型", "全屋智能"],
+      "keywords": [
+        "小米",
+        "超级小爱",
+        "米家",
+        "AI大模型",
+        "全屋智能"
+      ],
       "published": "2026-07-26"
     },
     {
@@ -214,7 +317,13 @@
       "summary": "2026年7月全屋定制装修与智能家居已从单品控制进化为以AI智能体为核心的零操作自主居家生态，业主在规划阶段需同步完成水电预埋、网络覆盖与七大核心系统的一体化设计，海尔L4级智能体家电Seeker套系等已实现从听指令到主动服务的跨越。",
       "source": "新浪新闻 / 2026-07-26",
       "url": "https://k.sina.com.cn/article_7880068385_1d5b04d2106801nhia.html",
-      "keywords": ["全屋定制", "AI智能体", "智能家居", "主动服务", "空间革命"],
+      "keywords": [
+        "全屋定制",
+        "AI智能体",
+        "智能家居",
+        "主动服务",
+        "空间革命"
+      ],
       "published": "2026-07-26"
     },
     {
@@ -226,7 +335,13 @@
       "summary": "WAIC 2026期间，面壁智能联合乐聚机器人发布展厅导览Agent和园区巡检Agent两款解决方案，前者可在无网环境下纯端侧运行导览系统，实时理解展厅环境并规划导览路线；后者可识别车辆违停、路面异常等。面壁智能还开源了MiniCPM-Robot系列模型。",
       "source": "产业家 / 2026-07-26",
       "url": "https://www.163.com/dy/article/L2CKUOQT053179F1.html",
-      "keywords": ["面壁智能", "乐聚机器人", "端侧AI", "具身智能", "WAIC"],
+      "keywords": [
+        "面壁智能",
+        "乐聚机器人",
+        "端侧AI",
+        "具身智能",
+        "WAIC"
+      ],
       "published": "2026-07-26"
     },
     {
@@ -238,7 +353,13 @@
       "summary": "Home Assistant正在推进AI Agent化，Agent化后的空调能告诉系统当前模式、温度变化、能耗情况，能与平台内其他AIoT硬件联动，扫地机器人不再只是正在清扫，而是知道自己该扫哪里、为什么卡住，标志着智能家居从被动响应到主动服务的重要跨越。",
       "source": "36氪 / 2026-07-24",
       "url": "https://36kr.com/p/3865205179955846",
-      "keywords": ["Home Assistant", "AI Agent", "智能家居", "主动服务", "设备联动"],
+      "keywords": [
+        "Home Assistant",
+        "AI Agent",
+        "智能家居",
+        "主动服务",
+        "设备联动"
+      ],
       "published": "2026-07-24"
     },
     {
@@ -250,7 +371,13 @@
       "summary": "后摩漫界M50用存算一体做到160 TOPS，功耗约10瓦，单芯片能跑35B到120B参数的模型，覆盖AI PC、机器人、边缘推理等场景。目前已进入联想AI主机P7和长城N90 Pro供应链，完成与银河麒麟操作系统V11深度适配，并与中国移动达成生态合作。",
       "source": "36氪 / 2026-07-31",
       "url": "https://36kr.com/p/3901953321338500",
-      "keywords": ["后摩漫界", "M50", "端侧AI", "存算一体", "边缘推理"],
+      "keywords": [
+        "后摩漫界",
+        "M50",
+        "端侧AI",
+        "存算一体",
+        "边缘推理"
+      ],
       "published": "2026-07-31"
     },
     {
@@ -262,7 +389,13 @@
       "summary": "阿里巴巴发布最强千问模型Qwen3.8-MAX，同时平头哥发布新一代AI芯片真武M890，性能较上一代提升3倍，可满足更大规模的大模型训练及推理需求。Kimi K3大模型发布后因请求暴增被迫暂停C端订阅，印证推理效率与长文本处理能力已处国产第一梯队。",
       "source": "新浪财经 / 2026-08-04",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-04/doc-inimchzp5738576.shtml",
-      "keywords": ["千问", "Qwen3.8", "平头哥", "真武M890", "阿里云"],
+      "keywords": [
+        "千问",
+        "Qwen3.8",
+        "平头哥",
+        "真武M890",
+        "阿里云"
+      ],
       "published": "2026-08-04"
     },
     {
@@ -274,7 +407,13 @@
       "summary": "京东在WAIC 2026期间首次系统展示JoyAI模型矩阵，并发布JoyInside AI Home实景样板间，从客厅、书房到卧室布置AI电视、AI茶吧、AI投影台灯、智能床垫等设备，覆盖语音、图像、视频、实时交互、世界模拟和具身智能基础模型体系，实现全屋主动式智能协同。",
       "source": "中关村在线 / 2026-07-22",
       "url": "https://ai.zol.com.cn/1217/12172622.html",
-      "keywords": ["京东", "AI Home", "JoyInside", "全屋智能", "WAIC"],
+      "keywords": [
+        "京东",
+        "AI Home",
+        "JoyInside",
+        "全屋智能",
+        "WAIC"
+      ],
       "published": "2026-07-22"
     },
     {
@@ -286,7 +425,13 @@
       "summary": "马来西亚家居品牌PerySmith推出五款结合人工智能与空气动力技术的全新智能家居产品，并发布全新品牌理念\"Engineered by Air\"，强调以空气工程与AI技术结合，打造更智能、轻松的居家生活体验。",
       "source": "The Interview Asia / 2026-08-05",
       "url": "https://theinterview.asia/info/%E5%95%86%E8%AE%AF%E6%96%87%E6%97%85/209168/",
-      "keywords": ["PerySmith", "智能家电", "空气工程", "AI家居", "智能家居"],
+      "keywords": [
+        "PerySmith",
+        "智能家电",
+        "空气工程",
+        "AI家居",
+        "智能家居"
+      ],
       "published": "2026-08-05"
     },
     {
@@ -298,7 +443,13 @@
       "summary": "武汉市着力推进智慧养老体系建设，将智能康复理疗与居家适老化改造融为一体。机械臂艾灸智能设备定位施灸，智能理疗床依托AI生成个性化康养方案，智能守护机器人在社区自主监测老人健康信息。今年1月武汉发布民生实事清单，计划为1.1万名有意愿的独居老人安装紧急呼叫、智能监护等设备。",
       "source": "新华网 / 2026-08-05",
       "url": "https://www.news.cn/tech/20260805/f45fe57d8ee9440087aa4f17febdc808/c.html",
-      "keywords": ["智慧养老", "AI机器人", "适老化", "武汉", "独居老人监护"],
+      "keywords": [
+        "智慧养老",
+        "AI机器人",
+        "适老化",
+        "武汉",
+        "独居老人监护"
+      ],
       "published": "2026-08-05"
     },
     {
@@ -310,7 +461,13 @@
       "summary": "清雷科技将毫米波雷达技术应用于数字医疗、智慧养老场景，研发出可记录跟踪用户行为及健康数据的智能终端产品，提供AI辅助诊疗。其智慧养老SaaS系统已落地多家养老机构，实现非接触式老人健康监测与跌倒报警，与京东健康合作将睡眠监测用于京东家医服务。",
       "source": "36氪 / 2026-08-07",
       "url": "https://36kr.com/p/1315717840013827",
-      "keywords": ["清雷科技", "毫米波雷达", "智慧养老", "跌倒检测", "SaaS"],
+      "keywords": [
+        "清雷科技",
+        "毫米波雷达",
+        "智慧养老",
+        "跌倒检测",
+        "SaaS"
+      ],
       "published": "2026-08-07"
     },
     {
@@ -322,7 +479,13 @@
       "summary": "WAIC 2026期间，傅利叶在展台搭建完整居家场景，GR-3人形机器人完成取物、递送、安防巡检等任务，观众用自然语言下达指令即可自主完成全流程操作。同期发布首款轮式双臂机器人GRW，适配康养照护等高负载人机协同场景。",
       "source": "机器人大讲堂 / 2026-07-20",
       "url": "https://www.leaderobot.com/news/8549",
-      "keywords": ["傅利叶", "人形机器人", "康养机器人", "WAIC", "智慧养老"],
+      "keywords": [
+        "傅利叶",
+        "人形机器人",
+        "康养机器人",
+        "WAIC",
+        "智慧养老"
+      ],
       "published": "2026-07-20"
     },
     {
@@ -334,7 +497,13 @@
       "summary": "国投智能正式部署100台保安机器人，开启人机协同安保新纪元。国投智能将搭建三大平台：标准之台联合高校推动建立保安机器人标准体系；运营之台创新推出机器人即服务（RaaS）模式按需租赁；安全之台打造元枢商用安防机器人大脑，实现警保联动。",
       "source": "信息安全知识库 / 2026-08-04",
       "url": "https://www.gm7.org/archives/136611",
-      "keywords": ["保安机器人", "RaaS", "人机协同", "安防", "国投智能"],
+      "keywords": [
+        "保安机器人",
+        "RaaS",
+        "人机协同",
+        "安防",
+        "国投智能"
+      ],
       "published": "2026-08-04"
     },
     {
@@ -346,7 +515,13 @@
       "summary": "WAIC 2026特设具身智能专属展区，展示208款具身智能终端、超300台真机，宇树科技、智元、傅利叶等企业展出的人形机器人已开始在工厂、仓储物流、商业服务等真实场景上岗，面向家庭场景的消费级机器人成为重要方向，具身智能路线已明显分化。",
       "source": "新浪科技 / 2026-07-20",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-20/doc-iniimzfz3033040.shtml",
-      "keywords": ["具身智能", "人形机器人", "WAIC", "量产", "场景落地"],
+      "keywords": [
+        "具身智能",
+        "人形机器人",
+        "WAIC",
+        "量产",
+        "场景落地"
+      ],
       "published": "2026-07-20"
     },
     {
@@ -358,7 +533,13 @@
       "summary": "中保科技集团整合集团健康照顾资源，携手立伟电子、立远生医及立心健康参加2026第三届高龄健康产业博览会，展示涵盖高龄走失防护、居家安全、智慧照顾、乐龄社区管理及紧急救援等五大应用，打造从预防、守护到紧急应变的智慧照顾生态系。",
       "source": "中保科技 / 2026-08-07",
       "url": "https://www.technice.com.tw/issues/ai/252334/",
-      "keywords": ["中保科", "高龄健康", "智慧照顾", "适老化", "台湾"],
+      "keywords": [
+        "中保科",
+        "高龄健康",
+        "智慧照顾",
+        "适老化",
+        "台湾"
+      ],
       "published": "2026-08-07"
     },
     {
@@ -370,7 +551,13 @@
       "summary": "Forescout数据显示，2026年上半年新增37137个漏洞，同比增长51%，其中55%为高危或严重级别，54个已被作为零日漏洞遭利用。Fortinet指出不安全默认设置、弱密码和未正确验证完整性的更新机制是消费和企业环境的核心弱点。",
       "source": "Tech-Channels / 2026-08-05",
       "url": "https://www.tech-channels.com/breaking-news/over-37000-new-vulnerabilities-what-the-2026-threat-landscape-means-for-iot-security",
-      "keywords": ["IoT漏洞", "零日漏洞", "Forescout", "网络安全", "智能家居安全"],
+      "keywords": [
+        "IoT漏洞",
+        "零日漏洞",
+        "Forescout",
+        "网络安全",
+        "智能家居安全"
+      ],
       "published": "2026-08-05"
     },
     {
@@ -382,7 +569,13 @@
       "summary": "日本信息通信研究机构（NICT）与总务省、警察厅联合发布警告，家庭用IoT设备正被广泛滥用为住宅代理攻击节点，用于隐藏攻击者所在、规避安全检测。调查发现2024年互联网银行诈骗中至少1918件（被害额约28.9亿日元）使用了住宅代理技术。NICT呼吁用户不使用来源不明的视频设备和VPN，定期更新设备固件。",
       "source": "NICT日本信息通信研究机构 / 2026-07-21",
       "url": "https://www.nict.go.jp/press/2026/07/21-1.html",
-      "keywords": ["IoT安全", "住宅代理", "NICT", "网络安全", "智能家居"],
+      "keywords": [
+        "IoT安全",
+        "住宅代理",
+        "NICT",
+        "网络安全",
+        "智能家居"
+      ],
       "published": "2026-07-21"
     },
     {
@@ -394,7 +587,13 @@
       "summary": "Apple正在开发一款以隐私为核心导向的HomeKit安全摄像头，内部代码引用显示相关功能特征。有报道称该产品有望在2026年春季软件更新窗口推出，但具体时间表仍有待确认。此举将使Apple HomeKit生态再添新成员，进一步完善其智能家居布局。",
       "source": "Mac Daily News / 2026-07-31",
       "url": "https://macdailynews.com/2026/07/31/apples-rumored-security-camera-privacy-focused-homekit-device-expected-as-part-of-broad-smart-home-push/",
-      "keywords": ["Apple", "HomeKit", "安全摄像头", "隐私保护", "智能家居"],
+      "keywords": [
+        "Apple",
+        "HomeKit",
+        "安全摄像头",
+        "隐私保护",
+        "智能家居"
+      ],
       "published": "2026-07-31"
     },
     {
@@ -406,7 +605,13 @@
       "summary": "毫米波雷达技术在智能家居场景中实现突破，可在无需摄像头的情况下感知人体活动、监测跌倒，适用于隐私敏感场景（养老院、医院）的监控以及智能家居的智能感知，突破了隐私保护与智能监控之间的矛盾，成为家庭安防的新选择。",
       "source": "中华网 / 2026-07-16",
       "url": "https://tech.china.com/articles/20260716/202607161918790.html",
-      "keywords": ["毫米波雷达", "隐私保护", "智能感知", "跌倒检测", "智能家居"],
+      "keywords": [
+        "毫米波雷达",
+        "隐私保护",
+        "智能感知",
+        "跌倒检测",
+        "智能家居"
+      ],
       "published": "2026-07-16"
     },
     {
@@ -418,7 +623,13 @@
       "summary": "市场调研显示，截至2026年中，80%智能家居用户要求设备厂商定期提供安全更新，78%用户要求数据使用透明度，这一数据表明智能家居市场已走向成熟，用户隐私意识和安全需求显著提升，成为厂商差异化竞争的新战场。",
       "source": "Belinus / 2026-07-26",
       "url": "https://www.belinus.com/post/smart-home-advantages-what-homeowners-need-in-2026",
-      "keywords": ["智能家居", "数据安全", "隐私保护", "安全更新", "用户需求"],
+      "keywords": [
+        "智能家居",
+        "数据安全",
+        "隐私保护",
+        "安全更新",
+        "用户需求"
+      ],
       "published": "2026-07-26"
     },
     {
@@ -430,7 +641,13 @@
       "summary": "国家网络与信息安全信息通报中心通报，根据中央网信办、工信部、公安部联合发布的《关于开展2026年个人信息保护系列专项行动的公告》，35款移动应用存在一项或者多项违法违规收集使用个人信息情况，涉及违规收集设备信息、通讯录、位置等个人敏感信息。",
       "source": "光明网 / 2026-08-02",
       "url": "https://m.gmw.cn/2026-08/02/content_1304541811.htm",
-      "keywords": ["个人信息", "隐私保护", "App违规", "数据安全", "专项行动"],
+      "keywords": [
+        "个人信息",
+        "隐私保护",
+        "App违规",
+        "数据安全",
+        "专项行动"
+      ],
       "published": "2026-08-02"
     },
     {
@@ -442,8 +659,468 @@
       "summary": "绵阳市2026年智慧养老云平台服务商推荐名单公布，提供本地化居家安全监护方案，关键优势包括：工单闭环从老人一键呼叫到服务人员接单完成反馈全链路数字化；多端适配家属端APP、服务人员端小程序、机构管理后台；可对接主流智能报警器与老人定位防走失设备。",
       "source": "长三角城市网 / 2026-07-22",
       "url": "https://www.csjcs.com/news/shangxun/Article-rJrmxj-758618.html",
-      "keywords": ["智慧养老", "云平台", "适老化", "绵阳", "居家监护"],
+      "keywords": [
+        "智慧养老",
+        "云平台",
+        "适老化",
+        "绵阳",
+        "居家监护"
+      ],
       "published": "2026-07-22"
+    },
+    {
+      "date": "2026-08-17",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "Matter协议2026全面强制要求Alliance互操作测试",
+      "summary": "Google Home开发者官网明确指出，2026年起所有Matter设备的集成和测试必须通过联盟互操作测试（Alliance Interop Test）。这意味着Matter认证门槛大幅提升，将推动智能家居生态向更高互操作性标准迈进。",
+      "source": "Google Home Developers / 2026-08-10",
+      "url": "https://developers.home.google.com/matter/overview",
+      "keywords": [
+        "Matter",
+        "互操作测试",
+        "智能家居标准",
+        "CSA"
+      ],
+      "published": "2026-08-10",
+      "id": 38
+    },
+    {
+      "date": "2026-08-17",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "2026全屋智能品牌深度盘点：行业进入确定性体验时代",
+      "summary": "中国电子技术标准化研究院发布《智能家居系统互联互通白皮书》指出，2026年全屋智能已从极客工具演变为大众消费品。奥维云网数据显示，上半年中国家用全屋智能系统解决方案零售量同比增长超四成，存量房改造与新房装修市场各占半壁江山。",
+      "source": "环球家电网 / 2026-08-13",
+      "url": "http://www.cheari.com/npage.html?id=29928",
+      "keywords": [
+        "全屋智能",
+        "互联互通",
+        "行业报告",
+        "奥维云网"
+      ],
+      "published": "2026-08-13",
+      "id": 39
+    },
+    {
+      "date": "2026-08-17",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "2026全球智能家居中控设备出货量1.87亿台：Matter 1.4成标配",
+      "summary": "据市场调查报告，2025年全球智能家居中控设备出货量达1.87亿台，较2023年增长62.4%。支持Matter 1.4协议及本地化AI大模型推理的设备占比突破50%，中控设备正从单一语音交互终端演变为集边缘计算、多协议融合与AI决策于一体的家庭数字枢纽。",
+      "source": "ZVZO消费观察 / 2026-08-10",
+      "url": "https://www.zvzo.com/2358/view-182855-1.html",
+      "keywords": [
+        "智能家居中控",
+        "Matter 1.4",
+        "边缘计算",
+        "AI推理"
+      ],
+      "published": "2026-08-10",
+      "id": 40
+    },
+    {
+      "date": "2026-08-17",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "边缘计算与云计算互补逻辑：低延迟、省带宽、高稳定、数据安全四大优势",
+      "summary": "边缘计算依托边缘计算盒子在数据产生的现场完成采集、解码、AI推理、数据分析，只将有效结构化数据上传云端。它具备低延迟、省带宽、高稳定、数据安全四大核心优势，完美适配工业现场、安防监控、交通监测及智能家居等实时性场景。",
+      "source": "搜狐网 / 2026-08-13",
+      "url": "https://www.sohu.com/a/1062188116_99907863",
+      "keywords": [
+        "边缘计算",
+        "云边协同",
+        "AI推理",
+        "智能家居"
+      ],
+      "published": "2026-08-13",
+      "id": 41
+    },
+    {
+      "date": "2026-08-17",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "爱芯元智下一代大算力AI芯片完成流片：支持多芯级联实现边缘侧满血大模型推理",
+      "summary": "爱芯元智2026半年报业绩电话会透露，下一代高性能大算力AI芯片已完成流片，算力规格大幅提升，支持两芯或四芯级联，可实现满血大模型在边缘侧高性能推理。基于该芯片的算力加速卡搭载超1000TOPS推理算力。",
+      "source": "界面新闻 / 2026-08-12",
+      "url": "https://www.163.com/dy/article/L423PA380534A4SC.html",
+      "keywords": [
+        "爱芯元智",
+        "AI芯片",
+        "边缘推理",
+        "大模型"
+      ],
+      "published": "2026-08-12",
+      "id": 42
+    },
+    {
+      "date": "2026-08-17",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "国产AI算力芯片首次纳入国家信创安全认证体系",
+      "summary": "2026年5月26日，中国信息安全测评中心与国家保密科技测评中心首次将人工智能训练推理芯片纳入安全可靠测评体系，标志着国产AI算力基础设施正式进入国家信创安全认证体系。",
+      "source": "IT之家 / 2026-08-12",
+      "url": "https://www.ithome.com/0/988/427.htm",
+      "keywords": [
+        "信创",
+        "AI芯片",
+        "安全认证",
+        "国产算力"
+      ],
+      "published": "2026-08-12",
+      "id": 43
+    },
+    {
+      "date": "2026-08-17",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "中国国产AI芯片2026年国内市场份额有望接近90%",
+      "summary": "TrendForce上调对中国国产芯片扩张速度的判断，预计2026年国产AI芯片在国内高端市场份额接近90%。国家数据局数据显示，截至2026年3月底全国智能算力规模达188万PFLOPS。",
+      "source": "集邦咨询 / 2026-08-12",
+      "url": "http://laoyaoba.com/n/1081045",
+      "keywords": [
+        "AI芯片",
+        "国产替代",
+        "市场份额",
+        "智能算力"
+      ],
+      "published": "2026-08-12",
+      "id": 44
+    },
+    {
+      "date": "2026-08-17",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "DeepSeek、智谱自研AI芯片：效仿谷歌TPU与OpenAI自研硬件",
+      "summary": "智谱AI和DeepSeek最终做出相同决定——效仿谷歌TPU与OpenAI，亲自下场自研AI芯片。DeepSeek V4已全程在华为昇腾上训练，官方技术报告将昇腾950PR写入硬件验证清单。",
+      "source": "36氪 / 2026-08-15",
+      "url": "https://www.36kr.com/p/3886800988680200",
+      "keywords": [
+        "DeepSeek",
+        "智谱AI",
+        "自研芯片",
+        "TPU"
+      ],
+      "published": "2026-08-15",
+      "id": 45
+    },
+    {
+      "date": "2026-08-17",
+      "category": "scenario",
+      "categoryLabel": "场景落地",
+      "title": "武汉推进智慧养老：AI机器人上岗，1.1万独居老人将装智能监护",
+      "summary": "武汉市着力推进智慧养老体系建设，机械臂艾灸智能设备定位施灸，智能理疗床依托AI生成个性化康养方案，智能守护机器人在社区自主监测老人健康信息。今年计划为1.1万名有意愿的独居老人安装紧急呼叫、智能监护等设备。",
+      "source": "人民网 / 2026-08-14",
+      "url": "http://health.people.com.cn/n1/2026/0814/c14739-40779339.html",
+      "keywords": [
+        "智慧养老",
+        "AI机器人",
+        "适老化",
+        "武汉",
+        "独居老人"
+      ],
+      "published": "2026-08-14",
+      "id": 46
+    },
+    {
+      "date": "2026-08-17",
+      "category": "scenario",
+      "categoryLabel": "场景落地",
+      "title": "海康威视、大华、宇视等安防厂商新品密集发布",
+      "summary": "2026年科技安防及智能产业企业动态资讯汇总发布，涵盖海康威视、大华、宇视等安防厂商新品发布，思特威光学芯片产品迭代，佳都科技、商汤科技海外战略合作拓展等行业热点。",
+      "source": "智慧城市网 / 2026-08-15",
+      "url": "https://www.afzhan.com/news/detail/111185.html",
+      "keywords": [
+        "海康威视",
+        "大华",
+        "智能安防",
+        "AI摄像头"
+      ],
+      "published": "2026-08-15",
+      "id": 47
+    },
+    {
+      "date": "2026-08-17",
+      "category": "security",
+      "categoryLabel": "数据安全",
+      "title": "欧盟Data Act于2026年生效：智能家居设备数据共享新规落地",
+      "summary": "欧盟Data Act于2026年生效，要求每款智能家居设备的数据存储或访问均需用户明确同意。德国等欧盟国家强化智能家居设备数据保护执法，违规企业将面临高额罚款。",
+      "source": "baulaser.net / 2026-08-16",
+      "url": "https://baulaser.net/smart-home-und-dsgvo-so-schutzen-sie-ihre-daten-im-vernetzten-zuhause",
+      "keywords": [
+        "Data Act",
+        "GDPR",
+        "智能家居",
+        "数据保护",
+        "欧盟"
+      ],
+      "published": "2026-08-16",
+      "id": 48
+    },
+    {
+      "date": "2026-08-17",
+      "category": "security",
+      "categoryLabel": "数据安全",
+      "title": "你的智能家居可能在监视你：Proton发布智能家庭隐私保护指南",
+      "summary": "Proton发布智能家庭隐私保护指南，指出智能家居设备可能比你想象中收集更多个人数据。指南详细说明了各类智能设备的数据收集范围，并提供具体保护建议。",
+      "source": "Proton / 2026-08-12",
+      "url": "https://proton.me/blog/smart-home-privacy",
+      "keywords": [
+        "智能家居",
+        "隐私保护",
+        "数据收集",
+        "Proton"
+      ],
+      "published": "2026-08-12",
+      "id": 49
+    },
+    {
+      "date": "2026-08-17",
+      "category": "security",
+      "categoryLabel": "数据安全",
+      "title": "毫米波雷达技术突破：无需摄像头即可感知人体活动",
+      "summary": "毫米波雷达技术在智能家居场景中实现突破，可在无需摄像头的情况下感知人体活动、监测跌倒，适用于隐私敏感场景的监控以及智能家居的智能感知，突破了隐私保护与智能监控之间的矛盾。",
+      "source": "中华网 / 2026-08-14",
+      "url": "https://tech.china.com/articles/20260716/202607161918790.html",
+      "keywords": [
+        "毫米波雷达",
+        "隐私保护",
+        "智能感知",
+        "跌倒检测"
+      ],
+      "published": "2026-08-14",
+      "id": 50
+    },
+    {
+      "date": "2026-08-17",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "2026年AI Agent编排工具终极指南：12个平台让AI学会团队协作",
+      "summary": "2026年最确定的AI趋势不是参数规模竞赛，而是多智能体协作（Multi-Agent System）。把一个大任务拆成多个子任务，交给不同专长的Agent协同完成，正在成为企业级AI应用的主流范式。",
+      "source": "AI Tool Lab / 2026-08-16",
+      "url": "https://www.aitoollab.cn/articles/multi-agent-ai-tools-guide-2026/",
+      "keywords": [
+        "AI Agent",
+        "多智能体",
+        "编排框架",
+        "Agent协作"
+      ],
+      "published": "2026-08-16",
+      "id": 51
+    },
+    {
+      "date": "2026-08-17",
+      "category": "tech",
+      "categoryLabel": "技术前沿",
+      "title": "Matter vs Thread vs Zigbee：2026年智能家居协议选型指南",
+      "summary": "2026年Matter协议生态持续扩展，但支持的设备类别仍限于灯具、插座、锁、传感器、恒温器和摄像头。Thread+Matter是未来方向，Zigbee在当下仍具实用性，建议新设备选Matter认证，现有Zigbee设备通过桥接接入。",
+      "source": "SmartHomeExplorer / 2026-08-10",
+      "url": "https://www.smarthomeexplorer.com/guides/matter-vs-thread-vs-zigbee-smart-home-protocols-2026",
+      "keywords": [
+        "Matter",
+        "Thread",
+        "Zigbee",
+        "智能家居协议",
+        "选型指南"
+      ],
+      "published": "2026-08-10",
+      "id": 52
+    },
+    {
+      "date": "2026-08-17",
+      "category": "policy",
+      "categoryLabel": "政策标准",
+      "title": "德国消费电子协会发布智能家居设备透明度与安全报告",
+      "summary": "德国Forum Hausgeräte协会发布智能家居设备数据安全与网络安全报告，指出互联家用设备在日常生活中越来越普及，但公众对其数据收集范围和安全风险存在普遍误解，呼吁厂商提升透明度，并引用DSGVO、CRA和Data Act等法规框架。",
+      "source": "Presse-Nachrichten / 2026-08-13",
+      "url": "https://www.presse-nachrichten.de/2026/08/13/vertrauen-durch-transparenz-so-sicher-sind-smart-home-geraete/",
+      "keywords": [
+        "智能家居",
+        "数据安全",
+        "透明度",
+        "德国",
+        "DSGVO"
+      ],
+      "published": "2026-08-13",
+      "id": 53
+    },
+    {
+      "date": "2026-08-17",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "DeepSeek Harness入选项目疑似曝光：聚焦Agent运行时、编排框架与多智能体调度",
+      "summary": "DeepSeek Harness入选项目细节曝光，重点集中在Agent Runtime（运行时）、编排框架、可视化UI与多智能体调度等Agent适配层，直接影响环境安全性、长任务执行稳定性及多模型协作效果。",
+      "source": "雷峰网 / 2026-08-14",
+      "url": "https://www.leiphone.com/category/yanxishe/RZ78QNjvboOQZhCS.html",
+      "keywords": [
+        "DeepSeek",
+        "Harness",
+        "Agent",
+        "多智能体",
+        "编排框架"
+      ],
+      "published": "2026-08-14",
+      "id": 54
+    },
+    {
+      "date": "2026-08-17",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "Meta发布30B端侧Agent模型Muse Glimmer：单GPU可跑，Apache 2.0开源",
+      "summary": "Meta重回开源，发布30B端侧Agent模型Muse Glimmer（Apache 2.0协议），单GPU即可运行，扎克伯格呼吁放宽开源监管并设立10亿美元基金。此举标志着端侧Agent从技术探索进入可部署阶段。",
+      "source": "知乎日报 / 2026-08-11",
+      "url": "https://zhuanlan.zhihu.com/p/2070452539691103912",
+      "keywords": [
+        "Meta",
+        "Muse Glimmer",
+        "端侧AI",
+        "Agent",
+        "开源"
+      ],
+      "published": "2026-08-11",
+      "id": 55
+    },
+    {
+      "date": "2026-08-17",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "2026智能家居安全摄像头完整指南：ADT居首，Vivint、SimpliSafe紧随",
+      "summary": "Security.org发布2026年智能家居安全系统完整评测，ADT凭借原生Google Nest集成位居榜首，Vivint以智能家居控制能力紧随其后，SimpliSafe以智能家居安全App见长，详细对比Alexa、Google Home、Apple HomeKit平台兼容性。",
+      "source": "Security.org / 2026-08-13",
+      "url": "https://www.security.org/home-security-systems/best/smart-home/",
+      "keywords": [
+        "智能家居",
+        "安全摄像头",
+        "ADT",
+        "Vivint",
+        "HomeKit"
+      ],
+      "published": "2026-08-13",
+      "id": 56
+    },
+    {
+      "date": "2026-08-17",
+      "category": "product",
+      "categoryLabel": "产品方案",
+      "title": "2026智能家居自动化实用指南：10个场景与隐私保护建议",
+      "summary": "2026年智能家居自动化进入实用阶段，文章提供10个可操作的场景方案，并特别提醒摄像头和音箱收集的数据量超出大多数用户预期，建议用户关注设备权限管理和本地化数据处理能力。",
+      "source": "SimplyTechToday / 2026-08-10",
+      "url": "https://www.simplytechtoday.com/smart-home-automation-ideas/",
+      "keywords": [
+        "智能家居",
+        "自动化",
+        "隐私保护",
+        "Home Assistant"
+      ],
+      "published": "2026-08-10",
+      "id": 57
+    },
+    {
+      "date": "2026-08-17",
+      "category": "scenario",
+      "categoryLabel": "场景落地",
+      "title": "韩国启动AI智能看护服务：为独居老人配语音机器人应对紧急情况",
+      "summary": "韩国正式启动AI智能看护服务，为独居老人配备语音机器人以应对紧急情况。台湾也已迈入高龄化社会，2025年将进入超高龄社会，面对急速增加的照护需求，传统照护模式已难应对，智慧科技结合多功能场域成为解决方案。",
+      "source": "AgeClub / 2026-08-12",
+      "url": "https://www.ageclub.net/article-detail/10231",
+      "keywords": [
+        "智慧养老",
+        "AI看护",
+        "独居老人",
+        "语音机器人",
+        "适老化"
+      ],
+      "published": "2026-08-12",
+      "id": 58
+    },
+    {
+      "date": "2026-08-17",
+      "category": "scenario",
+      "categoryLabel": "场景落地",
+      "title": "\"AI+养老\"产品要\"走心\"：机械臂艾灸、智能理疗床、守护机器人走入现实",
+      "summary": "技术正在渗透进养老生活方方面面。机械臂外形的艾灸智能设备可定位施灸，智能理疗床依托AI生成个性化康养方案，智能守护机器人在社区自主监测老人健康信息，越来越多的老年人开始接触和使用AI互动产品。",
+      "source": "新浪财经 / 2026-08-14",
+      "url": "https://finance.sina.com.cn/roll/2026-08-14/doc-ininhtfm2829321.shtml",
+      "keywords": [
+        "AI养老",
+        "智能理疗",
+        "守护机器人",
+        "适老化",
+        "康养"
+      ],
+      "published": "2026-08-14",
+      "id": 59
+    },
+    {
+      "date": "2026-08-17",
+      "category": "scenario",
+      "categoryLabel": "场景落地",
+      "title": "2026年老年人最佳家居安全摄像头：支持独立生活的智能选型",
+      "summary": "Age Safe America发布2026年老年人家居安全摄像头选购指南，指出智能技术、跌倒预防训练和家庭安全评估正在共同支持老年人更安全地居家养老，跌倒检测与异常行为报警成为核心功能。",
+      "source": "Age Safe America / 2026-08-14",
+      "url": "https://agesafeamerica.com/home-safety-hub/blog/best-home-security-cameras-for-seniors-in-2026-top-picks-for-safer-independent-living/",
+      "keywords": [
+        "老年人",
+        "安全摄像头",
+        "跌倒检测",
+        "居家养老",
+        "智能安防"
+      ],
+      "published": "2026-08-14",
+      "id": 60
+    },
+    {
+      "date": "2026-08-17",
+      "category": "scenario",
+      "categoryLabel": "场景落地",
+      "title": "香港乐龄科技与智慧居家安老新趋势：从被动照护到精准复康",
+      "summary": "香港乐龄科技发展趋势正从单纯辅具支援快速演进为结合AI、XR与大数据的智慧复康生态系统，未来发展方向将全面覆盖健康监测、康复训练和生活辅助场景，标志着智慧养老进入精准化时代。",
+      "source": "Motive Force / 2026-08-14",
+      "url": "https://www.motivef.com/blog/hong-kong-gerontechnology-trends-2026-27",
+      "keywords": [
+        "香港",
+        "乐龄科技",
+        "智慧养老",
+        "AI复康",
+        "XR"
+      ],
+      "published": "2026-08-14",
+      "id": 61
+    },
+    {
+      "date": "2026-08-17",
+      "category": "security",
+      "categoryLabel": "数据安全",
+      "title": "2026年数据泄露创纪录：AI网络攻击加剧，上半年已超去年全年",
+      "summary": "CNBC报道，2026年数据泄露事件正以创纪录速度增长，AI在其中扮演越来越重要的角色。若下半年保持当前节奏，2026年全年数据泄露总数将超过2025年创纪录的3321起。IBM数据显示全球平均数据泄露成本已达499万美元，美国平均1150万美元。",
+      "source": "CNBC / 2026-08-14",
+      "url": "https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html",
+      "keywords": [
+        "数据泄露",
+        "网络安全",
+        "AI攻击",
+        "隐私保护"
+      ],
+      "published": "2026-08-14",
+      "id": 62
+    },
+    {
+      "date": "2026-08-17",
+      "category": "security",
+      "categoryLabel": "数据安全",
+      "title": "2026年智能家居路由器隐私：FCC禁令背后的复杂原因",
+      "summary": "2026年FCC以国家安全为由禁止外国制造的路由器，但随后为Netgear等主流品牌提供豁免，引发用户困惑。CNET分析指出路由器隐私问题的复杂性，建议用户关注设备来源和固件更新机制，优先选择本地数据处理能力强的设备。",
+      "source": "CNET / 2026-08-10",
+      "url": "https://www.cnet.com/home/security/your-home-needs-these-headache-free-privacy-boosts/",
+      "keywords": [
+        "路由器",
+        "隐私保护",
+        "FCC",
+        "智能家居安全",
+        "固件更新"
+      ],
+      "published": "2026-08-10",
+      "id": 63
     }
   ]
 }
