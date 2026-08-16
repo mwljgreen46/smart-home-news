@@ -1121,6 +1121,366 @@
       ],
       "published": "2026-08-10",
       "id": 63
+    },
+    {
+      "date": "2026-08-17",
+      "category": "tech",
+      "title": "Thread + Matter 获评2026年最具前景智能家居协议，得分85.5远超Zigbee的27.6",
+      "summary": "根据SmartHomeExplorer最新评测，Thread + Matter组合以85.5分位列智能家居协议未来适应性评分榜首，Zigbee仅获27.6分。Thread 1.4版本支持多协议融合，一个桥接hub即可同时支持Alexa、Google和HomeKit生态。这标志着2026年新建智能家居应优先选择Matter认证设备。",
+      "source": "SmartHomeExplorer",
+      "url": "https://www.smarthomeexplorer.com/guides/matter-vs-thread-vs-zigbee-smart-home-protocols-2026",
+      "keywords": [
+        "Matter",
+        "Thread",
+        "Zigbee",
+        "智能家居协议",
+        "互操作性"
+      ],
+      "published": "2026-08-10",
+      "categoryLabel": "技术前沿",
+      "id": 64
+    },
+    {
+      "date": "2026-08-17",
+      "category": "tech",
+      "title": "2026年起所有Matter集成和测试必须通过联盟互操作测试",
+      "summary": "Google Home开发者文档明确指出，从2026年开始，所有Matter设备集成和测试均需通过连接标准联盟（CSA）官方互操作测试。这一要求将显著提升Matter生态的设备兼容性和稳定性，推动智能家居市场向更高质量方向发展。",
+      "source": "Google Home Developers",
+      "url": "https://developers.home.google.com/matter/overview",
+      "keywords": [
+        "Matter",
+        "互操作测试",
+        "CSA",
+        "Google Home",
+        "认证"
+      ],
+      "published": "2026-08-10",
+      "categoryLabel": "技术前沿",
+      "id": 65
+    },
+    {
+      "date": "2026-08-17",
+      "category": "tech",
+      "title": "国产AI算力芯片进入国家信创安全认证体系，2026年市场份额有望达90%",
+      "summary": "2026年5月26日，中国信息安全测评中心与国家保密科技测评中心首次将人工智能训练推理芯片纳入安全可靠测评体系。同时，TrendForce大幅上调国产AI芯片市场份额预测，从去年12月的50%上调至接近90%，英伟达等进口产品份额可能仅剩一成。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/427.htm",
+      "keywords": [
+        "国产AI芯片",
+        "信创",
+        "安全认证",
+        "市场份额",
+        "英伟达"
+      ],
+      "published": "2026-08-11",
+      "categoryLabel": "技术前沿",
+      "id": 66
+    },
+    {
+      "date": "2026-08-17",
+      "category": "tech",
+      "title": "爱芯元智下一代大算力AI芯片完成流片，支持多芯级联实现边缘侧满血大模型推理",
+      "summary": "爱芯元智2026半年报透露，下一代高性能大算力AI芯片已完成流片，算力规格大幅提升，支持两芯或四芯级联，可实现满血大模型在边缘侧高性能推理。公司已发布边缘芯片AX8850，并于8月成立子公司\"爱芯计算\"专注AI推理解决方案。",
+      "source": "网易",
+      "url": "https://www.163.com/dy/article/L423PA380534A4SC.html",
+      "keywords": [
+        "爱芯元智",
+        "边缘AI",
+        "大算力芯片",
+        "多芯级联",
+        "端侧推理"
+      ],
+      "published": "2026-08-12",
+      "categoryLabel": "技术前沿",
+      "id": 67
+    },
+    {
+      "date": "2026-08-17",
+      "category": "tech",
+      "title": "DeepSeek V4全程在华为昇腾上训练，国产芯模协同成重要方向",
+      "summary": "在WAIC 2026上，华为、燧原、壁仞等国产算力企业纷纷展示超节点方案，最高支持1024卡规模扩展。DeepSeek V4全程在昇腾上训练，没写一行CUDA代码，标志着国产AI芯片与大模型的协同优化进入新阶段，\"芯模协同\"成为国产AI下一阶段的重要方向。",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/video/103317563.html",
+      "keywords": [
+        "DeepSeek",
+        "华为昇腾",
+        "芯模协同",
+        "超节点",
+        "WAIC"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "技术前沿",
+      "id": 68
+    },
+    {
+      "date": "2026-08-17",
+      "category": "policy",
+      "title": "欧盟Data Act于2026年生效，智能家居数据共享义务全面落地",
+      "summary": "欧盟Data Act于2026年起正式实施，对智能家居设备的数据共享提出新义务。该法规要求每款智能家居设备的数据存储或访问均需获得用户明确同意，同时推动数据可在不同服务商之间转移。德国Forum Hausgeräte提醒企业需遵守DSGVO、CRA和Data Act三大法规框架。",
+      "source": "baulaser.net",
+      "url": "https://baulaser.net/smart-home-und-dsgvo-so-schutzen-sie-ihre-daten-im-vernetzten-zuhause",
+      "keywords": [
+        "Data Act",
+        "欧盟法规",
+        "智能家居数据",
+        "隐私保护",
+        "DSGVO"
+      ],
+      "published": "2026-08-16",
+      "categoryLabel": "政策标准",
+      "id": 69
+    },
+    {
+      "date": "2026-08-17",
+      "category": "policy",
+      "title": "中国信息安全测评中心将AI芯片纳入信创安全认证体系",
+      "summary": "2026年5月，中国信息安全测评中心与国家保密科技测评中心首次将人工智能训练推理芯片纳入安全可靠测评体系，标志着国产AI算力基础设施正式进入国家信创安全认证体系，对政府及关键行业采购国产AI芯片具有重要指导意义。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/427.htm",
+      "keywords": [
+        "信创",
+        "安全认证",
+        "AI芯片",
+        "国家测评",
+        "国产替代"
+      ],
+      "published": "2026-08-11",
+      "categoryLabel": "政策标准",
+      "id": 70
+    },
+    {
+      "date": "2026-08-17",
+      "category": "policy",
+      "title": "美国FCC因国家安全原因禁止进口外国产Wi-Fi路由器",
+      "summary": "2026年，美国FCC以国家安全为由禁止进口外国制造的Wi-Fi路由器。不过，随后为主要路由器品牌（如Netgear）提供了豁免，引发市场困惑。此举对智能家居设备供应链安全提出新挑战，业界呼吁建立更清晰的采购指南。",
+      "source": "CNET",
+      "url": "https://www.cnet.com/home/security/your-home-needs-these-headache-free-privacy-boosts/",
+      "keywords": [
+        "FCC",
+        "Wi-Fi路由器",
+        "国家安全",
+        "进口禁令",
+        "智能家居安全"
+      ],
+      "published": "2026-08-10",
+      "categoryLabel": "政策标准",
+      "id": 71
+    },
+    {
+      "date": "2026-08-17",
+      "category": "policy",
+      "title": "德国推动智能家居设备隐私保护法规，明确数据最小化原则",
+      "summary": "德国Forum Hausgeräte发布智能家居设备数据使用指南，强调DSGVO和Cyber Resilience Act要求下的数据最小化原则。指南指出联网家用设备必须遵循数据保护法规，对设备数据收集、使用和共享提出明确要求，提升消费者对智能家居隐私保护的认知。",
+      "source": "i-magazin.com",
+      "url": "https://i-magazin.com/forum-hausgeraete-ordnet-datenschutz-bei-smart-home-geraeten-ein/",
+      "keywords": [
+        "德国",
+        "智能家居隐私",
+        "数据最小化",
+        "DSGVO",
+        "CRA"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "政策标准",
+      "id": 72
+    },
+    {
+      "date": "2026-08-17",
+      "category": "product",
+      "title": "ESP32-C6成为2026年Matter智能家居项目首选芯片，$5即可搭建Thread边界路由器",
+      "summary": "MakerOnSite发布详细指南，展示如何使用仅$5的ESP32-C6（Seeed Studio XIAO ESP32-C6）搭建Matter智能家居项目。该芯片集成WiFi 6和IEEE 802.15.4（Thread/Zigbee）双连接于单一RISC-V SoC，成为2026年最具性价比的Matter项目方案。",
+      "source": "MakerOnSite",
+      "url": "https://makeronsite.com/blog/2026/08/esp32-c6-matter-smart-home-guide-2026-en/",
+      "keywords": [
+        "ESP32-C6",
+        "Matter",
+        "Thread",
+        "DIY智能家居",
+        "RISC-V"
+      ],
+      "published": "2026-08-10",
+      "categoryLabel": "产品方案",
+      "id": 73
+    },
+    {
+      "date": "2026-08-17",
+      "category": "product",
+      "title": "Home Assistant Green荣登2026年隐私评分榜首，本地化100%无云端",
+      "summary": "SmartHomeExplorer发布2026年智能家居隐私评分，Home Assistant Green以9.1分位居榜首，实现100%本地化运行、零云端依赖。Aqara Hub M2以68美元成为HomeKit用户最佳选择。该评测从隐私保护角度为消费者提供重要参考，帮助用户选择更安全的智能家居方案。",
+      "source": "SmartHomeExplorer",
+      "url": "https://www.smarthomeexplorer.com/guides/smart-home-privacy-security-guide-2026",
+      "keywords": [
+        "Home Assistant",
+        "隐私评分",
+        "本地化",
+        "Aqara",
+        "智能家居安全"
+      ],
+      "published": "2026-08-10",
+      "categoryLabel": "产品方案",
+      "id": 74
+    },
+    {
+      "date": "2026-08-17",
+      "category": "product",
+      "title": "飞流AI发布3.1版本，家装设计智能体累计服务超5万个家庭",
+      "summary": "飞流AI于2026年7月8日发布3.1版本，定位为一站式家装服务智能体，覆盖需求理解、设计生成、报价计算、产品购买、施工协同到线下交付全流程。平台累计访问量约50万人次，月活跃用户约4万人，自然搜索流量占比超80%，累计服务超过50000个家庭。",
+      "source": "中华网",
+      "url": "https://m.tech.china.com/redian/2026/0810/082026_1937350.html",
+      "keywords": [
+        "飞流AI",
+        "家装设计",
+        "智能体",
+        "AI设计",
+        "智能家居场景"
+      ],
+      "published": "2026-08-10",
+      "categoryLabel": "产品方案",
+      "id": 75
+    },
+    {
+      "date": "2026-08-17",
+      "category": "product",
+      "title": "荣耀发布全球首款机器人手机Robot Phone，开启手机具身智能新时代",
+      "summary": "2026年8月12日，荣耀于广州发布全球首款机器人手机Robot Phone，采用四自由度钛合金机身设计，集成先进AI大模型能力，可自主移动并执行多种任务。这一产品打破了智能终端的物理边界，标志着消费电子向具身智能迈出重要一步。",
+      "source": "东方财富网",
+      "url": "https://caifuhao.eastmoney.com/news/20260813003954581468600",
+      "keywords": [
+        "荣耀",
+        "Robot Phone",
+        "具身智能",
+        "机器人手机",
+        "AI终端"
+      ],
+      "published": "2026-08-13",
+      "categoryLabel": "产品方案",
+      "id": 76
+    },
+    {
+      "date": "2026-08-17",
+      "category": "scenario",
+      "title": "2026年AI Agent编排工具终极指南发布，多智能体协作成主流趋势",
+      "summary": "AI Tool Lab发布2026年AI Agent编排工具终极指南，指出多智能体协作（Multi-Agent System）已成为2026年最确定的AI趋势。将大任务拆分为多个子任务，由专门调教的Agent分别执行并自动通信分工，可显著提升效率。该指南详细评测了12个主流平台，为企业选型提供参考。",
+      "source": "AI Tool Lab",
+      "url": "https://www.aitoollab.cn/articles/multi-agent-ai-tools-guide-2026/",
+      "keywords": [
+        "AI Agent",
+        "多智能体协作",
+        "编排框架",
+        "Multi-Agent",
+        "工作流自动化"
+      ],
+      "published": "2026-08-16",
+      "categoryLabel": "场景落地",
+      "id": 77
+    },
+    {
+      "date": "2026-08-17",
+      "category": "scenario",
+      "title": "海康威视、大华等安防厂商密集发布智能新品，云边协同架构成主流",
+      "summary": "智慧城市网汇总2026年科技安防及智能产业企业动态，海康威视、大华、宇视等厂商密集发布智能安防新品。智能安防的云端和边缘协同架构正在成为主流，边缘AI摄像头可在本地完成视频分析，只在检测到异常事件时才上传视频片段，大幅降低带宽和存储成本。",
+      "source": "智慧城市网",
+      "url": "https://www.afzhan.com/news/detail/111185.html",
+      "keywords": [
+        "海康威视",
+        "大华",
+        "智能安防",
+        "云边协同",
+        "边缘AI"
+      ],
+      "published": "2026-08-15",
+      "categoryLabel": "场景落地",
+      "id": 78
+    },
+    {
+      "date": "2026-08-17",
+      "category": "scenario",
+      "title": "阿里千问发布Agent编程模型Qwen2.5-32B，默认支持百万token超长上下文",
+      "summary": "阿里千问团队2026年4月发布的Qwen2.5-32B在Agent编程能力上实现突破，支持复杂代码仓库级问题求解与前端开发，默认支持百万token超长上下文窗口。模型融合逻辑推理、海量记忆与精准工具执行能力，加速向具备高度自主性的超级智能体演进。",
+      "source": "知乎",
+      "url": "https://zhuanlan.zhihu.com/p/670574382",
+      "keywords": [
+        "Qwen",
+        "阿里千问",
+        "Agent编程",
+        "超长上下文",
+        "大模型"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "场景落地",
+      "id": 79
+    },
+    {
+      "date": "2026-08-17",
+      "category": "scenario",
+      "title": "中国企业级AI Agent发展洞察报告：83.7%智能体仅做通用辅助",
+      "summary": "智慧城市行业分析发布《中国企业级AI Agent发展洞察报告(2026)》，指出当前行业呈现浅层繁荣：83.7%智能体仅做通用辅助，仅16.3%深耕专业场景；30%-40%项目会因ROI不及预期停滞，超4成企业对AI能力认知存在偏差。报告为行业提供了精准的发展现状分析。",
+      "source": "智慧城市行业分析",
+      "url": "https://www.smartcity.team/reports/com_ai-agent/",
+      "keywords": [
+        "AI Agent",
+        "企业级",
+        "发展洞察",
+        "ROI",
+        "行业报告"
+      ],
+      "published": "2026-08-10",
+      "categoryLabel": "场景落地",
+      "id": 80
+    },
+    {
+      "date": "2026-08-17",
+      "category": "security",
+      "title": "Proton发布智能家居隐私指南，揭示设备数据收集风险",
+      "summary": "Proton发布智能家居隐私深度指南，详细揭示联网设备如何收集用户数据。指南指出智能家居设备可能比用户想象中更了解其生活隐私，提供具体防护措施建议，帮助用户在享受智能便利的同时更好保护个人数据隐私。",
+      "source": "Proton",
+      "url": "https://proton.me/blog/smart-home-privacy",
+      "keywords": [
+        "智能家居隐私",
+        "数据收集",
+        "Proton",
+        "隐私保护",
+        "物联网安全"
+      ],
+      "published": "2026-08-12",
+      "categoryLabel": "数据安全",
+      "id": 81
+    },
+    {
+      "date": "2026-08-17",
+      "category": "security",
+      "title": "阿里云发布2026 AI Agent安全最佳实践，提出\"Agent原生安全\"防护模式",
+      "summary": "阿里云发布2026 AI Agent安全最佳实践，指出AI Agent技术的快速发展带来了新的安全挑战。阿里云提出\"Agent原生安全\"防护模式，以Agent为第一安全主体，构建覆盖开发态与运行态的纵深防御体系，系统化解决AI Agent时代资产不可见、身份不可管等安全问题。",
+      "source": "发现报告",
+      "url": "https://www.fxbaogao.com/detail/5597654",
+      "keywords": [
+        "阿里云",
+        "AI Agent安全",
+        "原生安全",
+        "纵深防御",
+        "最佳实践"
+      ],
+      "published": "2026-08-13",
+      "categoryLabel": "数据安全",
+      "id": 82
+    },
+    {
+      "date": "2026-08-17",
+      "category": "security",
+      "title": "2026年智能家居安全系统评测：ADT荣登榜首，Google Nest深度集成",
+      "summary": "Security.org发布2026年最佳智能家居安全系统评测，ADT凭借原生Google Nest集成荣登榜首，Vivint以智能家居控制能力紧随其后，SimpliSafe则以智能家居安全App见长。评测从成本、蜂窝备份、合约条款和本地存储等维度进行全面对比，为家庭安防选购提供参考。",
+      "source": "Security.org",
+      "url": "https://www.security.org/home-security-systems/best/smart-home/",
+      "keywords": [
+        "智能家居安全系统",
+        "ADT",
+        "Google Nest",
+        "Security.org",
+        "家庭安防"
+      ],
+      "published": "2026-08-13",
+      "categoryLabel": "数据安全",
+      "id": 83
     }
   ]
 }
