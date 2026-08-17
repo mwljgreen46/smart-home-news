@@ -1481,6 +1481,366 @@
       "published": "2026-08-13",
       "categoryLabel": "数据安全",
       "id": 83
+    },
+    {
+      "date": "2026-08-17",
+      "category": "tech",
+      "title": "Matter vs Thread vs Zigbee: Smart Home Protocols 2026",
+      "summary": "2026年智能家居协议格局持续演变，Matter已成为智能插头、照明、门锁和恒温器的必选标准，但仍有部分技术类别因Thread边界路由器可用性和网状网络规划的复杂性，跳过Matter协议。文章深入分析了版本碎片化、Thread岛发现失败和云依赖锁定等问题，为2026年构建智能家居提供了保守路径建议。",
+      "source": "SmartHomeExplorer",
+      "url": "https://www.smarthomeexplorer.com/guides/matter-vs-thread-vs-zigbee-smart-home-protocols-2026",
+      "keywords": [
+        "Matter协议",
+        "Thread协议",
+        "Zigbee",
+        "智能家居",
+        "互联互通"
+      ],
+      "published": "2026-08-10",
+      "categoryLabel": "技术前沿",
+      "id": 84
+    },
+    {
+      "date": "2026-08-17",
+      "category": "tech",
+      "title": "Matter协议架构指南：IoT工程负责人必读",
+      "summary": "文章指出，2022年围绕Matter-ready芯片构建的产品路线图在2026年需要重新评估。摄像头和能源关税支持带来新的RAM和flash和连接要求，而电池供电设备类别的扩展使Thread Border Router可用性和网状网络规划面临新压力，为硬件团队提供了关键架构参考。",
+      "source": "WizzDev",
+      "url": "https://wizzdev.com/blog/matter-protocol-architecture-guide-for-iot-engineering-leaders/",
+      "keywords": [
+        "Matter协议",
+        "IoT架构",
+        "Thread Border Router",
+        "智能家居硬件",
+        "设备兼容性"
+      ],
+      "published": "2026-08-12",
+      "categoryLabel": "技术前沿",
+      "id": 85
+    },
+    {
+      "date": "2026-08-17",
+      "category": "tech",
+      "title": "边缘智能：端边云协同架构深度解析",
+      "summary": "边缘计算将计算能力从远程数据中心下沉到数据产生的第一线，缩短响应时间并节省网络带宽。人工智能催化大量传感器和智能设备产生的海量数据分析，两者结合形成端-边-云协同架构，完美适配工业现场、安防监控、交通监测等实时性场景。",
+      "source": "SCHNIE:BLOG",
+      "url": "https://blog.sch-nie.com/posts/c3d4e5f6.html",
+      "keywords": [
+        "边缘计算",
+        "端边云协同",
+        "AI推理",
+        "分布式计算",
+        "物联网"
+      ],
+      "published": "2026-08-11",
+      "categoryLabel": "技术前沿",
+      "id": 86
+    },
+    {
+      "date": "2026-08-17",
+      "category": "tech",
+      "title": "安谋科技公开新一代NPU架构周易X3-Pro，发起开源AI操作系统联盟",
+      "summary": "安谋科技推出周易X3-Pro架构，采用统一分层场景化设计，衍生Lite、Premium、Subsys三个系列，覆盖从低功耗端侧到大算力复杂推理场景。软件层统一，硬件层做差异化抽象，专注端侧AI不是云端AI的缩小版这一核心原则。",
+      "source": "潮起网",
+      "url": "https://www.ichaoqi.com/guandian/2026/0722/83901.html",
+      "keywords": [
+        "NPU",
+        "周易X3-Pro",
+        "安谋科技",
+        "端侧AI",
+        "AI芯片"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "技术前沿",
+      "id": 87
+    },
+    {
+      "date": "2026-08-17",
+      "category": "tech",
+      "title": "爱芯元智加速布局边缘AI，下一代大算力芯片完成流片",
+      "summary": "爱芯元智已发布边缘芯片AX8850，并于2026年8月成立子公司专注AI推理解决方案。下一代大算力芯片已完成流片，支持多芯片级联，可运行满血大模型。基于该芯片的算力加速卡搭载超1000TOPS推理算力，边缘基础设施建设增速将超越核心数据中心。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimxvum4261757.shtml",
+      "keywords": [
+        "爱芯元智",
+        "边缘AI",
+        "AI芯片",
+        "大模型推理",
+        "1000TOPS"
+      ],
+      "published": "2026-08-11",
+      "categoryLabel": "技术前沿",
+      "id": 88
+    },
+    {
+      "date": "2026-08-17",
+      "category": "policy",
+      "title": "公安部发布《公安机关网络空间安全监督检查办法》，10月1日施行",
+      "summary": "2026年8月7日，公安部正式发布《公安机关网络空间安全监督检查办法》，文件共23条，将于2026年10月1日起施行。该文件是对2018年《公安机关互联网安全监督检查规定》的修订，适配《数据安全法》《个人信息保护法》等现行法规，完善网络空间安全全维度监管规则。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L3VIJCJO0511ALHJ.html",
+      "keywords": [
+        "网络空间安全",
+        "公安部",
+        "监督检查办法",
+        "数据安全法",
+        "个人信息保护法"
+      ],
+      "published": "2026-08-10",
+      "categoryLabel": "政策标准",
+      "id": 89
+    },
+    {
+      "date": "2026-08-17",
+      "category": "policy",
+      "title": "工信部等联合开展2026年个人信息保护专项行动，通报75款违规App",
+      "summary": "中央网信办、工业和信息化部、公安部联合发布《关于开展2026年个人信息保护系列专项行动的公告》，依据《网络安全法》《个人信息保护法》《网络数据安全管理条例》对违法违规收集使用个人信息的移动应用进行专项治理，已通报75款问题应用。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-14/doc-ininhnxp2904023.shtml",
+      "keywords": [
+        "个人信息保护",
+        "专项行动",
+        "App监管",
+        "网络安全法",
+        "数据安全管理"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "政策标准",
+      "id": 90
+    },
+    {
+      "date": "2026-08-17",
+      "category": "policy",
+      "title": "《个人信息保护法》第五十一条解读：企业合规路径",
+      "summary": "《个人信息保护法》第五十一条明确了个人信息处理者的安全保护义务，包括制定内部管理制度、实行分类管理、采取加密和去标识化等技术措施、合理确定操作权限、定期安全培训以及制定应急预案等六大合规路径，为企业提供了清晰的合规指引。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineqhh4623551.shtml",
+      "keywords": [
+        "个人信息保护法",
+        "合规义务",
+        "数据安全",
+        "加密技术",
+        "企业安全"
+      ],
+      "published": "2026-08-13",
+      "categoryLabel": "政策标准",
+      "id": 91
+    },
+    {
+      "date": "2026-08-17",
+      "category": "policy",
+      "title": "十五五规划纲要发布：人工智能与算力基础设施建设重点着墨",
+      "summary": "《中华人民共和国国民经济和社会发展第十五个五年规划纲要（2026年3月版）》正式发布，规划重点着墨于人工智能发展、算力基础设施建设、数字化转型等方向，为未来五年智慧家庭、物联网、边缘计算等产业提供了明确的政策指引和发展目标。",
+      "source": "国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/fggz/fzzlgh/gjfzgh/202603/U020260317369114704096.pdf",
+      "keywords": [
+        "十五五规划",
+        "人工智能",
+        "算力基础设施",
+        "数字化转型",
+        "物联网"
+      ],
+      "published": "2026-03-17",
+      "categoryLabel": "政策标准",
+      "id": 92
+    },
+    {
+      "date": "2026-08-17",
+      "category": "product",
+      "title": "Apple智能家居产品蓝图曝光：安全摄像机和智能门铃即将登场",
+      "summary": "Apple正准备推出首款智能家居配件，包括安全摄像机和智能门铃，表明Apple不仅提供智能家居软件，也开始涉足硬件领域。2026年底至2027年初还将推出配备机械臂和更大9英寸屏幕的桌面机械人，持续扩展家庭智能生态版图。",
+      "source": "流动日报",
+      "url": "https://www.newmobilelife.com/2026/08/16/apple-smart-home-product-roadmap/",
+      "keywords": [
+        "Apple",
+        "智能家居",
+        "安全摄像机",
+        "智能门铃",
+        "家庭机器人"
+      ],
+      "published": "2026-08-16",
+      "categoryLabel": "产品方案",
+      "id": 93
+    },
+    {
+      "date": "2026-08-17",
+      "category": "product",
+      "title": "TP-Link香港电脑通讯节2026：Tapo智能家居产品大幅降价",
+      "summary": "TP-Link确认参展香港电脑通讯节2026（8月21-24日），于会场推出多款Tapo智能家居产品限定优惠，涵盖双镜头摄影机、4K旋转式摄影机、视像门铃、户外电池摄影机及扫拖机械人，其中Tapo RV50 Pro Omni会场价HK$2899，较原厂平HK$2100。",
+      "source": "ezone",
+      "url": "https://ezone.hk/article/20105858/%E9%A6%99%E6%B8%AF%E9%9B%BB%E8%85%A6%E9%80%9A%E8%A8%8A%E7%AF%80-2026-TP-Link",
+      "keywords": [
+        "TP-Link",
+        "Tapo",
+        "智能家居",
+        "香港电脑通讯节",
+        "智能摄像头"
+      ],
+      "published": "2026-08-13",
+      "categoryLabel": "产品方案",
+      "id": 94
+    },
+    {
+      "date": "2026-08-17",
+      "category": "product",
+      "title": "华泰证券：2026年是AI陪伴机器人商业化关键一年",
+      "summary": "华泰证券研报指出，AI陪伴机器人产业正经历从主题叙事走向商业验证，2026年或将是行业由概念展示切换到商业落地的关键一年。孤独、老龄化与家庭小型化抬升需求基础，大模型端侧化使产品进入大众家庭，CES和AWE众头部企业发布家庭场景陪伴机器人，定价下探至2000-4000元区间。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L447LJDF0512B07B.html",
+      "keywords": [
+        "AI陪伴机器人",
+        "商业化",
+        "适老市场",
+        "家庭机器人",
+        "大模型端侧化"
+      ],
+      "published": "2026-08-12",
+      "categoryLabel": "产品方案",
+      "id": 95
+    },
+    {
+      "date": "2026-08-17",
+      "category": "product",
+      "title": "韩国启动AI智能看护服务，为独居老人配语音机器人",
+      "summary": "韩国正式启动AI智能看护服务，为独居老人配备语音机器人以应对紧急情况。AI系统能够实时监测老人状态，在检测到异常时自动通知紧急联系人和相关机构，标志着AI适老化看护服务从概念走向规模化部署。",
+      "source": "AgeClub",
+      "url": "https://www.ageclub.net/article-detail/10231",
+      "keywords": [
+        "AI看护",
+        "独居老人",
+        "语音机器人",
+        "适老化",
+        "韩国"
+      ],
+      "published": "2026-08-12",
+      "categoryLabel": "产品方案",
+      "id": 96
+    },
+    {
+      "date": "2026-08-17",
+      "category": "product",
+      "title": "工信部、民政部推动AI适老产品落地：智能机器人上岗、监测设备进家",
+      "summary": "工业和信息化部、民政部联合推动AI+养老产品落地，深圳智能机器人在福利机构以上岗养老护理员角色提供服务，武汉为高龄独居老人安装智能监测设备。一大批AI适老产品正慢慢走进千家万户，切实解决老年人生活和安全需求。",
+      "source": "人民网",
+      "url": "http://health.people.com.cn/n1/2026/0814/c14739-40779339.html",
+      "keywords": [
+        "AI+养老",
+        "工信部",
+        "民政部",
+        "适老产品",
+        "智能监测"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "产品方案",
+      "id": 97
+    },
+    {
+      "date": "2026-08-17",
+      "category": "scenario",
+      "title": "智能安防行为分析落地：银行、校园、养老院多场景应用",
+      "summary": "行为分析是智能安防的前沿方向，可学习正常行为模式检测异常行为。在银行ATM区域可识别可疑安装行为预防犯罪，在校园可识别欺凌和暴力行为及时报警，在养老院可检测老人跌倒和异常行为及时通知护理人员。2024年中国多所高校已部署该系统并有效预防多起安全事件。",
+      "source": "成都德汇缘",
+      "url": "http://www.douyinl.com/index.php/2026/08/10/%E6%99%BA%E8%83%BD%E5%AE%89%E9%98%B2/",
+      "keywords": [
+        "智能安防",
+        "行为分析",
+        "AI识别",
+        "养老院",
+        "校园安全"
+      ],
+      "published": "2026-08-10",
+      "categoryLabel": "场景落地",
+      "id": 98
+    },
+    {
+      "date": "2026-08-17",
+      "category": "scenario",
+      "title": "2026 AI Agent落地现状：企业数字化转型核心载体",
+      "summary": "进入2026年，AI智能体（AI Agent）正式走出概念验证阶段，成为企业数字化转型的核心落地载体。区别于传统问答机器人，具备自主规划、工具调用、多步骤任务执行、长记忆管理、知识库增强能力的定制化AI智能体，正在制造业、金融业等多领域显著提升效率。",
+      "source": "数商云",
+      "url": "https://m.shushangyun.com/article-42950.html",
+      "keywords": [
+        "AI Agent",
+        "数字化转型",
+        "企业智能化",
+        "多步骤任务",
+        "知识库"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "场景落地",
+      "id": 99
+    },
+    {
+      "date": "2026-08-17",
+      "category": "scenario",
+      "title": "多Agent协同新趋势：从Agent Team到Agent Swarm",
+      "summary": "多Agent协同正经历从Agent Team到Agent Swarm的范式演进。《Towards Self-Driving Codebases》展示了如何让大量Agent协作开发真实项目，DeepSeek Harness入选项目聚焦Agent基础设施和协作编排调度层。多Agent系统在智能安防、家庭机器人协同等场景的应用前景广阔。",
+      "source": "青云AI",
+      "url": "https://qingkeai.online/archives/%20Multi-Agent-form-Agent-to-Swarm",
+      "keywords": [
+        "多Agent协同",
+        "Agent Swarm",
+        "协作编排",
+        "DeepSeek",
+        "智能体"
+      ],
+      "published": "2026-08-15",
+      "categoryLabel": "场景落地",
+      "id": 100
+    },
+    {
+      "date": "2026-08-17",
+      "category": "scenario",
+      "title": "2026年服贸会机器人含量创新高：家庭具身智能机器人诺因智能获融资",
+      "summary": "2026年服贸会机器人含量大幅提升，健康卫生服务专题首次设立未来医疗科技前沿展区。家庭具身智能机器人诺因智能获得融资，海尔外骨骼机器人南京旗舰店开业。具身智能版本EmbodiedAI 1.0.1正式发布，聚焦机器人控制和智能体应用，升级导航规划、运动控制等核心能力。",
+      "source": "AgeClub",
+      "url": "https://m.ageclub.net/article-detail/10221",
+      "keywords": [
+        "具身智能",
+        "家庭机器人",
+        "诺因智能",
+        "服贸会",
+        "人形机器人"
+      ],
+      "published": "2026-08-10",
+      "categoryLabel": "场景落地",
+      "id": 101
+    },
+    {
+      "date": "2026-08-17",
+      "category": "security",
+      "title": "紧急预警：2026年智能摄像头漏洞大爆发",
+      "summary": "2026年智能摄像头漏洞问题突出，高频漏洞包括弱口令、APP权限过大、摄像头被恶意绑定等。核心风险涵盖家庭场景偷窥（卧室、客厅）、孩子和老人被监控、Wi-Fi密码泄露，进而渗透家庭其他IoT设备如扫地机器人、智能门锁等。海康威视、大华用户需重点修复相关漏洞。",
+      "source": "AI硬件创业社区",
+      "url": "https://aiot.csdn.net/6a7b027510ee7a33f2997a42.html",
+      "keywords": [
+        "智能摄像头",
+        "漏洞",
+        "物联网安全",
+        "弱口令",
+        "隐私泄露"
+      ],
+      "published": "2026-08-13",
+      "categoryLabel": "数据安全",
+      "id": 102
+    },
+    {
+      "date": "2026-08-17",
+      "category": "security",
+      "title": "你的智能家居正在监视你：隐私保护实操指南",
+      "summary": "智能家居设备收集的数据可能超出用户认知，黑客目标远不止隐私，还包括通过智能摄像头漏洞渗透家庭其他IoT设备。文章提供了智能路由器隐私设置、摄像头访问控制、设备权限最小化等实用建议，帮助用户保护家庭隐私安全。",
+      "source": "Proton",
+      "url": "https://proton.me/blog/smart-home-privacy",
+      "keywords": [
+        "智能家居",
+        "隐私保护",
+        "物联网安全",
+        "摄像头安全",
+        "家庭网络安全"
+      ],
+      "published": "2026-08-12",
+      "categoryLabel": "数据安全",
+      "id": 103
     }
   ]
 }
