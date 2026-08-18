@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17",
+  "lastUpdated": "2026-08-18",
   "news": [
     {
       "id": 1,
@@ -1841,6 +1841,348 @@
       "published": "2026-08-12",
       "categoryLabel": "数据安全",
       "id": 103
+    },
+    {
+      "date": "2026-08-18",
+      "category": "tech",
+      "title": "Matter 1.5版本发布：智能照明迎来新升级，Thread传感器选购策略生变",
+      "summary": "Matter 1.5版本正式发布，主要针对智能照明场景进行优化。Thread协议与Matter协议的关系进一步明确：Thread是底层无线网状网络通信协议，Matter是基于IP的应用层互操作标准。行业建议新设备采购选择Matter认证，现有Zigbee设备通过桥接方式接入，大规模部署Thread传感器仍需等待生态成熟。",
+      "source": "Future House Store",
+      "url": "https://futurehousestore.co.uk/news/matter-1-5-smart-lighting-uk-2026",
+      "keywords": [
+        "Matter 1.5",
+        "Thread协议",
+        "智能照明",
+        "Matter协议",
+        "Zigbee桥接"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "技术前沿",
+      "id": 104
+    },
+    {
+      "date": "2026-08-18",
+      "category": "tech",
+      "title": "Physical AI首个端边云统一推理运行时PhyAI发布：北邮、北大、清华等联合推出",
+      "summary": "北京邮电大学、北京大学、清华大学及明体科技等机构联合发布PhyAI——面向Physical AI的统一推理运行时。该运行时针对离线评测、云端强化学习Rollout、端侧实时控制、工厂MaaS等四类部署场景，将调度、缓存、算子、图执行和并行统一管理，引入Control-Time Roofline作为性能分析工具，显著降低多场景推理的工程迁移成本。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-14/doc-ininfvzv3003933.shtml",
+      "keywords": [
+        "PhyAI",
+        "Physical AI",
+        "端边云协同",
+        "推理运行时",
+        "边缘智能"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "技术前沿",
+      "id": 105
+    },
+    {
+      "date": "2026-08-18",
+      "category": "tech",
+      "title": "Edge AI 2026：端侧模型为何在隐私、延迟、离线场景全面领先云端",
+      "summary": "2026年Edge AI领域出现关键转折：端侧模型在隐私保护、响应延迟、离线可用性和成本四大维度全面超越云端AI。端侧AI能够在严格时延、能耗与隐私约束下可靠完成推理、预测与动作，异构边缘节点可协同整合感知、预测与控制能力，同时在需要时灵活调用云端资源。分析认为，端侧AI的崛起源于大模型从云端向设备侧的下沉趋势。",
+      "source": "DualMedia",
+      "url": "https://www.dualmedia.com/edge-ai-2026/",
+      "keywords": [
+        "Edge AI",
+        "端侧推理",
+        "隐私保护",
+        "云边端协同",
+        "AI推理"
+      ],
+      "published": "2026-08-16",
+      "categoryLabel": "技术前沿",
+      "id": 106
+    },
+    {
+      "date": "2026-08-18",
+      "category": "tech",
+      "title": "Nordic携边缘AI与全域无线互联技术亮相IOTE 2026，展示多套Matter智能家居方案",
+      "summary": "Nordic Semiconductor在IOTE 2026深圳展上展示基于nRF54LM20 SoC的下一代全屋智能核心技术，涵盖Anona Matter over Wi-Fi智能锁、Thingy:53气象站、智能风扇与智能插座、Eve电动百叶窗等多品类应用。同时展出基于低功耗蓝牙的全域无线互联方案，展示多品牌、跨场景的全屋智能互联能力。",
+      "source": "Nordic Semiconductor中文官网",
+      "url": "https://www.nordicsemi.cn/news/nordic-showcases-edge-ai-and-full-domain-wireless-connectivity-technologies-at-iote-2026-shenzhen/",
+      "keywords": [
+        "Nordic",
+        "IOTE 2026",
+        "Matter",
+        "nRF54LM20",
+        "全屋智能"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "技术前沿",
+      "id": 107
+    },
+    {
+      "date": "2026-08-18",
+      "category": "policy",
+      "title": "欧盟Data Act于2026年生效：智能家居设备数据共享义务与隐私保护新规落地",
+      "summary": "欧盟《数据法案》（Data Act）于2026年正式生效，对智能家居设备的数据共享设定新义务。德国媒体指出，联网家居设备原则上要求信息存储或访问设备需获得知情同意。同时欧盟推进《网络弹性法案》（CRA），要求智能家居设备厂商满足更高的网络安全标准，DSGVO（《通用数据保护条例》）合规要求也同步趋严。",
+      "source": "Baulaser.net",
+      "url": "https://baulaser.net/smart-home-und-dsgvo-so-schutzen-sie-ihre-daten-im-vernetzten-zuhause",
+      "keywords": [
+        "Data Act",
+        "欧盟",
+        "智能家居",
+        "隐私保护",
+        "DSGVO"
+      ],
+      "published": "2026-08-15",
+      "categoryLabel": "政策标准",
+      "id": 108
+    },
+    {
+      "date": "2026-08-18",
+      "category": "policy",
+      "title": "国家信息安全测评中心将AI训练推理芯片纳入安全可靠测评体系",
+      "summary": "2026年5月26日，中国信息安全测评中心与国家保密科技测评中心首次将人工智能训练推理芯片纳入安全可靠测评体系，标志着国产AI算力基础设施正式进入国家信创安全认证体系。测评标准涵盖算力中心选型的五大维度，推动国产AI芯片在政府和关键行业的规模化应用。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/427.htm",
+      "keywords": [
+        "信创",
+        "AI芯片",
+        "安全可靠测评",
+        "国产算力",
+        "国家评测"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "政策标准",
+      "id": 109
+    },
+    {
+      "date": "2026-08-18",
+      "category": "policy",
+      "title": "《个人信息保护法》第51条解读：智能家居数据全生命周期合规要求",
+      "summary": "随着智能家居设备普及，个人信息保护法第五十一条成为行业合规焦点。该条款要求个人信息处理者制定内部管理制度、实行分类管理、采取加密和去标识化技术措施、合理确定操作权限并定期培训，同时制定应急预案。智能家居厂商需建立覆盖采集、存储、使用、传输全流程的合规体系。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-12/doc-inimzytr4033630.shtml",
+      "keywords": [
+        "个人信息保护法",
+        "智能家居",
+        "数据合规",
+        "加密技术",
+        "隐私保护"
+      ],
+      "published": "2026-08-12",
+      "categoryLabel": "政策标准",
+      "id": 110
+    },
+    {
+      "date": "2026-08-18",
+      "category": "policy",
+      "title": "2026 Matter开发者大会10月登陆深圳，聚焦跨品牌跨平台互操作标准",
+      "summary": "IOTE EXPO 2026期间，2026 Matter开发者大会将于10月在深圳举行，由连接标准联盟（CSA）主办。大会将围绕Matter协议的跨品牌、跨平台、跨生态系统互操作性展开讨论，Matter以统一协议、简化开发和安全互联为核心优势，正成为智慧家庭行业最重要的开放连接标准。",
+      "source": "IOTE EXPO",
+      "url": "https://eng.iotexpo.com.cn/conference/2026-matter-developer-conference",
+      "keywords": [
+        "Matter开发者大会",
+        "CSA",
+        "互操作标准",
+        "智慧家庭",
+        "IOTE"
+      ],
+      "published": "2026-08-13",
+      "categoryLabel": "政策标准",
+      "id": 111
+    },
+    {
+      "date": "2026-08-18",
+      "category": "product",
+      "title": "苹果智能家居产品路线图曝光：HomePod mini 2十月发布，7英寸智能家居中枢明年见",
+      "summary": "苹果计划2026年秋季对智能家居产品线进行全面更新：HomePod mini 2将搭载改进AI技术提升语音控制便捷性；同期推出配备A17 Pro处理器的全新Apple TV；2026年10月至2027年初，预计发布配备7英寸屏幕的智能家居中枢，运行全新homeOS系统，整合FaceTime通话与家居控制界面。",
+      "source": "CNMO科技",
+      "url": "https://home.cnmo.com/news/816090.html",
+      "keywords": [
+        "苹果",
+        "HomePod mini 2",
+        "homeOS",
+        "智能家居中枢",
+        "Apple TV"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "产品方案",
+      "id": 112
+    },
+    {
+      "date": "2026-08-18",
+      "category": "product",
+      "title": "海康威视推出掌静脉智能门禁DS-K1T343A：0.5秒极速识别，误识率低于千万分之一",
+      "summary": "海康威视发布DS-K1T343A系列掌静脉智能门禁新品，采用近红外成像技术捕捉手掌内部静脉网络，实现非接触式身份认证。支持0.5秒极速识别，识别距离25-45厘米，误识率低于千万分之一。静脉特征隐藏于皮下、结构复杂且难以复制，配合活体检测，安全性能优于传统人脸识别，适用于高安全场景。",
+      "source": "智慧城市网",
+      "url": "https://www.afzhan.com/news/detail/111185.html",
+      "keywords": [
+        "海康威视",
+        "掌静脉",
+        "智能门禁",
+        "生物识别",
+        "非接触式"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "产品方案",
+      "id": 113
+    },
+    {
+      "date": "2026-08-18",
+      "category": "product",
+      "title": "akubela艾倍徕高端智能家居方案：原生对讲融合+KNX有线无线融合架构",
+      "summary": "深耕高端大宅垂直赛道的智能家居品牌akubela艾倍徕发布选型指南，指出行业普遍存在对讲、全屋智能、安防分属三套独立系统、联动割裂的痛点。akubela以原生对讲融合、KNX有线无线融合架构、全矩阵中控终端为核心壁垒，兼顾本地数据安全与开放国际生态，解决高端项目数据云端集中存储、隐私无兜底方案的问题。",
+      "source": "CSDN",
+      "url": "https://www.csdn.net/article/2026-08-13/163720879",
+      "keywords": [
+        "akubela",
+        "KNX",
+        "高端智能家居",
+        "本地数据安全",
+        "全宅智能"
+      ],
+      "published": "2026-08-13",
+      "categoryLabel": "产品方案",
+      "id": 114
+    },
+    {
+      "date": "2026-08-18",
+      "category": "scenario",
+      "title": "北京东城区建成养老机构智慧安全监管平台：24小时AI哨兵守护养老安全",
+      "summary": "东城区民政局在全市率先建成并启用养老机构智慧安全监管平台，以AI、云计算、视联网等技术融合创新为核心，为辖区所有养老机构织起全天候智慧安全网。该平台实现24小时实时监测，标志着AI+养老在机构场景的规模化落地，智能技术正从能用向好用转变。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqtnx7891796.shtml",
+      "keywords": [
+        "AI养老",
+        "智慧安全监管",
+        "东城区",
+        "适老看护",
+        "机构养老"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "场景落地",
+      "id": 115
+    },
+    {
+      "date": "2026-08-18",
+      "category": "scenario",
+      "title": "韩国启动AI智能看护服务：为独居老人配备语音机器人应对紧急情况",
+      "summary": "韩国政府启动AI智能看护服务试点，为独居老人配备具备语音交互和紧急响应功能的AI机器人。该服务整合多Agent协同技术，实现日常健康监测、异常情况报警和与家人的即时联动，标志着AI适老看护从单一设备向系统性服务方案演进。",
+      "source": "AgeClub",
+      "url": "https://www.ageclub.net/article-detail/10231",
+      "keywords": [
+        "韩国",
+        "AI适老",
+        "语音机器人",
+        "独居老人",
+        "智能看护"
+      ],
+      "published": "2026-08-12",
+      "categoryLabel": "场景落地",
+      "id": 116
+    },
+    {
+      "date": "2026-08-18",
+      "category": "scenario",
+      "title": "2026年多Agent协同工具爆发：从单模型到团队协作的AI编排革命",
+      "summary": "2026年多智能体协作（Multi-Agent System）成为确定性的AI趋势。行业共识已从\"找个最强模型把任务丢给它\"转向多Agent协同编排：将大任务拆分为多个子任务，由不同专业Agent分别执行后汇总。这一模式已在智能家居、安防监控、家庭养老等场景中展现巨大效率优势。",
+      "source": "AI Tool Lab",
+      "url": "https://www.aitoollab.cn/articles/multi-agent-ai-tools-guide-2026/",
+      "keywords": [
+        "多Agent协同",
+        "AI编排",
+        "Multi-Agent",
+        "智能协作",
+        "AI工具"
+      ],
+      "published": "2026-08-16",
+      "categoryLabel": "场景落地",
+      "id": 117
+    },
+    {
+      "date": "2026-08-18",
+      "category": "scenario",
+      "title": "AI+养老产品要\"走心\"：产学研用深度联动推动适老化产品迭代",
+      "summary": "人民网和新浪财经同期发文聚焦AI+养老产品发展路径，强调智能养老产品不仅要做好硬件功能的适老化打磨，补齐健康管护、安全守护的实用功能，更要把人文温度注入技术研发全流程，关照老年人情感世界。同时应筑牢数据安全与隐私保护防线，推动产品从\"能用\"向\"好用、暖心\"转变。",
+      "source": "人民网/新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-08-14/doc-ininhtfm2829321.shtml",
+      "keywords": [
+        "AI养老",
+        "适老化",
+        "人文温度",
+        "隐私保护",
+        "产学研用"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "场景落地",
+      "id": 118
+    },
+    {
+      "date": "2026-08-18",
+      "category": "security",
+      "title": "2026年智能摄像头漏洞大爆发：家庭场景隐私泄露风险急剧上升",
+      "summary": "安全研究显示2026年智能摄像头漏洞进入集中爆发期。核心风险包括：家庭场景偷窥（卧室、客厅）、孩子和老人被监控、Wi-Fi密码泄露，进而渗透家庭其他IoT设备（扫地机器人、智能门锁）。典型案例中，用户将摄像头安装在卧室，弱口令被破解后监控画面被上传至暗网。行业呼吁用户提升安全意识，厂商加强固件更新和加密传输。",
+      "source": "AIoT科技",
+      "url": "https://aiot.csdn.net/6a7b027510ee7a33f2997a42.html",
+      "keywords": [
+        "智能摄像头",
+        "漏洞",
+        "隐私泄露",
+        "家庭安全",
+        "IoT安全"
+      ],
+      "published": "2026-08-13",
+      "categoryLabel": "数据安全",
+      "id": 119
+    },
+    {
+      "date": "2026-08-18",
+      "category": "security",
+      "title": "国产AI芯片国内市场份额有望接近90%，数据安全与供应链自主可控成核心驱动力",
+      "summary": "TrendForce上调对中国国产AI芯片扩张速度的判断：2026年国产AI芯片在国内市场份额有望接近90%，去年12月预估仅约50%。背后驱动因素包括国内AI算力需求快速增长（全国智能算力规模已达188万PFLOPS）、美国对高端芯片出口管制，以及国产算力在应用落地时效率和生态难题逐步被DSpark等优化方案解决。",
+      "source": "老妖吧",
+      "url": "http://laoyaoba.com/n/1081045",
+      "keywords": [
+        "国产AI芯片",
+        "市场份额",
+        "供应链自主",
+        "数据安全",
+        "AI算力"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "数据安全",
+      "id": 120
+    },
+    {
+      "date": "2026-08-18",
+      "category": "security",
+      "title": "苹果印度供应商塔塔电子遭黑客窃取630GB数据：iPhone 18 Pro设计图及A20 Pro芯片信息泄露",
+      "summary": "2026年7月，苹果印度供应商塔塔电子遭黑客攻击，630GB数据被窃，其中包括iPhone 18 Pro核心设计图及新A20 Pro芯片详细信息，涉及主板布局和散热创新。苹果正联合塔塔调查并采取法律措施。此事件引发业界对供应链安全管理的高度关注，也为中国智能家居厂商的供应链安全敲响警钟。",
+      "source": "太平洋科技",
+      "url": "https://www.pconline.com.cn/focus/2180/21801085.html",
+      "keywords": [
+        "供应链安全",
+        "数据泄露",
+        "塔塔电子",
+        "苹果",
+        "供应链管理"
+      ],
+      "published": "2026-08-12",
+      "categoryLabel": "数据安全",
+      "id": 121
+    },
+    {
+      "date": "2026-08-18",
+      "category": "security",
+      "title": "国家计算机病毒应急处理中心预警勒索病毒\"Sorry\"：企业内网数据安全敲响警钟",
+      "summary": "国家计算机病毒应急处理中心发布勒索病毒\"Sorry\"预警，该病毒将用户重要文件加密并添加\".sorry\"后缀，恐造成企业内网大面积感染。攻击者留下勒索信要求下载加密通信工具联系。事件再次将企业内网数据安全与勒索软件治理推上焦点，智能家居企业作为数据处理者，需严格落实《个人信息保护法》第51条的安全技术措施。",
+      "source": "知乎/IT之家",
+      "url": "https://zhuanlan.zhihu.com/p/2070420516557566775",
+      "keywords": [
+        "勒索病毒",
+        "数据安全",
+        "企业内网",
+        "应急处理",
+        "个人信息保护"
+      ],
+      "published": "2026-08-11",
+      "categoryLabel": "数据安全",
+      "id": 122
     }
   ]
 }
