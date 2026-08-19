@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18",
+  "lastUpdated": "2026-08-19",
   "news": [
     {
       "id": 1,
@@ -2183,6 +2183,383 @@
       "published": "2026-08-11",
       "categoryLabel": "数据安全",
       "id": 122
+    },
+    {
+      "date": "2026-08-19",
+      "category": "tech",
+      "title": "Matter 1.6 标准发布：新增 Joint Fabric 实现跨生态设备共享",
+      "summary": "Matter 1.6 于2026年6月正式发布，最新状态于8月得到确认。新版本引入 Joint Fabric 功能，允许设备更无缝地在不同网络平台之间共享，突破了此前跨生态协作的障碍。Matter 协议正在四大主流平台（Apple Home、Google Home、Amazon Alexa、Samsung SmartThings）的基础类别（灯具、锁、插头、恒温器、传感器）上实现可靠互通。",
+      "source": "INT News",
+      "url": "https://intnews.it/en/home-automation-and-the-smart-home-a-complete-guide-2026/",
+      "keywords": [
+        "Matter 1.6",
+        "Joint Fabric",
+        "智能家居",
+        "跨平台互通",
+        "Thread协议"
+      ],
+      "published": "2026-08-13",
+      "categoryLabel": "技术前沿",
+      "id": 123
+    },
+    {
+      "date": "2026-08-19",
+      "category": "tech",
+      "title": "Matter Service API 发布：首个统一智能家居设备管理接口",
+      "summary": "Matter Service API 是首个标准化解决方案，使服务提供商能够完整查看智能家居网络中任意品牌的所有 Matter 设备，而不受制造商限制。该接口简化了设备管理流程，为服务提供商和运营商提供了统一的设备视图，是 Matter 生态走向成熟的重要里程碑。",
+      "source": "Daily Tribune",
+      "url": "https://www.daily-tribune.com/online_features/press_releases/new-interface-simplifies-management-of-matter-powered-smart-homes/article_4ea9f360-87e4-5be6-8b04-e02a7dfa693a.html",
+      "keywords": [
+        "Matter Service API",
+        "设备管理",
+        "标准化接口",
+        "智能家居"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "技术前沿",
+      "id": 124
+    },
+    {
+      "date": "2026-08-19",
+      "category": "tech",
+      "title": "Needle 14MB 超轻量基础模型发布：专为微型设备与智能家居端侧推理设计",
+      "summary": "Needle 是 cactus-compute 开源的超轻量级基础模型，仅14MB大小，专为资源受限的微型设备优化，包括智能手机、可穿戴设备、智能家居系统及机器人。该模型通过 Simple Attention Network 架构实现高效压缩，在极小参数规模下展现了基础模型能力，推动端侧 AI 在隐私保护和数据本地化处理方面迈出关键一步。",
+      "source": "AIToolly",
+      "url": "https://aitoolly.com/zh/ai-news/article/2026-08-18-needle-a-14mb-foundation-model-revolutionizing-ai-for-micro-devices-and-wearables",
+      "keywords": [
+        "Needle",
+        "端侧AI",
+        "轻量化模型",
+        "边缘计算",
+        "智能家居"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "技术前沿",
+      "id": 125
+    },
+    {
+      "date": "2026-08-19",
+      "category": "tech",
+      "title": "Edge AI 2026：端侧推理模型正在超越云端 AI",
+      "summary": "2026年，端侧 AI 正在依托 NPU、移动 GPU 和专用低功耗推理芯片，在手机、笔记本、耳机、汽车、摄像头等设备上本地运行模型，而非完全依赖远程数据中心。Edge AI 的核心优势在于低延迟、高隐私和持续可用性，NPU加速的端侧模型正成为主流选择。",
+      "source": "DualMedia",
+      "url": "https://www.dualmedia.com/edge-ai-2026/",
+      "keywords": [
+        "Edge AI",
+        "端侧推理",
+        "NPU",
+        "隐私计算",
+        "本地AI"
+      ],
+      "published": "2026-08-16",
+      "categoryLabel": "技术前沿",
+      "id": 126
+    },
+    {
+      "date": "2026-08-19",
+      "category": "tech",
+      "title": "阿里发布 Qwen3.8-27B 可在笔记本运行的端侧大模型",
+      "summary": "阿里发布 Qwen3.8-27B 大模型，表明高性能大模型正更多在边缘端运行，而不只是跑在数据中心。行业专家认为，端侧 AI 在手机、笔记本本地硬件运行，速度更快，安全性也更高。该模型可在笔记本上本地运行，标志着国产大模型端侧部署能力进入新阶段。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruye0019913.shtml",
+      "keywords": [
+        "Qwen3.8-27B",
+        "端侧大模型",
+        "阿里",
+        "笔记本AI",
+        "隐私计算"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "技术前沿",
+      "id": 127
+    },
+    {
+      "date": "2026-08-19",
+      "category": "policy",
+      "title": "中国城域算力2028年目标：1毫秒时延圈覆盖率达到75%",
+      "summary": "2026年政策进一步提出，到2028年城域算力「1毫秒时延圈」覆盖率要达到不低于75%的目标。这说明中国算力基础设施正在从单纯追求「有多少算力」，转向算力能否快速到达需要它的地方，边缘计算成为政策重点支持方向。",
+      "source": "Editorial Ge",
+      "url": "https://cn.editorialge.com/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%B8%9A%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97/",
+      "keywords": [
+        "城域算力",
+        "1毫秒时延圈",
+        "边缘计算",
+        "政策",
+        "算力基础设施"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "政策标准",
+      "id": 128
+    },
+    {
+      "date": "2026-08-19",
+      "category": "policy",
+      "title": "端侧AI规范化标准正式施行，央企场景开放试点落地",
+      "summary": "2026年7月，国内AI领域政策与产业端均有实质性推进。端侧AI规范化标准正式施行，央企场景开放试点落地，各大头部厂商同步上调AI算力资本开支。国产大模型完成新一轮迭代，政企云、AI办公等商业化订单有所增长。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L4JUPTRC05396IQY.html",
+      "keywords": [
+        "端侧AI",
+        "标准化",
+        "央企试点",
+        "国产大模型",
+        "政策"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "政策标准",
+      "id": 129
+    },
+    {
+      "date": "2026-08-19",
+      "category": "policy",
+      "title": "欧盟Data Act 2026新规：智能家居数据共享义务与隐私保护升级",
+      "summary": "欧盟Data Act于2026年生效，对智能家居设备数据共享设立新义务。每项信息存储或对智能家居设备的访问原则上均需获得知情同意，狭义例外除外。欧盟同时推进网络设备网络安全法规（CRA），要求智能家居厂商加强设备安全性。",
+      "source": "Baulaser.net",
+      "url": "https://baulaser.net/smart-home-und-dsgvo-so-schutzen-sie-ihre-daten-im-vernetzten-zuhause",
+      "keywords": [
+        "Data Act",
+        "智能家居",
+        "数据共享",
+        "GDPR",
+        "隐私保护"
+      ],
+      "published": "2026-08-15",
+      "categoryLabel": "政策标准",
+      "id": 130
+    },
+    {
+      "date": "2026-08-19",
+      "category": "policy",
+      "title": "苹果智能家居产品路线图曝光：HomePod mini 2 等多款新品2026年推出",
+      "summary": "苹果计划于2026年秋季对智能家居产品线进行全面更新，核心产品为搭载改进人工智能技术的HomePod mini 2，旨在提升日常语音控制的便捷性。同时苹果正开发首款智能家居安全摄像头和智能门铃，并计划推出配备机械臂和更大屏幕的高端智能家居显示器。",
+      "source": "CNMO科技",
+      "url": "https://home.cnmo.com/news/816090.html",
+      "keywords": [
+        "苹果",
+        "HomePod mini 2",
+        "智能家居",
+        "智能摄像头",
+        "产品路线图"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "政策标准",
+      "id": 131
+    },
+    {
+      "date": "2026-08-19",
+      "category": "product",
+      "title": "Apple 智能家居产品路线图曝光：安全摄像头、智能门铃即将登场",
+      "summary": "外媒报道苹果正准备推出首款智能家居配件，包括安全摄像头和智能门铃，表明苹果不仅提供智能家居软件，也开始涉足硬件领域。这两款产品发布时间尚未确定。此外，苹果还将推出智能家居显示器的高端版本，配备机械臂和9英寸屏幕，被形容为桌面机器人。",
+      "source": "流动日报",
+      "url": "https://www.newmobilelife.com/2026/08/16/apple-smart-home-product-roadmap/",
+      "keywords": [
+        "苹果",
+        "智能家居",
+        "安全摄像头",
+        "智能门铃",
+        "Matter协议"
+      ],
+      "published": "2026-08-16",
+      "categoryLabel": "产品方案",
+      "id": 132
+    },
+    {
+      "date": "2026-08-19",
+      "category": "product",
+      "title": "TP-Link 香港电子展推 Tapo 智能家居全线产品，扫拖机械人减幅达2100港元",
+      "summary": "TP-Link 在香港电脑通讯节2026带来全系列 Tapo 智能家居产品，包括双镜头摄像头、4K旋转式摄像头、视像门铃、户外电池摄像头及扫拖机械人。其中 Tapo RV50 Pro Omni 会场价HK$2899，较原价平HK$2100，Wi-Fi 7路由器亦同步亮相。",
+      "source": "ezone",
+      "url": "https://ezone.hk/article/20105858/%E9%A6%99%E6%B8%AF%E9%9B%BB%E8%85%A6%E9%80%9A%E8%A8%8A%E7%AF%80-2026-TP-Link",
+      "keywords": [
+        "TP-Link",
+        "Tapo",
+        "智能家居",
+        "扫拖机械人",
+        "Wi-Fi 7"
+      ],
+      "published": "2026-08-13",
+      "categoryLabel": "产品方案",
+      "id": 133
+    },
+    {
+      "date": "2026-08-19",
+      "category": "product",
+      "title": "IKEA 智能灯泡全面支持 Matter 协议：一分钟完成跨平台设置",
+      "summary": "IKEA 智能灯泡现已全面支持 Matter 协议，可与 Apple Home、Google Home 和 Alexa 无缝配合， setup 只需不到一分钟。该灯泡采用耐用塑料外壳，可调节亮度和任意颜色，既可放置在架子或墙面。在2026年，Matter 兼容设备已覆盖四大主流平台的基础类别，实现真正的即插即用。",
+      "source": "CNET",
+      "url": "https://www.cnet.com/home/smart-home/copy-of-best-smart-home-devices-of-2026-everyday-upgrades/",
+      "keywords": [
+        "IKEA",
+        "Matter协议",
+        "智能灯泡",
+        "Apple Home",
+        "Google Home"
+      ],
+      "published": "2026-08-16",
+      "categoryLabel": "产品方案",
+      "id": 134
+    },
+    {
+      "date": "2026-08-19",
+      "category": "product",
+      "title": "北美智能门锁市场竞争加剧：AI、生物识别与 Matter 连接成焦点",
+      "summary": "北美住宅智能门锁市场正在加速发展，Matter 互操作性、无钥匙进入和家庭改造需求推动主流普及。厂商纷纷投资 AI 和生物识别技术，提升安全性和用户体验。Matter 协议的普及正在打破品牌壁垒，不同品牌的门锁可以在同一生态下协同工作。",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/08/14/3345173/0/en/north-america-smart-lock-competition-intensifies-as-manufacturers-invest-in-ai-biometrics-and-matter-enabled-connectivity.html",
+      "keywords": [
+        "智能门锁",
+        "Matter协议",
+        "AI生物识别",
+        "北美市场",
+        "无钥匙进入"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "产品方案",
+      "id": 135
+    },
+    {
+      "date": "2026-08-19",
+      "category": "scenario",
+      "title": "北京东城区建成养老机构智慧安全监管平台：24小时AI哨兵覆盖180余路监控",
+      "summary": "北京东城区建成养老机构智慧安全监管平台，依托深度学习的智能分析体系，将安全隐患发现节点大幅提前。平台具备火情识别、吸烟预警算法24小时排查、人员值守检测、人流密度监测及服务质量记录等功能。全区所有养老机构已全部纳入平台监管，180余路AI智能监控点位覆盖所有重点公共区域。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqtnx7891796.shtml",
+      "keywords": [
+        "AI哨兵",
+        "养老机构",
+        "智能安防",
+        "智慧监管",
+        "北京东城"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "场景落地",
+      "id": 136
+    },
+    {
+      "date": "2026-08-19",
+      "category": "scenario",
+      "title": "新华保险「AI+养老」实践：从「人盯人」到「数盯人」的转型",
+      "summary": "新华保险旗下公寓引入毫米波雷达、智能药盒等技术，结合长护险与保险客户权益，探索「机构带社区、社区带家庭」的分级AI养老服务模式。公寓计划设立智慧康养实训基地，将AI设备操作、数据解读纳入护理员培训体系，并引入具备同理心的交互机器人弥补纯监测设备在情感层面的缺失。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-18/doc-inintxxr9960943.shtml",
+      "keywords": [
+        "AI养老",
+        "新华保险",
+        "毫米波雷达",
+        "智能药盒",
+        "分级养老"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "场景落地",
+      "id": 137
+    },
+    {
+      "date": "2026-08-19",
+      "category": "scenario",
+      "title": "韩国AI老年照护服务在热浪天气中异常发现量大增",
+      "summary": "韩国在热浪天气期间，AI老年照护服务的异常发现数量大幅增加，银发数字护理渗透率显著提升。远程报警手环、自动跌倒检测装置、智能药盒、居家传感器和视频陪伴终端等产品逐渐进入家庭和养老机构，AI技术在老年健康监测中的作用日益凸显。",
+      "source": "AgeClub",
+      "url": "https://m.ageclub.net/article-detail/10301",
+      "keywords": [
+        "AI养老",
+        "韩国",
+        "适老化",
+        "跌倒检测",
+        "数字护理"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "场景落地",
+      "id": 138
+    },
+    {
+      "date": "2026-08-19",
+      "category": "scenario",
+      "title": "全屋智能选型指南：毫米波跌倒监测与智能门禁成家庭安防核心",
+      "summary": "2026全屋智能选型指南指出，多代同堂家庭的核心诉求是安防与健康监测。老人指纹磨损，遥感识别智能门可实现3-6米主动识别；毫米波跌倒监测无需佩戴设备，覆盖卫浴、客厅等高频活动空间；厨房燃气、水浸监测联动自动关阀开窗。门磁窗磁传感器可实时监测儿童安全状态。",
+      "source": "凤凰网",
+      "url": "https://hainan.ifeng.com/c/8vVHTruqRHM",
+      "keywords": [
+        "全屋智能",
+        "毫米波跌倒监测",
+        "智能门禁",
+        "家庭安防",
+        "适老化"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "场景落地",
+      "id": 139
+    },
+    {
+      "date": "2026-08-19",
+      "category": "security",
+      "title": "2026年数据泄露规模创历史新高：AI网络攻击扮演核心角色",
+      "summary": "2026年数据泄露通知数量已超过历年全年总量，AI在其中扮演越来越重要的角色。2026年上半年，仅有24%的泄露通知包含了面向受影响消费者的数据泄露细节。Brinks Home等家庭安全公司确认数据泄露，ShinyHunters威胁组织宣称对其实施攻击，家庭安全行业成为新的攻击目标。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html",
+      "keywords": [
+        "数据泄露",
+        "AI网络攻击",
+        "家庭安全",
+        "ShinyHunters",
+        "智能家居"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "数据安全",
+      "id": 140
+    },
+    {
+      "date": "2026-08-19",
+      "category": "security",
+      "title": "物联网设备每日遭受约82万次攻击：智能家居平均每天29次入侵尝试",
+      "summary": "全球物联网设备每日面临约82万次攻击（2025-2026年数据）。联网家庭在2025年平均每天遭遇29次入侵尝试，较2024年增长两倍。黑客可以在家外通过笔记本和软件拦截无线信号，抑制警报并禁用传感器。智能家居安全成为家庭网络安全的关键战场。",
+      "source": "Vectra AI",
+      "url": "https://www.vectra.ai/topics/iot-security",
+      "keywords": [
+        "物联网安全",
+        "智能家居攻击",
+        "网络安全",
+        "入侵尝试",
+        "无线信号劫持"
+      ],
+      "published": "2026-08-16",
+      "categoryLabel": "数据安全",
+      "id": 141
+    },
+    {
+      "date": "2026-08-19",
+      "category": "security",
+      "title": "欧盟论坛聚焦智能家居隐私保护：DSGVO、CRA与Data Act三大法规协同",
+      "summary": "德国 Forum Hausgeräte 协会发布智能家居设备数据使用和网络安全指南，聚焦 GDPR（DSGVO）、网络设备网络安全法规（CRA）和 Data Act 三大法规框架下的合规要求。智能家居设备须在数据存储、访问和共享方面获得明确同意，同时遵守网络安全更新义务，透明度成为赢得消费者信任的关键。",
+      "source": "i-Magazin",
+      "url": "https://i-magazin.com/forum-hausgeraete-ordnet-datenschutz-bei-smart-home-geraeten-ein/",
+      "keywords": [
+        "智能家居",
+        "隐私保护",
+        "DSGVO",
+        "CRA法规",
+        "Data Act"
+      ],
+      "published": "2026-08-13",
+      "categoryLabel": "数据安全",
+      "id": 142
+    },
+    {
+      "date": "2026-08-19",
+      "category": "security",
+      "title": "端侧AI安全优势凸显：数据本地处理无需上传云端",
+      "summary": "Needle等超轻量化模型的出现极大提升了用户隐私保护水平，因为数据可以在本地完成处理，无需上传至云端服务器。端侧AI架构从源头减少了数据暴露风险，攻击面远小于传统云端AI方案。对于机器人和智能家居行业而言，端侧AI提供了低成本、高效率且高隐私的AI集成方案。",
+      "source": "AIToolly",
+      "url": "https://aitoolly.com/zh/ai-news/article/2026-08-18-needle-a-14mb-foundation-model-revolutionizing-ai-for-micro-devices-and-wearables",
+      "keywords": [
+        "端侧AI",
+        "隐私保护",
+        "数据本地化",
+        "边缘计算",
+        "安全计算"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "数据安全",
+      "id": 143
     }
   ]
 }
