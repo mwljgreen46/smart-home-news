@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19",
+  "lastUpdated": "2026-08-20",
   "news": [
     {
       "id": 1,
@@ -2560,6 +2560,366 @@
       "published": "2026-08-18",
       "categoryLabel": "数据安全",
       "id": 143
+    },
+    {
+      "date": "2026-08-20",
+      "category": "tech",
+      "title": "Matter 1.6 标准发布：新增 Joint Fabric 设备共享功能",
+      "summary": "Matter 1.6 于2026年6月正式发布，最新版本引入 Joint Fabric 功能，实现设备在不同网络间更无缝的共享。同时配合 Broadband Forum 的 MatterService API (TR-517)，为宽带运营商、路由器厂商和智能家居服务商提供统一的设备管理接口。",
+      "source": "INT News",
+      "url": "https://intnews.it/en/home-automation-and-the-smart-home-a-complete-guide-2026/",
+      "keywords": [
+        "Matter 1.6",
+        "Joint Fabric",
+        "智能家居标准",
+        "互联互通",
+        "TR-517"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "技术前沿",
+      "id": 144
+    },
+    {
+      "date": "2026-08-20",
+      "category": "tech",
+      "title": "Needle：14MB 超轻量端侧模型，支持工具调用与设备控制",
+      "summary": "cactus-compute 开源的 Needle 模型仅 14MB、45M 参数，基于 Simple Attention Network 压缩至 CQ2-bit，面向工具调用、设备控制与结构化抽取场景。整场会话仅需约 28MB RAM，为微型设备和智能家居提供低功耗 AI 能力。",
+      "source": "AIToolly",
+      "url": "https://aitoolly.com/zh/ai-news/article/2026-08-17-needle-2-a-compact-14mb-base-model-designed-for-mobile-wearables-and-smart-home-integration",
+      "keywords": [
+        "Needle",
+        "端侧AI",
+        "超轻量模型",
+        "边缘计算",
+        "智能家居"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "技术前沿",
+      "id": 145
+    },
+    {
+      "date": "2026-08-20",
+      "category": "tech",
+      "title": "中国工业边缘计算：世界级基础设施加速形成",
+      "summary": "2026年政策提出到2028年城域算力「1毫秒时延圈」覆盖率达到75%目标。边缘计算正在从单纯追求算力规模转向解决算力快速部署问题，低延迟、高稳定的特性使其成为工业现场、安防监控等实时性场景的核心支撑。",
+      "source": "Editorial Ge China",
+      "url": "https://cn.editorialge.com/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%B8%9A%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97/",
+      "keywords": [
+        "边缘计算",
+        "云边端",
+        "算力基础设施",
+        "低延迟",
+        "工业互联网"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "技术前沿",
+      "id": 146
+    },
+    {
+      "date": "2026-08-20",
+      "category": "tech",
+      "title": "Edge AI 2026：端侧模型借助 NPU/GPU 超越云端 AI",
+      "summary": "Edge AI 指在手机、笔记本、耳机、汽车、摄像头等本地设备上运行 AI 模型，而非完全依赖远程数据中心。2026年，端侧模型通过 NPU、移动 GPU 和专用低功耗推理芯片加速，在隐私保护、响应延迟和离线可用性上建立优势。",
+      "source": "DualMedia",
+      "url": "https://www.dualmedia.com/edge-ai-2026/",
+      "keywords": [
+        "Edge AI",
+        "端侧推理",
+        "NPU",
+        "隐私保护",
+        "设备端AI"
+      ],
+      "published": "2026-08-16",
+      "categoryLabel": "技术前沿",
+      "id": 147
+    },
+    {
+      "date": "2026-08-20",
+      "category": "tech",
+      "title": "智谱AI、DeepSeek 自研芯片，国产大模型布局硬件护城河",
+      "summary": "智谱AI和DeepSeek效仿谷歌 TPU 与 OpenAI，亲自下场设计芯片，以摆脱供应链限制并降低长期云端推理成本。智谱已完成 GLM-5 与华为昇腾、摩尔线程等7家国产芯片平台的适配，在全球 Artificial Analysis 榜单排名第四、开源第一。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3886800988680200",
+      "keywords": [
+        "国产AI芯片",
+        "智谱AI",
+        "DeepSeek",
+        "端侧推理",
+        "大模型自研芯片"
+      ],
+      "published": "2026-08-15",
+      "categoryLabel": "技术前沿",
+      "id": 148
+    },
+    {
+      "date": "2026-08-20",
+      "category": "policy",
+      "title": "2026年个人信息保护专项行动取得阶段性成效",
+      "summary": "中央网信办、工信部、公安部联合开展个人信息保护专项行动，累计对2万余款 App、SDK 开展核查检测，督促4000余款完成合规整改，公开通报1100余款存在违法违规问题的 App、SDK，对400余款采取下架等处置处罚措施。",
+      "source": "南方网",
+      "url": "https://news.southcn.com/node_47a8059d6c/e7811f3ef3.shtml",
+      "keywords": [
+        "个人信息保护",
+        "App治理",
+        "SDK合规",
+        "专项行动",
+        "数据安全"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "政策标准",
+      "id": 149
+    },
+    {
+      "date": "2026-08-20",
+      "category": "policy",
+      "title": "全球数据隐私法律格局：172国已立法，监管从立法转向强化",
+      "summary": "截至2026年，已有172个国家出台数据保护法律，较2015年的约100国增长72%。监管焦点正从制定新法转向加强现有法律的执行力度，企业合规成本持续上升，消费者数据权利进一步得到制度保障。",
+      "source": "Osano",
+      "url": "https://www.osano.com/articles/data-privacy-laws",
+      "keywords": [
+        "数据隐私法",
+        "全球合规",
+        "GDPR",
+        "个人信息权",
+        "监管执法"
+      ],
+      "published": "2026-08-15",
+      "categoryLabel": "政策标准",
+      "id": 150
+    },
+    {
+      "date": "2026-08-20",
+      "category": "policy",
+      "title": "英国推进 IoT 安全法规，Popular TCP/IP 栈 DNS 漏洞受关注",
+      "summary": "2026年英国积极推进 IoT 安全立法，SecurityWeek 报道显示流行 TCP/IP 栈存在系列 DNS 漏洞，可能被利用控制受影响设备。同时，英国监管机构针对智能设备安全性的要求日益严格，倒逼厂商提升产品安全标准。",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/category/iot-security/page/13/",
+      "keywords": [
+        "IoT安全",
+        "英国法规",
+        "DNS漏洞",
+        "智能设备安全",
+        "网络安全"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "政策标准",
+      "id": 151
+    },
+    {
+      "date": "2026-08-20",
+      "category": "policy",
+      "title": "苹果智能家居产品路线图曝光：HomePod mini 2 与 7 英寸智能家居中枢",
+      "summary": "苹果计划2026年秋季推出 HomePod mini 2，搭载改进 AI 技术提升语音控制便捷性；2026年10月至2027年初发布配备7英寸屏幕的智能家居中枢，运行全新 homeOS 操作系统，集成 FaceTime 通话与家居控制。",
+      "source": "CNMO科技",
+      "url": "https://home.cnmo.com/news/816090.html",
+      "keywords": [
+        "苹果智能家居",
+        "HomePod",
+        "homeOS",
+        "Matter",
+        "智能家居中枢"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "政策标准",
+      "id": 152
+    },
+    {
+      "date": "2026-08-20",
+      "category": "product",
+      "title": "荣耀 Robot Phone 全球首款机器人手机上市，9999元起",
+      "summary": "荣耀于8月12日发布全球首款机器人手机 Robot Phone，8月20日正式开售，售价9999元起。该设备配备机械臂和更大屏幕，被形容为桌面机器人，是荣耀在智能家居领域的一次突破性产品创新。",
+      "source": "凤凰网",
+      "url": "https://tech.ifeng.com/c/8vfrseTEw78",
+      "keywords": [
+        "荣耀",
+        "Robot Phone",
+        "机器人手机",
+        "智能家居",
+        "创新产品"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "产品方案",
+      "id": 153
+    },
+    {
+      "date": "2026-08-20",
+      "category": "product",
+      "title": "谷歌 Pixel 11 搭载 Tensor G6：TPU 算力提升50%，端侧 AI 能力增强",
+      "summary": "谷歌 Pixel 11 搭载 Tensor G6 芯片，TPU 算力增加50%，实现更强大的端侧 AI 推理能力。苹果 A19 Pro 也在 GPU 中集成 AI 加速器，iPhone 17 Pro 持续运行大模型时可保持 30+ tok/s 推理速度，手机端侧 AI 竞争加剧。",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202608/567784.shtml",
+      "keywords": [
+        "谷歌Pixel",
+        "Tensor G6",
+        "端侧AI",
+        "手机芯片",
+        "NPU算力"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "产品方案",
+      "id": 154
+    },
+    {
+      "date": "2026-08-20",
+      "category": "product",
+      "title": "北美的智能门锁市场：Matter 互操作性与 AI 生物识别驱动普及",
+      "summary": "北美住宅智能门锁市场加速增长，Matter 互操作性、无钥匙访问和家庭改造需求成为主流采用的核心驱动力。厂商纷纷投资 AI 和生物识别技术，提升产品安全性和用户体验。",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/08/14/3345173/0/en/north-america-smart-lock-competition-intensifies-as-manufacturers-invest-in-ai-biometrics-and-matter-enabled-connectivity.html",
+      "keywords": [
+        "智能门锁",
+        "Matter协议",
+        "AI生物识别",
+        "北美市场",
+        "无钥匙访问"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "产品方案",
+      "id": 155
+    },
+    {
+      "date": "2026-08-20",
+      "category": "scenario",
+      "title": "北京东城区建成养老机构智慧安全监管平台，180余路 AI 监控覆盖",
+      "summary": "东城区建成养老机构智慧安全监管平台，24小时「AI哨兵」实现全区养老机构全覆盖。平台具备火情识别、吸烟预警、人员值守检测、人流密度监测和服务质量记录等功能，将安全隐患发现节点大幅提前。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqtnx7891796.shtml",
+      "keywords": [
+        "AI哨兵",
+        "养老机构",
+        "智能安防",
+        "智慧监管",
+        "跌倒检测"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "场景落地",
+      "id": 156
+    },
+    {
+      "date": "2026-08-20",
+      "category": "scenario",
+      "title": "「AI+养老」产品要「走心」：产学研用深度联动成关键",
+      "summary": "机械臂艾灸设备、智能理疗床、智慧守护机器人等技术正在渗透养老生活。专家呼吁推动科研院所与养老机构深度联动，将居家照护、社区康养、机构护理不同场景的痛点转化为产品优化方向，形成满足多层次需求的机器人产品。",
+      "source": "人民网",
+      "url": "http://health.people.com.cn/n1/2026/0814/c14739-40779339.html",
+      "keywords": [
+        "AI养老",
+        "适老化产品",
+        "智慧康养",
+        "产学研用",
+        "机器人"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "场景落地",
+      "id": 157
+    },
+    {
+      "date": "2026-08-20",
+      "category": "scenario",
+      "title": "香港樂齡科技趨勢：從被動照護到精準復康的生態系統演進",
+      "summary": "香港樂齡科技正從單純的輔具支援，演進為結合 AI、XR 與大數據的智慧復康生態系統。2026-2027年趨勢顯示，康復治療逐漸擺脫對院舍與診所的依賴，居家和社區場景中的智能設備滲透率持續提升。",
+      "source": "Motive Force",
+      "url": "https://www.motivef.com/blog/hong-kong-gerontechnology-trends-2026-27",
+      "keywords": [
+        "樂齡科技",
+        "香港养老",
+        "智慧復康",
+        "AI照護",
+        "社區養老"
+      ],
+      "published": "2026-08-13",
+      "categoryLabel": "场景落地",
+      "id": 158
+    },
+    {
+      "date": "2026-08-20",
+      "category": "scenario",
+      "title": "韩国 NHN 与 Naver AI 护理平台夏季检测量攀升，热浪加速银发数字护理渗透",
+      "summary": "韩国今夏异常天气增多，NHN 与 Naver AI 护理平台的老年人健康监测检测量大幅攀升，多地成功预警高危老人。热浪天气正加速银发群体对数字护理技术的接受度和使用频率。",
+      "source": "AgeClub",
+      "url": "https://m.ageclub.net/article-detail/10301",
+      "keywords": [
+        "韩国AI护理",
+        "老年健康监测",
+        "热浪预警",
+        "数字护理",
+        "银发科技"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "场景落地",
+      "id": 159
+    },
+    {
+      "date": "2026-08-20",
+      "category": "security",
+      "title": "2026年 IoT 安全威胁： Aisuru/TurboMirai 僵尸网络与 BadBox 2.0 供应链攻击",
+      "summary": "2026年最关键的 IoT 威胁包括：Aisuru/TurboMirai 僵尸网络达到 20+ Tbps DDoS 攻击能力，BadBox 2.0 供应链妥协影响超过1000万台设备。默认凭证利用和 SIM 卡漏洞成为主要攻击向量，智能家居设备面临严峻安全挑战。",
+      "source": "Vectra AI",
+      "url": "https://www.vectra.ai/topics/iot-security",
+      "keywords": [
+        "IoT安全",
+        "僵尸网络",
+        "供应链攻击",
+        "DDoS",
+        "智能家居威胁"
+      ],
+      "published": "2026-08-15",
+      "categoryLabel": "数据安全",
+      "id": 160
+    },
+    {
+      "date": "2026-08-20",
+      "category": "security",
+      "title": "SIM 卡漏洞可向蜂窝调制解调器发送恶意命令，智能设备面临风险",
+      "summary": "安全研究发现的 SIM 卡漏洞允许攻击者向蜂窝调制解调器发送恶意命令，可实现代码执行和数据窃取，使设备离线，甚至将智能设备降级至 2G 网络，存在被僵尸网络利用的风险。",
+      "source": "DataBreachToday",
+      "url": "https://www.databreachtoday.com/",
+      "keywords": [
+        "SIM卡漏洞",
+        "蜂窝调制解调器",
+        "物联网安全",
+        "数据窃取",
+        "2G降级"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "数据安全",
+      "id": 161
+    },
+    {
+      "date": "2026-08-20",
+      "category": "security",
+      "title": "2026年家庭用户勒索软件防护完整指南",
+      "summary": "2026年网络犯罪分子正越来越多地针对家庭用户、远程工作者和小户型，这些人群通常比大型组织拥有更少的防御，但往往存储着不可替代的家庭照片、税务文件、医疗记录等重要数据。",
+      "source": "CyberShieldTips",
+      "url": "https://cybershieldtips.com/article/ransomware-protection-home-users-2026",
+      "keywords": [
+        "勒索软件",
+        "家庭网络安全",
+        "数据备份",
+        "隐私保护",
+        "物联网安全"
+      ],
+      "published": "2026-08-15",
+      "categoryLabel": "数据安全",
+      "id": 162
+    },
+    {
+      "date": "2026-08-20",
+      "category": "security",
+      "title": "2026手机隐私保护横评：vivo 原子隐私系统、华为鸿蒙Next、苹果国行 AI 进展",
+      "summary": "2026年手机隐私保护横评显示：vivo 原子隐私系统隔离最彻底，华为鸿蒙 NEXT 权限管控最严（中国信通院认证拦截率98.7%），三星防窥屏物理隔绝独一档，OPPO 三段式按键一键断连最极端。苹果国行 AI 已与阿里巴巴、百度展开合作。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.com.cn/article_7880069124_1d5b0500406801flvc.html",
+      "keywords": [
+        "手机隐私",
+        "原子隐私系统",
+        "鸿蒙NEXT",
+        "隐私保护",
+        "国行AI"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "数据安全",
+      "id": 163
     }
   ]
 }
