@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20",
+  "lastUpdated": "2026-08-21",
   "news": [
     {
       "id": 1,
@@ -2920,6 +2920,402 @@
       "published": "2026-08-18",
       "categoryLabel": "数据安全",
       "id": 163
+    },
+    {
+      "date": "2026-08-21",
+      "category": "tech",
+      "title": "Matter 1.6 标准发布：新增 Joint Fabric 实现跨网络设备共享",
+      "summary": "Connectivity Standards Alliance 于 2026 年 6 月正式发布 Matter 1.6 标准，引入 Joint Fabric 功能，允许设备在不同网络之间更无缝地共享。Matter 1.5.1 同时强化了摄像头和门铃的能力，优化流媒体效率与设备使用灵活性。到 2026 年 8 月，摄像头与能源管理设备已逐步实现完全合规。",
+      "source": "INT News",
+      "url": "https://intnews.it/en/home-automation-and-the-smart-home-a-complete-guide-2026/",
+      "keywords": [
+        "Matter 1.6",
+        "Joint Fabric",
+        "智能家居标准",
+        "Connectivity Standards Alliance",
+        "设备互操作"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "技术前沿",
+      "id": 164
+    },
+    {
+      "date": "2026-08-21",
+      "category": "tech",
+      "title": "Needle 2 发布：14MB 超轻量 AI 模型开启小型设备端侧智能新时代",
+      "summary": "Needle 2 是一款仅 14MB 的超轻量级 AI 基础模型，专为手机、可穿戴设备和智能家居集成设计。该模型的出现对边缘计算和端侧 AI 行业具有重要推动作用，证明了基础模型并不一定需要庞大体积，通过优化可实现极高能效比。Needle 推动了边缘计算的普及，使原本只能运行简单逻辑的微型设备具备了理解基础模型的能力。",
+      "source": "AIToolly",
+      "url": "https://aitoolly.com/zh/ai-news/article/2026-08-17-needle-2-a-compact-14mb-base-model-designed-for-mobile-wearables-and-smart-home-integration",
+      "keywords": [
+        "Needle 2",
+        "端侧AI",
+        "边缘计算",
+        "14MB模型",
+        "智能家居"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "技术前沿",
+      "id": 165
+    },
+    {
+      "date": "2026-08-21",
+      "category": "tech",
+      "title": "Edge AI 2026：端侧模型为何超越云端 AI",
+      "summary": "Edge AI 指的是在手机、笔记本、耳机、汽车、摄像头或工业机器等设备本地运行的人工智能，而非完全依赖远程数据中心。2026 年的 Edge AI 主要指由 NPU、移动 GPU 和专用低功耗推理芯片加速的端侧模型。端侧 AI 在隐私保护、网络延迟和可靠性方面具有显著优势，正成为智能家居场景的主流选择。",
+      "source": "DualMedia",
+      "url": "https://www.dualmedia.com/edge-ai-2026/",
+      "keywords": [
+        "Edge AI",
+        "端侧推理",
+        "NPU",
+        "隐私保护",
+        "云边端"
+      ],
+      "published": "2026-08-16",
+      "categoryLabel": "技术前沿",
+      "id": 166
+    },
+    {
+      "date": "2026-08-21",
+      "category": "tech",
+      "title": "Needle 模型：14MB 端侧工具调用模型面向设备控制与结构化抽取",
+      "summary": "Needle 是 cactus-compute 开源的端侧小模型，拥有 45M 参数、单个 14MB 二进制文件，面向工具调用、设备控制与结构化抽取任务。基于 Simple Attention Network，采用 CQ2-bit 压缩技术，带置信度门控与受限内存设计，整场会话约 28MB RAM。该模型代表了端侧 AI 在工具调用领域的重要突破。",
+      "source": "Text Matrix",
+      "url": "https://txtmix.com/posts/tech/needle-tiny-tool-calling-model/",
+      "keywords": [
+        "Needle",
+        "端侧小模型",
+        "工具调用",
+        "Simple Attention Network",
+        "边缘计算"
+      ],
+      "published": "2026-08-15",
+      "categoryLabel": "技术前沿",
+      "id": 167
+    },
+    {
+      "date": "2026-08-21",
+      "category": "tech",
+      "title": "Qwen3.8-27B 本地部署完整指南：量化版本选择与效果对比",
+      "summary": "Qwen3.8-27B 将较强的 Coding、Agent、长上下文和多模态能力集成到可在消费级硬件上运行的模型大小，发布后受到本地模型用户高度关注。该模型支持通过 llama.cpp 在本地加载，提供了 Q4/Q8 量化版本的选择指南，帮助用户在效果与速度之间取得平衡。",
+      "source": "DataLearnerAI",
+      "url": "https://www.datalearner.com/blog/qwen3-8-27b-local-deployment-quantization-guide",
+      "keywords": [
+        "Qwen3.8-27B",
+        "本地大模型",
+        "量化部署",
+        "消费级硬件",
+        "端侧推理"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "技术前沿",
+      "id": 168
+    },
+    {
+      "date": "2026-08-21",
+      "category": "policy",
+      "title": "2026年个人信息保护系列专项行动取得阶段性成效",
+      "summary": "2026 年个人信息保护系列专项行动开展以来，中央网信办、工信部、公安部累计对 2 万余款 App、SDK 个人信息收集使用情况开展核查检测，督促 4000 余款完成合规整改，公开通报 1100 余款存在违法违规问题的 App、SDK，对 400 余款采取下架等处置处罚措施。针对个人信息处理规则未明确收集个人信息用于广告等问题展开重点治理。",
+      "source": "新华网",
+      "url": "https://www.news.cn/legal/20260819/cffc7ab3044f484aae109a1958d8e56f/c.html",
+      "keywords": [
+        "个人信息保护",
+        "专项行动",
+        "App治理",
+        "隐私合规",
+        "数据安全"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "政策标准",
+      "id": 169
+    },
+    {
+      "date": "2026-08-21",
+      "category": "policy",
+      "title": "中国工业边缘计算：世界级基础设施如何形成",
+      "summary": "2026 年政策进一步提出，到 2028 年城域算力「1 毫秒时延圈」覆盖率要达到不低于 75% 的目标。这表明中国算力基础设施正从单纯追求「有多少算力」转向更实际的问题：这些算力能不能快速到达需要它的地方。边缘计算最有说服力的地方在于数据就近处理以提升效率，正向日常生活深度渗透。",
+      "source": "Editorial Ge",
+      "url": "https://cn.editorialge.com/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%B8%9A%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97/",
+      "keywords": [
+        "边缘计算",
+        "城域算力",
+        "1毫秒时延圈",
+        "算力基础设施",
+        "云边端"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "政策标准",
+      "id": 170
+    },
+    {
+      "date": "2026-08-21",
+      "category": "policy",
+      "title": "2026 年数据要素×行动：隐私保护计算、区块链等 6 条技术路线部署",
+      "summary": "2026 年被定调为「数据要素×」政策深化年，首项任务为深化数据要素市场化配置改革、加快建立全国统一数据产权登记，并部署数据基础设施先行先试。隐私保护计算、区块链、可信数据空间、数场、数联网、数据元件等 6 条技术路线成为重点布局方向，为数据要素流通提供技术基础设施支撑。",
+      "source": "知乎",
+      "url": "https://zhuanlan.zhihu.com/p/2073319660544602286",
+      "keywords": [
+        "数据要素",
+        "隐私保护计算",
+        "数据基础设施",
+        "数据产权",
+        "区块链"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "政策标准",
+      "id": 171
+    },
+    {
+      "date": "2026-08-21",
+      "category": "policy",
+      "title": "EU Data Act 将于 2026 年生效：智能家居数据共享义务加重",
+      "summary": "欧盟智能家居数据保护合规指南指出，GDPR 框架下每次信息存储或智能家居设备访问均需获得知情同意。EU Data Act 将于 2026 年生效，为智能家居设备数据共享设定新义务，制造商需确保用户数据可携带权得到落实，同时规范第三方数据访问规则，对智能家居行业的数据合规提出更高要求。",
+      "source": "BauLaser",
+      "url": "https://baulaser.net/smart-home-und-dsgvo-so-schutzen-sie-ihre-daten-im-vernetzten-zuhause",
+      "keywords": [
+        "EU Data Act",
+        "GDPR",
+        "智能家居数据",
+        "数据共享",
+        "隐私合规"
+      ],
+      "published": "2026-08-15",
+      "categoryLabel": "政策标准",
+      "id": 172
+    },
+    {
+      "date": "2026-08-21",
+      "category": "product",
+      "title": "苹果智能家居产品蓝图曝光：HomePod mini 2、Home Hub、安全摄像头等将登场",
+      "summary": "苹果正计划在 2026 年秋季全面更新智能家居产品线，核心产品为搭载改进 AI 技术的 HomePod mini 2，以及代号 J490 与 J491 的智慧屏幕 Home Hub，可显示个性化通知并通过语音控制家庭设备。此外，苹果还计划推出智能门铃和家用安全摄像头，正式从软件生态扩展到硬件领域，Siri AI 的升级被认为是推动新硬件发布的关键因素。",
+      "source": "流動日報",
+      "url": "https://www.newmobilelife.com/2026/08/16/apple-smart-home-product-roadmap/",
+      "keywords": [
+        "苹果智能家居",
+        "HomePod mini 2",
+        "Home Hub",
+        "安全摄像头",
+        "Siri AI"
+      ],
+      "published": "2026-08-16",
+      "categoryLabel": "产品方案",
+      "id": 173
+    },
+    {
+      "date": "2026-08-21",
+      "category": "product",
+      "title": "Broadband Forum 发布 TR-517 标准：统一 API 简化 Matter 智能家居管理",
+      "summary": "Broadband Forum 在 2026 年 8 月发布 TR-517 标准，将 Broadband Forum 的 USP 与 Matter 协议结合，为服务提供商和路由器制造商提供单一 API 来监控和管理家庭内所有智能设备。这一标准化举措有望解决智能家居设备管理碎片化的问题，加速 Matter 协议在运营商级场景的落地。",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paullamkin/2026/08/18/broadband-forums-matter-service-api-wants-to-simplify-your-smart-home/",
+      "keywords": [
+        "TR-517",
+        "Broadband Forum",
+        "Matter API",
+        "智能家居管理",
+        "服务提供商"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "产品方案",
+      "id": 174
+    },
+    {
+      "date": "2026-08-21",
+      "category": "product",
+      "title": "ThirdReality 携 Matter-over-Thread 产品系列亮相 IFA 2026",
+      "summary": "ThirdReality 宣布将在 IFA 2026 首次以独立参展商身份亮相，展示 Matter 智能家居和智能护理解决方案。Matter-over-Thread 产品系列计划于 2026 年下半年发布，标志其全面支持 Matter 协议生态。IFA 作为全球消费电子重要展会，ThirdReality 的亮相显示 Matter 协议正在获得越来越多设备厂商的支持。",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/thirdreality-feiert-sein-debut-als-unabhangiger-aussteller-auf-der-ifa-mit-matter-smart-home--und-smart-care-losungen-302855880.html",
+      "keywords": [
+        "ThirdReality",
+        "Matter-over-Thread",
+        "IFA 2026",
+        "智能家居",
+        "智能护理"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "产品方案",
+      "id": 175
+    },
+    {
+      "date": "2026-08-21",
+      "category": "product",
+      "title": "LG CLOiD 家用机器人亮相 CES 2026：具备五指灵巧手与家务能力",
+      "summary": "LG 在 CES 2026 发布家用机器人 CLOiD，采用头+身+表情配合轮式双臂构型，配备五指灵巧手，能理解环境并执行复杂家务任务，包括从冰箱取牛奶、将羊角面包送进烤箱、把衣服放进洗衣机并折叠。该产品代表了家用机器人在具身智能领域的重要突破，被视为 2026 年 CES 的亮点产品之一。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3631494888736007",
+      "keywords": [
+        "LG CLOiD",
+        "家用机器人",
+        "CES 2026",
+        "具身智能",
+        "灵巧手"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "产品方案",
+      "id": 176
+    },
+    {
+      "date": "2026-08-21",
+      "category": "product",
+      "title": "香港宽频 F5G-A 智能家居亮相：展示 AI 家电与 Wi-Fi 7 解决方案",
+      "summary": "香港宽频于 8 月 13 日至 17 日在湾仔会议展览中心「家电・家居・博览」设置「F5G-A 智能家居」专区，展示 AI 家电、Wi-Fi 7 路由器及多款智能家居产品，让市民现场体验 AI Home 解决方案。F5G-A 作为下一代家庭网络标准，为智慧家庭提供了更高带宽和更低延迟的网络基础设施支撑。",
+      "source": "Now 新聞",
+      "url": "https://news.now.com/home/life/player?newsId=658504&home=1",
+      "keywords": [
+        "F5G-A",
+        "智能家居",
+        "Wi-Fi 7",
+        "AI家电",
+        "香港宽频"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "产品方案",
+      "id": 177
+    },
+    {
+      "date": "2026-08-21",
+      "category": "scenario",
+      "title": "北京东城区养老机构智慧安全监管平台：180+ 路 AI 智能监控全覆盖",
+      "summary": "北京东城区建成养老机构智慧安全监管平台，24 小时 AI 哨兵实现全区养老机构全覆盖监管。平台依托深度学习的智能分析体系，将安全隐患发现节点大幅提前：消防端火情识别与吸烟预警算法 24 小时不间断排查；人员值守端自动检测消控室、值班室人员在岗状态；活动安全端实时监测公共区域人流密度；服务质量端全时段记录日常服务场景，为规范服务留痕。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqtnx7891796.shtml",
+      "keywords": [
+        "AI哨兵",
+        "养老机构",
+        "智慧安防",
+        "东城区",
+        "智能监控"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "场景落地",
+      "id": 178
+    },
+    {
+      "date": "2026-08-21",
+      "category": "scenario",
+      "title": "多 Agent 协作新趋势：从 Agent Team 到 Agent Swarm",
+      "summary": "多 Agent 系统正从 Agent Team 协作模式向 Agent Swarm 演进。在 Agent Team 模式中，任务由固定团队分工完成；而 Agent Swarm 模式下，大量 Agent 可动态协同、自组织，应对更复杂的开放环境。研究指出，80 个 Agent 在 12 小时模拟中可完成大规模代码协作开发，但存在「文件所有权隔离」导致的协作效率问题。",
+      "source": "qingkeai.online",
+      "url": "https://qingkeai.online/archives/%20Multi-Agent-form-Agent-to-Swarm",
+      "keywords": [
+        "Agent Swarm",
+        "多Agent协同",
+        "Agent Team",
+        "自主协作",
+        "人工智能"
+      ],
+      "published": "2026-08-15",
+      "categoryLabel": "场景落地",
+      "id": 179
+    },
+    {
+      "date": "2026-08-21",
+      "category": "scenario",
+      "title": "Google A2A 协议加入 Agentic AI Foundation：150+ 组织支持多 Agent 互操作标准",
+      "summary": "Google 的 Agent2Agent 协议（A2A）正式加入 Linux Foundation 旗下的 Agentic AI Foundation（AAIF）。A2A 协议定义了独立 AI Agent 之间交换信息和协作的规则，已获得 AWS、Cisco、Google、IBM、Microsoft、Salesforce、SAP 和 ServiceNow 等超过 150 家组织支持，并在供应链、金融、保险和 IT 运维等场景进入生产使用阶段。A2A 与 Anthropic 的 MCP 协议形成互补。",
+      "source": "AAIF",
+      "url": "https://aaif.io/blog/a2a-joins-aaif",
+      "keywords": [
+        "A2A协议",
+        "Agentic AI Foundation",
+        "多Agent互操作",
+        "Google",
+        "MCP"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "场景落地",
+      "id": 180
+    },
+    {
+      "date": "2026-08-21",
+      "category": "scenario",
+      "title": "「AI+养老」产品需走心：产学研用深度联动是关键",
+      "summary": "2026 年被业内共识为具身智能规模化元年，但当前唯一规模化盈利路径是租赁（RaaS）。专家呼吁「AI+养老」产品需要「走心」，推动科研院所、科技企业与养老机构、社区养老站点、老年家庭结对攻关，让科研人员走进养老一线倾听老年人和护理人员的真实反馈，把居家照护、社区康养、机构护理不同场景下的痛点转化为产品优化方向。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-08-14/doc-ininhtfm2829321.shtml",
+      "keywords": [
+        "AI+养老",
+        "具身智能",
+        "产学研用",
+        "适老看护",
+        "场景落地"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "场景落地",
+      "id": 181
+    },
+    {
+      "date": "2026-08-21",
+      "category": "security",
+      "title": "你的 AI 可能「抱团」骗你？Anthropic 红队揭示多 Agent 系统潜在风险",
+      "summary": "Anthropic Frontier Red Team 发布研究指出，多 Agent 系统存在新型安全风险。研究发现，较新的 Opus 4.8 和 Mythos Preview 模型并非更擅长深度合作，而是尽量避免彼此碰到同一块代码，每个 Agent 保持对自己文件的高度所有权。只有 Sonnet 5 同时表现出较高的代码共享和较高 PR 吞吐率。80 个 Agent 在 12 小时模拟中可能形成协作博弈，导致整体效率低于预期。",
+      "source": "虎嗅网",
+      "url": "https://www.huxiu.com/article/4883671.html",
+      "keywords": [
+        "多Agent安全",
+        "Anthropic红队",
+        "Agent协作风险",
+        "AI安全",
+        "系统级风险"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "数据安全",
+      "id": 182
+    },
+    {
+      "date": "2026-08-21",
+      "category": "security",
+      "title": "LAN Orangutan：开源轻量级局域网设备发现工具助力家庭网络安全",
+      "summary": "LAN Orangutan 是一款开源的轻量级局域网设备发现工具，底层借助 nmap 自动扫描网络中的设备，并为每一台设备打上持久化的标签、分组和备注。该工具帮助用户在完全本地化的前提下，快速搞清家庭或办公网络上到底有哪些设备，解决智能家居设备增多后的网络可见性和安全管理问题，完全离线运行不泄露数据。",
+      "source": "老苏的blog",
+      "url": "https://laosu.tech/2026/08/14/%E6%89%AB%E4%B8%80%E9%81%8D%E5%B1%80%E5%9F%9F%E7%BD%91%EF%BC%8C%E9%99%8C%E7%94%9F%E8%AE%BE%E5%A4%87%E7%AB%8B%E5%88%BB%E7%8E%B0%E5%BD%A2/",
+      "keywords": [
+        "LAN Orangutan",
+        "局域网扫描",
+        "设备发现",
+        "智能家居安全",
+        "开源工具"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "数据安全",
+      "id": 183
+    },
+    {
+      "date": "2026-08-21",
+      "category": "security",
+      "title": "2026 年国产 AI 芯片半年报：寒武纪营收暴增 2100%，拿下政企推理市场主导份额",
+      "summary": "国产 AI 芯片 2026 年半年报显示，寒武纪营收同比增长超过 2100%，净利增长 122%。业绩爆发核心驱动力来自国内智算中心建设对国产算力的刚性需求。在供应链安全与自主可控双重考量下，金融、互联网及运营商等关键客户加速导入寒武纪产品。技术层面，寒武纪最新软件栈已全面适配 GLM、DeepSeek、Qwen、Kimi 等主流开源模型，降低了客户迁移成本。",
+      "source": "世界半导体论坛",
+      "url": "https://scf.amtbbs.org/61093.html",
+      "keywords": [
+        "寒武纪",
+        "国产AI芯片",
+        "端侧推理",
+        "自主可控",
+        "算力安全"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "数据安全",
+      "id": 184
+    },
+    {
+      "date": "2026-08-21",
+      "category": "security",
+      "title": "智谱 AI 与 DeepSeek 自研芯片：国产大模型绕开英伟达构建硬件护城河",
+      "summary": "智谱 AI 和 DeepSeek 效仿谷歌 TPU 与 OpenAI，亲下场设计自研 AI 芯片，以摆脱供应链限制并降低长期云端推理成本。此举显示中国头部大模型公司正在构建从芯片到模型的完整自主链条，减少对英伟达高端 GPU 的依赖。国产芯片在推理端和政企、运营商、互联网的国产化采购中已拿下九成市场份额。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3886800988680200",
+      "keywords": [
+        "智谱AI",
+        "DeepSeek",
+        "自研芯片",
+        "英伟达替代",
+        "国产算力"
+      ],
+      "published": "2026-08-14",
+      "categoryLabel": "数据安全",
+      "id": 185
     }
   ]
 }
