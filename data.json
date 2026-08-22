@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21",
+  "lastUpdated": "2026-08-22",
   "news": [
     {
       "id": 1,
@@ -3316,6 +3316,366 @@
       "published": "2026-08-14",
       "categoryLabel": "数据安全",
       "id": 185
+    },
+    {
+      "date": "2026-08-22",
+      "category": "tech",
+      "title": "Matter 1.6标准发布：Joint Fabric实现跨网络设备无缝共享",
+      "summary": "Connectivity Standards Alliance于2026年6月正式发布Matter 1.6标准，引入Joint Fabric功能，允许设备在不同网络间更无缝地共享。新版本还优化了跨生态系统的设备设置和管理流程，进一步推动智能家居互联互通。Matter协议作为智慧家庭统一标准正走向成熟。",
+      "source": "INT News",
+      "url": "https://intnews.it/en/home-automation-and-the-smart-home-a-complete-guide-2026/",
+      "keywords": [
+        "Matter 1.6",
+        "智能家居",
+        "互联互通",
+        "Joint Fabric",
+        "协议标准"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "技术前沿",
+      "id": 186
+    },
+    {
+      "date": "2026-08-22",
+      "category": "tech",
+      "title": "Needle 2：14MB超轻量端侧AI模型面世，专为智能家居和可穿戴设备优化",
+      "summary": "cactus-compute在GitHub上发布Needle 2，这是一款体积仅14MB的超轻量级基础模型，45M参数，支持工具调用和设备控制。该模型可在28MB内存内完成整场会话，完全离线运行，数据留在本地，隐私保护能力强，适用于智能家居、机器人和可穿戴设备。",
+      "source": "AIToolly",
+      "url": "https://aitoolly.com/zh/ai-news/article/2026-08-17-needle-2-a-compact-14mb-base-model-designed-for-mobile-wearables-and-smart-home-integration",
+      "keywords": [
+        "Needle",
+        "端侧AI",
+        "14MB模型",
+        "智能家居",
+        "边缘计算"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "技术前沿",
+      "id": 187
+    },
+    {
+      "date": "2026-08-22",
+      "category": "tech",
+      "title": "Nordic携边缘AI与全域无线互联技术亮相IOTE 2026深圳展",
+      "summary": "Nordic Semiconductor将于2026年8月26日至28日参展IOTE 2026深圳国际物联网展，集中展示其边缘AI片上NPU（Axon NPU）与全协议无线连接方案。nRF54LM20B芯片内置NPU，适用于智能表计、追踪器及可穿戴设备的实时边缘推理，无需云端往返。",
+      "source": "电子工程专辑",
+      "url": "https://www.eet-china.com/mp/a518105.html",
+      "keywords": [
+        "Nordic",
+        "边缘AI",
+        "IOTE 2026",
+        "片上NPU",
+        "物联网"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "技术前沿",
+      "id": 188
+    },
+    {
+      "date": "2026-08-22",
+      "category": "tech",
+      "title": "A2A协议正式加入Linux Foundation旗下Agentic AI Foundation",
+      "summary": "Google于2025年提出的Agent2Agent（A2A）协议已移交至Linux Foundation旗下的Agentic AI Foundation（AAIF）管理，与Anthropic主导的MCP协议并列。A2A解决不同厂商、不同平台AI Agent之间相互发现、沟通与协作的问题；MCP处理Agent与工具、数据的连接。截至2026年8月，已有超过150家组织支持A2A标准。",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/17/a2a-agentic-ai-foundation-open-ai-standards",
+      "keywords": [
+        "A2A协议",
+        "MCP协议",
+        "Agent",
+        "互操作标准",
+        "AAIF"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "技术前沿",
+      "id": 189
+    },
+    {
+      "date": "2026-08-22",
+      "category": "tech",
+      "title": "Qwen3.7-Max：国产大模型登顶全球第一梯队，智能体能力获突破",
+      "summary": "阿里云于2026年5月发布Qwen3.7-Max，在Arena全球大模型盲测总榜中位列国产第一，逼近GPT、Claude、Gemini第一梯队水平。该模型在编程、工具调用、长周期自主执行等智能体核心能力上表现突出，支持在陌生芯片平台上持续运行数天、完成上千次工具调用。",
+      "source": "AIToolLab",
+      "url": "https://www.aitoollab.cn/articles/qwen3-7-max-official-release-20260521/",
+      "keywords": [
+        "Qwen3.7-Max",
+        "阿里云",
+        "国产大模型",
+        "智能体",
+        "工具调用"
+      ],
+      "published": "2026-08-15",
+      "categoryLabel": "技术前沿",
+      "id": 190
+    },
+    {
+      "date": "2026-08-22",
+      "category": "policy",
+      "title": "中国算力基础设施政策升级：2028年城域算力1毫秒时延圈覆盖率达75%",
+      "summary": "2026年政策进一步明确，到2028年城域算力\"1毫秒时延圈\"覆盖率达到不低于75%的目标。这表明中国算力基础设施正从单纯追求\"有多少算力\"转向\"算力能否快速到达需求端\"，边缘计算成为工业互联网领域的核心基础设施建设方向。",
+      "source": "Editorialge China",
+      "url": "https://cn.editorialge.com/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%B8%9A%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97/",
+      "keywords": [
+        "算力基础设施",
+        "1毫秒时延圈",
+        "城域算力",
+        "边缘计算",
+        "政策"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "政策标准",
+      "id": 191
+    },
+    {
+      "date": "2026-08-22",
+      "category": "policy",
+      "title": "\"十五五\"规划将具身智能列为未来产业前瞻布局",
+      "summary": "\"十五五\"规划建议明确将具身智能列为前瞻布局的未来产业，智慧养老作为具身智能的重要落地场景受到关注。政策推动AI+养老服务进入乡村，贯通县乡村三级养老服务网络，聚焦慢病管理、健康预警、紧急救助等复合型需求。",
+      "source": "中研网",
+      "url": "https://m.chinairn.com/hyzx/20260817/093919386.shtml",
+      "keywords": [
+        "十五五",
+        "具身智能",
+        "智慧养老",
+        "未来产业",
+        "政策"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "政策标准",
+      "id": 192
+    },
+    {
+      "date": "2026-08-22",
+      "category": "policy",
+      "title": "欧盟Data Act于2026年生效：智能家居数据共享义务明确",
+      "summary": "欧盟Data Act于2026年生效，对智能家居设备数据共享作出新规定，要求除非获得明确同意，否则不得存储或访问智能家居设备信息。EU同时推进《数据法案》配套实施，要求联网设备厂商开放数据访问权，推动家庭数据要素化。",
+      "source": "Baulaser",
+      "url": "https://baulaser.net/smart-home-und-dsgvo-so-schutzen-sie-ihre-daten-im-vernetzten-zuhause",
+      "keywords": [
+        "Data Act",
+        "智能家居",
+        "数据共享",
+        "GDPR",
+        "欧盟法规"
+      ],
+      "published": "2026-08-15",
+      "categoryLabel": "政策标准",
+      "id": 193
+    },
+    {
+      "date": "2026-08-22",
+      "category": "product",
+      "title": "Apple智能家居产品路线图曝光：安防摄像头和智能门铃即将推出",
+      "summary": "据多方报道，Apple正全面扩展智能家居产品线：计划推出搭载A17 Pro处理器的全新Apple TV、配备7英寸屏幕的智能家居中枢（运行homeOS），以及长期规划的安全摄像头和智能门铃等首款智能家居硬件配件。高端版本还将配备9英寸屏幕和可动机械臂。",
+      "source": "CNMO科技",
+      "url": "https://home.cnmo.com/news/816090.html",
+      "keywords": [
+        "Apple",
+        "智能家居",
+        "智能门铃",
+        "安防摄像头",
+        "homeOS"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "产品方案",
+      "id": 194
+    },
+    {
+      "date": "2026-08-22",
+      "category": "product",
+      "title": "THIRDREALITY携Matter-over-Thread全系列亮相IFA 2026",
+      "summary": "THIRDREALITY在IFA 2026上首次独立参展，展出完整的Matter-over-Thread智能家居和智能护理产品线。Matter-over-Thread产品系列和全新Zigbee产品将于2026年下半年正式上市，进一步丰富Matter协议生态。",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/thirdreality-feiert-sein-debut-als-unabhangiger-aussteller-auf-der-ifa-mit-matter-smart-home--und-smart-care-losungen-302855880.html",
+      "keywords": [
+        "THIRDREALITY",
+        "Matter-over-Thread",
+        "IFA",
+        "智能家居",
+        "Zigbee"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "产品方案",
+      "id": 195
+    },
+    {
+      "date": "2026-08-22",
+      "category": "product",
+      "title": "IKEA新版智能家居全系Matter兼容，TRÅDFRI设备仍为Zigbee需桥接",
+      "summary": "IKEA于2025年宣布的21款智能家居新产品已全面支持Matter协议，可同时接入Apple Home、Alexa、Google Home等各大平台。但旧版TRÅDFRI设备仍为Zigbee协议，用户可通过DIRIGERA网关桥接至Matter生态。",
+      "source": "iTechGuides",
+      "url": "https://www.itechguides.com/is-ikeas-new-smart-home-collection-entirely-matter-compatible-the-important-catch/",
+      "keywords": [
+        "IKEA",
+        "Matter",
+        "TRÅDFRI",
+        "智能家居",
+        "Zigbee"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "产品方案",
+      "id": 196
+    },
+    {
+      "date": "2026-08-22",
+      "category": "scenario",
+      "title": "北京东城区建成养老机构智慧安全监管平台：24小时\"AI哨兵\"覆盖全区",
+      "summary": "北京东城区民政局在全市率先建成并启用养老机构智慧安全监管平台，依托AI、云计算、视联网等技术融合，180余路AI智能监控点位覆盖全区养老机构重点公共区域。平台实现火情识别、吸烟预警、人员聚集疏导、消控室值班检测等24小时智能分析，将安全隐患发现节点大幅提前。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqtnx7891796.shtml",
+      "keywords": [
+        "AI哨兵",
+        "智慧养老",
+        "养老机构",
+        "智能安防",
+        "东城区"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "场景落地",
+      "id": 197
+    },
+    {
+      "date": "2026-08-22",
+      "category": "scenario",
+      "title": "新华保险AI养老实践：从\"人盯人\"到\"数盯人\"的数字化转型",
+      "summary": "新华保险在养老公寓中实践AI看护方案，以技术手段替代传统\"人盯人\"模式。系统承担\"哨兵\"角色实时监测老人状态，护理员从频繁巡房中解放出来，转向陪伴、沟通等机器无法替代的服务。该项目是新华保险\"AI+\"战略在养老一线的落地样本，计划三到五年投入30亿元。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L4KULITO0519DFFO.html",
+      "keywords": [
+        "新华保险",
+        "AI养老",
+        "智慧看护",
+        "数字化转型",
+        "适老"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "场景落地",
+      "id": 198
+    },
+    {
+      "date": "2026-08-22",
+      "category": "scenario",
+      "title": "移动云\"灵伴算网\"：国内首个城域毫秒级算网融合服务标杆",
+      "summary": "2026年5月，中国移动首发\"灵伴算网\"，整合移动云智算、边缘算力资源，统筹湖北27座数据中心、42个算力节点，推出\"算力+全光专线+行业模型\"一体化服务包。湖北区域词元日调用量突破1亿次，实现算力随取随用。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L4N5952S0514R9OJ.html",
+      "keywords": [
+        "移动云",
+        "灵伴算网",
+        "算网融合",
+        "边缘算力",
+        "城域"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "场景落地",
+      "id": 199
+    },
+    {
+      "date": "2026-08-22",
+      "category": "scenario",
+      "title": "北京海淀区分阶段部署AI+养老：智慧社区与居家健康监测全覆盖",
+      "summary": "北京海淀区发布2026-2028年\"AI+养老\"行动计划，覆盖智慧社区、智能养老机构、需求分析、健康监测和护理场景。海淀区养老驿站和养老机构同步推进适老化智能改造，AI跌倒监测、远程问诊等设备逐步嵌入护理流程并对接监管平台。",
+      "source": "Impact Guru",
+      "url": "https://impact-guru.co.uk/blogs/news/artificial-intelligence-in-chinese-elderly-care-from-prediction-to-responsible-practice",
+      "keywords": [
+        "海淀区",
+        "AI养老",
+        "智慧社区",
+        "健康监测",
+        "适老改造"
+      ],
+      "published": "2026-08-16",
+      "categoryLabel": "场景落地",
+      "id": 200
+    },
+    {
+      "date": "2026-08-22",
+      "category": "security",
+      "title": "2026年个人信息保护专项行动阶段性成果：App治理与SDK违规整治并重",
+      "summary": "2026年个人信息保护专项行动进入成果兑现阶段。监管机构累计检测2万余款App和SDK个人信息收集使用情况，督促整改4000余款，通报1100余款，处置下架400余款。重点整治了未明确告知用户即收集个人信息用于广告推送等典型违规行为。",
+      "source": "南方网",
+      "url": "https://news.southcn.com/node_47a8059d6c/e7811f3ef3.shtml",
+      "keywords": [
+        "个人信息保护",
+        "App治理",
+        "SDK违规",
+        "专项行动",
+        "隐私合规"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "数据安全",
+      "id": 201
+    },
+    {
+      "date": "2026-08-22",
+      "category": "security",
+      "title": "iOS 26.6.1紧急修复29项高危漏洞，含零点击漏洞",
+      "summary": "Apple近日紧急发布iOS 26.6.1，修复WebKit及Kernel等近30项安全漏洞，其中包括多个零点击（zero-click）漏洞。安全研究机构指出，零点击漏洞可在用户无任何操作情况下被攻击者利用，建议所有iPhone用户尽快升级。",
+      "source": "ezone",
+      "url": "https://ezone.hk/article/20106700/iphone%E7%94%A8%E5%AE%B6%E9%80%9F%E5%8D%87%E7%B4%9A-ios-%E7%B7%8A%E6%80%A5%E4%B8%8A%E7%B7%9A-%E4%B8%80%E5%8F%A3%E6%B0%A3%E4%BF%AE%E8%A3%9C-%E9%A0%A7%E9%AB%98%E5%8D%B1-%E9%9B%B6%E9%BB%9E%E6%93%8A-%E6%BC%8F%E6%B4%9E",
+      "keywords": [
+        "iOS",
+        "零点击漏洞",
+        "安全更新",
+        "Apple",
+        "隐私保护"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "数据安全",
+      "id": 202
+    },
+    {
+      "date": "2026-08-22",
+      "category": "security",
+      "title": "2026年智能家居WiFi安全：WPA3和固件更新成关键",
+      "summary": "安全媒体HackerNoon发布2026年家庭WiFi安全指南，指出智能家居设备安全性高度依赖路由器安全。建议使用WPA3加密、定期更新固件、配置访客网络、进行设备审计等九项关键措施，以防止智能家居设备成为网络攻击入口。",
+      "source": "HackerNoon",
+      "url": "https://hackernoon.com/9-ways-to-secure-your-home-wi-fi-in-2026",
+      "keywords": [
+        "WiFi安全",
+        "WPA3",
+        "智能家居",
+        "网络安全",
+        "固件更新"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "数据安全",
+      "id": 203
+    },
+    {
+      "date": "2026-08-22",
+      "category": "security",
+      "title": "360发布AI安全周报：AI Agent自主攻击与供应链安全成新威胁",
+      "summary": "360威胁情报中心发布2026年第32周AI安全周报，指出AI Agent已表现出自主发现漏洞、突破系统边界的能力；AI开发供应链及AI衍生攻击方式成为新安全攻击面。随着AI逐步参与代码开发、漏洞测试和自动化任务执行，其网络访问、代码执行、第三方依赖及敏感凭证正在形成新型安全风险。",
+      "source": "360威胁情报中心",
+      "url": "https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-2/",
+      "keywords": [
+        "AI安全",
+        "Agent攻击",
+        "供应链安全",
+        "漏洞",
+        "360"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "数据安全",
+      "id": 204
+    },
+    {
+      "date": "2026-08-22",
+      "category": "tech",
+      "title": "国产AI芯片半年报亮眼：寒武纪营收同比增长108%，毛利达57%",
+      "summary": "寒武纪发布2026年上半年财报，实现营业收入59.96亿元，同比增长108.13%；归母净利润23.11亿元，同比增长122.61%。业绩增长核心驱动力来自国内智算中心建设对国产算力的刚性需求。机构测算，2026至2028年国产超节点市场规模将分别达到889亿元、4151亿元、11089亿元。",
+      "source": "世界半导体论坛",
+      "url": "https://scf.amtbbs.org/61093.html",
+      "keywords": [
+        "寒武纪",
+        "国产AI芯片",
+        "半年报",
+        "营收增长",
+        "算力"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "技术前沿",
+      "id": 205
     }
   ]
 }
