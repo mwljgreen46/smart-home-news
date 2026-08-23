@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22",
+  "lastUpdated": "2026-08-23",
   "news": [
     {
       "id": 1,
@@ -3676,6 +3676,312 @@
       "published": "2026-08-19",
       "categoryLabel": "技术前沿",
       "id": 205
+    },
+    {
+      "date": "2026-08-23",
+      "category": "tech",
+      "title": "Nordic 以片上 NPU 与轻量模型重构边缘实时控制，物理 AI 产业化拐点已至",
+      "summary": "Nordic Semiconductor 在 IOTE 2026 深圳展上展示其片上 NPU 架构与轻量化 AI 模型成果，推动物理 AI 实时控制能力向边缘侧下沉。该方案可将推理延迟压缩至毫秒级，适用于工业控制与智能家居场景。",
+      "source": "世界半导体论坛",
+      "url": "https://scf.amtbbs.org/61087.html",
+      "keywords": [
+        "Nordic",
+        "边缘AI",
+        "NPU",
+        "物理AI",
+        "IOTE 2026"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "技术前沿",
+      "id": 206
+    },
+    {
+      "date": "2026-08-23",
+      "category": "tech",
+      "title": "Needle：14MB 超轻量端侧工具调用模型，面向微型设备与可穿戴设备",
+      "summary": "cactus-compute 开源的 Needle 模型仅 45M 参数、14MB 二进制文件，基于 Simple Attention Network 和 CQ2-bit 压缩技术，面向工具调用、设备控制与结构化抽取场景。整场会话内存占用约 28MB RAM，标志着端侧 AI 进入精细化新阶段。",
+      "source": "Text Matrix",
+      "url": "https://txtmix.com/posts/tech/needle-tiny-tool-calling-model/",
+      "keywords": [
+        "Needle",
+        "端侧AI",
+        "小模型",
+        "工具调用",
+        "边缘计算"
+      ],
+      "published": "2026-08-15",
+      "categoryLabel": "技术前沿",
+      "id": 207
+    },
+    {
+      "date": "2026-08-23",
+      "category": "tech",
+      "title": "国产 SwiftInfer 方案让 LLM 推理性能提升 46%，突破多轮对话长度限制",
+      "summary": "全新开源的国产 SwiftInfer 方案不仅支持 LLM 处理无限流式输入，还将推理性能提升了 46%，打破了多轮对话长度限制。该技术由麻省理工团队参与研发，为大模型推理效率树立新标杆。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/2595782901906055",
+      "keywords": [
+        "SwiftInfer",
+        "LLM推理",
+        "推理加速",
+        "流式输入",
+        "国产开源"
+      ],
+      "published": "2026-08-22",
+      "categoryLabel": "技术前沿",
+      "id": 208
+    },
+    {
+      "date": "2026-08-23",
+      "category": "policy",
+      "title": "2026 年个人信息保护系列专项行动取得阶段性成效：核查 2 万余款 App",
+      "summary": "中央网信办、工信部、公安部联合开展 2026 年个人信息保护专项行动，累计对 2 万余款 App 和 SDK 开展核查检测，督促 4000 余款完成合规整改，公开通报 1100 余款问题 App，对 400 余款采取下架等处罚措施。",
+      "source": "新华网",
+      "url": "https://www.news.cn/legal/20260819/cffc7ab3044f484aae109a1958d8e56f/c.html",
+      "keywords": [
+        "个人信息保护",
+        "App治理",
+        "隐私合规",
+        "专项行动",
+        "SDK"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "政策标准",
+      "id": 209
+    },
+    {
+      "date": "2026-08-23",
+      "category": "policy",
+      "title": "中国工业边缘计算加速跑：2028 年城域算力「1 毫秒时延圈」覆盖率达 75%",
+      "summary": "2026 年政策进一步明确，到 2028 年城域算力「1 毫秒时延圈」覆盖率不低于 75%。中国算力基础设施正从单纯追求算力规模，转向解决算力快速触达需求的实际问题，边缘计算进入实质性部署阶段。",
+      "source": "Editorialge China",
+      "url": "https://cn.editorialge.com/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%B8%9A%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97/",
+      "keywords": [
+        "边缘计算",
+        "城域算力",
+        "1毫秒时延圈",
+        "算力基础设施",
+        "政策"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "政策标准",
+      "id": 210
+    },
+    {
+      "date": "2026-08-23",
+      "category": "policy",
+      "title": "Broadband Forum 发布 Matter Service API，欲简化智能家居管理",
+      "summary": "Broadband Forum 在 Matter 1.4 引入家庭路由器和接入点认证后，进一步探索如何将家庭网关和 hub 打造成 Matter 设备服务和管理的平台，以降低智能家居系统的复杂性和管理门槛。",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paullamkin/2026/08/18/broadband-forums-matter-service-api-wants-to-simplify-your-smart-home/",
+      "keywords": [
+        "Broadband Forum",
+        "Matter API",
+        "智能家居网关",
+        "服务化",
+        "互操作"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "政策标准",
+      "id": 211
+    },
+    {
+      "date": "2026-08-23",
+      "category": "policy",
+      "title": "「十五五」规划将具身智能列为未来产业前瞻布局，智慧养老受关注",
+      "summary": "「十五五」规划建议将具身智能列为前瞻布局的未来产业，智慧养老市场预计 2026 年规模达 7.85 万亿元。政策密集出台推动科技助老，但行业调研显示部分养老机构设备存在「买来不用」的落地困境。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-18/doc-inintxxr9960943.shtml",
+      "keywords": [
+        "十五五",
+        "具身智能",
+        "智慧养老",
+        "未来产业",
+        "政策"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "政策标准",
+      "id": 212
+    },
+    {
+      "date": "2026-08-23",
+      "category": "product",
+      "title": "Third Reality 首批 Matter over Thread 产品将于 IFA 2026 亮相",
+      "summary": "Third Reality 宣布将在 2026 年 IFA 展会（9 月 4-8 日，柏林 Hall 1.2 Stand 100）上展出其首批 Matter over Thread 和 Zigbee 产品，包括智能开关、传感器等，进一步丰富 Matter 生态产品线。",
+      "source": "Homekit News and Reviews",
+      "url": "https://homekitnews.com/2026/08/20/first-third-reality-thread-devices-to-debut-at-ifa-2026/",
+      "keywords": [
+        "Third Reality",
+        "Matter over Thread",
+        "IFA 2026",
+        "智能家居",
+        "Zigbee"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "产品方案",
+      "id": 213
+    },
+    {
+      "date": "2026-08-23",
+      "category": "product",
+      "title": "Nordic 携边缘 AI 与全域无线互联技术亮相 IOTE 2026 深圳展",
+      "summary": "Nordic Semiconductor 将于 8 月 26-28 日参展 IOTE 2026 深圳展（10 号馆 10A31），集中展示边缘 AI、高精度无线感知、新一代蜂窝物联网（nRF9151 支持卫星 NTN）、标准化全屋智能四大核心技术和基于其芯片的量产模组与终端产品。",
+      "source": "电子工程专辑",
+      "url": "https://www.eet-china.com/mp/a518105.html",
+      "keywords": [
+        "Nordic",
+        "IOTE 2026",
+        "边缘AI",
+        "蜂窝物联网",
+        "全屋智能"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "产品方案",
+      "id": 214
+    },
+    {
+      "date": "2026-08-23",
+      "category": "product",
+      "title": "2026 年最佳智能家居设备评测：Alexa、Google Home、Apple HomeKit 对比",
+      "summary": "Security.org 发布 2026 年智能家居设备评测报告，对 Alexa、Google Home、Apple HomeKit 和 Google Nest 在兼容性、功能和安全性方面进行对比，为消费者选购智能家居平台提供参考。",
+      "source": "Security.org",
+      "url": "https://www.security.org/smart-home/best/",
+      "keywords": [
+        "智能家居平台",
+        "Alexa",
+        "Google Home",
+        "Apple HomeKit",
+        "安全对比"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "产品方案",
+      "id": 215
+    },
+    {
+      "date": "2026-08-23",
+      "category": "product",
+      "title": "2026 下半年家庭 WiFi Mesh 组网方案选型指南",
+      "summary": "针对家庭网络改造需求，V2EX 社区探讨 2026 年下半年最新 WiFi Mesh 组网方案，涵盖千兆光纤入户、百兆旧网线改造、全屋覆盖等场景，为用户推荐合适的 Mesh 路由器组合。",
+      "source": "V2EX",
+      "url": "https://www.v2ex.com/t/1236205",
+      "keywords": [
+        "WiFi Mesh",
+        "家庭组网",
+        "千兆光纤",
+        "全屋覆盖",
+        "路由器"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "产品方案",
+      "id": 216
+    },
+    {
+      "date": "2026-08-23",
+      "category": "scenario",
+      "title": "北京东城区建成养老机构智慧安全监管平台：180 余路 AI 智能监控",
+      "summary": "北京东城区在全市率先建成养老机构智慧安全监管平台，以 AI、云计算、视联网等技术为核心，实现 180 余路 AI 智能监控点位覆盖。平台可进行火情识别、吸烟预警、人员值守检测、人流密度监测和服务质量记录，将安全隐患发现节点大幅提前。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqtnx7891796.shtml",
+      "keywords": [
+        "智慧养老",
+        "AI安防",
+        "养老机构",
+        "智能监控",
+        "北京东城"
+      ],
+      "published": "2026-08-17",
+      "categoryLabel": "场景落地",
+      "id": 217
+    },
+    {
+      "date": "2026-08-23",
+      "category": "scenario",
+      "title": "贵阳智慧养老科技小院搭建方言 AI 康养终端，解决农村老人语音交互难题",
+      "summary": "贵阳智慧养老科技小院搭建本土化方言 AI 康养终端，依托本地话语音数据集实现纯方言语音交互。农村老人无需触屏操作，使用语音即可完成慢病咨询、用药提醒等服务，解决农村老人面对智能设备「听不懂、看不清、不敢点」的障碍。",
+      "source": "华龙网",
+      "url": "https://www.cqnews.net/web/content_1539536109548994560.html",
+      "keywords": [
+        "智慧养老",
+        "方言AI",
+        "适老化",
+        "农村养老",
+        "语音交互"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "场景落地",
+      "id": 218
+    },
+    {
+      "date": "2026-08-23",
+      "category": "scenario",
+      "title": "Google A2A 协议获 150 家组织支持，AI Agent 互操作性标准加速落地",
+      "summary": "Google 于 2025 年提出的 Agent2Agent 协议（A2A）已获超过 150 家组织支持，并在供应链、金融、保险、IT 运维等场景进入生产使用。A2A 与 Anthropic 的 MCP 形成互补，前者处理 Agent 与 Agent 协作，后者处理 Agent 与工具/数据的连接。",
+      "source": "虎嗅网",
+      "url": "https://www.huxiu.com/article/4883799.html",
+      "keywords": [
+        "A2A协议",
+        "AI Agent",
+        "MCP",
+        "多Agent协同",
+        "互操作标准"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "场景落地",
+      "id": 219
+    },
+    {
+      "date": "2026-08-23",
+      "category": "security",
+      "title": "2026 年个人信息保护专项行动：累计核查 2 万余款 App/SDK，4000 余款完成整改",
+      "summary": "2026 年个人信息保护系列专项行动取得阶段性成效，中央网信办等三部门累计对 2 万余款 App 和 SDK 开展核查检测，督促 4000 余款完成合规整改，公开通报 1100 余款问题应用，对 400 余款采取下架处罚，数据要素市场与隐私保护计算成为重点布局方向。",
+      "source": "新华网",
+      "url": "https://www.news.cn/legal/20260819/cffc7ab3044f484aae109a1958d8e56f/c.html",
+      "keywords": [
+        "个人信息保护",
+        "App治理",
+        "隐私计算",
+        "数据安全",
+        "专项行动"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "数据安全",
+      "id": 220
+    },
+    {
+      "date": "2026-08-23",
+      "category": "security",
+      "title": "2026 年家庭 WiFi 安全九大措施：WPA3、固件更新与访客网络",
+      "summary": "HackerNoon 发布 2026 年家庭 WiFi 安全指南，涵盖强密码策略、WPA3 加密、路由器固件更新、访客网络隔离、安全路由器设置和设备审计六大维度，为家庭用户提供全面的智能设备网络安全建议。",
+      "source": "HackerNoon",
+      "url": "https://hackernoon.com/9-ways-to-secure-your-home-wi-fi-in-2026",
+      "keywords": [
+        "家庭WiFi",
+        "WPA3",
+        "网络安全",
+        "路由器安全",
+        "智能家居安全"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "数据安全",
+      "id": 221
+    },
+    {
+      "date": "2026-08-23",
+      "category": "security",
+      "title": "IoT 数据安全最佳实践 2026：数据传输安全检查清单",
+      "summary": "ChoiceIoT 发布 2026 年 IoT 数据安全最佳实践清单，涵盖私有 APN、零信任架构和 EU 合规要求，指导企业如何通过技术手段保护物联网数据传输安全，将安全能力转化为竞争优势。",
+      "source": "ChoiceIoT",
+      "url": "https://www.choiceiot.com/uncategorized/iot-data-security-best-practices-2026-a-checklist-for-securing-data-in-transit/",
+      "keywords": [
+        "IoT数据安全",
+        "零信任",
+        "私有APN",
+        "数据传输",
+        "合规"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "数据安全",
+      "id": 222
     }
   ]
 }
