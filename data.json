@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23",
+  "lastUpdated": "2026-08-25",
   "news": [
     {
       "id": 1,
@@ -3982,6 +3982,366 @@
       "published": "2026-08-20",
       "categoryLabel": "数据安全",
       "id": 222
+    },
+    {
+      "date": "2026-08-25",
+      "category": "tech",
+      "title": "Matter 1.6 标准发布：新增 Joint Fabric 跨网络设备共享功能",
+      "summary": "Matter 1.6 于2026年6月正式发布，是智能家居互操作标准的最新版本。新增 Joint Fabric 功能允许设备在不同网络之间更无缝地共享，同时引入新的配置选项进一步简化设备配对流程。Matter 1.6 未引入新的设备类别，延续了对现有设备类型的深化支持。",
+      "source": "INT News",
+      "url": "https://intnews.it/en/home-automation-and-the-smart-home-a-complete-guide-2026/",
+      "keywords": [
+        "Matter 1.6",
+        "智能家居",
+        "互操作标准",
+        "Joint Fabric",
+        "CSA"
+      ],
+      "published": "2026-08-18",
+      "categoryLabel": "技术前沿",
+      "id": 223
+    },
+    {
+      "date": "2026-08-25",
+      "category": "tech",
+      "title": "Homey 获得 Matter 1.5 认证，强化传统设备桥接与能源管理",
+      "summary": "Athom 宣布其 Homey 软件组件正式获得 Matter 1.5 认证，覆盖 Homey Pro（2023—2026）、Homey Pro mini 及 Homey Self Hosted Server。Matter 1.5 认证使 Homey 能够为传统设备提供更先进的桥接能力，并支持能源管理功能，帮助用户实现真正可互操作的智能家居。",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/21/homekit-weekly-homey-secures-matter-1-5-certification-to-expand-bridging-and-energy-support/",
+      "keywords": [
+        "Matter 1.5",
+        "Homey",
+        "设备桥接",
+        "能源管理",
+        "Athom"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "技术前沿",
+      "id": 224
+    },
+    {
+      "date": "2026-08-25",
+      "category": "tech",
+      "title": "小米发布玄戒O100：业界首款6nm端侧大模型AI加速芯片",
+      "summary": "小米公司发布首颗专为端侧大模型而生的高带宽AI加速芯片玄戒O100。该芯片采用6nm晶圆级垂直堆叠（Wafer on Wafer）先进封装与 Hybrid Bonding 混合键合工艺，实现业界领先的1.4微米键合间距，提供1.22TB/s超高带宽，是传统旗舰手机芯片的16倍，端侧推理速度最高可达330TPS。",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4105406.html",
+      "keywords": [
+        "玄戒O100",
+        "小米",
+        "端侧AI",
+        "NPU",
+        "6nm"
+      ],
+      "published": "2026-08-24",
+      "categoryLabel": "技术前沿",
+      "id": 225
+    },
+    {
+      "date": "2026-08-25",
+      "category": "tech",
+      "title": "国产AI芯片份额逼近90%：英伟达AMD仅剩一成市场",
+      "summary": "据市场数据显示，国产AI芯片在推理市场的份额持续攀升，正在逼近90%。以寒武纪为代表的国产芯片厂商凭借MLU/XPU专用架构路线，全面适配GLM、DeepSeek、Qwen、Kimi等主流开源模型，在供应链安全与自主可控的双重需求推动下，加速替代国际厂商产品。",
+      "source": "腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20260819A068AV00",
+      "keywords": [
+        "国产AI芯片",
+        "寒武纪",
+        "推理芯片",
+        "市场份额",
+        "自主可控"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "技术前沿",
+      "id": 226
+    },
+    {
+      "date": "2026-08-25",
+      "category": "tech",
+      "title": "Needle：14MB端侧工具调用模型，基于字节级语法约束",
+      "summary": "Needle 是 cactus-compute 开源的端侧小模型，仅45M参数、14MB二进制大小，面向工具调用、设备控制与结构化抽取任务。基于 Simple Attention Network 架构，量化至 CQ2-bit，带置信度门控与受限内存设计，整场会话约28MB RAM，适合资源受限的边缘设备部署。",
+      "source": "Text Matrix",
+      "url": "https://txtmix.com/posts/tech/needle-tiny-tool-calling-model/",
+      "keywords": [
+        "端侧小模型",
+        "工具调用",
+        "边缘计算",
+        "Needle",
+        "轻量化"
+      ],
+      "published": "2026-08-15",
+      "categoryLabel": "技术前沿",
+      "id": 227
+    },
+    {
+      "date": "2026-08-25",
+      "category": "policy",
+      "title": "工信部等八部门推「人工智能+制造」专项行动：加快云边端体系建设",
+      "summary": "2026年1月，工业和信息化部等八部门发布「人工智能+制造」专项行动实施意见，在推动训练芯片发展的同时，明确提出发展端侧推理芯片、边缘计算服务器，并推进「云—边—端」模型体系建设。政策层面推动算力基础设施从单纯追求规模向「低时延、广覆盖」转型。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L4SVSSLI05199DKK.html",
+      "keywords": [
+        "人工智能+制造",
+        "云边端",
+        "边缘计算",
+        "政策",
+        "算力"
+      ],
+      "published": "2026-08-22",
+      "categoryLabel": "政策标准",
+      "id": 228
+    },
+    {
+      "date": "2026-08-25",
+      "category": "policy",
+      "title": "2026年个人信息保护专项行动取得阶段性成效：核查2万余款App",
+      "summary": "据网信办消息，2026年个人信息保护系列专项行动开展以来，中央网信办、工信部、公安部会同相关部门累计对2万余款App、SDK个人信息收集使用情况开展核查检测，督促4000余款完成合规整改，公开通报1100余款存在违法违规问题的App、SDK，对400余款采取下架等处置处罚措施。",
+      "source": "新华网",
+      "url": "https://www.news.cn/legal/20260819/cffc7ab3044f484aae109a1958d8e56f/c.html",
+      "keywords": [
+        "个人信息保护",
+        "App监管",
+        "SDK合规",
+        "专项行动",
+        "网信办"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "政策标准",
+      "id": 229
+    },
+    {
+      "date": "2026-08-25",
+      "category": "policy",
+      "title": "网信办首批手机端侧AI备案落地，标志端侧AI进入合规商业化阶段",
+      "summary": "2026年7月网信办首批手机端侧AI备案正式落地，华为、小米、OPPO、vivo、苹果等多家厂商完成登记。《人工智能拟人化互动服务管理暂行办法》同步实施，端侧AI进入合规商业化阶段，流量变现路径进一步明确，政企订单增量明确。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L4JUPTRC05396IQY.html",
+      "keywords": [
+        "端侧AI备案",
+        "人工智能法规",
+        "手机AI",
+        "合规商业化",
+        "网信办"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "政策标准",
+      "id": 230
+    },
+    {
+      "date": "2026-08-25",
+      "category": "policy",
+      "title": "Broadband Forum 发布 TR-517：统一 API 简化 Matter 智能家居管理",
+      "summary": "宽带论坛推出 TR-517（MatterService Data Model for USP Enabled Devices），将用户服务平台（USP/TR-369）与 Matter 协议结合，建立统一 API，为宽带运营商、路由器厂商和智能家居服务开发商提供单一方式访问和管理家庭 Matter 设备的标准接口。",
+      "source": "EE Journal",
+      "url": "https://www.eejournal.com/industry_news/new-interface-simplifies-management-of-matter-powered-smart-homes/",
+      "keywords": [
+        "TR-517",
+        "Broadband Forum",
+        "Matter API",
+        "智能家居",
+        "运营商"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "政策标准",
+      "id": 231
+    },
+    {
+      "date": "2026-08-25",
+      "category": "product",
+      "title": "THIRDREALITY 携 Matter 智能家居和智能照护解决方案首次独立亮相 IFA 2026",
+      "summary": "THIRDREALITY 在 IFA 2026 首次独立参展，展示其最新的 Matter 聚焦型智能家居产品和智能照护解决方案，包括智能门锁、传感器等设备，可与主流平台无缝对接，为用户带来可靠、易用的智能连接体验。",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.co.uk/news-releases/thirdreality-makes-its-independent-ifa-debut-with-matter-smart-home-and-smart-care-solutions-302855473.html",
+      "keywords": [
+        "THIRDREALITY",
+        "IFA 2026",
+        "Matter",
+        "智能家居",
+        "智能照护"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "产品方案",
+      "id": 232
+    },
+    {
+      "date": "2026-08-25",
+      "category": "product",
+      "title": "华为Mate80 Pro离线AI能力评分95分，领先第二名三星13分",
+      "summary": "2026年主流AI手机实测中，华为Mate80 Pro的离线AI能力评分高达95分，远超第二名三星的82分。华为在HarmonyOS 4.0及以上系统提供硬件级隐私保护，可通过控制中心一键物理关闭麦克风、摄像头和位置信息，在飞机、地铁等无网络场景仍能流畅使用语音转文字、实时翻译、文档摘要等功能。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.com.cn/article_7879849868_1d5acf78c06801t8gs.html",
+      "keywords": [
+        "华为Mate80",
+        "离线AI",
+        "端侧大模型",
+        "隐私保护",
+        "AI手机"
+      ],
+      "published": "2026-08-23",
+      "categoryLabel": "产品方案",
+      "id": 233
+    },
+    {
+      "date": "2026-08-25",
+      "category": "product",
+      "title": "苹果A19 Pro芯片集成三并行引擎，LLM推理速度达30+ tok/s",
+      "summary": "苹果在A19 Pro的GPU里集成AI加速器，LLM/Diffusion推理可同时利用GPU计算单元+NPU矩阵单元+NE 16核三个并行引擎。iPhone 17 Pro持续运行大模型时（如Apple Intelligence端侧3B LLM）可保持30+ tok/s推理速度，为端侧AI体验树立新标杆。",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202608/567784.shtml",
+      "keywords": [
+        "A19 Pro",
+        "苹果",
+        "端侧AI",
+        "NPU",
+        "Apple Intelligence"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "产品方案",
+      "id": 234
+    },
+    {
+      "date": "2026-08-25",
+      "category": "product",
+      "title": "梁溪区推动端侧AI芯片嵌入本地全产业链，夯实机器人产业底座",
+      "summary": "梁溪区、梁溪科技城系统构建人工智能、机器人、低空经济等特色产业集群。端侧AI芯片作为衔接算法与终端的核心硬件环节，嵌入本地产业集群，为机器人、低空经济、智能穿戴等赛道企业就近对接芯片合作伙伴，推动向物理AI方向升级。",
+      "source": "无锡市政府",
+      "url": "https://www.wuxi.gov.cn/doc/2026/08/21/4821057.shtml",
+      "keywords": [
+        "端侧AI芯片",
+        "梁溪区",
+        "机器人",
+        "产业链",
+        "AI芯片"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "产品方案",
+      "id": 235
+    },
+    {
+      "date": "2026-08-25",
+      "category": "scenario",
+      "title": "日本养老设施采用AI摄像头监测跌倒，入住率显著提升",
+      "summary": "日本社会医疗机构「宝木荘」采用AI见守护摄像机进行跌倒及转落事故预防与原因分析。通过AI实时监测和异常报警，显著降低了入住老人的事故发生率，入院减少带动入住率提升，为智能适老看护提供了可复制的商业化案例。",
+      "source": "高龄者住宅新闻",
+      "url": "https://www.koureisha-jutaku.com/20260819_34_01/",
+      "keywords": [
+        "AI摄像头",
+        "适老看护",
+        "跌倒检测",
+        "智能养老",
+        "日本"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "场景落地",
+      "id": 236
+    },
+    {
+      "date": "2026-08-25",
+      "category": "scenario",
+      "title": "宇树科技登陆科创板：人形机器人进入家庭场景按下加速键",
+      "summary": "宇树科技正式登陆科创板，开盘价较发行价暴涨629.44%。WRC 2026上，宇树等厂商展现「机器人到家」新趋势，老板电器展示「厨房空间智能体」概念，机器人可模拟打工人早晨场景制作早餐，零家务时代渐行渐近。",
+      "source": "腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20260820A00YQ000",
+      "keywords": [
+        "宇树科技",
+        "人形机器人",
+        "智能家居",
+        "家庭机器人",
+        "科创板"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "场景落地",
+      "id": 237
+    },
+    {
+      "date": "2026-08-25",
+      "category": "scenario",
+      "title": "2026年AI Agent编排工具爆发：Kimi Work可同时调度上百个智能体",
+      "summary": "2026年多智能体协作（Multi-Agent System）成为确定趋势。Kimi Work是月之暗面推出的桌面端AI工作平台，核心卖点是一次调度上百个Agent协同工作。支付宝在杭州生态大会上发布国内首个全栈智能体商业底座与AHA跨端协议，智能体商业化进入基础设施阶段。",
+      "source": "AI Tool Lab",
+      "url": "https://www.aitoollab.cn/articles/multi-agent-ai-tools-guide-2026/",
+      "keywords": [
+        "AI Agent",
+        "多智能体",
+        "Kimi Work",
+        "智能体编排",
+        "协同"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "场景落地",
+      "id": 238
+    },
+    {
+      "date": "2026-08-25",
+      "category": "scenario",
+      "title": "Figure 03人形机器人实现自主爬梯：VLA系统Helix迈向人类建造环境导航",
+      "summary": "Figure AI的Figure 03实现自主爬梯演示，依靠端到端VLA系统Helix，通过立体相机实时构建3D环境地图并监控自身姿态。整套动作在仿真环境以强化学习训练后零缝隙迁移到真机，是人形机器人从平地面移动迈向人类建造环境导航的关键里程碑。",
+      "source": "知乎",
+      "url": "https://zhuanlan.zhihu.com/p/2074032277999334483",
+      "keywords": [
+        "Figure AI",
+        "人形机器人",
+        "VLA",
+        "具身智能",
+        "自主导航"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "场景落地",
+      "id": 239
+    },
+    {
+      "date": "2026-08-25",
+      "category": "security",
+      "title": "智能家居配网协议严重漏洞：智能灯泡正在广播WiFi密码",
+      "summary": "安全研究人员揭露2026年智能家居配网协议严重漏洞，smartconfig等方式明文广播WiFi密码，攻击者可通过无线监听抓包获取家庭网络密码。问题根源在于厂商因兼容性包袱和安全测试不足导致，建议用户使用访客网络隔离IoT设备，厂商应采用Matter等安全标准。",
+      "source": "信息安全知识库",
+      "url": "https://www.gm7.org/archives/151172",
+      "keywords": [
+        "智能家居安全",
+        "WiFi密码泄露",
+        "配网协议",
+        "IoT漏洞",
+        "网络安全"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "数据安全",
+      "id": 240
+    },
+    {
+      "date": "2026-08-25",
+      "category": "security",
+      "title": "BadBox 2.0供应链攻击：超过1000万台设备被预感染",
+      "summary": "2026年最严重的IoT威胁之一是BadBox 2.0供应链攻击，超过1000万台设备在出厂前已被预感染。Aisuru/TurboMirai僵尸网络更是实现了20+ Tbps DDoS攻击能力。此外，默认凭证利用漏洞持续威胁IoT设备安全，企业需加强设备入网前的安全检测。",
+      "source": "Vectra AI",
+      "url": "https://www.vectra.ai/topics/iot-security",
+      "keywords": [
+        "BadBox 2.0",
+        "供应链攻击",
+        "IoT安全",
+        "僵尸网络",
+        "DDoS"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "数据安全",
+      "id": 241
+    },
+    {
+      "date": "2026-08-25",
+      "category": "security",
+      "title": "2026年家庭WiFi安全指南：mTLS双向认证成为IoT数据安全标配",
+      "summary": "2026年家庭WiFi安全实用指南发布，重点推荐WPA3加密、固件定期更新、访客网络隔离、更改默认密码等措施。在IoT数据安全传输方面，TLS 1.3和mTLS双向认证（设备与服务器相互验证证书）成为新一代安全标准，可大幅降低家庭物联网设备被入侵的风险。",
+      "source": "HackerNoon",
+      "url": "https://hackernoon.com/9-ways-to-secure-your-home-wi-fi-in-2026",
+      "keywords": [
+        "家庭WiFi安全",
+        "WPA3",
+        "mTLS",
+        "IoT安全",
+        "物联网"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "数据安全",
+      "id": 242
     }
   ]
 }
