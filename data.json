@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25",
+  "lastUpdated": "2026-08-26",
   "news": [
     {
       "id": 1,
@@ -4342,6 +4342,438 @@
       "published": "2026-08-20",
       "categoryLabel": "数据安全",
       "id": 242
+    },
+    {
+      "date": "2026-08-26",
+      "category": "tech",
+      "title": "Broadband Forum推出Matter Service API：统一智能家庭管理接口",
+      "summary": "Broadband Forum于2026年8月20日发布TR-517标准，推出Matter Service API，为服务提供商和应用程序开发商提供访问智能家居设备的统一标准化接口，支持跨制造商设备管理。这一标准化方案有望大幅简化智能家庭网络的管控复杂度。",
+      "source": "EE Journal / 2026-08-20",
+      "url": "https://www.eejournal.com/industry_news/new-interface-simplifies-management-of-matter-powered-smart-homes/",
+      "keywords": [
+        "Matter",
+        "智能家居",
+        "TR-517",
+        "Broadband Forum",
+        "标准接口"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "技术前沿",
+      "id": 243
+    },
+    {
+      "date": "2026-08-26",
+      "category": "tech",
+      "title": "全球首个6nm晶圆级垂直堆叠AI芯片发布：端侧推理速度达330TPS",
+      "summary": "小米发布行业首款6nm晶圆级垂直堆叠（Wafer on Wafer）AI加速芯片玄戒O100，采用Hybrid Bonding混合键合工艺，键合间距仅1.4微米，1.22TB/s超高带宽为传统旗舰手机16倍，端侧推理速度最高可达330TPS，为手机本地运行大模型打开新空间。",
+      "source": "搜狐网 / 2026-08-25",
+      "url": "https://m.sohu.com/a/1067298303_100085330",
+      "keywords": [
+        "6nm",
+        "垂直堆叠",
+        "AI芯片",
+        "端侧推理",
+        "小米"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "技术前沿",
+      "id": 244
+    },
+    {
+      "date": "2026-08-26",
+      "category": "tech",
+      "title": "清华FLEXI全柔性存算一体AI芯片：功耗降低90%适配移动机器人",
+      "summary": "清华FLEXI全柔性存算一体AI芯片实现重大突破，功耗降低90%，专为移动机器人等边缘智能场景设计。该芯片减少对云端依赖，实现更低延迟的本地AI推理，代表了轻量化算力芯片的重要发展方向。",
+      "source": "今日头条 / 2026-08-21",
+      "url": "https://www.toutiao.com/article/7639543101698163243/",
+      "keywords": [
+        "FLEXI",
+        "存算一体",
+        "AI芯片",
+        "边缘智能",
+        "清华"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "技术前沿",
+      "id": 245
+    },
+    {
+      "date": "2026-08-26",
+      "category": "tech",
+      "title": "SwiftInfer方案让大模型推理性能提升46%：打破多轮对话长度限制",
+      "summary": "国产开源SwiftInfer方案实现重大突破，不仅支持LLM处理无限流式输入，还将推理性能提升46%。通过将StreamingLLM方法与TensorRT推理优化结合，为大模型在端侧的高效部署提供了新的技术路径。",
+      "source": "36氪 / 2026-08-22",
+      "url": "https://www.36kr.com/p/2595782901906055",
+      "keywords": [
+        "SwiftInfer",
+        "流式推理",
+        "性能优化",
+        "开源",
+        "端侧AI"
+      ],
+      "published": "2026-08-22",
+      "categoryLabel": "技术前沿",
+      "id": 246
+    },
+    {
+      "date": "2026-08-26",
+      "category": "tech",
+      "title": "苹果计划更新智能家居产品线：Apple TV搭载A17 Pro支持Apple Intelligence",
+      "summary": "苹果计划年内推出全新Apple TV，预计搭载A17 Pro或更新芯片，配备8GB内存以支持Apple Intelligence和Siri AI功能。同时将使用支持Wi-Fi 7的自研N1芯片，并推出更新版Siri Remote，HomePod也将迎来更新。",
+      "source": "流动日报 / 2026-08-26",
+      "url": "https://www.newmobilelife.com/2026/08/26/apple-more-new-products-later-year/",
+      "keywords": [
+        "Apple",
+        "Apple TV",
+        "Apple Intelligence",
+        "智能家居",
+        "Wi-Fi 7"
+      ],
+      "published": "2026-08-26",
+      "categoryLabel": "技术前沿",
+      "id": 247
+    },
+    {
+      "date": "2026-08-26",
+      "category": "tech",
+      "title": "Matter认证设备超4000种：版本1.5支持摄像头、传感器和恒温器",
+      "summary": "截至2026年初，Matter标准已获得超过4000款认证设备，版本迭代至1.5，支持品类从智能灯泡、调光器扩展到传感器、恒温器和家电。Matter与OpenADR协议组织宣布合作，推动智能能源管理与智能家居的深度融合。",
+      "source": "LetsRenovate / 2026-08-24",
+      "url": "https://www.letsrenovate.com/2026/08/24/smart-home-lighting-control-every-light-every-room-every-way/",
+      "keywords": [
+        "Matter",
+        "智能家居",
+        "认证设备",
+        "互操作",
+        "4000种"
+      ],
+      "published": "2026-08-24",
+      "categoryLabel": "技术前沿",
+      "id": 248
+    },
+    {
+      "date": "2026-08-26",
+      "category": "policy",
+      "title": "2026年个人信息保护系列专项行动取得阶段性成效：已核查2万余款App",
+      "summary": "中央网信办、工信部、公安部联合开展2026年个人信息保护专项行动以来，累计对2万余款App、SDK个人信息收集使用情况开展核查检测，督促4000余款完成合规整改，公开通报1100余款存在问题App、SDK，对400余款采取下架等处置措施。",
+      "source": "新华网 / 2026-08-19",
+      "url": "https://www.news.cn/legal/20260819/cffc7ab3044f484aae109a1958d8e56f/c.html",
+      "keywords": [
+        "个人信息保护",
+        "专项行动",
+        "App合规",
+        "SDK",
+        "网信办"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "政策标准",
+      "id": 249
+    },
+    {
+      "date": "2026-08-26",
+      "category": "policy",
+      "title": "十五五规划纲要发布：算力网络与数字化转型列入国家重点",
+      "summary": "《中华人民共和国国民经济和社会发展第十五个五年规划纲要》于2026年3月发布，其中明确提出加快算力网络建设、推进数字化转型的战略部署，为智慧家庭、边缘计算等产业发展提供政策指引。",
+      "source": "国家发改委 / 2026-03-17",
+      "url": "https://www.ndrc.gov.cn/fggz/fzzlgh/gjfzgh/202603/U020260317369114704096.pdf",
+      "keywords": [
+        "十五五规划",
+        "算力网络",
+        "数字化",
+        "国家战略",
+        "发改委"
+      ],
+      "published": "2026-03-17",
+      "categoryLabel": "政策标准",
+      "id": 250
+    },
+    {
+      "date": "2026-08-26",
+      "category": "policy",
+      "title": "OpenAI在Hugging Face泄露事件后出台新安全措施",
+      "summary": "在Hugging Face发生安全泄露事件后，OpenAI迅速出台新安全措施以加强模型和数据保护。此举也引发业界对AI供应链安全的广泛关注，推动各大厂商重新审视模型托管和数据存储的安全策略。",
+      "source": "zglg.work / 2026-08-19",
+      "url": "https://zglg.work/ai/today/2026-08-19",
+      "keywords": [
+        "OpenAI",
+        "安全措施",
+        "Hugging Face",
+        "AI安全",
+        "数据保护"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "政策标准",
+      "id": 251
+    },
+    {
+      "date": "2026-08-26",
+      "category": "policy",
+      "title": "银行业系统性依赖少数AI供应商引发监管关注",
+      "summary": "随着AI在金融领域应用深化，银行业对少数AI供应商的系统性依赖问题引发监管警示。监管机构呼吁金融机构分散AI风险，避免单一供应商锁定，同时加强对AI系统安全性和可控性的审查。",
+      "source": "CSDN / 2026-08-19",
+      "url": "https://blog.csdn.net/haohaizi_liu/article/details/163891884",
+      "keywords": [
+        "银行业",
+        "AI供应商",
+        "监管",
+        "系统性风险",
+        "AI安全"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "政策标准",
+      "id": 252
+    },
+    {
+      "date": "2026-08-26",
+      "category": "product",
+      "title": "小米发布玄戒O3芯片：NPU算力200TOPS，专为端侧大模型而生",
+      "summary": "小米发布玄戒O3芯片，NPU架构全面重构，专为Xiaomi MiMo端侧大模型设计，拥有200TOPS张量算力和3.13TFLOPS向量算力，端侧AI性能大幅提升45%。该芯片全球首个支持LPDDR6，带宽达113.8GB/s，相比玄戒O1提升48%。",
+      "source": "IT之家 / 2026-08-24",
+      "url": "https://www.ithome.com/0/993/556.htm",
+      "keywords": [
+        "小米",
+        "玄戒O3",
+        "NPU",
+        "端侧AI",
+        "200TOPS"
+      ],
+      "published": "2026-08-24",
+      "categoryLabel": "产品方案",
+      "id": 253
+    },
+    {
+      "date": "2026-08-26",
+      "category": "product",
+      "title": "小米AI Cube原型机发布：搭载三颗玄戒芯片，可本地运行120B参数大模型",
+      "summary": "雷军正式发布小米AI Cube原型机，搭载三颗玄戒自研芯片，桌面AI高算力终端可在本地运行120B参数大模型。折叠屏装置凭借O100芯片实现离线状态下300 tokens/s的极速响应。量产时间和定价尚未公布。",
+      "source": "财联社 / 2026-08-24",
+      "url": "https://www.cls.cn/detail/2462212",
+      "keywords": [
+        "小米",
+        "AI Cube",
+        "120B大模型",
+        "端侧推理",
+        "原型机"
+      ],
+      "published": "2026-08-24",
+      "categoryLabel": "产品方案",
+      "id": 254
+    },
+    {
+      "date": "2026-08-26",
+      "category": "product",
+      "title": "THIRDREALITY携Matter智能家居和智能护理解决方案首次亮相IFA 2026",
+      "summary": "智能家居科技公司THIRDREALITY在IFA 2026首次独立参展，展示其专注于可靠性和易用性的Matter智能家居及智能护理解决方案，进一步丰富Matter协议生态下的产品矩阵。",
+      "source": "PRNewswire / 2026-08-20",
+      "url": "https://www.prnewswire.com/news-releases/thirdreality-feiert-sein-debut-als-unabhangiger-aussteller-auf-der-ifa-mit-matter-smart-home--und-smart-care-losungen-302855880.html",
+      "keywords": [
+        "THIRDREALITY",
+        "IFA",
+        "Matter",
+        "智能家居",
+        "智能护理"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "产品方案",
+      "id": 255
+    },
+    {
+      "date": "2026-08-26",
+      "category": "product",
+      "title": "《家庭管家》应用发布：零服务器端隐私，家电追踪完全本地化",
+      "summary": "ProductHunt热榜产品《家庭管家》是一款家电与保修追踪应用，保证零服务器端隐私，所有数据保存在手机本地，不做广告、不设账户、不出售数据。支持15种语言，由独立开发者结合AI技术打造。",
+      "source": "Decohack / 2026-08-23",
+      "url": "https://decohack.com/producthunt-daily-2026-08-23/",
+      "keywords": [
+        "家庭管家",
+        "隐私保护",
+        "本地存储",
+        "家电追踪",
+        "ProductHunt"
+      ],
+      "published": "2026-08-23",
+      "categoryLabel": "产品方案",
+      "id": 256
+    },
+    {
+      "date": "2026-08-26",
+      "category": "product",
+      "title": "苹果宣布2026年推出自研安防摄像头，主打端侧AI",
+      "summary": "苹果宣布将于2026年推出自研安防摄像头产品，主打端侧AI处理能力。此举将加剧智能安防摄像头市场竞争，同时推动端侧AI在家庭安防场景的普及。",
+      "source": "CSDN / 2026-08-19",
+      "url": "https://blog.csdn.net/haohaizi_liu/article/details/163891884",
+      "keywords": [
+        "苹果",
+        "安防摄像头",
+        "端侧AI",
+        "智能安防",
+        "自研芯片"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "产品方案",
+      "id": 257
+    },
+    {
+      "date": "2026-08-26",
+      "category": "scenario",
+      "title": "东湖区169户独居老人用上24小时智能监测守护系统",
+      "summary": "2026年东湖区结合服务类社会救助试点工作，在全省率先探索建立特殊困难老人24小时监测服务系统，为169户独居老人配备智能监测设备，通过科技手段守护老人居家安全。",
+      "source": "凤凰网 / 2026-08-24",
+      "url": "https://news.ifeng.com/c/8vr2qYDvkiN",
+      "keywords": [
+        "独居老人",
+        "智能监测",
+        "适老化",
+        "科技守护",
+        "东湖区"
+      ],
+      "published": "2026-08-24",
+      "categoryLabel": "场景落地",
+      "id": 258
+    },
+    {
+      "date": "2026-08-26",
+      "category": "scenario",
+      "title": "广州银发经济公共实验室成立：科技助老创新探索",
+      "summary": "广州成立银发经济公共实验室，依托广州市老人院真实养老场景，将长者使用体验、健康评估、智能终端采集等数据汇集，反馈至产品研发端，探索科技助老的创新路径。",
+      "source": "人民网 / 2026-08-25",
+      "url": "http://gd.people.com.cn/n2/2026/0825/c123932-41677167.html",
+      "keywords": [
+        "银发经济",
+        "科技助老",
+        "适老化",
+        "广州",
+        "智能终端"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "场景落地",
+      "id": 259
+    },
+    {
+      "date": "2026-08-26",
+      "category": "scenario",
+      "title": "地板振动传感器监测老人健康：通过步态分析认知功能衰退",
+      "summary": "西班牙研究团队开发出放置于地板下的振动传感器系统，通过分析老人步态数据可识别认知功能衰退早期迹象，为居家健康管理提供无接触式监测方案。",
+      "source": "La Vanguardia / 2026-08-21",
+      "url": "https://www.lavanguardia.com/vivo/longevity/20260821/11605114/vivir-casa-sensores-vibracion-suelo-monitorizar-salud-traves-marcha-desentranar-deficits-cognitivos.html",
+      "keywords": [
+        "振动传感器",
+        "步态分析",
+        "认知衰退",
+        "居家健康",
+        "适老化"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "场景落地",
+      "id": 260
+    },
+    {
+      "date": "2026-08-26",
+      "category": "scenario",
+      "title": "Kimi Work发布：月之暗面推桌面AI平台，一次调度上百个Agent协同",
+      "summary": "月之暗面推出Kimi Work桌面端AI工作平台，核心卖点为一次调度上百个Agent协同工作，支持多Agent编排，覆盖文档探索、管理销售、人力资源、后勤运营、知识产权、电话及视频监控等多个业务场景。",
+      "source": "AI Tool Lab / 2026-08-21",
+      "url": "https://www.aitoollab.cn/articles/multi-agent-ai-tools-guide-2026/",
+      "keywords": [
+        "Kimi Work",
+        "多Agent",
+        "AI编排",
+        "月之暗面",
+        "协同工作"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "场景落地",
+      "id": 261
+    },
+    {
+      "date": "2026-08-26",
+      "category": "scenario",
+      "title": "日本养老院采用AI见守摄像头，摔倒事故减少且入住率提升",
+      "summary": "日本社会医疗法人中山会运营的养老设施宝木荘引入AI见守摄像头，实现对入住老人的实时安全监测，有效预防摔倒事故，事后通过视频分析改进照护流程，不仅降低了事故率还提升了设施入住率。",
+      "source": "高龄者住宅新闻 / 2026-08-19",
+      "url": "https://www.koureisha-jutaku.com/20260819_34_01/",
+      "keywords": [
+        "AI见守摄像头",
+        "摔倒检测",
+        "养老院",
+        "日本",
+        "事故预防"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "场景落地",
+      "id": 262
+    },
+    {
+      "date": "2026-08-26",
+      "category": "security",
+      "title": "智能配网协议严重漏洞：智能灯泡正在广播WiFi密码",
+      "summary": "安全研究人员披露2026年智能家居配网协议严重漏洞，smartconfig等配网方式以明文广播WiFi密码，攻击者通过无线监听抓包即可获取家庭网络凭证，实现对家庭网络的入侵，建议用户关注设备配网方式的安全性。",
+      "source": "信息安全知识库 / 2026-08-25",
+      "url": "https://www.gm7.org/archives/151172",
+      "keywords": [
+        "智能家居",
+        "安全漏洞",
+        "配网协议",
+        "WiFi密码",
+        "明文广播"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "数据安全",
+      "id": 263
+    },
+    {
+      "date": "2026-08-26",
+      "category": "security",
+      "title": "2026年手机隐私保护功能全解析：物理级防窃听、AI防窥屏成标配",
+      "summary": "2026年手机隐私保护不再局限于软件权限管控，华为超级隐私模式可通过控制中心物理关闭麦克风、摄像头和位置信息，OPPO、三星、苹果等主流厂商纷纷推出基于硬件级隔离的隐私方案，物理级防窃听和AI防窥屏成为高端机型标配。",
+      "source": "新浪科技 / 2026-08-25",
+      "url": "https://k.sina.com.cn/article_7879923041_1d5ae156106801k7r2.html",
+      "keywords": [
+        "隐私保护",
+        "硬件隔离",
+        "防窃听",
+        "防窥屏",
+        "手机安全"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "数据安全",
+      "id": 264
+    },
+    {
+      "date": "2026-08-26",
+      "category": "security",
+      "title": "国产AI芯片2026半年报：寒武纪营收暴增超2100%，算力需求强劲",
+      "summary": "寒武纪等国产AI芯片企业2026年半年报显示营收同比暴增超2100%，净利润增长122%。在智算中心建设、供应链安全与自主可控的双重需求下，国产算力获得金融、互联网及运营商等关键客户加速导入。",
+      "source": "世界半导体论坛 / 2026-08-19",
+      "url": "https://scf.amtbbs.org/61093.html",
+      "keywords": [
+        "寒武纪",
+        "AI芯片",
+        "国产算力",
+        "业绩增长",
+        "供应链安全"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "数据安全",
+      "id": 265
+    },
+    {
+      "date": "2026-08-26",
+      "category": "security",
+      "title": "DeepSeek V4-Plus涨价60%仍获市场认可，国产大模型进入价值定价阶段",
+      "summary": "DeepSeek V4-Plus正式调整价格，输入3.5元/百万tokens、输出12元/百万tokens，涨幅约60%，但首日调用量仍增长18%，显示市场对头部国产模型的认可，国产大模型正从价格竞争转向价值定价。",
+      "source": "CSDN / 2026-08-19",
+      "url": "https://blog.csdn.net/haohaizi_liu/article/details/163891884",
+      "keywords": [
+        "DeepSeek",
+        "大模型定价",
+        "价格调整",
+        "国产AI",
+        "市场认可"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "数据安全",
+      "id": 266
     }
   ]
 }
