@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26",
+  "lastUpdated": "2026-08-27",
   "news": [
     {
       "id": 1,
@@ -4774,6 +4774,402 @@
       "published": "2026-08-19",
       "categoryLabel": "数据安全",
       "id": 266
+    },
+    {
+      "date": "2026-08-27",
+      "category": "tech",
+      "title": "Matter 1.6发布：修复智能家居配网与生态冲突问题，新增NFC与联合配对支持",
+      "summary": "Matter 1.6版本于2026年6月发布，重点修复了智能家居设备配网流程中的多处痛点，新增NFC触碰配对和联合配对（Joint Fabric）功能，进一步简化多生态设备添加入口。2026年起所有Matter互操作测试已强制要求通过Alliance Interop Test。",
+      "source": "Wikipedia / Tech Times",
+      "url": "https://en.wikipedia.org/wiki/Matter_(standard)",
+      "keywords": [
+        "Matter 1.6",
+        "智能家居",
+        "互操作标准",
+        "NFC配对",
+        "Matter协议"
+      ],
+      "published": "2026-06-19",
+      "categoryLabel": "技术前沿",
+      "id": 267
+    },
+    {
+      "date": "2026-08-27",
+      "category": "tech",
+      "title": "Broadband Forum发布MatterService数据模型TR-517，统一家庭网关管理接口",
+      "summary": "TR-517将User Services Platform（USP/TR-369）与Matter协议深度融合，为宽带网关、路由器和智能家居Hub建立了统一的设备管理API。这意味着运营商可通过单一平台管理所有支持Matter的家庭设备，大幅降低家庭物联网的运维复杂度。",
+      "source": "EE Journal / Smart Home World",
+      "url": "https://www.eejournal.com/industry_news/new-interface-simplifies-management-of-matter-powered-smart-homes/",
+      "keywords": [
+        "Matter协议",
+        "家庭网关",
+        "USP",
+        "TR-517",
+        "物联网管理"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "技术前沿",
+      "id": 268
+    },
+    {
+      "date": "2026-08-27",
+      "category": "tech",
+      "title": "小米发布玄戒O100芯片：全球首款6nm晶圆级垂直堆叠AI加速芯片",
+      "summary": "小米于2026年8月24日发布玄戒O100，采用6nm晶圆级垂直堆叠（Wafer on Wafer）先进封装工艺，混合键合工艺实现1.4微米键合间距，内存带宽达1.22TB/s。在运行小米MiMo-3B端侧模型时推理速度最高330Tokens/s，端侧AI性能大幅提升45%。",
+      "source": "证券时报 / 快科技",
+      "url": "https://www.stcn.com/article/detail/4105406.html",
+      "keywords": [
+        "玄戒O100",
+        "小米芯片",
+        "端侧AI",
+        "晶圆级封装",
+        "NPU"
+      ],
+      "published": "2026-08-24",
+      "categoryLabel": "技术前沿",
+      "id": 269
+    },
+    {
+      "date": "2026-08-27",
+      "category": "tech",
+      "title": "苹果M6芯片发布：首款2nm制程芯片，12核CPU支持本地大型AI模型",
+      "summary": "苹果M6芯片为全球首批2nm工艺SoC，搭载12核CPU、12核GPU以及双16核神经引擎，AI算力大幅提升，可支持在本地直接运行大型AI模型而无需云端协同，标志着苹果端侧AI推理能力迈入新阶段。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/219.htm",
+      "keywords": [
+        "苹果M6",
+        "2nm芯片",
+        "端侧AI",
+        "神经引擎",
+        "本地大模型"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "技术前沿",
+      "id": 270
+    },
+    {
+      "date": "2026-08-27",
+      "category": "tech",
+      "title": "Qwen3.7-Max发布：1M上下文、超长周期自主执行与跨框架泛化",
+      "summary": "Qwen3.7-Max于2026年5月发布，上下文窗口达1M token，突出能力为长周期自主执行与跨框架泛化。该模型可在陌生硬件平头哥真武M890上持续运行数天，完成上千次工具调用与数百次内核评估，自主实现10倍推理加速。",
+      "source": "知乎",
+      "url": "https://zhuanlan.zhihu.com/p/670574382",
+      "keywords": [
+        "Qwen3.7",
+        "通义千问",
+        "长上下文",
+        "自主Agent",
+        "端侧推理"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "技术前沿",
+      "id": 271
+    },
+    {
+      "date": "2026-08-27",
+      "category": "tech",
+      "title": "moziAI-35B本地开源大模型发布：350亿参数，面向全球三大开源社区免费开源",
+      "summary": "2026年8月，中国财经博主陈雨墨发布moziAI-35B开源模型，参数规模350亿，采用MoE（专家混合）架构实现\"小而美\"效果，已在Hugging Face、GitHub、ModelScope三大平台同步开源，支持本地部署。",
+      "source": "新浪新闻",
+      "url": "https://sina.cn/news/detail/5335515075451340.html",
+      "keywords": [
+        "moziAI-35B",
+        "开源大模型",
+        "端侧部署",
+        "MoE架构",
+        "国产模型"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "技术前沿",
+      "id": 272
+    },
+    {
+      "date": "2026-08-27",
+      "category": "policy",
+      "title": "Matter与OpenADR协议达成合作：智能家居与电网需求响应深度对接",
+      "summary": "Matter标准组织与OpenADR（开放自动化需求响应）协议方联合宣布合作，将能源管理信号直接融入Matter智能家居生态。未来家庭 Heat Pump、恒温器等设备可实时响应电网调度需求，实现从\"设备互联\"到\"家庭能源协同\"的跨越。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets",
+      "keywords": [
+        "Matter协议",
+        "OpenADR",
+        "需求响应",
+        "智能能源",
+        "家庭电网"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "政策标准",
+      "id": 273
+    },
+    {
+      "date": "2026-08-27",
+      "category": "policy",
+      "title": "欧盟NIS2指令强化物联网安全要求，中小企业网络安全建设提速",
+      "summary": "2026年欧盟NIS2指令全面生效，对物联网和智能家居设备制造商提出强制性网络安全要求，涵盖漏洞管理、事件报告和供应链安全多个维度。波兰等成员国已率先将AI驱动的物联网安全监测纳入合规框架，中小型企业面临显著的合规压力与技术升级需求。",
+      "source": "Zielony Dziennik",
+      "url": "https://www.zielonydziennik.pl/2026/08/21/nowa-dyrektywa-o-cyberbezpieczenstwie-nis2-jak-ai-chroni-dane-msp-w-2026/",
+      "keywords": [
+        "NIS2",
+        "欧盟指令",
+        "物联网安全",
+        "合规要求",
+        "网络安全"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "政策标准",
+      "id": 274
+    },
+    {
+      "date": "2026-08-27",
+      "category": "policy",
+      "title": "中国十五五规划纲要发布：AI、机器人、边缘智能列为重点发展方向",
+      "summary": "《中华人民共和国国民经济和社会发展第十五个五年规划纲要》于2026年3月正式发布，明确将人工智能、机器人、边缘智能列为重点发展方向，推动物理AI（具身智能）在工业、服务、家庭场景的系统性落地，为智慧家庭产业提供长期政策支撑。",
+      "source": "国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/fggz/fzzlgh/gjfzgh/202603/U020260317369114704096.pdf",
+      "keywords": [
+        "十五五规划",
+        "人工智能",
+        "具身智能",
+        "边缘计算",
+        "政策"
+      ],
+      "published": "2026-03-01",
+      "categoryLabel": "政策标准",
+      "id": 275
+    },
+    {
+      "date": "2026-08-27",
+      "category": "policy",
+      "title": "全球首个Matter兼容设备超4000款，中国厂商占据重要份额",
+      "summary": "截至2026年初，全球已认证Matter设备数量突破4000款，覆盖照明、门锁、传感器、恒温器等主要品类。Matter生态的快速扩张得益于中国厂商的积极参与，多家头部企业已推出全系列Matter认证产品，推动跨品牌互联互通成为行业标配。",
+      "source": "LetsRenovate",
+      "url": "https://www.letsrenovate.com/2026/08/24/smart-home-lighting-control-every-light-every-room-every-way/",
+      "keywords": [
+        "Matter认证",
+        "智能家居生态",
+        "4000款设备",
+        "互联互通",
+        "标准协议"
+      ],
+      "published": "2026-08-24",
+      "categoryLabel": "政策标准",
+      "id": 276
+    },
+    {
+      "date": "2026-08-27",
+      "category": "product",
+      "title": "Apple HomeKit产品线大更新：Apple TV搭载A17 Pro芯片，HomePod集成Wi-Fi 7",
+      "summary": "苹果计划在年内更新智能家居产品线，全新Apple TV将搭载A17 Pro或更新芯片，配备8GB内存以支持Apple Intelligence和Siri AI功能，同时使用自研N1 Wi-Fi 7芯片。HomePod也将同步升级，整体提升本地AI推理和家庭音频智能交互能力。",
+      "source": "流动日报",
+      "url": "https://www.newmobilelife.com/2026/08/26/apple-more-new-products-later-year/",
+      "keywords": [
+        "Apple TV",
+        "HomePod",
+        "Wi-Fi 7",
+        "Apple Intelligence",
+        "智能家居"
+      ],
+      "published": "2026-08-26",
+      "categoryLabel": "产品方案",
+      "id": 277
+    },
+    {
+      "date": "2026-08-27",
+      "category": "product",
+      "title": "ThirdReality携Matter-over-Thread产品线亮相IFA，智能护理解决方案同步展出",
+      "summary": "ThirdReality首次以独立参展商身份亮相IFA，展示了全新Matter-over-Thread产品线及智能护理解决方案。Matter-over-Thread系列新品将于2026年下半年正式量产上市，主打低功耗、高可靠性的智能家居与适老看护场景。",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/thirdreality-feiert-sein-debut-als-unabhangiger-aussteller-auf-der-ifa-mit-matter-smart-home--und-smart-care-losungen-302855880.html",
+      "keywords": [
+        "ThirdReality",
+        "Matter-over-Thread",
+        "IFA",
+        "智能家居",
+        "适老看护"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "产品方案",
+      "id": 278
+    },
+    {
+      "date": "2026-08-27",
+      "category": "product",
+      "title": "Eufy新一代智能锁支持Matter协议，无需HomeBase直接接入HomeKit",
+      "summary": "Eufy推出支持Matter协议的新一代智能锁，用户无需额外购买HomeBase即可直接将智能锁接入Apple HomeKit与其他主流智能家居平台。此举标志着Eufy全面拥抱Matter生态，降低了多平台用户的设备使用门槛。",
+      "source": "AddToHomeKit",
+      "url": "https://www.addtohomekit.com/blog/eufy-homekit/",
+      "keywords": [
+        "Eufy",
+        "智能门锁",
+        "Matter协议",
+        "HomeKit",
+        "多平台互联"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "产品方案",
+      "id": 279
+    },
+    {
+      "date": "2026-08-27",
+      "category": "product",
+      "title": "小米玄戒O3芯片首发于18 Fold折叠屏手机，NPU算力200TOPS",
+      "summary": "小米18 Fold折叠屏旗舰手机首发搭载玄戒O3芯片，NPU架构全面重构专为Xiaomi MiMo端侧大模型设计，拥有200TOPS张量算力和3.13TFLOPS向量算力，端侧AI性能较前代提升45%，将于9月正式上市。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/510.htm",
+      "keywords": [
+        "玄戒O3",
+        "小米18 Fold",
+        "NPU",
+        "200TOPS",
+        "折叠屏手机"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "产品方案",
+      "id": 280
+    },
+    {
+      "date": "2026-08-27",
+      "category": "scenario",
+      "title": "日本养老机构引入AI见守り摄像头，摔倒事故减少与入住率提升成效显著",
+      "summary": "日本社会医疗法人中山会在运营的养老机构\"宝木荘\"中引入AI见守り摄像头，实时监测入住老人的摔倒与跌落风险。该系统不仅有效预防事故发生，还通过数据分析帮助机构优化护理流程，入住率同期出现明显提升。",
+      "source": "高齢者住宅新聞",
+      "url": "https://www.koureisha-jutaku.com/20260819_34_01/",
+      "keywords": [
+        "AI见守り",
+        "养老机构",
+        "摔倒检测",
+        "智能安防",
+        "适老科技"
+      ],
+      "published": "2026-08-19",
+      "categoryLabel": "场景落地",
+      "id": 281
+    },
+    {
+      "date": "2026-08-27",
+      "category": "scenario",
+      "title": "地板振动传感器走进家庭：步行模式分析可早期发现认知功能障碍",
+      "summary": "西班牙研究团队在家庭地板下部署高灵敏度振动传感器，通过分析居住者的步态模式早期识别认知功能下降风险。AI算法可从步行数据中提取细微异常，为阿尔茨海默病等认知障碍的早期干预提供数据支撑，已进入居家测试阶段。",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/vivo/longevity/20260821/11605114/vivir-casa-sensores-vibracion-suelo-monitorizar-salud-traves-marcha-desentranar-deficits-cognitivos.html",
+      "keywords": [
+        "振动传感器",
+        "步态分析",
+        "认知功能",
+        "AI健康监测",
+        "居家适老"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "场景落地",
+      "id": 282
+    },
+    {
+      "date": "2026-08-27",
+      "category": "scenario",
+      "title": "Ambi推出\"环境感知+AI记忆\"硬件：第二大脑解决智能遗忘与保留",
+      "summary": "前Plaud中国区CEO创业项目Ambi推出环境感知与AI记忆结合的智能硬件，主打\"第二大脑\"概念，通过智能判断哪些信息值得记忆、哪些应当遗忘，提升个人数据管理效率。产品已于近期完成私人内测，第七日留存率达37.8%，计划2026年10月12日启动公开测试。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L56CMJDO0556CAYF.html",
+      "keywords": [
+        "Ambi",
+        "AI记忆",
+        "环境感知",
+        "个人智能体",
+        "可穿戴设备"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "场景落地",
+      "id": 283
+    },
+    {
+      "date": "2026-08-27",
+      "category": "scenario",
+      "title": "多Agent协同进入生产级阶段：Kimi Work实现百 Agent并行调度",
+      "summary": "月之暗面推出的Kimi Work平台支持一次调度上百个Agent协同工作，覆盖文档探索、管理销售、人力资源、后台运营、知识产权、电话与视频监控等多个企业场景，标志着多Agent编排系统正式从概念验证进入生产级应用阶段。",
+      "source": "AI Tool Lab",
+      "url": "https://www.aitoollab.cn/articles/multi-agent-ai-tools-guide-2026/",
+      "keywords": [
+        "Kimi Work",
+        "多Agent协同",
+        "Agent编排",
+        "工作流自动化",
+        "企业AI"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "场景落地",
+      "id": 284
+    },
+    {
+      "date": "2026-08-27",
+      "category": "security",
+      "title": "智能家居配网协议严重漏洞实锤：smartconfig明文广播WiFi密码可被监听获取",
+      "summary": "安全研究人员通过抓包实测验证，主流智能家居设备使用的smartconfig配网方式存在严重安全缺陷，WiFi密码以明文形式广播，攻击者仅需无线监听即可获取家庭网络密码。建议用户优先选择支持二维码扫描或蓝牙配网的设备，厂商应加速推动加密配网方案落地。",
+      "source": "gm7信息安全知识库",
+      "url": "https://www.gm7.org/archives/151172",
+      "keywords": [
+        "智能家居漏洞",
+        "配网安全",
+        "WiFi密码泄露",
+        "smartconfig",
+        "网络安全"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "数据安全",
+      "id": 285
+    },
+    {
+      "date": "2026-08-27",
+      "category": "security",
+      "title": "IoT数据传输安全指南2026：TLS 1.3与双向认证（mTLS）成为必选",
+      "summary": "物联网安全最佳实践指南指出，2026年智能家居设备应全面采用TLS 1.3协议降低延迟并提升安全性，对电池供电设备尤其关键。更进一步，双向认证mTLS应成为高安全需求场景的标配，确保设备与云端双向身份验证，防止伪造设备入侵家庭网络。",
+      "source": "Choice IoT",
+      "url": "https://www.choiceiot.com/uncategorized/iot-data-security-best-practices-2026-a-checklist-for-securing-data-in-transit/",
+      "keywords": [
+        "TLS 1.3",
+        "mTLS",
+        "IoT安全",
+        "双向认证",
+        "数据传输安全"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "数据安全",
+      "id": 286
+    },
+    {
+      "date": "2026-08-27",
+      "category": "security",
+      "title": "2026家庭WiFi安全指南：WPA3、固件更新与设备审计九大要点",
+      "summary": "HackerNoon发布2026年家庭WiFi安全指南，涵盖WPA3加密强制部署、路由器固件定期更新、访客网络隔离、设备安全审计等九大实践要点，并警示AI生成攻击使得传统社会工程学攻击更难识别，家庭用户需提升安全意识并采取主动防御措施。",
+      "source": "HackerNoon",
+      "url": "https://hackernoon.com/9-ways-to-secure-your-home-wi-fi-in-2026",
+      "keywords": [
+        "家庭WiFi安全",
+        "WPA3",
+        "固件更新",
+        "网络安全",
+        "AI攻击"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "数据安全",
+      "id": 287
+    },
+    {
+      "date": "2026-08-27",
+      "category": "security",
+      "title": "2026上半年数据泄露达1800起：AI诈骗与身份盗窃进入高峰期",
+      "summary": "安全机构统计显示，2026年上半年全球数据泄露事件已达1800起，AI驱动的诈骗攻击和身份盗窃案件显著增加。攻击者利用AI生成个性化钓鱼内容和深度伪造音频实施诈骗，家庭用户和中小企业均面临前所未有的安全威胁。",
+      "source": "HumbleDollar / Modern Husbands",
+      "url": "https://humbledollar.com/forum/1800-data-breaches-in-the-first-six-months-of-2026/",
+      "keywords": [
+        "数据泄露",
+        "AI诈骗",
+        "身份盗窃",
+        "网络安全",
+        "隐私保护"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "数据安全",
+      "id": 288
     }
   ]
 }
