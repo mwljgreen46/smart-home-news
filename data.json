@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27",
+  "lastUpdated": "2026-08-28",
   "news": [
     {
       "id": 1,
@@ -5170,6 +5170,402 @@
       "published": "2026-08-21",
       "categoryLabel": "数据安全",
       "id": 288
+    },
+    {
+      "date": "2026-08-28",
+      "category": "tech",
+      "title": "Homey 正式获得 Matter 1.5 认证，扩展桥接与能源管理能力",
+      "summary": "Athom 宣布其 Homey 软件组件正式通过 Matter 1.5 认证，覆盖 Homey Pro（2023—2026）、Homey Pro mini 及 Homey Self Hosted Server。Matter 1.5 认证为智能家居带来更高级的桥接功能，支持遗留设备接入及能源管理，推动真正互联互通的智能家居生态。",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/21/homekit-weekly-homey-secures-matter-1-5-certification-to-expand-bridging-and-energy-support/",
+      "keywords": [
+        "Matter 1.5",
+        "Homey",
+        "智能家居",
+        "设备桥接",
+        "能源管理"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "技术前沿",
+      "id": 289
+    },
+    {
+      "date": "2026-08-28",
+      "category": "tech",
+      "title": "苹果向 Matter OpenWrt 贡献代码，或为重返家庭路由器市场铺路",
+      "summary": "苹果近期向 Matter 的 OpenWrt 集成贡献了开源代码，引发业界猜测苹果可能正悄然布局重新进入家庭路由器市场。分析指出，苹果的代码贡献主要集中于网络基础设施层面，Thread Border Router 实现预期可支持超过 150 个 Thread 设备，相比现有苹果 Hub 几乎翻倍。",
+      "source": "Matter Alpha",
+      "url": "https://www.matteralpha.com/industry-news/apple-matter-openwrt-network-infrastructure",
+      "keywords": [
+        "苹果",
+        "Matter",
+        "OpenWrt",
+        "Thread Border Router",
+        "路由器"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "技术前沿",
+      "id": 290
+    },
+    {
+      "date": "2026-08-28",
+      "category": "tech",
+      "title": "2026年起所有 Matter 集成与测试必须通过 Alliance 互操作测试",
+      "summary": "Google Home 开发者文档明确指出，自 2026 年起，所有 Matter 集成与测试均需通过 CSA（Connectivity Standards Alliance）互操作测试（Alliance Interop Test）。此要求将全面提升 Matter 设备的互联互通标准门槛，推动智能家居生态走向更高成熟度。",
+      "source": "Google Home Developers",
+      "url": "https://developers.home.google.com/matter/overview",
+      "keywords": [
+        "Matter",
+        "CSA",
+        "互操作测试",
+        "智能家居标准",
+        "认证"
+      ],
+      "published": "2026-08-24",
+      "categoryLabel": "技术前沿",
+      "id": 291
+    },
+    {
+      "date": "2026-08-28",
+      "category": "tech",
+      "title": "SONOFF 发布 OpenEdge：面向下一代智能设备的本地优先架构",
+      "summary": "SONOFF 发布 OpenEdge 白皮书，提出一种本地优先（Local-First）智能设备架构，结合基于浏览器的本地 Web 控制台与标准化本地 API，实现无需云端的隐私可靠、灵活的设备控制，为家庭网关及边缘计算场景提供新思路。",
+      "source": "SONOFF Tech",
+      "url": "https://sonoff.tech/en-us/blogs/news/openedge-white-paper",
+      "keywords": [
+        "SONOFF",
+        "OpenEdge",
+        "本地优先",
+        "边缘计算",
+        "家庭网关"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "技术前沿",
+      "id": 292
+    },
+    {
+      "date": "2026-08-28",
+      "category": "tech",
+      "title": "小米发布首颗端侧大模型芯片「玄戒 O100」：6nm 晶圆级垂直堆叠封装",
+      "summary": "小米发布行业首款 6nm 晶圆级垂直堆叠（Wafer on Waite）先进封装芯片玄戒 O100，采用 Hybrid Bonding 混合键合工艺，键合间距仅 1.4 微米。在运行 Xiaomi MiMo-3B 端侧大模型场景下，推理速度最高达 330 Tokens/s，端侧 AI 性能大幅提升。",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4105406.html",
+      "keywords": [
+        "小米",
+        "玄戒O100",
+        "端侧AI",
+        "6nm",
+        "晶圆级封装"
+      ],
+      "published": "2026-08-24",
+      "categoryLabel": "技术前沿",
+      "id": 293
+    },
+    {
+      "date": "2026-08-28",
+      "category": "tech",
+      "title": "苹果正式推出 M6 芯片：2 纳米制程，本地运行大型 AI 模型",
+      "summary": "苹果推出首款 2 纳米制程芯片 M6，升级 12 核 CPU、12 核 GPU，引入双 16 核神经引擎，AI 性能大幅提升，可支持本地运行大型 AI 模型。此前苹果已推出 M5 Ultra 芯片，最高 36 核 CPU/80 核 GPU，1.2TB/s 统一内存带宽，AI 峰值 GPU 计算性能较上代最高提升 4.5 倍。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/219.htm",
+      "keywords": [
+        "苹果",
+        "M6芯片",
+        "2nm",
+        "端侧AI",
+        "神经引擎"
+      ],
+      "published": "2026-08-26",
+      "categoryLabel": "技术前沿",
+      "id": 294
+    },
+    {
+      "date": "2026-08-28",
+      "category": "policy",
+      "title": "IFA 2026 即将开幕：AI 全覆盖、家用机器人、智能家居再升级",
+      "summary": "2026 年柏林国际电子消费品展览会（IFA）将于 9 月 4-8 日在柏林会展中心举行。本届主题为「AI everywhere」，主流品牌将展示 AI 与智能家居深度融合的创新产品，从机器人到智能白色家电，AI 将更安静、更智能地运行于家居设备后台。",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/tech-events/ifa-2026-what-to-expect",
+      "keywords": [
+        "IFA 2026",
+        "智能家居",
+        "AI",
+        "机器人",
+        "消费电子"
+      ],
+      "published": "2026-08-27",
+      "categoryLabel": "政策标准",
+      "id": 295
+    },
+    {
+      "date": "2026-08-28",
+      "category": "policy",
+      "title": "DOOGEE 将在 IFA 2026 首次展示智能家居生态，布局 AI 驱动的互联生活",
+      "summary": "DOOGEE 宣布将亮相 IFA Berlin 2026，首次展示其 AI 驱动的智能家居生态系统，涵盖 Outdoor Life、Smart Life 和 Home Life 三大场景。DOOGEE 的战略表明，AI 赋能的互联生活正从户外向家庭内部延伸，智能家居生态竞争进一步加剧。",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/doogee-debuts-smart-home-ecosystem-at-ifa-berlin-2026-expanding-ai-powered-connected-living-302860383.html",
+      "keywords": [
+        "DOOGEE",
+        "IFA 2026",
+        "智能家居生态",
+        "AIoT",
+        "互联生活"
+      ],
+      "published": "2026-08-26",
+      "categoryLabel": "政策标准",
+      "id": 296
+    },
+    {
+      "date": "2026-08-28",
+      "category": "policy",
+      "title": "苹果门店为 Home 新品发布做准备：全新智能家庭 hub 即将面市",
+      "summary": "据报道，苹果零售店正在为「重大」Home 产品发布做准备，预计将推出全新智能家庭 hub，同时更新 Apple TV 4K 和 HomePod mini，新品将支持 Siri AI 功能。分析师认为这是苹果在智能家居领域的重大战略布局，有望将 Apple Intelligence 能力延伸至家庭场景。",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/23/apple-preparing-for-homepod-mini-apple-tv-smart-home-launches/",
+      "keywords": [
+        "苹果",
+        "HomePod",
+        "Apple TV",
+        "智能家居hub",
+        "Siri AI"
+      ],
+      "published": "2026-08-23",
+      "categoryLabel": "政策标准",
+      "id": 297
+    },
+    {
+      "date": "2026-08-28",
+      "category": "policy",
+      "title": "Thread 1.4 版本有望于 2026 年中发布，新版 Border Router 支持 150+ 设备",
+      "summary": "Thread 标准进入 1.4 版本开发阶段，新版 Thread Border Router 实现预期可同时处理超过 150 个 Thread 设备，相比现有设备几乎翻倍。作为 Matter 协议的核心底层网络层，Thread 1.4 将显著提升智能家居网络的设备承载能力与规模化部署效率。",
+      "source": "Wikipedia - Thread",
+      "url": "https://en.wikipedia.org/wiki/Thread_(network_protocol)",
+      "keywords": [
+        "Thread 1.4",
+        "Border Router",
+        "智能家居网络",
+        "Matter",
+        "IoT"
+      ],
+      "published": "2026-08-27",
+      "categoryLabel": "政策标准",
+      "id": 298
+    },
+    {
+      "date": "2026-08-28",
+      "category": "product",
+      "title": "Aqara U200 智能门锁发布：支持 Matter 协议与 Apple Home Key 直连",
+      "summary": "Aqara 发布 U200 智能门锁，支持 Matter 协议可直接与 Apple HomeKit 连接，无需额外 Hub。同时支持 Apple Home Key tap-to-unlock 功能，采用Aqara HomeKit Native Depth 技术，可在无需替换现有锁芯的情况下进行改装安装，是 Matter 生态中少有的直连锁具产品。",
+      "source": "Smart Home Explorer",
+      "url": "https://www.smarthomeexplorer.com/guides/homekit-matter-compatible-devices-2026",
+      "keywords": [
+        "Aqara U200",
+        "Matter",
+        "Apple Home Key",
+        "智能门锁",
+        "HomeKit"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "产品方案",
+      "id": 299
+    },
+    {
+      "date": "2026-08-28",
+      "category": "product",
+      "title": "Advantech 发布边缘 AI 硬件产品线：搭载 Qualcomm Dragonwing IQ-9075 处理器",
+      "summary": "Advantech 于 2026 年 8 月 21 日发布全新边缘 AI 硬件产品线，搭载 Qualcomm Dragonwing IQ-9075 处理器，包括 AOM-6741 SMARC 模块、ASR-A503/AFE-A503 机器人控制器及 AIR-055 系列，面向工业与家庭边缘 AI 计算场景。",
+      "source": "GeneOnline News",
+      "url": "https://www.geneonline.com/advantech-launches-edge-ai-hardware-suite-featuring-qualcomm-dragonwing-iq-9075-processor/",
+      "keywords": [
+        "Advantech",
+        "Qualcomm",
+        "边缘AI",
+        "Dragonwing",
+        "智能网关"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "产品方案",
+      "id": 300
+    },
+    {
+      "date": "2026-08-28",
+      "category": "product",
+      "title": "2026 年最佳 Matter 智能 Hub 盘点：Homey Pro 与 Aqara Hub 领先",
+      "summary": "专业评测网站 MatterCatalog 发布 2026 年最佳 Matter 智能 Hub 与 Bridge 盘点，Homey Pro、Aqara Hub 等产品凭借 Thread Border Router、Zigbee 网关、蓝牙桥接及红外控制等多协议支持位居前列，为多生态系统用户提供一站式跨平台互联方案。",
+      "source": "MatterCatalog",
+      "url": "https://mattercatalog.com/guides/best-matter-smart-hubs-2026",
+      "keywords": [
+        "Matter Hub",
+        "Thread Border Router",
+        "Homey Pro",
+        "智能家居网关",
+        "多协议"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "产品方案",
+      "id": 301
+    },
+    {
+      "date": "2026-08-28",
+      "category": "product",
+      "title": "本地控制智能 Hub 强势回归：边缘处理优先成为新趋势",
+      "summary": "行业分析指出，以本地控制为核心的智能 Hub 正强势回归。与云端系统不同，本地控制 Hub 将数据处理优先放在设备端或就近边缘，减少延迟与对互联网的依赖。Home Assistant 等开源平台进一步推动本地化智能家居控制生态，用户隐私与系统稳定性双重保障成为核心卖点。",
+      "source": "Anneler Online",
+      "url": "https://anneleronline.com/smart-home/smart-home-hub-with-local-control/",
+      "keywords": [
+        "本地控制",
+        "边缘处理",
+        "Home Assistant",
+        "智能Hub",
+        "隐私保护"
+      ],
+      "published": "2026-08-27",
+      "categoryLabel": "产品方案",
+      "id": 302
+    },
+    {
+      "date": "2026-08-28",
+      "category": "scenario",
+      "title": "毫米波雷达监测仪实现无摄像头适老看护：跌倒检测精度超 95%",
+      "summary": "中国移动等企业推出基于毫米波雷达的智能监测系统，无需安装摄像头即可实现对独居老人的无感看护。系统可在黑暗、遮挡环境下稳定运行，智能识别走动、卧床、摔倒、长时间离房等状态，异常情况同步推送至家属手机、网格员终端及大数据中心，已在多地推广。",
+      "source": "扬州晚报",
+      "url": "https://www.yzwb.net/news/sh/202608/t20260824_385806.html",
+      "keywords": [
+        "毫米波雷达",
+        "适老看护",
+        "跌倒检测",
+        "隐私保护",
+        "智能安防"
+      ],
+      "published": "2026-08-24",
+      "categoryLabel": "场景落地",
+      "id": 303
+    },
+    {
+      "date": "2026-08-28",
+      "category": "scenario",
+      "title": "广州成立银发经济公共实验室：老人院场景数据反哺智能终端研发",
+      "summary": "广州成立银发经济公共实验室，依托广州市老人院真实养老场景，将长者使用体验、健康评估、智能终端采集等数据汇集，反哺产品研发。实验室聚焦适老化智能终端，推动科技助老从概念走向规模化验证，已有多款智能健康监测设备进入实测阶段。",
+      "source": "人民网",
+      "url": "http://gd.people.com.cn/n2/2026/0825/c123932-41677167.html",
+      "keywords": [
+        "银发经济",
+        "适老化",
+        "智能养老",
+        "场景落地",
+        "广州"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "场景落地",
+      "id": 304
+    },
+    {
+      "date": "2026-08-28",
+      "category": "scenario",
+      "title": "Kimi Work 平台支持上百个 Agent 协同：多 Agent 编排进入实用阶段",
+      "summary": "月之暗面推出的 Kimi Work 桌面端 AI 工作平台，支持一次调度上百个 Agent 协同工作，涵盖文档探索、管理销售、人力资源、视频监控等多种场景。多 Agent 协作系统已在企业级场景规模化落地，自主规划任务、调用外部工具并执行工作的 AI 协作模式日趋成熟。",
+      "source": "AI Tool Lab",
+      "url": "https://www.aitoollab.cn/articles/multi-agent-ai-tools-guide-2026/",
+      "keywords": [
+        "Kimi Work",
+        "多Agent协同",
+        "AI编排",
+        "智能家居",
+        "自动化"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "场景落地",
+      "id": 305
+    },
+    {
+      "date": "2026-08-28",
+      "category": "scenario",
+      "title": "WAIC 2026：智能体回归大模型核心，端侧 AI 应用加速落地",
+      "summary": "2026 世界人工智能大会（WAIC）聚焦 Agent 发展趋势，智能体正在回归大模型核心位置。具身智能与大模型融合加速，企业级 Agent 与端侧推理能力深度结合，智能家居场景成为端侧 AI 落地的重要方向，算力本地化与隐私保护需求同步驱动端侧模型快速发展。",
+      "source": "火龙果频道",
+      "url": "https://news.ai7788.cn/daily/6779",
+      "keywords": [
+        "WAIC 2026",
+        "智能体",
+        "端侧AI",
+        "大模型",
+        "场景落地"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "场景落地",
+      "id": 306
+    },
+    {
+      "date": "2026-08-28",
+      "category": "security",
+      "title": "智能家居配网协议漏洞实锤：smartconfig 明文广播 WiFi 密码可被监听",
+      "summary": "安全研究人员披露 2026 年智能家居配网协议严重漏洞，smartconfig 等方式在配网时明文广播 WiFi 密码，攻击者通过无线监听抓包即可获取家庭网络密码，进而入侵整个家庭网络。由于厂商兼容性问题，该漏洞修复进展缓慢，用户需手动关闭配网功能或等待固件更新。",
+      "source": "信息安全知识库",
+      "url": "https://www.gm7.org/archives/151172",
+      "keywords": [
+        "智能家居漏洞",
+        "WiFi密码",
+        "配网协议",
+        "网络安全",
+        "smartconfig"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "数据安全",
+      "id": 307
+    },
+    {
+      "date": "2026-08-28",
+      "category": "security",
+      "title": "2026 年智能家居 WiFi 安全指南：九大措施保护家庭网络",
+      "summary": "专业安全媒体发布 2026 年家庭 WiFi 安全指南，推荐九大安全措施：强密码、WPA3 加密、固件定期更新、访客网络隔离、安全路由设置、设备审计等。随着智能家居设备激增，家庭网络攻击面持续扩大，安全配置已成为智能家居部署的必要前提。",
+      "source": "HackerNoon",
+      "url": "https://hackernoon.com/9-ways-to-secure-your-home-wi-fi-in-2026",
+      "keywords": [
+        "WiFi安全",
+        "WPA3",
+        "智能家居安全",
+        "家庭网络安全",
+        "固件更新"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "数据安全",
+      "id": 308
+    },
+    {
+      "date": "2026-08-28",
+      "category": "security",
+      "title": "2026 年 AI 诈骗与数据泄露激增：家庭和个人如何自保",
+      "summary": "2026 年 AI 驱动的诈骗与数据泄露事件急剧增长，攻击者利用深度伪造（Deepfake）和 AI 生成内容发起针对性攻击。报告建议家庭用户启用多因素认证、定期审计联网设备、限制智能家居设备网络权限，并使用物理级隐私防护（如摄像头硬件开关）保护个人数据。",
+      "source": "Modern Husbands",
+      "url": "https://www.modernhusbands.com/post/ai-scams-and-data-breaches-are-surging-in-2026-how-to-protect-yourself-and-your-family",
+      "keywords": [
+        "AI诈骗",
+        "数据泄露",
+        "Deepfake",
+        "家庭安全",
+        "隐私保护"
+      ],
+      "published": "2026-08-21",
+      "categoryLabel": "数据安全",
+      "id": 309
+    },
+    {
+      "date": "2026-08-28",
+      "category": "security",
+      "title": "边缘计算的网络安全风险：智能家居网关成攻击入口",
+      "summary": "网络安全教育机构 ECCU 发布边缘计算安全风险分析，指出边缘计算环境下数据处理分散化带来新型攻击面。家庭智能网关若未及时更新固件或缺乏入侵检测机制，可能成为攻击者渗透家庭网络的跳板。建议家庭用户选择支持安全启动与自动更新的边缘网关设备。",
+      "source": "EC-Council University",
+      "url": "https://www.eccu.edu/blog/cybersecurity-risks-of-edge-computing/",
+      "keywords": [
+        "边缘计算安全",
+        "智能网关",
+        "网络安全",
+        "物联网安全",
+        "固件更新"
+      ],
+      "published": "2026-08-27",
+      "categoryLabel": "数据安全",
+      "id": 310
     }
   ]
 }
