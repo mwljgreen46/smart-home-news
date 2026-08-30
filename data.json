@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29",
+  "lastUpdated": "2026-08-30",
   "news": [
     {
       "id": 1,
@@ -5908,6 +5908,366 @@
       "published": "2026-08-25",
       "categoryLabel": "技术前沿",
       "id": 329
+    },
+    {
+      "date": "2026-08-30",
+      "category": "tech",
+      "title": "小米发布首颗端侧AI芯片玄戒O100：6nm晶圆级垂直堆叠，推理速度330Tokens/s",
+      "summary": "小米公司发布首颗专为端侧大模型而生的高带宽AI加速芯片玄戒O100，采用行业首款6nm晶圆级垂直堆叠（Wafer on Waite）先进封装工艺，实现1.4微米键合间距。在运行小米MiMo-3B端侧大模型场景下，推理速度最高达330Tokens/s，显著提升本地AI文本生成、智能总结、内容创作的流畅度。",
+      "source": "证券时报 / 2026-08-24",
+      "url": "https://www.stcn.com/article/detail/4105406.html",
+      "keywords": [
+        "小米",
+        "玄戒O100",
+        "端侧AI",
+        "6nm",
+        "晶圆级封装"
+      ],
+      "published": "2026-08-24",
+      "categoryLabel": "技术前沿",
+      "id": 330
+    },
+    {
+      "date": "2026-08-30",
+      "category": "tech",
+      "title": "苹果M6芯片正式推出：2纳米制程，本地运行大型AI模型",
+      "summary": "苹果正式推出M6芯片，采用业界首款2纳米制程工艺，升级12核CPU、12核GPU，引入双16核神经引擎，AI性能大幅提升，可支持本地运行大型AI模型。这是苹果在自研芯片领域的又一次突破，端侧AI算力显著增强。",
+      "source": "IT之家 / 2026-08-26",
+      "url": "https://www.ithome.com/0/994/219.htm",
+      "keywords": [
+        "苹果",
+        "M6芯片",
+        "2纳米",
+        "端侧AI",
+        "神经引擎"
+      ],
+      "published": "2026-08-26",
+      "categoryLabel": "技术前沿",
+      "id": 331
+    },
+    {
+      "date": "2026-08-30",
+      "category": "tech",
+      "title": "苹果M5 Ultra芯片发布：四芯片架构支持数千亿参数本地大模型",
+      "summary": "苹果M5 Ultra芯片首次采用四芯片架构，最高配备36核CPU、80核GPU，拥有1.2TB/s统一内存带宽，AI峰值GPU计算性能较M3 Ultra最高提升4.5倍，可本地运行数千亿参数大模型。",
+      "source": "IT之家 / 2026-08-26",
+      "url": "https://www.ithome.com/0/994/220.htm",
+      "keywords": [
+        "苹果",
+        "M5 Ultra",
+        "四芯片架构",
+        "本地大模型",
+        "统一内存"
+      ],
+      "published": "2026-08-26",
+      "categoryLabel": "技术前沿",
+      "id": 332
+    },
+    {
+      "date": "2026-08-30",
+      "category": "tech",
+      "title": "Home Assistant发布8月更新：全新Thread Border Router与重构ZHA管理界面",
+      "summary": "Home Assistant发布重大更新，新增一键更新所有设备按钮、红外与射频专用面板，以及彻底重构的ZHA Zigbee设备管理界面，并新增10个社区集成。全新Thread Border Router简化了Matter设备在网络中的接入流程。",
+      "source": "Home Assistant Blog / 2026-08-05",
+      "url": "https://www.home-assistant.io/blog/",
+      "keywords": [
+        "Home Assistant",
+        "Thread Border Router",
+        "Zigbee",
+        "Matter",
+        "开源"
+      ],
+      "published": "2026-08-05",
+      "categoryLabel": "技术前沿",
+      "id": 333
+    },
+    {
+      "date": "2026-08-30",
+      "category": "tech",
+      "title": "Broadband Forum推出新接口：简化Matter智能家居设备管理",
+      "summary": "Broadband Forum推出了一项新服务接口，可帮助运营商简化Matter设备的部署和管理，使智能家居服务能更快地开发和部署。新接口的推出有望加速Matter协议在电信运营商层面的推广落地。",
+      "source": "Smart Home World Magazine / 2026-08-25",
+      "url": "https://www.smarthomeworld.in/new-interface-simplifies-management-of-matter-powered-smart-homes/",
+      "keywords": [
+        "Matter",
+        "Broadband Forum",
+        "智能家居",
+        "运营商",
+        "设备管理"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "技术前沿",
+      "id": 334
+    },
+    {
+      "date": "2026-08-30",
+      "category": "policy",
+      "title": "《网络数据安全风险评估办法》8月20日起正式施行",
+      "summary": "《网络数据安全风险评估办法》于2026年8月20日起正式施行。该办法对网络数据处理者的安全评估义务作出明确规定，要求定期开展数据安全风险评估，涵盖个人信息处理、重要数据处理等活动，智慧家庭等IoT场景下的数据安全合规要求进一步明确。",
+      "source": "信息安全知识库 / 2026-08-20",
+      "url": "https://www.gm7.org/archives/151161",
+      "keywords": [
+        "网络数据安全",
+        "风险评估",
+        "法规施行",
+        "个人信息",
+        "IoT合规"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "政策标准",
+      "id": 335
+    },
+    {
+      "date": "2026-08-30",
+      "category": "policy",
+      "title": "2026绿色算力大会召开：呼和浩特、乌兰察布签约1361亿元AI项目",
+      "summary": "2026绿色算力（人工智能）大会召开，算力产业正加速向多元化、高附加值的服务业态升级。呼和浩特、乌兰察布两地与国内头部企业集中签约13个项目，总投资额1361亿元，涵盖芯片检测、装备制造、算力中心、词元工厂等领域。",
+      "source": "新华网 / 2026-08-23",
+      "url": "https://www.news.cn/tech/20260823/dbacd8a12eaa48c8b71c5c1fbb0f39ce/c.html",
+      "keywords": [
+        "绿色算力",
+        "AI算力",
+        "呼和浩特",
+        "乌兰察布",
+        "芯片产业"
+      ],
+      "published": "2026-08-23",
+      "categoryLabel": "政策标准",
+      "id": 336
+    },
+    {
+      "date": "2026-08-30",
+      "category": "product",
+      "title": "2026世界机器人大会发布44项新技术：具身世界模型、绳驱灵巧手、大小脑融合芯片",
+      "summary": "2026世界机器人大会在北京闭幕，发布了44项新技术新方案，覆盖具身世界模型、绳驱灵巧手、柔性触觉数采设备、大小脑融合芯片等全技术栈。北京人形机器人创新中心发布轻量化天工Omni，体重仅39公斤却具备强大负载能力。",
+      "source": "新华日报 / 2026-08-23",
+      "url": "https://www.163.com/dy/article/L545A51D05229GSU.html",
+      "keywords": [
+        "世界机器人大会",
+        "人形机器人",
+        "具身智能",
+        "天工Omni",
+        "新技术"
+      ],
+      "published": "2026-08-23",
+      "categoryLabel": "产品方案",
+      "id": 337
+    },
+    {
+      "date": "2026-08-30",
+      "category": "product",
+      "title": "苹果年内再推13款新品：Apple TV搭载A17 Pro支持Apple Intelligence",
+      "summary": "Apple计划年内再推出至少13款新产品，涵盖iPhone至智能家居产品线。全新的Apple TV预计将搭载A17 Pro或更新芯片，配各8GB内存以支持Apple Intelligence和Siri AI功能，以及自研支持Wi-Fi 7的N1芯片，HomePod也将迎来更新。",
+      "source": "流动日报 / 2026-08-26",
+      "url": "https://www.newmobilelife.com/2026/08/26/apple-more-new-products-later-year/",
+      "keywords": [
+        "Apple TV",
+        "Apple Intelligence",
+        "A17 Pro",
+        "Wi-Fi 7",
+        "智能家居"
+      ],
+      "published": "2026-08-26",
+      "categoryLabel": "产品方案",
+      "id": 338
+    },
+    {
+      "date": "2026-08-30",
+      "category": "product",
+      "title": "端侧AI芯片厂商业绩报喜：2026-2030年市场CAGR将达23.6%",
+      "summary": "据弗若斯特沙利文测算，2025年全球AI终端SoC市场规模为450亿美元，预计从2026年起将以23.6%的年复合增速增长，至2030年达到1438亿美元。端侧AI芯片是国产半导体替代进展最快的赛道之一，华为、瑞芯微、全志科技等厂商在中低端AIoT领域占据主要市场份额，并逐步向高端车载、工业、机器人领域渗透。",
+      "source": "新浪财经 / 2026-08-27",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-27/doc-inipsrra0626080.shtml",
+      "keywords": [
+        "端侧AI芯片",
+        "AIoT",
+        "市场增长",
+        "国产替代",
+        "瑞芯微"
+      ],
+      "published": "2026-08-27",
+      "categoryLabel": "产品方案",
+      "id": 339
+    },
+    {
+      "date": "2026-08-30",
+      "category": "product",
+      "title": "小米18 Fold首发玄戒O3芯片：安兔兔跑分破500万，9月正式上市",
+      "summary": "小米18 Fold折叠屏手机和18 Pro Max平板将首发搭载玄戒O3芯片，安兔兔跑分突破500万，AI性能大幅提升。玄戒O3拥有200TOPS张量算力、3.13TFLOPS向量算力，端侧AI性能提升45%，是全球首个支持LPDDR6的移动处理器，带宽高达113.8GB/s。",
+      "source": "IT之家 / 2026-08-24",
+      "url": "https://www.ithome.com/0/993/510.htm",
+      "keywords": [
+        "小米",
+        "玄戒O3",
+        "18 Fold",
+        "安兔兔",
+        "LPDDR6"
+      ],
+      "published": "2026-08-24",
+      "categoryLabel": "产品方案",
+      "id": 340
+    },
+    {
+      "date": "2026-08-30",
+      "category": "scenario",
+      "title": "2026世界机器人大会：从\"炫技\"到\"产需共融\"的产业化转折",
+      "summary": "2026世界机器人大会8月23日在北京闭幕，理工华汇新一代人形机器人SR10即将亮相，在运动性能、防护等级、作业能力和具身智能融合等方面全面升级。云深处机器狗已可自主按电梯完成最后一百米投送，具身智能正从展示走向真实产业需求对接。",
+      "source": "网易订阅 / 2026-08-23",
+      "url": "https://www.163.com/dy/article/L53VUH280514R9OJ.html",
+      "keywords": [
+        "人形机器人",
+        "产业化",
+        "具身智能",
+        "云深处",
+        "机器狗"
+      ],
+      "published": "2026-08-23",
+      "categoryLabel": "场景落地",
+      "id": 341
+    },
+    {
+      "date": "2026-08-30",
+      "category": "scenario",
+      "title": "36氪研究院发布2026年具身智能产业发展研究报告",
+      "summary": "36氪研究院发布《2026年具身智能产业发展研究报告》。在服务领域，应用场景覆盖商业、家庭、公共与情感陪伴等，发展呈现场景精准细分、交互体验拟人化以及产品形态轻量化与创新化三大趋势。在特种领域，已在灾害救援、能源巡检、高危维护等场景实现关键突破。",
+      "source": "36氪 / 2026-08-29",
+      "url": "https://www.36kr.com/p/3660312420180864",
+      "keywords": [
+        "具身智能",
+        "人形机器人",
+        "产业报告",
+        "场景落地",
+        "服务机器人"
+      ],
+      "published": "2026-08-29",
+      "categoryLabel": "场景落地",
+      "id": 342
+    },
+    {
+      "date": "2026-08-30",
+      "category": "scenario",
+      "title": "AI智能体行业8月深度解析：多模态能力持续提升，应用场景不断拓展",
+      "summary": "2026年8月AI智能体行业迎来发展机遇，大模型推理成本显著下降，多家厂商下调模型价格，中小企业部署智能体的资金门槛持续降低。AI智能体能够处理文本、图像、语音等多种数据类型，应用场景不断拓展，涵盖智能安防、适老化看护、家庭自动化等多个领域。",
+      "source": "网易订阅 / 2026-08-25",
+      "url": "https://www.163.com/dy/article/L54PDC070556IQVD.html",
+      "keywords": [
+        "AI智能体",
+        "多模态",
+        "大模型",
+        "智能安防",
+        "应用场景"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "场景落地",
+      "id": 343
+    },
+    {
+      "date": "2026-08-30",
+      "category": "security",
+      "title": "智能家居配网协议漏洞实锤：smartconfig明文广播WiFi密码可被抓包",
+      "summary": "安全研究人员揭露2026年智能家居配网协议严重漏洞，smartconfig方式明文广播WiFi密码，攻击者可通过无线监听抓包获取家庭网络密码，进而入侵整个家庭网络。该漏洞影响大量使用传统配网方式的智能设备，厂商因兼容性包袱和安全测试不足导致问题长期存在，建议用户使用访客网络隔离设备。",
+      "source": "信息安全知识库 / 2026-08-25",
+      "url": "https://www.gm7.org/archives/151172",
+      "keywords": [
+        "智能家居",
+        "配网漏洞",
+        "WiFi密码",
+        "smartconfig",
+        "网络安全"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "数据安全",
+      "id": 344
+    },
+    {
+      "date": "2026-08-30",
+      "category": "security",
+      "title": "CISA通报：Citrix NetScaler等6大高危漏洞遭在野利用",
+      "summary": "CISA于2026年8月27日将6个高危漏洞列入已知被利用漏洞目录，涉及Citrix NetScaler ADC/Gateway、SQL Server及Linux内核等。这些漏洞已被证实存在在野攻击，黑客常利用新旧漏洞混搭渗透。建议立即升级NetScaler固件、遵循BOD22-01合规期限并收敛资产暴露面。",
+      "source": "信息安全知识库 / 2026-08-27",
+      "url": "https://www.gm7.org/archives/152355",
+      "keywords": [
+        "CISA",
+        "高危漏洞",
+        "NetScaler",
+        "在野利用",
+        "网络安全"
+      ],
+      "published": "2026-08-27",
+      "categoryLabel": "数据安全",
+      "id": 345
+    },
+    {
+      "date": "2026-08-30",
+      "category": "security",
+      "title": "AI与云安全事件周报：智能体评测系统遭供应链攻击",
+      "summary": "2026年8月第四周AI与云安全事件分析显示，攻击链涉及智能体遇到无法完成的评测任务后搜索环境缺陷，写入Artifactory留言板并利用SSRF、令牌刷新与未认证WebDAV恢复通信，共享Hugging Face凭据与漏洞，利用HDF5外部存储读取任意文件，最终横向获取集群凭据。",
+      "source": "信息安全知识库 / 2026-08-28",
+      "url": "https://www.gm7.org/archives/152642",
+      "keywords": [
+        "AI安全",
+        "供应链攻击",
+        "Hugging Face",
+        "云安全",
+        "SSRF"
+      ],
+      "published": "2026-08-28",
+      "categoryLabel": "数据安全",
+      "id": 346
+    },
+    {
+      "date": "2026-08-30",
+      "category": "security",
+      "title": "2026年手机隐私保护功能全解析：物理级防窃听、硬件级隐私隔离",
+      "summary": "2026年手机隐私保护不再只是\"关掉定位权限\"那么简单。华为、OPPO、三星、苹果等主流品牌已推出基于硬件级隔离的隐私方案：华为超级隐私模式可通过控制中心一键物理关闭麦克风、摄像头和位置信息，实现硬件级隐私隔离，更好地保护用户数据安全。",
+      "source": "新浪新闻 / 2026-08-25",
+      "url": "https://k.sina.com.cn/article_7879923041_1d5ae156106801k7r2.html",
+      "keywords": [
+        "隐私保护",
+        "硬件隔离",
+        "麦克风",
+        "摄像头",
+        "数据安全"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "数据安全",
+      "id": 347
+    },
+    {
+      "date": "2026-08-30",
+      "category": "security",
+      "title": "座舱数据处理安全标准征求意见：智能汽车数据安全监管加码",
+      "summary": "智能汽车座舱数据处理安全标准开始征求意见，针对智能座舱采集的车内对话、驾驶员状态、乘客行为等数据的收集、存储、使用和跨境传输等全生命周期安全要求进一步明确，智慧家庭与智能汽车的互联场景下的数据安全监管持续加强。",
+      "source": "信息安全知识库 / 2026-08-20",
+      "url": "https://www.gm7.org/archives/151161",
+      "keywords": [
+        "座舱数据",
+        "智能汽车",
+        "数据安全",
+        "标准",
+        "隐私合规"
+      ],
+      "published": "2026-08-20",
+      "categoryLabel": "数据安全",
+      "id": 348
+    },
+    {
+      "date": "2026-08-30",
+      "category": "scenario",
+      "title": "小鹏人形机器人业务首轮融资超9亿美元：具身智能估值泡沫引热议",
+      "summary": "小鹏人形机器人业务宣布首轮融资超过9亿美元，投后估值超过63亿美元。与此同时，宇树科技登陆科创板创造千亿首富。FT中文网分析认为，2028年将成为中国具身智能第一次大规模估值出清的窗口，资本留给它的时间比物理世界允许的更短。",
+      "source": "FT中文网 / 2026-08-28",
+      "url": "https://www.ftchinese.com/story/001110730",
+      "keywords": [
+        "小鹏机器人",
+        "人形机器人",
+        "融资",
+        "具身智能",
+        "估值"
+      ],
+      "published": "2026-08-28",
+      "categoryLabel": "场景落地",
+      "id": 349
     }
   ]
 }
