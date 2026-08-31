@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30",
+  "lastUpdated": "2026-08-31",
   "news": [
     {
       "id": 1,
@@ -6268,6 +6268,363 @@
       "published": "2026-08-28",
       "categoryLabel": "场景落地",
       "id": 349
+    },
+    {
+      "date": "2026-08-31",
+      "category": "tech",
+      "title": "苹果正式推出 M6 芯片：2nm 制程、本地 AI 性能暴涨 4 倍",
+      "summary": "苹果于 2026 年 8 月 25 日正式发布 M6 芯片，这是苹果首款 2 纳米制程芯片，搭载 12 核 CPU、12 核 GPU，引入双 16 核神经引擎，AI 性能大幅提升，可支持本地运行大型 AI 模型。配合 Core AI、Core ML、Metal 及 Xcode 开发框架，开发者可在 Mac 设备上本地运行并微调大型 AI 模型。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/219.htm",
+      "keywords": [
+        "苹果",
+        "M6芯片",
+        "2nm",
+        "本地AI",
+        "Mac"
+      ],
+      "published": "2026-08-26",
+      "categoryLabel": "技术前沿",
+      "id": 350
+    },
+    {
+      "date": "2026-08-31",
+      "category": "tech",
+      "title": "小米发布首颗端侧 AI 芯片玄戒 O100：6nm 晶圆级垂直堆叠，带宽 1.22TB/s",
+      "summary": "小米公司于 2026 年 8 月 24 日发布首款自研 AI 加速芯片玄戒 O100，行业首颗 6nm 晶圆级垂直堆叠（Wafer on Wafer）先进封装芯片，采用 Hybrid Bonding 混合键合工艺，键合间距仅 1.4μm，提供 1.22TB/s 超高带宽，端侧大模型推理速度最高达 330 Token/s，整体 AI 性能较传统方案提升 10 倍。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/512.htm",
+      "keywords": [
+        "小米",
+        "玄戒O100",
+        "端侧AI",
+        "3D堆叠",
+        "6nm"
+      ],
+      "published": "2026-08-24",
+      "categoryLabel": "技术前沿",
+      "id": 351
+    },
+    {
+      "date": "2026-08-31",
+      "category": "tech",
+      "title": "Thread 1.4 成为 2026 年中最新规范，无线智能家居协议对比持续深化",
+      "summary": "截至 2026 年中，Thread 1.4 是当前最新规范。Thread 是基于 IPv6 的低功耗 mesh 网络协议，专为 IoT 设备设计，Matter 是运行于 Thread 或 Wi-Fi 之上的应用层标准，两者协同构成智能家居互联互通的核心。",
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thread_(network_protocol)",
+      "keywords": [
+        "Thread",
+        "Matter",
+        "IoT",
+        "智能家居",
+        "协议"
+      ],
+      "published": "2026-08-27",
+      "categoryLabel": "技术前沿",
+      "id": 352
+    },
+    {
+      "date": "2026-08-31",
+      "category": "tech",
+      "title": "LIFX 为现有 Matter-over-Wi-Fi 设备开放 Thread Beta，无需新硬件即可迁移",
+      "summary": "LIFX 宣布开放公开测试，允许现有的 Matter 设备从 Wi-Fi 切换到 Thread 网络，无需任何新硬件。Thread 是基于 IPv6 的低功耗 mesh 网络协议，专为 IoT 设备设计。此次更新意味着 LIFX 用户可无缝迁移至更稳定的 Thread 网络，提升智能家居连接体验。",
+      "source": "HomeKit News",
+      "url": "https://homekitnews.com/2026/08/25/lifx-opens-thread-beta-for-its-existing-matter-over-wi-fi-devices/",
+      "keywords": [
+        "LIFX",
+        "Thread",
+        "Matter",
+        "Wi-Fi",
+        "智能照明"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "技术前沿",
+      "id": 353
+    },
+    {
+      "date": "2026-08-31",
+      "category": "policy",
+      "title": "GDPR 实施重塑全球数据秩序：科技巨头《监控资本主义》模式面临根本挑战",
+      "summary": "GDPR 的实施不仅是一场法律博弈，更是全球数据商业模式的被迫重构。科技巨头依赖的「监控资本主义」模式——即通过免费获取人类行为数据作为预测和销售原材料——正面临欧盟法规的根本性挑战。随着欧盟通过 GDPR 及后续 AI 法规，数据本地化和用户知情权成为全球趋势。",
+      "source": "80aj.com",
+      "url": "https://www.80aj.com/2026/08/29/gdpr-data-privacy-order/",
+      "keywords": [
+        "GDPR",
+        "隐私保护",
+        "数据监管",
+        "科技巨头",
+        "AI法规"
+      ],
+      "published": "2026-08-29",
+      "categoryLabel": "政策标准",
+      "id": 354
+    },
+    {
+      "date": "2026-08-31",
+      "category": "policy",
+      "title": "2026 年修订版个人信息保护法：强化企业责任与泄露惩戒",
+      "summary": "2026 年修订的个人信息保护法重点加强了企业的个人信息保护责任与数据泄露事故处罚力度，对家庭物联网设备采集的个人数据处理行为提出更严格的要求，推动厂商在设备层面落实数据最小化原则。",
+      "source": "TILNOTE",
+      "url": "https://tilnote.io/en/pages/6a930770ace8bd2da70d8f05",
+      "keywords": [
+        "个人信息保护法",
+        "数据泄露",
+        "物联网",
+        "企业责任"
+      ],
+      "published": "2026-08-30",
+      "categoryLabel": "政策标准",
+      "id": 355
+    },
+    {
+      "date": "2026-08-31",
+      "category": "policy",
+      "title": "Matter 1.4 规范临近，认证要求推动新 Border Router 向 Thread 1.4 看齐",
+      "summary": "苹果对 Matter 开源项目的最新贡献显示出网络基础设施层面的布局意图，新认证要求推动新生产的 Thread Border Router 向 Thread 1.4 规范看齐，这将进一步统一智能家居生态的底层连接标准。",
+      "source": "Matter Alpha",
+      "url": "https://www.matteralpha.com/industry-news/apple-matter-openwrt-network-infrastructure",
+      "keywords": [
+        "Matter",
+        "Thread",
+        "Border Router",
+        "认证",
+        "苹果"
+      ],
+      "published": "2026-08-24",
+      "categoryLabel": "政策标准",
+      "id": 356
+    },
+    {
+      "date": "2026-08-31",
+      "category": "policy",
+      "title": "英伟达「每度电 Token」重定 AI 基建经济账，推理成本下降压力加剧",
+      "summary": "英伟达在最新发布中主打「智能体时代每度电、每块钱能跑多少 Token」，直接重定义 AI 基础设施的经济账。算力上太空意味着边缘和轨交场景的 AI 推理可能跳出数据中心。短期看，推理成本持续下行，闭源 API 的定价压力将显著增大。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/ad72m67k/",
+      "keywords": [
+        "英伟达",
+        "推理算力",
+        "边缘AI",
+        "成本优化",
+        "Token"
+      ],
+      "published": "2026-08-26",
+      "categoryLabel": "政策标准",
+      "id": 357
+    },
+    {
+      "date": "2026-08-31",
+      "category": "product",
+      "title": "小米 AI Cube 原型机发布：三芯协同、150W 性能释放，可运行 120B 参数模型",
+      "summary": "小米推出 AI Cube 原型迷你主机，搭载玄戒 O3、O100 和 D100 三颗芯片组合，支持大模型本地部署和 120B 参数模型运行，150W 持续性能释放，采用航天铝外壳设计。实测 Xiaomi MiMo 端侧模型推理速度达每秒 295 Tokens，可覆盖弱网及无网环境下的 AI 需求。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/546.htm",
+      "keywords": [
+        "小米AI Cube",
+        "玄戒芯片",
+        "端侧大模型",
+        "本地部署"
+      ],
+      "published": "2026-08-24",
+      "categoryLabel": "产品方案",
+      "id": 358
+    },
+    {
+      "date": "2026-08-31",
+      "category": "product",
+      "title": "苹果 Mac mini 搭载 M6 芯片国行上市：AI 性能提升 4 倍，起售价 6999 元",
+      "summary": "苹果 2026 年 8 月 25 日发布的新款 Mac mini 搭载 M6 或 M5 Pro 芯片，国行起售价 6999 元，8 月 27 日开启预购。新款 Mac mini 被定义为「全天候智能体计算工具」，AI 性能至高提升 4 倍，存储速度和图形处理速度提升 2 倍，CPU 性能提升 40%。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/642.htm",
+      "keywords": [
+        "苹果",
+        "Mac mini",
+        "M6",
+        "本地AI",
+        "智能体"
+      ],
+      "published": "2026-08-26",
+      "categoryLabel": "产品方案",
+      "id": 359
+    },
+    {
+      "date": "2026-08-31",
+      "category": "product",
+      "title": "Aqara Hub M3 发布：支持 Zigbee + Matter Controller + Thread Border Router 多协议",
+      "summary": "Aqara Hub M3 是目前最面向未来的智能家居中枢之一，同时支持 Zigbee 设备、Matter Controller 和 Thread Border Router 三大角色，可实现多协议设备的统一接入与管理，大幅简化家庭智能设备的互联互通配置。",
+      "source": "ZigbeeHubs",
+      "url": "https://zigbeehubs.com/blog/zigbee-gateway-home-assistant/",
+      "keywords": [
+        "Aqara",
+        "Hub M3",
+        "Zigbee",
+        "Matter",
+        "Thread"
+      ],
+      "published": "2026-08-24",
+      "categoryLabel": "产品方案",
+      "id": 360
+    },
+    {
+      "date": "2026-08-31",
+      "category": "product",
+      "title": "燧原科技 IPO 获受理：国产 AI 芯片龙头，2026 年上半年营收 11.2 亿元",
+      "summary": "燧原科技科创板 IPO 申请获受理，成为国产 AI 芯片龙头。公司 2026 年上半年营业收入 11.20 亿元，归母净利润 -6.32 亿元，亏损同比收窄。产品涵盖云端、边缘及终端 AI 芯片，已在多个场景实现规模化部署，IPO 计划进一步扩大产能与研发投入。",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202608303859354042.html",
+      "keywords": [
+        "燧原科技",
+        "AI芯片",
+        "IPO",
+        "国产替代",
+        "科创板"
+      ],
+      "published": "2026-08-30",
+      "categoryLabel": "产品方案",
+      "id": 361
+    },
+    {
+      "date": "2026-08-31",
+      "category": "scenario",
+      "title": "Ambi 推出「环境感知 + AI 记忆」硬件，主打「第二大脑」概念",
+      "summary": "前 Plaudo 中国区 CEO 创业项目 Ambi 入局「环境感知 + AI 记忆」硬件领域，提出「智能遗忘与保留」的理念。Ambi 已完成首次私人内测，第七日留存率达 37.8%，计划于 2026 年 10 月 12 日启动公开测试，主打个性化 AI 记忆服务。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L56CMJDO0556CAYF.html",
+      "keywords": [
+        "Ambi",
+        "AI记忆",
+        "环境感知",
+        "智能硬件",
+        "第二大脑"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "场景落地",
+      "id": 362
+    },
+    {
+      "date": "2026-08-31",
+      "category": "scenario",
+      "title": "AI Agent 安全风险与管控指南：企业如何选型安全防护方案",
+      "summary": "中科卫安发布 AI Agent 安全风险与管控指南，指出小型企业可优先选择火山引擎飞连或知道创宇 AiPy Pro 等低成本方案；中型企业建议根据云基础设施选择对应厂商方案；大型客户推荐亚信 ATF 等支持私有化部署和深度定制的方案，并结合零信任架构构建完整的智能体信任体系。",
+      "source": "中科卫安",
+      "url": "http://www.zhongkeweian.com/blog/ai-agent-security-guide.html",
+      "keywords": [
+        "AI Agent",
+        "安全风险",
+        "企业选型",
+        "火山引擎",
+        "零信任"
+      ],
+      "published": "2026-08-24",
+      "categoryLabel": "场景落地",
+      "id": 363
+    },
+    {
+      "date": "2026-08-31",
+      "category": "scenario",
+      "title": "多 Agent 协作完成复杂任务成 2026 年技术热点，协作框架持续演进",
+      "summary": "多 Agent 协作完成复杂任务已成为 2026 年技术社区热议话题。开发者通过 VS Code + Codex 插件结合多个 GPT 订阅，实现任务自动化分工。随着 Claude、GPT、本地模型等 AI 模型各有所长，频繁切换工具和配置成为痛点，多 Agent 协作框架正在向更高效的任务分发与结果整合方向演进。",
+      "source": "大佬说",
+      "url": "https://www.locdd.com/t/topic/85605?page=2",
+      "keywords": [
+        "多Agent",
+        "协作框架",
+        "AI助手",
+        "任务自动化"
+      ],
+      "published": "2026-08-29",
+      "categoryLabel": "场景落地",
+      "id": 364
+    },
+    {
+      "date": "2026-08-31",
+      "category": "scenario",
+      "title": "苹果 AI 领衔端侧 AI 爆发：2026 年手机隐私保护迈向硬件级隔离",
+      "summary": "2026 年手机隐私保护已从「关掉定位权限」升级至硬件级隔离。华为超级隐私模式可通过控制中心一键物理关闭麦克风、摄像头和位置信息；OPPO、三星、苹果等主流品牌均已推出基于硬件级隔离的隐私方案。随着端侧 AI 快速普及，本地数据处理可更好地实现隐私保护。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.com.cn/article_7879923041_1d5ae156106801k7r2.html",
+      "keywords": [
+        "端侧AI",
+        "隐私保护",
+        "硬件隔离",
+        "华为",
+        "苹果"
+      ],
+      "published": "2026-08-24",
+      "categoryLabel": "场景落地",
+      "id": 365
+    },
+    {
+      "date": "2026-08-31",
+      "category": "security",
+      "title": "智能灯泡广播 WiFi 密码实锤：2026 年配网协议漏洞验证",
+      "summary": "安全研究显示，2026 年智能家居设备配网协议仍存在漏洞，智能灯泡等设备在配网过程中可能广播 WiFi 密码。Matter/Thread 协议理论上更安全，但在兼容过渡期仍存在大量旧设备的安全风险，用户需注意网络隔离与设备固件更新。",
+      "source": "信息安全知识库",
+      "url": "https://www.gm7.org/archives/151172",
+      "keywords": [
+        "智能家居",
+        "安全漏洞",
+        "WiFi密码",
+        "Matter",
+        "Thread"
+      ],
+      "published": "2026-08-24",
+      "categoryLabel": "数据安全",
+      "id": 366
+    },
+    {
+      "date": "2026-08-31",
+      "category": "security",
+      "title": "AI 驱动网络攻击已发生不可逆变化：攻击能力商品化、成本持续下降",
+      "summary": "安全报告指出 2026 年 AI 驱动网络攻击已发生结构性变化：OpenAI 按 Token 收费使攻击能力商品化，开源模型能力与闭源差距缩小且护栏可被移除，攻击能力每 5.7 个月翻倍。攻击优于防守的结构性不对称已形成，关键信息基础设施因 OT/IT 耦合、协议老旧成为高价值目标。",
+      "source": "信息安全知识库",
+      "url": "https://www.gm7.org/archives/152362",
+      "keywords": [
+        "AI攻击",
+        "网络安全",
+        "攻击商品化",
+        "开源模型",
+        "防御范式"
+      ],
+      "published": "2026-08-28",
+      "categoryLabel": "数据安全",
+      "id": 367
+    },
+    {
+      "date": "2026-08-31",
+      "category": "security",
+      "title": "LiteLLM 认证漏洞遭 active exploit：攻击者绕过令牌验证植入门罗币矿工",
+      "summary": "Wiz 于 8 月 27 日公布的 90 天蜜罐研究显示，攻击者正扫描并利用互联网暴露的 AI 基础设施。通过 LiteLLM 的 CVE-2026-59822 认证失败回退漏洞，攻击者可取得不受限 API 身份，随后注册伪造 MCP 服务器并利用 CVE-2026-42271 执行命令，下载门罗币矿工。多个 Agent 框架观察到盲提示注入探测。",
+      "source": "信息安全知识库",
+      "url": "https://www.gm7.org/archives/152642",
+      "keywords": [
+        "LiteLLM",
+        "CVE",
+        "AI基础设施",
+        "加密货币挖矿",
+        "MCP"
+      ],
+      "published": "2026-08-29",
+      "categoryLabel": "数据安全",
+      "id": 368
+    },
+    {
+      "date": "2026-08-31",
+      "category": "security",
+      "title": "苹果、谷歌、微软「数据保险箱」：2026 年隐私保护技术全面对比",
+      "summary": "2026 年主流科技公司的隐私保护方案已从软件层面向硬件层面全面升级。苹果的 Secure Enclave、谷歌的 Titan M2、微软的 Pluton 安全处理器均提供硬件级数据保险箱功能。苹果通过硬件隔离确保 Face ID 生物识别数据、支付信息等敏感数据不离开设备，为智慧家庭场景中的隐私数据保护提供了新的技术范式。",
+      "source": "UC之家",
+      "url": "https://www.uchome.cc/thread-1325-1-1.html",
+      "keywords": [
+        "苹果",
+        "谷歌",
+        "微软",
+        "数据保险箱",
+        "硬件安全"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "数据安全",
+      "id": 369
     }
   ]
 }
