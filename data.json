@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31",
+  "lastUpdated": "2026-09-01",
   "news": [
     {
       "id": 1,
@@ -6625,6 +6625,366 @@
       "published": "2026-08-25",
       "categoryLabel": "数据安全",
       "id": 369
+    },
+    {
+      "date": "2026-09-01",
+      "category": "policy",
+      "title": "商务部等7部门：加快制定智能家居互联互通标准",
+      "summary": "商务部等7部门发布关于推动商品消费扩容升级的实施意见，明确提出加快制定智能家居互联互通标准，完善智能终端基础通信协议与数据接口国家标准，缩短重点标准制修订周期，建立快速响应机制。意见还提出培育大型家装企业和平台，支持设立智能家居体验中心及全屋智能改造，目标到2030年社会消费品零售总额达60万亿元左右。",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4165722.html",
+      "keywords": [
+        "智能家居",
+        "互联互通标准",
+        "政策",
+        "商务部",
+        "消费品标准"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "政策标准",
+      "id": 370
+    },
+    {
+      "date": "2026-09-01",
+      "category": "tech",
+      "title": "Broadband Forum发布Matter设备管理新接口简化智能家居体验",
+      "summary": "Broadband Forum推出全新接口服务，可加快智慧家庭应用开发和部署速度，使智能家居设备管理更加简便。该接口为服务提供商和设备制造商提供了标准化管理框架，有望进一步推动Matter协议生态的规模化落地，降低多品牌设备协同的复杂度。",
+      "source": "Smart Home World Magazine",
+      "url": "https://www.smarthomeworld.in/new-interface-simplifies-management-of-matter-powered-smart-homes/",
+      "keywords": [
+        "Matter协议",
+        "Broadband Forum",
+        "智能家居",
+        "互联互通",
+        "设备管理"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "技术前沿",
+      "id": 371
+    },
+    {
+      "date": "2026-09-01",
+      "category": "tech",
+      "title": "苹果M6芯片发布：2纳米制程，本地支持大型AI模型",
+      "summary": "苹果正式推出M6芯片，采用2纳米制程工艺，配备12核CPU和12核GPU，引入双16核神经引擎，AI性能大幅提升。这是苹果首款2纳米芯片，单线程性能全球领先，支持在本地运行大型AI模型，可视为苹果端侧AI战略的重要里程碑，也将推动Mac产品线在AI任务处理上的全面升级。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/219.htm",
+      "keywords": [
+        "苹果M6",
+        "2纳米",
+        "端侧AI",
+        "神经网络引擎",
+        "本地推理"
+      ],
+      "published": "2026-08-26",
+      "categoryLabel": "技术前沿",
+      "id": 372
+    },
+    {
+      "date": "2026-09-01",
+      "category": "tech",
+      "title": "苹果M5 Ultra芯片推出：36核CPU/80核GPU，统一内存带宽1.2 TB/s",
+      "summary": "苹果M5 Ultra首次采用四芯片架构，最高配备36核CPU和80核GPU，拥有1.2 TB/s统一内存带宽，AI峰值GPU计算性能较M3 Ultra最高提升4.5倍，可本地运行数千亿参数大模型。该芯片面向专业级Mac设备，标志着苹果在自研芯片矩阵上进一步突破端侧大模型承载能力边界。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/220.htm",
+      "keywords": [
+        "苹果M5 Ultra",
+        "四芯片架构",
+        "千亿参数模型",
+        "统一内存",
+        "端侧推理"
+      ],
+      "published": "2026-08-26",
+      "categoryLabel": "技术前沿",
+      "id": 373
+    },
+    {
+      "date": "2026-09-01",
+      "category": "tech",
+      "title": "全球首个6nm晶圆级垂直堆叠AI芯片问世，端侧推理迎突破",
+      "summary": "全球首款采用晶圆级垂直堆叠先进封装工艺的6nm AI加速芯片正式发布，直接打破端侧AI的性能瓶颈。该芯片通过在垂直方向堆叠多层晶圆实现算力密度数量级提升，为手机等移动设备本地运行大模型打开全新空间，被认为是端侧AI芯片发展史上的重要节点。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1067298303_100085330",
+      "keywords": [
+        "6nm芯片",
+        "晶圆级垂直堆叠",
+        "端侧AI",
+        "AI加速",
+        "封装工艺"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "技术前沿",
+      "id": 374
+    },
+    {
+      "date": "2026-09-01",
+      "category": "product",
+      "title": "Aetina推出MegaEdge AIP-RQ87边缘AI系统，专为私有化LLM和AI Agent设计",
+      "summary": "边缘AI解决方案提供商Aetina发布MegaEdge AIP-RQ87，这是一款2U机架式边缘推理系统，专为私有化大模型、AI Agent和智能自动化场景设计，支持本地化部署，无需将数据上传至云端。该系统面向企业级系统集成商，为家庭及小型商业场景的边缘AI私有化部署提供硬件基础。",
+      "source": "EE Journal",
+      "url": "https://www.eejournal.com/industry_news/aetina-launches-megaedge-aip-rq87-2u-edge-ai-system-for-private-llms-ai-agents-and-intelligent-automation/",
+      "keywords": [
+        "边缘AI",
+        "Aetina",
+        "私有化LLM",
+        "AI Agent",
+        "边缘推理"
+      ],
+      "published": "2026-08-28",
+      "categoryLabel": "产品方案",
+      "id": 375
+    },
+    {
+      "date": "2026-09-01",
+      "category": "product",
+      "title": "智谱GLM-5.3-Flash发布：320B总参数，首个原生多模态国产旗舰模型",
+      "summary": "智谱AI发布GLM-5.3-Flash，为GLM-5系列首个原生多模态模型，总参数320B、激活参数18B，综合能力超过GLM-5.2，在AA综合智能指数中获57分与Claude Opus 4.8持平。模型采用稀疏注意力与线性注意力技术，官方称其为国产旗舰模型的重大突破，全面激活国产算力生态。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/2026-08-30/detail-iniqacxx5132830.d.html",
+      "keywords": [
+        "GLM-5.3-Flash",
+        "智谱AI",
+        "多模态模型",
+        "国产大模型",
+        "端侧推理"
+      ],
+      "published": "2026-08-30",
+      "categoryLabel": "产品方案",
+      "id": 376
+    },
+    {
+      "date": "2026-09-01",
+      "category": "product",
+      "title": "苹果计划年内更新智能家居产品线，Apple TV搭载A17 Pro支持Apple Intelligence",
+      "summary": "苹果计划在年内推出至少13款新产品，涵盖iPhone至智能家居多个品类。其中Apple TV预计将搭载A17 Pro或更新芯片，配备8GB内存以支持Apple Intelligence和Siri AI功能，并使用苹果自研支持Wi-Fi 7的N1芯片和更新版Siri Remote，HomePod产品线也将迎来升级，全面强化苹果智能家居生态。",
+      "source": "流动日报",
+      "url": "https://www.newmobilelife.com/2026/08/26/apple-more-new-products-later-year/",
+      "keywords": [
+        "Apple TV",
+        "Apple Intelligence",
+        "Siri",
+        "Wi-Fi 7",
+        "苹果智能家居"
+      ],
+      "published": "2026-08-26",
+      "categoryLabel": "产品方案",
+      "id": 377
+    },
+    {
+      "date": "2026-09-01",
+      "category": "product",
+      "title": "AI电视从概念走向落地：大模型如何重塑家庭显示终端",
+      "summary": "AI电视正从概念验证走向真实产品落地，多家厂商积极探索将大模型接入电视作为家庭智能中枢的可能性。有厂商提出单独设计边侧计算设备承担大模型接入的过渡方案，业内人士认为家庭场景对大模型本地化需求真实存在，但目前家电联网稳定、云端连接效率高，端侧部署仍需硬件成本与能效的进一步突破。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/2699287427485568",
+      "keywords": [
+        "AI电视",
+        "大模型",
+        "智能家居中枢",
+        "边侧计算",
+        "家庭场景"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "产品方案",
+      "id": 378
+    },
+    {
+      "date": "2026-09-01",
+      "category": "scenario",
+      "title": "36氪研究院：2026年具身智能产业进入快速发展新阶段",
+      "summary": "36氪研究院发布2026年具身智能产业发展研究报告，指出在政策引领、技术突破与市场需求共振下，中国具身智能产业正进入快速发展新阶段。在服务领域，应用场景覆盖商业、家庭、公共与情感陪伴，发展呈现场景精准细分、交互体验拟人化、产品形态轻量化三大趋势。2025年前11个月产业融资额达334.73亿元，是2024年同期的4倍。",
+      "source": "36氪研究院",
+      "url": "https://www.36kr.com/p/3660312420180864",
+      "keywords": [
+        "具身智能",
+        "服务机器人",
+        "家庭场景",
+        "银发经济",
+        "AI产业"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "场景落地",
+      "id": 379
+    },
+    {
+      "date": "2026-09-01",
+      "category": "scenario",
+      "title": "前Plaud中国区CEO创业Ambi：环境感知+AI记忆硬件公开测试倒计时",
+      "summary": "前Plaud中国区CEO创业项目Ambi正式入局\"环境感知+AI记忆\"硬件赛道，定位\"第二大脑\"而非单纯记录设备，通过智能遗忘与保留机制帮助用户管理个人记忆。Ambi已于近期完成首次私人内测，第七日留存率达37.8%，计划于2026年10月12日启动公开测试，被视为AI硬件在个人生活管理领域的新探索。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L56CMJDO0556CAYF.html",
+      "keywords": [
+        "Ambi",
+        "AI记忆硬件",
+        "环境感知",
+        "可穿戴设备",
+        "个人AI"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "场景落地",
+      "id": 380
+    },
+    {
+      "date": "2026-09-01",
+      "category": "scenario",
+      "title": "多Agent协作从\"黑盒\"走向可视化：Tmux重构AI Agent通信范式",
+      "summary": "开发者开始利用Tmux等成熟基础设施工具重构AI Agent的通信与展示层，为解决多智能体协作中的\"黑盒\"焦虑提供低成本、高可控的工程化范式。该方案使多Agent任务的内部通信状态可见可追溯，降低了复杂AI Agent系统的调试门槛，在需要多角色协同的智能家居场景中具有实际应用价值。",
+      "source": "80aj科技博客",
+      "url": "https://www.80aj.com/2026/08/31/tmux-multiagent-visualization/",
+      "keywords": [
+        "多Agent协同",
+        "Tmux",
+        "AI Agent",
+        "可视化",
+        "智能家居"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "场景落地",
+      "id": 381
+    },
+    {
+      "date": "2026-09-01",
+      "category": "scenario",
+      "title": "边缘AI算力需求爆发：IPC产值2025年约61亿美元，2030年将达89.1亿美元",
+      "summary": "市场研究机构数据显示，AI落地应用趋势下工业电脑（IPC）产业正迎来由AI驱动的景气复苏。2025年全球IPC产值约61亿美元，预估2030年将成长至89.1亿美元。边缘AI年复合成长率超过30%，IPC在智能制造与机器人双动能驱动下，成为承载家庭及工业边缘AI推理任务的重要硬件载体。",
+      "source": "Digitimes",
+      "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000766285_9XP3E2LK7G453N6DY57W7",
+      "keywords": [
+        "边缘AI",
+        "IPC",
+        "工业电脑",
+        "智能制造",
+        "边缘推理"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "场景落地",
+      "id": 382
+    },
+    {
+      "date": "2026-09-01",
+      "category": "security",
+      "title": "欧盟新规要求从2026年9月11日起强制报告智能家居产品安全漏洞",
+      "summary": "根据欧盟网络弹性法案（CRA），自2026年9月11日起，智能家居等数字产品制造商有义务主动报告被积极利用的安全漏洞及影响产品安全的重大事件。这意味着智能摄像头、传感器、网关等联网设备将面临更严格的安全合规要求，厂商需建立完善的安全漏洞监控和响应机制，否则可能面临市场禁入风险。",
+      "source": "HA Factory",
+      "url": "https://www.hafactory.it/2026/08/31/cybersecurity-for-the-smart-home/",
+      "keywords": [
+        "欧盟CRA",
+        "智能家居安全",
+        "漏洞报告",
+        "网络安全",
+        "合规"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "数据安全",
+      "id": 383
+    },
+    {
+      "date": "2026-09-01",
+      "category": "security",
+      "title": "AI攻击能力商品化：Red-Teaming工具按量计费，防守只能自建",
+      "summary": "网络安全研究显示，AI攻击能力已进入\"按量计费\"的商品化阶段，第三方价格聚合站记录其输出定价为75美元/百万Token，攻击能力第一次像水电一样被明码标价。这对智能家居安全格局产生深远影响——家庭摄像头、门锁、传感器等设备面临更复杂的安全威胁，传统的边界防护思路已不足以应对AI驱动的攻击手段。",
+      "source": "安全内参",
+      "url": "https://www.gm7.org/archives/152357",
+      "keywords": [
+        "AI攻击",
+        "网络安全",
+        "智能家居安全",
+        "Red-Teaming",
+        "隐私保护"
+      ],
+      "published": "2026-08-28",
+      "categoryLabel": "数据安全",
+      "id": 384
+    },
+    {
+      "date": "2026-09-01",
+      "category": "security",
+      "title": "苹果、谷歌、微软三大平台数据保险箱对比：2026年隐私保护哪家强",
+      "summary": "2026年，苹果、谷歌、微软三大科技巨头持续强化各自的数据隐私保护体系。苹果继续深化设备端处理策略，谷歌在本地AI模型上发力确保数据不离设备，微软则通过多项隐私功能更新提升用户数据控制权。三家路径虽不同，但共同趋势是将隐私保护从云端向端侧迁移，为家庭场景下的个人数据安全提供更坚实的屏障。",
+      "source": "UC之家",
+      "url": "https://www.uchome.cc/thread-1325-1-1.html",
+      "keywords": [
+        "隐私保护",
+        "苹果",
+        "谷歌",
+        "微软",
+        "端侧AI"
+      ],
+      "published": "2026-08-25",
+      "categoryLabel": "数据安全",
+      "id": 385
+    },
+    {
+      "date": "2026-09-01",
+      "category": "security",
+      "title": "国产大模型全球下载量破100亿次，首个全国产10万卡AI超集群投用",
+      "summary": "据国家发改委介绍，首个全国产10万卡人工智能超集群已正式投用，国产模型与国产算力芯片加速适配，高质量数据集超过12万个。同时，国产大模型全球下载量已突破100亿次，AI竞争从\"参数规模\"延伸到\"可交付推理产能\"。北京经开区\"词元工厂\"8月进入规模化生产，为万卡国产算力集群提供参考，呼和浩特等地出现百亿元级算力相关签约。",
+      "source": "中国企业网",
+      "url": "https://www.zqxww.com/blog/2026/08/29/ai-model-download-token-factory-2026-08-29m/",
+      "keywords": [
+        "国产大模型",
+        "AI超集群",
+        "国产算力",
+        "智算中心",
+        "推理产能"
+      ],
+      "published": "2026-08-29",
+      "categoryLabel": "数据安全",
+      "id": 386
+    },
+    {
+      "date": "2026-09-01",
+      "category": "tech",
+      "title": "DeepSeek 2026年营收4.75亿元但净亏损7.15亿元，正进行500亿元融资",
+      "summary": "DeepSeek公布的非公开数据显示，2026年前7个月营收4.75亿元，约是去年全年的10倍，但净亏损7.15亿元。其AI基础设施支出高达110亿元（包括算力租赁和芯片采购）。公司正在进行新一轮约500亿元融资，目标投前估值5000亿元，并计划2027年科创板上市，融资将主要用于扩大推理产能和采购更多国产芯片。",
+      "source": "爱合伙",
+      "url": "https://www.aihehuo.com/blog/9294-news-2026-08-30",
+      "keywords": [
+        "DeepSeek",
+        "大模型",
+        "国产AI芯片",
+        "融资",
+        "AI基础设施"
+      ],
+      "published": "2026-08-30",
+      "categoryLabel": "技术前沿",
+      "id": 387
+    },
+    {
+      "date": "2026-09-01",
+      "category": "scenario",
+      "title": "企业级AI Agent站上风口：AWS AI业务年化收入超250亿美元",
+      "summary": "企业级AI Agent正成为产业新风口。Amazon 2026年二季度财报显示AWS营收同比增长37%，AI业务年化收入运行率已超250亿美元。IDC指出逾60%的中国头部企业已将生成式AI整合进核心业务流程，金融、法律等场景渗透最深。定制化Agent可能拥有更广市场空间，行业内卷推动渗透率快速提升。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L5M0GBDJ0552C2FY.html",
+      "keywords": [
+        "AI Agent",
+        "企业AI",
+        "AWS",
+        "行业应用",
+        "定制化Agent"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "场景落地",
+      "id": 388
+    },
+    {
+      "date": "2026-09-01",
+      "category": "tech",
+      "title": "英伟达重新定义AI基建经济账：每度电、每块钱能跑多少Token成为新指标",
+      "summary": "英伟达在近期发布中主打\"智能体时代每度电、每块钱能跑多少Token\"的新指标体系，直接重定义AI基础设施的经济账。英伟达同时宣布将算力送上太空的规划，意味着边缘和轨交场景的AI推理可能跳出数据中心。短期看，推理成本持续下降将对闭源API的定价产生更大压力，推动AI应用向边缘侧和端侧迁移。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/ad72m67k/",
+      "keywords": [
+        "英伟达",
+        "AI推理成本",
+        "边缘AI",
+        "Token效率",
+        "AI基础设施"
+      ],
+      "published": "2026-08-26",
+      "categoryLabel": "技术前沿",
+      "id": 389
     }
   ]
 }
