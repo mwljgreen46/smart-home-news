@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01",
+  "lastUpdated": "2026-09-02",
   "news": [
     {
       "id": 1,
@@ -6985,6 +6985,346 @@
       "published": "2026-08-26",
       "categoryLabel": "技术前沿",
       "id": 389
+    },
+    {
+      "date": "2026-09-02",
+      "category": "tech",
+      "title": "Home Assistant 2026.9发布：全新告警系统与Matter设备地图",
+      "summary": "Home Assistant 2026.9测试版发布，全新告警系统将重要通知与普通提示区分开来，并新增Matter设备地图功能，可视化展示家中Matter设备分布与连接状态，帮助用户更直观地管理智能家居设备。",
+      "source": "XDA Developers",
+      "url": "https://www.xda-developers.com/home-assistant-2026-9-beta/",
+      "keywords": [
+        "Home Assistant",
+        "Matter",
+        "智能家居",
+        "开源平台"
+      ],
+      "published": "2026-08-28",
+      "categoryLabel": "技术前沿",
+      "id": 390
+    },
+    {
+      "date": "2026-09-02",
+      "category": "tech",
+      "title": "Matter 1.5规范发布：新增摄像头、能源管理与土壤传感器支持",
+      "summary": "截至2026年中期，已有超过750款Matter认证产品来自数百家制造商。Matter 1.5版本（2025年11月发布）新增摄像头、能源管理设备和土壤传感器等设备类别认证，持续扩展智能家居互操作标准覆盖范围。",
+      "source": "Smart Home Assistant UK",
+      "url": "https://smarthomeassistant.co.uk/articles/home-automation/home-assistant-matter-setup",
+      "keywords": [
+        "Matter协议",
+        "智能家居标准",
+        "互联互通",
+        "CSA"
+      ],
+      "published": "2026-08-28",
+      "categoryLabel": "技术前沿",
+      "id": 391
+    },
+    {
+      "date": "2026-09-02",
+      "category": "tech",
+      "title": "边缘AI市场年复合增长率逾30%，工业电脑产业迎AI驱动复苏",
+      "summary": "研调机构数据显示，全球边缘AI市场年复合增长率超过30%，工业电脑（IPC）产业正迎来AI驱动的景气复苏。2025年全球IPC产值约61亿美元，预计2030年将成长至89.1亿美元，边缘AI推理成为重要增长引擎。",
+      "source": "Digitimes",
+      "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000766285_9XP3E2LK7G453N6DY57W7",
+      "keywords": [
+        "边缘AI",
+        "工业电脑",
+        "IPC",
+        "云边端算力"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "技术前沿",
+      "id": 392
+    },
+    {
+      "date": "2026-09-02",
+      "category": "tech",
+      "title": "智谱GLM-5.3-Flash发布：首个原生多模态模型，激活国产算力",
+      "summary": "GLM-5.3-Flash是GLM-5系列首个原生多模态模型，总参数320B、激活参数18B，综合能力超过GLM-5.2，在国产芯片集群上实现大规模推理服务。该模型采用稀疏注意力与线性注意力混合架构，支持最长1M上下文，定价为GLM-5.3的1/10。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/2026-08-30/detail-iniqacxx5132830.d.html",
+      "keywords": [
+        "GLM-5.3",
+        "多模态",
+        "国产算力",
+        "大模型"
+      ],
+      "published": "2026-08-30",
+      "categoryLabel": "技术前沿",
+      "id": 393
+    },
+    {
+      "date": "2026-09-02",
+      "category": "policy",
+      "title": "商务部等7部门联合发文：加快智能家电家居产品标准应用",
+      "summary": "商务部等7部门发布《关于推动商品消费扩容升级的实施意见》，提出加快智能网联汽车、智能家电家居、数码产品、人工智能终端等产品标准应用，加快制定智能家居互联互通标准，完善智能终端基础通信协议与数据接口国家标准。",
+      "source": "商务部",
+      "url": "https://www.stcn.com/article/detail/4165722.html",
+      "keywords": [
+        "智能家居",
+        "国家标准",
+        "互联互通",
+        "商务部"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "政策标准",
+      "id": 394
+    },
+    {
+      "date": "2026-09-02",
+      "category": "policy",
+      "title": "美的集团深度参与智能家居互联互通国家标准制定",
+      "summary": "美的集团在半年度报告中披露，其联合比亚迪、华为、长安、吉利、奇瑞等生态伙伴构建车家互联标准体系，深度参与工信部强制性国家标准制《智能家居互联互通》，协同中国家用电器协会与中国通信标准化协会联合组建智能家居标准体系。",
+      "source": "美的集团",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531404.PDF",
+      "keywords": [
+        "美的",
+        "智能家居互联互通",
+        "国家标准",
+        "车家互联"
+      ],
+      "published": "2026-08-29",
+      "categoryLabel": "政策标准",
+      "id": 395
+    },
+    {
+      "date": "2026-09-02",
+      "category": "policy",
+      "title": "《智能终端软件平台技术要求》国家标准9月1日起实施",
+      "summary": "9月1日起实施的智能终端软件平台技术要求国家标准规定了操作系统框架、内核、库、运行时、服务、应用程序开发套件、安全等要求，标准的实施将提高智能终端软件平台的性能和可操作性，更好为百姓日常生活提供智慧化服务。",
+      "source": "华龙网",
+      "url": "https://www.cqnews.net/web/content_1544077627507294208.html",
+      "keywords": [
+        "智能终端",
+        "国家标准",
+        "操作系统",
+        "智慧化服务"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "政策标准",
+      "id": 396
+    },
+    {
+      "date": "2026-09-02",
+      "category": "policy",
+      "title": "5G边缘云市场预计2030年达128.9亿美元，复合增长率超20%",
+      "summary": "ResearchAndMarkets报告显示，5G边缘云网络和服务市场预计从2026年至2030年增长128.9亿美元，复合增长率超过20%。超低延迟应用、私有5G、边缘AI推理、可持续基础设施和主权边缘云成为市场主要增长驱动力。",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/articles/5g-edge-cloud-network-services-080900990.html",
+      "keywords": [
+        "5G边缘云",
+        "边缘计算",
+        "MEC",
+        "市场报告"
+      ],
+      "published": "2026-08-28",
+      "categoryLabel": "政策标准",
+      "id": 397
+    },
+    {
+      "date": "2026-09-02",
+      "category": "product",
+      "title": "海信发布JUOS系统：行业首个家庭智能伴侣级AIOS",
+      "summary": "海信发布行业首个家庭智能伴侣级AIOS——JUOS，以自研星海大模型为核心底座，针对家庭场景深度调优，兼具多模态理解、意图理解、推理规划与工具执行能力，意图识别及工具执行准确率超95%，多模态首字响应时延低于175ms。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqfuyi7053288.shtml",
+      "keywords": [
+        "海信",
+        "JUOS",
+        "家庭AIOS",
+        "星海大模型"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "产品方案",
+      "id": 398
+    },
+    {
+      "date": "2026-09-02",
+      "category": "product",
+      "title": "小米玄戒O100芯片发布：基于高带宽矩阵总线，实现远超传统旗舰SoC的端侧AI性能",
+      "summary": "小米董事长雷军宣布，玄戒O100基于自研高带宽矩阵总线，实现远超传统旗舰SoC的端侧AI性能，未来将应用于手机、汽车、机器人等全生态品类，标志着小米在自研芯片领域的重大突破。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/subject/1321",
+      "keywords": [
+        "小米",
+        "玄戒O100",
+        "端侧AI",
+        "自研芯片"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "产品方案",
+      "id": 399
+    },
+    {
+      "date": "2026-09-02",
+      "category": "product",
+      "title": "苹果M6芯片发布：12核CPU，单线程性能全球领先",
+      "summary": "苹果正式推出M6芯片，采用12核CPU设计，专为日常用户、学生、开发者、AI爱好者及企业用户的工作流设计，可平衡性能、能效与端侧AI能力，让用户能够轻松应对日常任务、编程及创意项目。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/219.htm",
+      "keywords": [
+        "苹果",
+        "M6芯片",
+        "端侧AI",
+        "Apple Silicon"
+      ],
+      "published": "2026-08-29",
+      "categoryLabel": "产品方案",
+      "id": 400
+    },
+    {
+      "date": "2026-09-02",
+      "category": "product",
+      "title": "地平线2026上半年营收逆市高增：智驾芯片全阶第一、高阶第二",
+      "summary": "地平线2026上半年财报显示，其在智驾芯片领域保持全阶第一、高阶第二的市场地位。通过地瓜机器人赋能超100种下游机器人品类、客户超400家，覆盖中国半数以上具身智能企业，平台能力正向家庭智能体等领域延伸。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L5MACM550511RIVP.html",
+      "keywords": [
+        "地平线",
+        "智驾芯片",
+        "具身智能",
+        "边缘计算"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "产品方案",
+      "id": 401
+    },
+    {
+      "date": "2026-09-02",
+      "category": "scenario",
+      "title": "自创家AI重构家居新商业：1分钟完成户型布局，出图效率提升300%",
+      "summary": "自创家AI通过一套AI算法，将传统需要大量人力完成的设计、规划工作技术化。用户上传户型图，1分钟左右自动完成合理布局；自然语言对话即可随意改方案，拍照即可将心仪风格一键迁移，30秒生成4K效果图，出图效率整体提升300%。",
+      "source": "凤凰网",
+      "url": "https://hainan.ifeng.com/c/8vxQfHJIiUg",
+      "keywords": [
+        "AI设计",
+        "智能家居",
+        "全屋智能",
+        "家居新零售"
+      ],
+      "published": "2026-08-29",
+      "categoryLabel": "场景落地",
+      "id": 402
+    },
+    {
+      "date": "2026-09-02",
+      "category": "scenario",
+      "title": "苹果AI战略曝光：摄像头AirPods、智能眼镜、家庭设备全覆盖",
+      "summary": "苹果内部规划显示，摄像头AirPods可理解周围物体和场景；智能眼镜能把Siri从手机里带到用户眼前；智能家居屏幕可以识别说话者。AI将成为贯穿iPhone、耳机、眼镜和家庭设备的系统能力。",
+      "source": "163邮箱",
+      "url": "https://www.163.com/dy/article/L5LARI640511ABV6.html",
+      "keywords": [
+        "苹果AI",
+        "智能眼镜",
+        "家庭设备",
+        "AI战略"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "场景落地",
+      "id": 403
+    },
+    {
+      "date": "2026-09-02",
+      "category": "scenario",
+      "title": "具身智能服务领域覆盖商业、家庭、情感陪伴三大趋势明显",
+      "summary": "36氪研究院报告显示，具身智能在服务领域应用覆盖商业、家庭、公共与情感陪伴等场景，发展呈现场景精准细分、交互体验拟人化以及产品形态轻量化与创新化三大趋势，2025年前11个月融资额达334.73亿元。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3660312420180864",
+      "keywords": [
+        "具身智能",
+        "服务机器人",
+        "家庭智能体",
+        "AI陪伴"
+      ],
+      "published": "2026-09-02",
+      "categoryLabel": "场景落地",
+      "id": 404
+    },
+    {
+      "date": "2026-09-02",
+      "category": "scenario",
+      "title": "中国移动加码华为昇腾：33.5亿元部署超1万卡AI超节点",
+      "summary": "中国移动呼和浩特智算中心2026年扩容工程累计中标金额达33.5亿元，部署规模超过1万卡。两期集采累计规模为3840卡（480套计算服务器），国产算力基础设施建设持续加速。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-08-26/doc-iniprytq2309307.shtml",
+      "keywords": [
+        "中国移动",
+        "华为昇腾",
+        "AI超节点",
+        "国产算力"
+      ],
+      "published": "2026-08-26",
+      "categoryLabel": "场景落地",
+      "id": 405
+    },
+    {
+      "date": "2026-09-02",
+      "category": "security",
+      "title": "UniFi全线设备发现22个漏洞：3个满分漏洞无需认证即可利用",
+      "summary": "安全研究人员披露UniFi全线设备存在22个漏洞，其中CVE-2026-77550（满分10.0）为CRLF注入认证绕过漏洞，攻击者无需认证即可绕过登录直接访问设备管理界面，影响Cloud Key、NVR、Dream Machine等全部UniFi OS设备。",
+      "source": "信息安全知识库",
+      "url": "https://www.gm7.org/archives/152755",
+      "keywords": [
+        "UniFi",
+        "安全漏洞",
+        "路由器",
+        "网络设备"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "数据安全",
+      "id": 406
+    },
+    {
+      "date": "2026-09-02",
+      "category": "security",
+      "title": "全球首个AI智能体自主攻击闭环证实：利用开源框架搭配DeepSeek实施攻击",
+      "summary": "Palo Alto Networks Unit 42披露首次完整记录的AI智能体自主攻击案例，攻击者利用开源智能体框架Hermes Agent搭配DeepSeek大模型，对全球460余台互联网暴露服务器实施无人工干预的自主攻击闭环，目标枚举、漏洞选择、EXP调用、攻击执行全部由AI完成。",
+      "source": "信息安全知识库",
+      "url": "https://www.gm7.org/archives/153295",
+      "keywords": [
+        "AI攻击",
+        "自主攻击",
+        "Hermes Agent",
+        "DeepSeek"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "数据安全",
+      "id": 407
+    },
+    {
+      "date": "2026-09-02",
+      "category": "security",
+      "title": "欧盟智能家居网络安全法规9月11日起强制要求厂商报告漏洞",
+      "summary": "欧盟网络安全法规要求从2026年9月11日起，制造商有义务报告被积极利用的漏洞（存在具体和迫在眉睫的攻击风险）以及影响数字元素产品安全的重大事件，智能家居设备制造商需建立完善的安全漏洞响应机制。",
+      "source": "HA Factory",
+      "url": "https://www.hafactory.it/2026/08/31/cybersecurity-for-the-smart-home/",
+      "keywords": [
+        "智能家居安全",
+        "欧盟法规",
+        "漏洞报告",
+        "网络安全"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "数据安全",
+      "id": 408
+    },
+    {
+      "date": "2026-09-02",
+      "category": "security",
+      "title": "2026年8月网络安全态势：AI攻击智能化、利用极速化、监管常态化",
+      "summary": "2026年8月网络安全态势呈现三大特征：AI自主攻击闭环首次在野外证实，高危漏洞利用窗口期压缩至5天内；国内《网络数据安全风险评估办法》正式施行，AI代理利用零日漏洞入侵HuggingFace事件引发行业高度关注。",
+      "source": "信息安全知识库",
+      "url": "https://www.gm7.org/archives/153285",
+      "keywords": [
+        "网络安全态势",
+        "AI攻击",
+        "零日漏洞",
+        "数据安全"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "数据安全",
+      "id": 409
     }
   ]
 }
