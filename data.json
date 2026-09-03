@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02",
+  "lastUpdated": "2026-09-03",
   "news": [
     {
       "id": 1,
@@ -7325,6 +7325,366 @@
       "published": "2026-09-01",
       "categoryLabel": "数据安全",
       "id": 409
+    },
+    {
+      "date": "2026-09-03",
+      "category": "tech",
+      "title": "Matter 1.6发布：NFC配对与联合Fabric重塑智能家居连接体验",
+      "summary": "Matter 1.6版本正式发布，引入NFC触碰配对和联合Fabric功能，用户可更便捷地设置智能家居设备并跨平台使用。Apple Home和Google Home正在跟进支持，该版本进一步巩固了Matter作为智能家居通用标准的地位。",
+      "source": "alre.de",
+      "url": "https://alre.de/en/matter-1-6-the-future-of-smart-home-integration-is-here/",
+      "keywords": [
+        "Matter 1.6",
+        "NFC配对",
+        "Joint Fabric",
+        "Thread协议",
+        "智能家居标准"
+      ],
+      "published": "2026-08-27",
+      "categoryLabel": "技术前沿",
+      "id": 410
+    },
+    {
+      "date": "2026-09-03",
+      "category": "tech",
+      "title": "Home Assistant 2026.9发布：全新Matter网络拓扑地图功能上线",
+      "summary": "Home Assistant发布2026.9版本，正式推出全新的Matter网络拓扑地图功能，解决此前Matter网络\"黑盒\"运行问题。用户现在可直观查看Thread边界路由器连接状态、Wi-Fi接入点关联及设备路由路径，大幅提升故障排查效率。",
+      "source": "HomeTechFun Blog",
+      "url": "https://hometechfun.blogspot.com/2026/08/home-assistant-20269-new-matter-network.html",
+      "keywords": [
+        "Home Assistant",
+        "Matter网络地图",
+        "Thread Border Router",
+        "Zigbee",
+        "智能家居"
+      ],
+      "published": "2026-08-29",
+      "categoryLabel": "技术前沿",
+      "id": 411
+    },
+    {
+      "date": "2026-09-03",
+      "category": "tech",
+      "title": "STM32MP25工业级MPU深度解析：64位异构计算与边缘AI实战",
+      "summary": "意法半导体STM32MP25工业级MPU正式登场，采用双核Arm Cortex-A35加Cortex-M33异构架构，集成NPU用于边缘AI推理，目标场景覆盖工厂自动化、智能HMI、边缘计算网关及预测性维护，为智慧家庭网关提供新的芯片选型参考。",
+      "source": "CSDN",
+      "url": "https://blog.csdn.net/weixin_29183637/article/details/164165089",
+      "keywords": [
+        "STM32MP25",
+        "边缘AI",
+        "异构计算",
+        "NPU",
+        "智慧家庭网关"
+      ],
+      "published": "2026-08-29",
+      "categoryLabel": "技术前沿",
+      "id": 412
+    },
+    {
+      "date": "2026-09-03",
+      "category": "tech",
+      "title": "Quectel发布FCM665D模块：Wi-Fi 6与边缘AI能力赋能智能家居",
+      "summary": "移远通信推出FCM665D高性能Wi-Fi 6和蓝牙模块，内置边缘AI处理能力，支持智慧家庭、工业物联网等多种场景。该模块于7月29日发布，标志着主流模组厂商加速边缘AI在智能家居终端的落地。",
+      "source": "Edge AI and Vision Alliance",
+      "url": "https://www.edge-ai-vision.com/2026/09/quectel-launches-high-performance-fcm665d-module-for-edge-ai-applications/",
+      "keywords": [
+        "移远通信",
+        "FCM665D",
+        "Wi-Fi 6",
+        "边缘AI",
+        "智能家居模组"
+      ],
+      "published": "2026-08-29",
+      "categoryLabel": "技术前沿",
+      "id": 413
+    },
+    {
+      "date": "2026-09-03",
+      "category": "policy",
+      "title": "欧盟《网络弹性法案》9月11日生效：智能家居设备安全漏洞强制披露",
+      "summary": "欧盟《网络弹性法案》（Cyber Resilience Act）将于2026年9月11日起正式生效，要求智能家居等数字产品制造商主动报告被积极利用的漏洞和重大安全事件。新规对智能家居行业的安全合规提出更高要求，Zigbee、Matter等协议设备均在监管范围内。",
+      "source": "HA Factory",
+      "url": "https://www.hafactory.it/2026/08/31/cybersecurity-for-the-smart-home/",
+      "keywords": [
+        "欧盟网络弹性法案",
+        "CRA",
+        "漏洞披露",
+        "智能家居安全",
+        "合规"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "政策标准",
+      "id": 414
+    },
+    {
+      "date": "2026-09-03",
+      "category": "policy",
+      "title": "美国CCPA新规2026年1月生效：数据风险评估与数据经纪人新要求",
+      "summary": "美国加利福尼亚州消费者隐私法案（CCPA）新修正案将于2026年1月1日生效，引入数据风险评估新规、Cookie/像素追踪新规则以及数据经纪人新要求。智能家居设备厂商需重新审视数据收集和隐私保护策略，以符合更严格的州级监管要求。",
+      "source": "McDermott Will & Emery Law",
+      "url": "https://www.mcdermottlaw.com/insights/data-privacy-and-cybersecurity-developments-we-are-watching-in-2026/",
+      "keywords": [
+        "CCPA",
+        "数据隐私",
+        "风险评估",
+        "智能家居",
+        "合规"
+      ],
+      "published": "2026-09-03",
+      "categoryLabel": "政策标准",
+      "id": 415
+    },
+    {
+      "date": "2026-09-03",
+      "category": "policy",
+      "title": "国内《网络数据安全风险评估办法》施行：数据安全进入常态化体检时代",
+      "summary": "国内《网络数据安全风险评估办法》正式施行，标志着数据安全监管进入常态化\"体检\"时代。办法要求企业定期开展数据安全风险评估，智能家居厂商需建立完善的数据安全管理体系，应对日益严格的行业监管要求。",
+      "source": "信息安全知识库",
+      "url": "https://www.gm7.org/archives/153295",
+      "keywords": [
+        "网络数据安全",
+        "风险评估",
+        "智能家居",
+        "合规",
+        "监管"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "政策标准",
+      "id": 416
+    },
+    {
+      "date": "2026-09-03",
+      "category": "policy",
+      "title": "《人工智能拟人化互动服务管理暂行办法》正式施行",
+      "summary": "国家网信办、国家发改委、工信部、公安部、市场监管总局五部门联合发布的《人工智能拟人化互动服务管理暂行办法》于2026年7月15日起正式施行，对AI拟人化互动服务提出合规要求，具身智能企业面临四重硬约束。",
+      "source": "信息安全知识库",
+      "url": "https://www.gm7.org/archives/153337",
+      "keywords": [
+        "AI监管",
+        "人工智能",
+        "拟人化互动",
+        "合规",
+        "具身智能"
+      ],
+      "published": "2026-09-02",
+      "categoryLabel": "政策标准",
+      "id": 417
+    },
+    {
+      "date": "2026-09-03",
+      "category": "product",
+      "title": "华为鸿蒙智家发布\"NEXT\"级别全屋智能升级",
+      "summary": "华为在Mate品牌盛典上发布鸿蒙智家\"NEXT\"级别升级，推出房间全能指挥智能中控屏MINI，支持语音交互调节照明\"助眠\"\"唤醒\"模式，AI超感传感器自动感应用户行动轨迹实现全程跟随式服务，标志着全屋智能迈入万物互联新阶段。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3055877654712704",
+      "keywords": [
+        "华为",
+        "鸿蒙智家",
+        "全屋智能",
+        "AI传感",
+        "智能中控"
+      ],
+      "published": "2026-09-02",
+      "categoryLabel": "产品方案",
+      "id": 418
+    },
+    {
+      "date": "2026-09-03",
+      "category": "product",
+      "title": "LG在IFA 2026展示AI HOME下一代智能家居方案",
+      "summary": "LG电子在2026年柏林国际电子消费品展览会（IFA）上发布AI HOME下一代智能家居解决方案，展示AI驱动的家庭生活体验新范式，进一步扩展其智能家居生态版图。",
+      "source": "ADVFN",
+      "url": "https://uk.advfn.com/stock-market/share-news/LG-ELECTRONICS-UNVEILS-THE-NEXT-EVOLUTION-OF-AI-HO/99214439",
+      "keywords": [
+        "LG",
+        "IFA 2026",
+        "AI HOME",
+        "智能家居",
+        "智能家电"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "产品方案",
+      "id": 419
+    },
+    {
+      "date": "2026-09-03",
+      "category": "product",
+      "title": "M5Stack Tab5打造全能语音智能家居中控屏",
+      "summary": "开发者使用M5Stack Tab5开发板打造全能语音智能家居中控屏，基于ESP32-P4主控搭配ESP32-C6无线模块，采用ESPHome+Home Assistant开源生态，整合触屏交互、环境数据展示、设备控制、AI语音对话等功能，成本可控且高度可定制。",
+      "source": "DigiKey技术论坛",
+      "url": "https://www.digikey.cn/zh/forum/t/topic/8150",
+      "keywords": [
+        "M5Stack",
+        "Tab5",
+        "智能中控",
+        "ESPHome",
+        "Home Assistant"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "产品方案",
+      "id": 420
+    },
+    {
+      "date": "2026-09-03",
+      "category": "product",
+      "title": "Homey推出Matter/Zigbee/Z-Wave设备固件直接更新功能",
+      "summary": "荷兰智能家居Hub厂商Homey推出\"设备更新\"功能，用户可直接在App内完成Matter、Zigbee和Z-Wave设备的固件更新，无需切换到各设备厂商的独立App或Hub，大幅简化智能家居设备管理流程。",
+      "source": "Basic Tutorials",
+      "url": "https://basic-tutorials.com/news/homey-device-updates-firmware-updates-for-matter-zigbee-and-z-wave-now-available-directly-in-the-app/",
+      "keywords": [
+        "Homey",
+        "固件更新",
+        "Matter",
+        "Zigbee",
+        "Z-Wave"
+      ],
+      "published": "2026-08-28",
+      "categoryLabel": "产品方案",
+      "id": 421
+    },
+    {
+      "date": "2026-09-03",
+      "category": "scenario",
+      "title": "港灯推出\"智慧家居乐龄守护\"计划：智能家电助长者提升生活质量",
+      "summary": "港灯旗下\"智惜用電關懷基金\"联同社会福利署推出智慧家居乐龄守护计划，透过派发智能家电、安排义工探访及提供使用指导，协助长者提升家居生活质素，应对人口老化挑战。",
+      "source": "东周刊",
+      "url": "https://eastweek.stheadline.com/witness/21201/",
+      "keywords": [
+        "适老化",
+        "智慧养老",
+        "智能家电",
+        "港灯",
+        "乐龄守护"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "场景落地",
+      "id": 422
+    },
+    {
+      "date": "2026-09-03",
+      "category": "scenario",
+      "title": "华为鸿蒙智家实现人车家万物互联",
+      "summary": "华为鸿蒙智家技术沟通会在北京举行，打造个人终端、智能汽车与全屋家庭互联互通的智慧互联。用户可通过个人终端远程控家、车机控家、车家通话，以及家场景下的丰富鸿蒙生态联动，进入智慧全生态时代。",
+      "source": "新华网",
+      "url": "http://www.news.cn/tech/20260827/3f425fdec8574fcc88d0763668d8037d/c.html",
+      "keywords": [
+        "华为",
+        "鸿蒙智家",
+        "人车家互联",
+        "万物互联",
+        "全场景"
+      ],
+      "published": "2026-08-27",
+      "categoryLabel": "场景落地",
+      "id": 423
+    },
+    {
+      "date": "2026-09-03",
+      "category": "scenario",
+      "title": "多Agent协同成2026年AI应用热点：Tmux可视化协作模式兴起",
+      "summary": "开发者社区探索利用Tmux等成熟基础设施工具重构AI Agent通信与展示层，为解决多智能体协作中的\"黑盒\"焦虑提供低成本、高可控的工程化范式。多Agent协同完成复杂任务成为2026年AI应用的重要方向。",
+      "source": "80aj.com",
+      "url": "https://www.80aj.com/2026/08/31/tmux-multiagent-visualization/",
+      "keywords": [
+        "多Agent",
+        "协同",
+        "Tmux",
+        "AI Agent",
+        "智能体"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "场景落地",
+      "id": 424
+    },
+    {
+      "date": "2026-09-03",
+      "category": "scenario",
+      "title": "企业级AI Agent站上风口：开源模型进步激活企业软件应用新空间",
+      "summary": "Amazon 2026年二季度财报显示AWS营收同比增长37%，AI业务年化收入运行率超250亿美元。IDC指出逾60%中国头部企业已将生成式AI整合进核心业务流程，金融、法律等场景渗透最深，定制化Agent市场空间广阔。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L5M0GBDJ0552C2FY.html",
+      "keywords": [
+        "AI Agent",
+        "企业应用",
+        "开源模型",
+        "AWS",
+        "智能化"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "场景落地",
+      "id": 425
+    },
+    {
+      "date": "2026-09-03",
+      "category": "security",
+      "title": "Black Hat 2026曝光TP-Link Omada零接触配置15个漏洞",
+      "summary": "Black Hat USA 2026上，安全研究团队Forescout Vedere Labs披露TP-Link Omada零接触配置生态存在15个安全漏洞，影响路由器、交换机及VIGI、Festa、Tapo、Kasa等产品线。家庭用户常用的TP-Link路由器可能成为AI Agent攻击入口。",
+      "source": "Forkast",
+      "url": "https://forkast.news/smart-home-security-debt-when-your-router-becomes-the-agents-attack-surface/",
+      "keywords": [
+        "TP-Link",
+        "漏洞",
+        "智能家居安全",
+        "Black Hat",
+        "路由器"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "数据安全",
+      "id": 426
+    },
+    {
+      "date": "2026-09-03",
+      "category": "security",
+      "title": "ZBT路由器后门与APT28关联后门HOOKEDGE安全风险预警",
+      "summary": "2026年8月安全动态披露ZBT路由器存在后门程序，该后门与APT28（又称Fancy Bear）组织关联，被命名为HOOKEDGE。安全机构建议用户及时更新系统补丁、收敛互联网暴露面，强化MFA与备份韧性。",
+      "source": "信息安全知识库",
+      "url": "https://www.gm7.org/archives/152749",
+      "keywords": [
+        "ZBT路由器",
+        "后门",
+        "APT28",
+        "HOOKEDGE",
+        "网络安全"
+      ],
+      "published": "2026-08-29",
+      "categoryLabel": "数据安全",
+      "id": 427
+    },
+    {
+      "date": "2026-09-03",
+      "category": "security",
+      "title": "9月2日高危漏洞紧急预警：PaperCut、JFrog Artifactory等多系统受威胁",
+      "summary": "安全机构发布9月2日高危漏洞紧急预警，重点披露PaperCut NG/MF预认证RCE链（CVE-2026-81578+82078）、JFrog Artifactory认证绕过（CVE-2026-82329）及Langflow AI平台RCE（CVE-2026-0768）等严重漏洞，已有在野利用迹象。",
+      "source": "信息安全知识库",
+      "url": "https://www.gm7.org/archives/153434",
+      "keywords": [
+        "高危漏洞",
+        "PaperCut",
+        "JFrog",
+        "RCE",
+        "漏洞预警"
+      ],
+      "published": "2026-09-02",
+      "categoryLabel": "数据安全",
+      "id": 428
+    },
+    {
+      "date": "2026-09-03",
+      "category": "security",
+      "title": "NDSS 2027接收隐私文档十五年系统研究：政策与软件行为不一致性复杂",
+      "summary": "一篇被NDSS 2027接收的学术论文系统综述2010至2025年间290篇隐私文档研究，发现隐私政策与软件实际行为不一致性问题复杂，生成环节最为薄弱。研究建议未来需面向AI Agent设计新型隐私机制，推动多模态数据基础建设。",
+      "source": "信息安全知识库",
+      "url": "https://www.gm7.org/archives/153377",
+      "keywords": [
+        "隐私保护",
+        "NDSS",
+        "隐私政策",
+        "AI Agent",
+        "数据安全"
+      ],
+      "published": "2026-09-02",
+      "categoryLabel": "数据安全",
+      "id": 429
     }
   ]
 }
