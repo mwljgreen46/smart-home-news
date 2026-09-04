@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03",
+  "lastUpdated": "2026-09-04",
   "news": [
     {
       "id": 1,
@@ -7685,6 +7685,366 @@
       "published": "2026-09-02",
       "categoryLabel": "数据安全",
       "id": 429
+    },
+    {
+      "date": "2026-09-04",
+      "category": "tech",
+      "title": "Shelly 在 IFA 2026 发布 Matter 重大更新：Wall Display 变身 Matter 控制器",
+      "summary": "Shelly 在 IFA 2026 期间宣布，免费固件更新将旗下 Wall Display 系列兼容型号同时升级为 Matter 控制器和 Matter 设备。作为 Matter 控制器，可添加并控制来自其他厂商的 Matter 设备，包括灯具、窗帘、恒温器、风扇、插座和传感器。这一更新使 Shelly Wall Display 成为真正的跨生态智能家居中枢。",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paullamkin/2026/09/02/shelly-turns-its-wall-display-into-a-matter-controller-smart-home-hub/",
+      "keywords": [
+        "Matter",
+        "Shelly",
+        "IFA2026",
+        "智能家居",
+        "Thread"
+      ],
+      "published": "2026-09-02",
+      "categoryLabel": "技术前沿",
+      "id": 430
+    },
+    {
+      "date": "2026-09-04",
+      "category": "tech",
+      "title": "Anker 发布 MindBase 本地 AI 智能家居 Hub：支持 Matter + 本地推理 + 48TB 存储",
+      "summary": "Anker 在 IFA 2026 期间发布 MindBase 智能家居 Hub，集成 Matter 兼容、本地 AI 处理和最高 48TB 可扩展存储，旨在为 Anker 及数百个第三方 Matter 设备提供集中控制。该产品定位为本地隐私优先的智能家居中枢，所有数据处理在本地完成。",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paullamkin/2026/09/03/anker-launches-mindbase-local-ai-smart-home-hub-at-ifa-2026/",
+      "keywords": [
+        "Anker",
+        "Matter",
+        "本地AI",
+        "智能家居Hub",
+        "隐私保护"
+      ],
+      "published": "2026-09-03",
+      "categoryLabel": "技术前沿",
+      "id": 431
+    },
+    {
+      "date": "2026-09-04",
+      "category": "tech",
+      "title": "Aqara 在 IFA 2026 扩展 Matter Over Thread 照明产品线",
+      "summary": "绿米（Aqara）在 IFA 2026 期间宣布扩展 Matter Over Thread 照明产品线，通过 Matter 协议，这些灯具可与 Apple Home、Amazon Alexa、Google Home、Samsung SmartThings、Home Assistant 和 Homey 等主流平台无缝互通，打破品牌生态壁垒。",
+      "source": "Homekit News",
+      "url": "https://homekitnews.com/2026/09/03/aqara-expands-matter-over-thread-lighting-range-at-ifa-2026/",
+      "keywords": [
+        "Aqara",
+        "Matter",
+        "Thread",
+        "IFA2026",
+        "智能照明"
+      ],
+      "published": "2026-09-03",
+      "categoryLabel": "技术前沿",
+      "id": 432
+    },
+    {
+      "date": "2026-09-04",
+      "category": "tech",
+      "title": "Ugreen 推出 HomeAgent 平台：本地 AI + Matter 智能家居控制",
+      "summary": "Ugreen 于2026年9月3日发布 HomeAgent 平台，将本地 AI 处理、安全录像和 Matter 智能家居控制带入家庭。该平台支持在本地完成 AI 推理，减少对云端的依赖，提升隐私保护能力。",
+      "source": "Yahoo News Canada",
+      "url": "https://ca.news.yahoo.com/ugreen-homeagent-promises-local-ai-220000786.html",
+      "keywords": [
+        "Ugreen",
+        "HomeAgent",
+        "Matter",
+        "本地AI",
+        "智能家居"
+      ],
+      "published": "2026-09-03",
+      "categoryLabel": "技术前沿",
+      "id": 433
+    },
+    {
+      "date": "2026-09-04",
+      "category": "tech",
+      "title": "海信发布 JUOS：行业首个家庭智能伴侣级 AIOS",
+      "summary": "海信发布 JUOS 操作系统，号称行业首个家庭智能伴侣级 AIOS，原生适配电视、投影、智能家电等多终端。其核心底座为海信自研星海大模型，针对家庭场景深度调优，意图识别及工具执行准确率超95%，多模态首字响应时延低于175ms，并获得中国信通院大模型能力4+级认证。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqfuyi7053288.shtml",
+      "keywords": [
+        "海信",
+        "JUOS",
+        "AIOS",
+        "星海大模型",
+        "智能家居"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "技术前沿",
+      "id": 434
+    },
+    {
+      "date": "2026-09-04",
+      "category": "policy",
+      "title": "欧盟网络弹性法案要求智能家居设备厂商报告被主动利用的漏洞",
+      "summary": "根据 HA Factory 报道，自2026年9月11日起，制造商有义务主动报告被实际利用的漏洞（具有现实且紧迫的攻击风险）以及影响数字产品安全性的严重事件。这一规定源于欧盟《网络弹性法案》，智能家居设备厂商需建立漏洞披露机制，否则将面临合规风险。",
+      "source": "HA Factory",
+      "url": "https://www.hafactory.it/2026/08/31/cybersecurity-for-the-smart-home/",
+      "keywords": [
+        "欧盟",
+        "网络弹性法案",
+        "智能家居",
+        "漏洞披露",
+        "合规"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "政策标准",
+      "id": 435
+    },
+    {
+      "date": "2026-09-04",
+      "category": "policy",
+      "title": "2026年数据隐私与网络安全趋势：美国 COPPA 更新、年龄信号法、CCPA 修订",
+      "summary": "McDermott Will & Emery 律师事务所发布2026年数据隐私与网络安全趋势报告，涵盖新颁布的 COPPA 法规、应用年龄信号法以及 CCPA 的更新内容。报告指出，2026年各国对智能家居设备的隐私合规要求正在显著收紧。",
+      "source": "McDermott Law",
+      "url": "https://www.mcdermottlaw.com/insights/data-privacy-and-cybersecurity-developments-we-are-watching-in-2026/",
+      "keywords": [
+        "隐私保护",
+        "COPPA",
+        "CCPA",
+        "网络安全",
+        "智能家居"
+      ],
+      "published": "2026-09-02",
+      "categoryLabel": "政策标准",
+      "id": 436
+    },
+    {
+      "date": "2026-09-04",
+      "category": "policy",
+      "title": "2026年9月施行修订个人信息保护法：个人信息保护责任人义务升级",
+      "summary": "2026年9月即将施行的修订版个人信息保护法要求一定规模以上的个人信息处理者必须指定个人信息保护责任人（CPO）并履行申报义务，同时推进 ISMS-P 认证。这一变化将对智能家居等 IoT 设备厂商的数据合规体系产生重大影响。",
+      "source": "TILNOTE",
+      "url": "https://tilnote.io/en/pages/6a999ad27785155baec53425",
+      "keywords": [
+        "个人信息保护法",
+        "CPO",
+        "ISMS-P",
+        "IoT",
+        "合规"
+      ],
+      "published": "2026-09-03",
+      "categoryLabel": "政策标准",
+      "id": 437
+    },
+    {
+      "date": "2026-09-04",
+      "category": "product",
+      "title": "LG ThinQ Pro 登陆欧洲：拓展 AI 生态至商业和多户住宅空间",
+      "summary": "LG 在 IFA 2026 上让 ThinQ Pro 首次亮相欧洲，将 AI 生态延伸至商业和多户住宅场景。该 building management 软件定位为 LG 的 B2B 布局，与其消费级业务并行，推动智能家居从家庭向建筑级管理延伸。",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/326420/20260903/amd-opens-ifa-2026-tomorrow-samsung-exits-humanoid-robots-walk-catwalk.htm",
+      "keywords": [
+        "LG",
+        "ThinQ Pro",
+        "IFA2026",
+        "智能建筑",
+        "B2B"
+      ],
+      "published": "2026-09-03",
+      "categoryLabel": "产品方案",
+      "id": 438
+    },
+    {
+      "date": "2026-09-04",
+      "category": "product",
+      "title": "海尥JUOS发布：行业首个家庭智能伴侣级AIOS，多终端原生适配",
+      "summary": "海信发布的 JUOS 操作系统深度整合星海大模型，具备多模态理解、意图理解、推理规划与工具执行等核心能力，意图识别准确率超95%，并获中国信通院4+级认证。该系统将率先应用于海信电视、投影等核心产品，打造以用户家庭为中心的 AI 交互体验。",
+      "source": "CNMO科技",
+      "url": "https://home.cnmo.com/news/817312.html",
+      "keywords": [
+        "海信",
+        "JUOS",
+        "AIOS",
+        "星海大模型",
+        "智能家居"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "产品方案",
+      "id": 439
+    },
+    {
+      "date": "2026-09-04",
+      "category": "product",
+      "title": "星和电机发布边缘AI防爆网络摄像头：实时异常检测",
+      "summary": "星和电机于2026年8月18日发布搭载边缘 AI 的防爆形网络摄像头 IZAP7A 系列，适用于石油、化工等防爆区域的实时影像解析与异常检测。该产品将 AI 推理能力下沉至边缘端，无需依赖云端即可实现本地化的智能安防。",
+      "source": "MONOIST",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2609/02/news080.html",
+      "keywords": [
+        "边缘AI",
+        "防爆摄像头",
+        "智能安防",
+        "物联网",
+        "实时检测"
+      ],
+      "published": "2026-09-02",
+      "categoryLabel": "产品方案",
+      "id": 440
+    },
+    {
+      "date": "2026-09-04",
+      "category": "product",
+      "title": "Home Assistant 发布 2026.9 版本：开放家庭 Booth 亮相 IFA",
+      "summary": "Home Assistant 发布 2026.9 版本，IFA 2026 于9月4-8日在柏林举办，开放家庭基金会（Open Home Foundation）设立专属展位（Hall 1.2, stand 1.2-153），展示开源智能家居生态系统的最新进展，Matter 兼容设备支持持续扩展。",
+      "source": "Home Assistant",
+      "url": "https://www.home-assistant.io/blog/2026/09/02/release-20269/",
+      "keywords": [
+        "Home Assistant",
+        "IFA2026",
+        "Matter",
+        "开源",
+        "智能家居"
+      ],
+      "published": "2026-09-02",
+      "categoryLabel": "产品方案",
+      "id": 441
+    },
+    {
+      "date": "2026-09-04",
+      "category": "scenario",
+      "title": "日本养老院引入 AI 颜认证见守护系统：NTT数据+CyberLink+HP 联手",
+      "summary": "NTT Dataルウィーブ、CyberLink 和日本 HP 三方联手，为特别养护养老院「わかたけ新子安」提供基于 AI 颜认证的见守护支援系统。该系统在日本 HP 工作站上运行 CyberLink FaceMe Security 解决方案，通过人脸识别技术实现老人出入监控与异常预警。",
+      "source": "PR Times",
+      "url": "https://prtimes.jp/main/html/rd/p/000000006.000182763.html",
+      "keywords": [
+        "适老看护",
+        "AI颜认证",
+        "智能安防",
+        "日本",
+        "养老"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "场景落地",
+      "id": 442
+    },
+    {
+      "date": "2026-09-04",
+      "category": "scenario",
+      "title": "AI Agent 从聊天向业务系统自主执行转型：2026年8月最后一批AI更新",
+      "summary": "2026年8月底的 AI 更新浪潮将 Agent 的行动范围同时推向三个方向：登录后的账号、持续运行的云端电脑，以及现实设备的控制接口。多 Agent 协同正在从对话式响应向连接业务系统、自主执行和复用多个流程的机制演进，这一趋势在智能家居场景中体现为多设备联动与自动化控制。",
+      "source": "飞跃签证论坛",
+      "url": "https://bbs.fcgvisa.com/t/agent-2026-8-ai/56518",
+      "keywords": [
+        "AI Agent",
+        "多Agent协同",
+        "智能家居",
+        "自动化",
+        "大模型"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "场景落地",
+      "id": 443
+    },
+    {
+      "date": "2026-09-04",
+      "category": "scenario",
+      "title": "企业级 AI Agent 成风口：开源模型进步激活企业软件应用新空间",
+      "summary": "企业级 AI Agent 站上风口，AWS 2026年二季度 AI 业务年化收入超250亿美元，IDC 指出逾60%的中国头部企业已将生成式 AI 整合进核心业务流程。金融、法律等场景渗透最深，定制化 Agent 正成为新一轮市场竞争焦点。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L5M0GBDJ0552C2FY.html",
+      "keywords": [
+        "AI Agent",
+        "企业级",
+        "大模型",
+        "行业应用",
+        "智能化"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "场景落地",
+      "id": 444
+    },
+    {
+      "date": "2026-09-04",
+      "category": "scenario",
+      "title": "多模态和 Agent 成为大厂 AI 新赛点：Manus 展示 C 端通用 Agent 雏形",
+      "summary": "36氪报道，多模态和 Agent 正成为各大厂 AI 竞争的新赛点。Manus 通过对话框+工作区呈现 Agent 工作场景，基于大模型理解、拆分用户任务意图，调用不同工具模块协同完成复杂任务，为 C 端用户提供通用 Agent 产品雏形。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3271263251719687",
+      "keywords": [
+        "AI Agent",
+        "多模态",
+        "Manus",
+        "智能家居",
+        "任务协同"
+      ],
+      "published": "2026-09-04",
+      "categoryLabel": "场景落地",
+      "id": 445
+    },
+    {
+      "date": "2026-09-04",
+      "category": "security",
+      "title": "Black Hat 2026：Forescout 披露 TP-Link Omada 零接触配置生态15个漏洞",
+      "summary": "在 Black Hat USA 2026 上，Forescout Vedere Labs 研究人员披露了影响 TP-Link Omada 零接触配置生态系统的15个漏洞，涉及路由器、交换机以及 VIGI、Festa、Tapo 和 Kasa 等产品线。这些漏洞可能使数百万家庭网络设备面临攻击风险，凸显智能家居路由器的安全债务问题。",
+      "source": "Forkast",
+      "url": "https://forkast.news/smart-home-security-debt-when-your-router-becomes-the-agents-attack-surface/",
+      "keywords": [
+        "TP-Link",
+        "漏洞",
+        "智能家居安全",
+        "Black Hat",
+        "路由器"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "数据安全",
+      "id": 446
+    },
+    {
+      "date": "2026-09-04",
+      "category": "security",
+      "title": "智能家居安全债务：路由器成为 AI Agent 攻击面",
+      "summary": "Forkast 报道指出，随着 AI Agent 开始获取账号、硬件和持续权限，家庭路由器正在成为最薄弱的安全环节。Black Hat 2026 上披露的 TP-Link 漏洞仅为冰山一角，文章警示智能家居安全债正在累积，用户和厂商需重新审视家庭网络的整体安全架构。",
+      "source": "Forkast",
+      "url": "https://forkast.news/smart-home-security-debt-when-your-router-becomes-the-agents-attack-surface/",
+      "keywords": [
+        "智能家居安全",
+        "AI Agent",
+        "攻击面",
+        "网络安全",
+        "路由器"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "数据安全",
+      "id": 447
+    },
+    {
+      "date": "2026-09-04",
+      "category": "security",
+      "title": "SonicWall SMA 1000 零日漏洞：CVE-2026-83548 CVSS 10.0",
+      "summary": "SonicWall 于9月2日披露 SMA1000 产品的两个零日漏洞，其中 CVE-2026-83548（CVSS 10.0）为 Appliance Work Place 接口的认证前 SSRF 漏洞，CVE-2026-83549（CVSS 7.8）为 AMC 的 OS 命令注入漏洞。链接利用可实现未认证远程代码执行，厂商已确认实际攻击发生。",
+      "source": "Qiita",
+      "url": "https://qiita.com/KaaaaaPeeeee/items/b640921fd4c77dd0a511",
+      "keywords": [
+        "SonicWall",
+        "零日漏洞",
+        "SSRF",
+        "CVE",
+        "网络安全"
+      ],
+      "published": "2026-09-03",
+      "categoryLabel": "数据安全",
+      "id": 448
+    },
+    {
+      "date": "2026-09-04",
+      "category": "security",
+      "title": "Wiz 披露：AI 基础设施遭单字符令牌绕过认证攻击",
+      "summary": "Wiz 于8月27日公布其90天 AI 蜜罐研究结果，攻击者向 LiteLLM 提交单字符令牌即可触发 CVE-2026-59822 认证失败回退，取得不受限 API 身份；随后注册伪造 MCP 服务器并利用 CVE-2026-42271 在测试端点执行命令，植入门罗币矿工。多个 Agent 框架中观察到盲提示注入探测，表明 AI 基础设施攻击已进入现实流量。",
+      "source": "信息安全知识库",
+      "url": "https://www.gm7.org/archives/152642",
+      "keywords": [
+        "AI安全",
+        "Agent框架",
+        "漏洞",
+        "CVE",
+        "API安全"
+      ],
+      "published": "2026-08-28",
+      "categoryLabel": "数据安全",
+      "id": 449
     }
   ]
 }
