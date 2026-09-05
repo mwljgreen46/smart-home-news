@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04",
+  "lastUpdated": "2026-09-05",
   "news": [
     {
       "id": 1,
@@ -8045,6 +8045,366 @@
       "published": "2026-08-28",
       "categoryLabel": "数据安全",
       "id": 449
+    },
+    {
+      "date": "2026-09-05",
+      "category": "tech",
+      "title": "Matter 1.6标准发布：Product Security 1.1对齐欧盟CRA漏洞披露要求",
+      "summary": "CSA于2026年6月发布Matter 1.6版本，新增Joint Fabric功能并推出Product Security 1.1认证要求，明确要求厂商在2026年9月11日前报告被主动利用的漏洞。该版本旨在进一步提升智能家居设备的互操作性与安全性，标志着Matter生态进入新阶段。",
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Matter_(standard)",
+      "keywords": [
+        "Matter",
+        "智能家居",
+        "CSA",
+        "互操作性",
+        "Product Security"
+      ],
+      "published": "2026-09-03",
+      "categoryLabel": "技术前沿",
+      "id": 450
+    },
+    {
+      "date": "2026-09-05",
+      "category": "tech",
+      "title": "Home Assistant 2026.9发布：安全仪表盘与Matter网络可视化地图上线",
+      "summary": "Home Assistant于2026年9月2日发布最新月度版本，新增安全仪表盘和Matter设备网络地图功能，提供更清晰的设备状态可视化与直接控制能力。同时移除VLC集成，进一步简化智能家居管理体验。",
+      "source": "NetGuide",
+      "url": "https://netguide.io/news/en/2026/09/02/home-assistant-2026-9-security-dashboard-matter-map/",
+      "keywords": [
+        "Home Assistant",
+        "Matter",
+        "开源智能家居",
+        "自动化",
+        "IoT"
+      ],
+      "published": "2026-09-02",
+      "categoryLabel": "技术前沿",
+      "id": 451
+    },
+    {
+      "date": "2026-09-05",
+      "category": "tech",
+      "title": "2026年边缘计算市场预计达467亿美元，亚太增速全球最快",
+      "summary": "市场研究显示，2026年全球边缘计算市场规模预计达467亿美元，2033年将增至3280亿美元，年复合增长率32.1%。硬件占市场41.8%，软件增速最快（37%+）。亚太地区增速达39%，成为全球增长最快的区域，工业IoT、边缘AI和 MEC 是主要驱动力。",
+      "source": "Express Press Release Distribution",
+      "url": "https://express-press-release.net/news/2026/08/31/1769893",
+      "keywords": [
+        "边缘计算",
+        "IoT",
+        "云边端",
+        "MEC",
+        "边缘AI"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "技术前沿",
+      "id": 452
+    },
+    {
+      "date": "2026-09-05",
+      "category": "tech",
+      "title": "边缘AI端侧基础模型成为2026年技术热点，功耗与性能平衡受关注",
+      "summary": "Wevolver发布的2026边缘AI技术报告显示，边缘基础模型（Edge Foundation Models）正成为重要方向，旨在消费电子和工业终端的功耗、散热和内存限制内运行。随着AI推理能力向端侧迁移，边缘智能成为智能家居和IoT设备的核心竞争力。",
+      "source": "Wevolver",
+      "url": "https://www.wevolver.com/article/the-2026-edge-ai-technology-report/future-of-edge-ai",
+      "keywords": [
+        "边缘AI",
+        "端侧推理",
+        "Edge Foundation Models",
+        "NPU",
+        "低功耗AI"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "技术前沿",
+      "id": 453
+    },
+    {
+      "date": "2026-09-05",
+      "category": "tech",
+      "title": "燧原科技IPO申购：国产AI芯片赛道里程碑",
+      "summary": "国产云端AI芯片领军企业燧原科技（688801）于2026年9月2日正式开启网上网下申购，作为\"国产GPU四小龙\"中最后一家登陆A股的公司，其上市被视为国产算力赛道的重要里程碑，标志着国产AI芯片产业化进程加速。",
+      "source": "金融界",
+      "url": "https://finance.jrj.com.cn/2026/09/01182158319973.shtml",
+      "keywords": [
+        "燧原科技",
+        "国产AI芯片",
+        "IPO",
+        "GPU",
+        "算力"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "技术前沿",
+      "id": 454
+    },
+    {
+      "date": "2026-09-05",
+      "category": "policy",
+      "title": "欧盟网络弹性法案（CRA）漏洞报告义务2026年9月11日生效",
+      "summary": "欧盟网络弹性法案（CRA）首个报告义务期限为2026年9月11日，届时制造商必须在发现被主动利用的漏洞或严重安全事件后24小时内向ENISA单一报告平台提交早期预警，比大多数其他CRA要求提前一年多实施。",
+      "source": "Freshfields",
+      "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/cyber-resilience-act-reporting-obligations-take-effect-on-11-september-2026-102nzmk",
+      "keywords": [
+        "EU CRA",
+        "漏洞报告",
+        "网络安全",
+        "ENISA",
+        "物联网安全"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "政策标准",
+      "id": 455
+    },
+    {
+      "date": "2026-09-05",
+      "category": "policy",
+      "title": "美国Cyber Trust Mark与NIST指南推动联邦采购物联网产品安全化",
+      "summary": "2026年，美国网络信任标志（Cyber Trust Mark）和更新的NIST指南推动联邦买家转向具有标签和可支持性的产品。EU CRA漏洞报告义务也于9月11日生效，智能家居设备面临更严格的监管合规要求。",
+      "source": "Success Knocks",
+      "url": "https://successknocks.com/iot-security-for-connected-devices-2026/",
+      "keywords": [
+        "Cyber Trust Mark",
+        "NIST",
+        "IoT安全",
+        "联邦采购",
+        "标签认证"
+      ],
+      "published": "2026-09-04",
+      "categoryLabel": "政策标准",
+      "id": 456
+    },
+    {
+      "date": "2026-09-05",
+      "category": "policy",
+      "title": "2026年8月网络安全态势：攻击智能化、利用极速化、监管常态化",
+      "summary": "信息安全知识库月报显示，2026年8月网络安全呈现三大特征：AI自主攻击闭环首次在野外证实、高危漏洞利用窗口期压缩至5天内、国内《网络数据安全风险评估办法》施行。建议以KEV目录为纲优先修复漏洞，收敛互联网暴露面。",
+      "source": "信息安全知识库",
+      "url": "https://www.gm7.org/archives/153285",
+      "keywords": [
+        "网络安全态势",
+        "AI攻击",
+        "漏洞利用",
+        "数据安全合规",
+        "KEV目录"
+      ],
+      "published": "2026-08-28",
+      "categoryLabel": "政策标准",
+      "id": 457
+    },
+    {
+      "date": "2026-09-05",
+      "category": "policy",
+      "title": "Matter 1.6与Product Security 1.1：智能家居安全的标准化进程",
+      "summary": "Matter 1.6版本引入Product Security 1.1，对齐即将实施的欧盟网络弹性法案要求。认证产品信息存储在CSA分布式合规账本（DCL）上，发布经认证设备的证明信息，推动智能家居安全标准的全球化统一。",
+      "source": "CSA-IOT",
+      "url": "https://csa-iot.org/newsroom/alliance-members-on-matter-building-more-connected-smart-home-experiences/",
+      "keywords": [
+        "Matter",
+        "Product Security",
+        "CSA",
+        "DCL",
+        "智能家居安全标准"
+      ],
+      "published": "2026-09-02",
+      "categoryLabel": "政策标准",
+      "id": 458
+    },
+    {
+      "date": "2026-09-05",
+      "category": "product",
+      "title": "Shelly IFA 2026宣布将Wall Display升级为Matter控制器智能家居Hub",
+      "summary": "Shelly在IFA 2026展会上宣布，通过免费更新将其Wall Display升级为同时支持Matter Controller和Matter设备的全功能Hub，实现完全本地化的智能家居集成，支持Thread、Matter over Thread等协议，无需云端中继。",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paullamkin/2026/09/02/shelly-turns-its-wall-display-into-a-matter-controller-smart-home-hub/",
+      "keywords": [
+        "Shelly",
+        "Matter控制器",
+        "IFA 2026",
+        "Thread",
+        "本地化智能家居"
+      ],
+      "published": "2026-09-02",
+      "categoryLabel": "产品方案",
+      "id": 459
+    },
+    {
+      "date": "2026-09-05",
+      "category": "product",
+      "title": "小米18 Fold携XRing O3芯片亮相IFA，首款安兔兔突破500万的移动芯片",
+      "summary": "小米在IFA 2026发布小米18 Fold，搭载全新XRing O3芯片，NPU针对小米端侧MiMo大语言模型重新设计，提供200 TOPS张量计算能力和3.13 TFLOPS向量性能，较XRing O1提升45%的AI性能，成为首款突破500万安兔兔跑分的移动芯片。",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/326667/20260904/xiaomi-18-fold-debuts-ifa-xring-o3-first-chip-clear-5-million-antutu.htm",
+      "keywords": [
+        "小米",
+        "XRing O3",
+        "NPU",
+        "端侧AI",
+        "安兔兔"
+      ],
+      "published": "2026-09-04",
+      "categoryLabel": "产品方案",
+      "id": 460
+    },
+    {
+      "date": "2026-09-05",
+      "category": "product",
+      "title": "三星发布zNAND-O：专为智能手机和边缘设备端侧AI设计",
+      "summary": "三星发布zNAND-O闪存，专为端侧AI应用设计，可在智能手机或边缘设备上存储大语言模型权重并直接向NPU提供数据，而非传统GPU。该产品标志着存储技术面向端侧大模型推理的深度优化趋势。",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/326201/20260901/samsung-reveals-hbm5-targets-server-ai-znand-o-flash-targets-smartphones-not-gpu-servers.htm",
+      "keywords": [
+        "三星",
+        "zNAND-O",
+        "端侧AI",
+        "NPU",
+        "存储"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "产品方案",
+      "id": 461
+    },
+    {
+      "date": "2026-09-05",
+      "category": "scenario",
+      "title": "2026年AI跌倒检测设备成熟度提升：老年人居家安全新选择",
+      "summary": "Age Safe America发布2026年AI驱动的跌倒检测设备指南，指出现代AI算法结合毫米波雷达、摄像头和可穿戴设备，可实现实时跌倒识别与自动报警。技术正从被动响应向主动预防演进，结合家庭安全评估和防跌倒训练形成完整安全策略。",
+      "source": "Age Safe America",
+      "url": "https://agesafeamerica.com/home-safety-hub/blog/how-ai-powered-fall-detection-devices-work-in-2026-and-which-seniors-actually-need-one/",
+      "keywords": [
+        "AI跌倒检测",
+        "适老看护",
+        "毫米波雷达",
+        "居家安全",
+        "智能穿戴"
+      ],
+      "published": "2026-09-04",
+      "categoryLabel": "场景落地",
+      "id": 462
+    },
+    {
+      "date": "2026-09-05",
+      "category": "scenario",
+      "title": "智能家居技术在老年人居家安全中的应用持续扩展",
+      "summary": "2026年智能家居技术在老年居家人群中的应用持续扩展，语音控制照明、视频门铃和跌倒检测传感器成为老年居家安全的三大核心技术。智能技术正在重新定义老年生活的独立性与安全性平衡。",
+      "source": "MyHomeBuilder",
+      "url": "https://www.myhomebuilder.ca/2026/08/30/smart-home/",
+      "keywords": [
+        "老年居家安全",
+        "智能家居",
+        "语音控制",
+        "跌倒检测",
+        "Aging in Place"
+      ],
+      "published": "2026-08-30",
+      "categoryLabel": "场景落地",
+      "id": 463
+    },
+    {
+      "date": "2026-09-05",
+      "category": "scenario",
+      "title": "2026年企业AI Agent趋势：从单点工具到多智能体协作",
+      "summary": "华为云、AutoGPT等平台展示2026年企业AI Agent发展趋势：任务转交、子智能体隔离执行、工作流编排成为多智能体协作的三种主要机制。华为云\"智果AgentArts\"依托云生态整合能力，实现智能体\"开发、运行、运维\"全生命周期闭环，端到端任务完成率提升至80%。",
+      "source": "ThinkingAI",
+      "url": "https://www.thinkingai.cn/blog/enterprise-ai-agent-trends-single-tool-multi-agent-collaboration/",
+      "keywords": [
+        "AI Agent",
+        "多智能体协作",
+        "工作流编排",
+        "华为云",
+        "企业级AI"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "场景落地",
+      "id": 464
+    },
+    {
+      "date": "2026-09-05",
+      "category": "scenario",
+      "title": "智能安防机器人市场因FCC禁令转向IFA 2026，欧洲买家面临同样风险",
+      "summary": "因FCC禁令被禁止进入美国市场的中国扫地机器人品牌（如石头科技等）转向IFA 2026寻求欧洲市场机会，但欧盟《企业可持续发展尽职调查指令》等法规同样对采购设限，欧美市场准入合规挑战同步升级。",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/326057/20260831/fcc-banned-chinese-robot-vacuum-brands-pivot-ifa-2026-eu-buyers-face-same-intel-law-risk.htm",
+      "keywords": [
+        "智能安防",
+        "扫地机器人",
+        "FCC禁令",
+        "IFA 2026",
+        "欧盟合规"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "场景落地",
+      "id": 465
+    },
+    {
+      "date": "2026-09-05",
+      "category": "security",
+      "title": "欧盟CRA漏洞报告门户与义务同步上线，24小时内必须披露",
+      "summary": "ENISA的单一报告平台于2026年9月11日与CRA强制性漏洞报告义务同步上线。从该日起，制造商在发现影响数字元素产品（PDE）的被主动利用漏洞或严重安全事件后，必须在24小时内提交早期预警，逾期将面临合规风险。",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/326249/20260901/eu-cyber-resilience-act-reporting-deadline-filing-portal-launches-same-day-it-becomes-mandatory.htm",
+      "keywords": [
+        "EU CRA",
+        "ENISA",
+        "漏洞报告",
+        "24小时披露",
+        "网络安全合规"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "数据安全",
+      "id": 466
+    },
+    {
+      "date": "2026-09-05",
+      "category": "security",
+      "title": "智能家居网络安全指南：2026年主要威胁与防护措施",
+      "summary": "HA Factory发布智能家居网络安全指南，指出2026年9月11日起制造商须主动报告被主动利用的漏洞和影响产品数字安全元素的严重事件。智能家居面临黑客攻击、恶意软件、网络钓鱼、DDoS攻击、IoT僵尸网络和中间人攻击等主要威胁。",
+      "source": "HA Factory",
+      "url": "https://www.hafactory.it/2026/08/31/cybersecurity-for-the-smart-home/",
+      "keywords": [
+        "智能家居安全",
+        "IoT威胁",
+        "DDoS攻击",
+        "僵尸网络",
+        "CRA合规"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "数据安全",
+      "id": 467
+    },
+    {
+      "date": "2026-09-05",
+      "category": "security",
+      "title": "AI时代隐私保护：把AI真正当作一个人来保护核心隐私",
+      "summary": "FT中文网刊文探讨2026年AI时代的隐私保护策略，文章指出端侧推理（如Phi-3.5等本地模型）因数据不出设备而拥有最强隐私保护。Apple在WWDC 26上发布的Siri AI及Apple Intelligence隐私升级延续了\"App隐私报告\"政策，为端侧AI隐私保护提供范本。",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001110792",
+      "keywords": [
+        "隐私保护",
+        "端侧AI",
+        "Apple Intelligence",
+        "数据安全",
+        "本地推理"
+      ],
+      "published": "2026-09-04",
+      "categoryLabel": "数据安全",
+      "id": 468
+    },
+    {
+      "date": "2026-09-05",
+      "category": "security",
+      "title": "2026年物联网安全：默认凭证、固件漏洞与供应链攻击成主要风险",
+      "summary": "Success Knocks发布2026年物联网安全分析报告，指出默认凭证和弱密码仍是攻击者构建僵尸网络或横向移动的最简单入口，未打补丁的固件和已知漏洞在发现数年后仍威胁设备安全。AI辅助扫描和供应链攻击成为2026年IoT安全的新特征。",
+      "source": "Success Knocks",
+      "url": "https://successknocks.com/biggest-iot-security-risks-for-businesses/",
+      "keywords": [
+        "IoT安全",
+        "默认凭证",
+        "固件漏洞",
+        "供应链攻击",
+        "僵尸网络"
+      ],
+      "published": "2026-09-04",
+      "categoryLabel": "数据安全",
+      "id": 469
     }
   ]
 }
