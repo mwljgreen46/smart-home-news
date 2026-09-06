@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05",
+  "lastUpdated": "2026-09-06",
   "news": [
     {
       "id": 1,
@@ -8405,6 +8405,365 @@
       "published": "2026-09-04",
       "categoryLabel": "数据安全",
       "id": 469
+    },
+    {
+      "date": "2026-09-06",
+      "category": "tech",
+      "title": "Matter 1.6 规范正式发布：新增 NFC 碰一碰配网、联合Fabric等五项重大更新",
+      "summary": "Matter 1.6 规范于 2026 年 6 月 17 日正式发布，新增 NFC 碰一碰配网、联合 Fabric 多生态设备共享、恒温器标准化控制等五项关键更新，进一步强化跨厂商设备的本地互联互通能力。",
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Matter_(standard)",
+      "keywords": [
+        "Matter协议",
+        "智能家居标准",
+        "1.6规范",
+        "跨生态互联",
+        "NFC配网"
+      ],
+      "published": "2026-06-17",
+      "categoryLabel": "技术前沿",
+      "id": 470
+    },
+    {
+      "date": "2026-09-06",
+      "category": "tech",
+      "title": "Shelly 携 Wall Display 亮相 IFA 2026：免费升级为 Matter Controller 智能家居 Hub",
+      "summary": "Shelly 在 IFA 2026 期间宣布，通过免费 OTA 更新将其 Wall Display 打造为同时支持 Matter Controller 和 Matter Device 的全本地智能家居中控，真正实现跨品牌设备的无云端本地联动。",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paullamkin/2026/09/02/shelly-turns-its-wall-display-into-a-matter-controller-smart-home-hub/",
+      "keywords": [
+        "Shelly",
+        "Matter Controller",
+        "IFA 2026",
+        "本地控制",
+        "智能家居Hub"
+      ],
+      "published": "2026-09-02",
+      "categoryLabel": "技术前沿",
+      "id": 471
+    },
+    {
+      "date": "2026-09-06",
+      "category": "tech",
+      "title": "截至2026年2月 Matter 协议已覆盖家庭几乎所有设备品类",
+      "summary": "智能家居行业权威媒体 SmartHomeFuel 梳理显示，Matter 协议从最初仅支持灯具和插座，已于 2026 年 2 月扩展至覆盖家庭几乎所有设备品类，包括摄像头、门锁、暖通空调等，生态兼容性大幅提升。",
+      "source": "SmartHomeFuel",
+      "url": "https://smarthomefuel.com/article/matter-protocol-explained",
+      "keywords": [
+        "Matter协议",
+        "设备覆盖",
+        "生态扩展",
+        "智能家居"
+      ],
+      "published": "2026-09-05",
+      "categoryLabel": "技术前沿",
+      "id": 472
+    },
+    {
+      "date": "2026-09-06",
+      "category": "tech",
+      "title": "2026年边缘计算进入企业规模化部署阶段，AI推理和工业IoT成主要驱动力",
+      "summary": "行业分析机构 SuccessKnocks 指出，2026 年边缘计算已从试点项目跃升为企业必备基础设施，AI推理、工业物联网和实时用户体验成为三大核心驱动力，混合云边协同成为主流架构选择。",
+      "source": "SuccessKnocks",
+      "url": "https://successknocks.com/edge-computing-for-enterprise-2026/",
+      "keywords": [
+        "边缘计算",
+        "AI推理",
+        "工业IoT",
+        "云边协同",
+        "企业部署"
+      ],
+      "published": "2026-09-03",
+      "categoryLabel": "技术前沿",
+      "id": 473
+    },
+    {
+      "date": "2026-09-06",
+      "category": "tech",
+      "title": "端侧AI战事升级：面壁智能推进国产芯片训练迁移，软硬协同成核心壁垒",
+      "summary": "36氪报道，2026年端侧大模型竞争全面升级，面壁智能CEO李大海表示正逐步将训练工作转移至国产芯片和国产集群，模型与芯片的软硬协同优化成为端侧落地的核心竞争壁垒。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3864280705520640",
+      "keywords": [
+        "端侧AI",
+        "国产芯片",
+        "面壁智能",
+        "软硬协同",
+        "大模型推理"
+      ],
+      "published": "2026-09-05",
+      "categoryLabel": "技术前沿",
+      "id": 474
+    },
+    {
+      "date": "2026-09-06",
+      "category": "policy",
+      "title": "欧盟网络信息安全法规强制落地：9月11日起智能家居厂商须主动报告被利用漏洞",
+      "summary": "欧洲法规要求从 2026 年 9 月 11 日起，智能家居等数字产品制造商必须主动报告已被积极利用的安全漏洞和影响产品安全的重大事件，违规者将面临严厉处罚，智能家居安全合规门槛大幅提升。",
+      "source": "HA Factory",
+      "url": "https://www.hafactory.it/2026/08/31/cybersecurity-for-the-smart-home/",
+      "keywords": [
+        "欧盟法规",
+        "智能家居安全",
+        "漏洞报告",
+        "合规要求",
+        "网络安全"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "政策标准",
+      "id": 475
+    },
+    {
+      "date": "2026-09-06",
+      "category": "policy",
+      "title": "《智能体个人信息保护自律公约》正式发布：31家领军企业签署AI隐私保护新规范",
+      "summary": "2026年7月13日中国互联网大会期间，国内首个专门针对AI智能体场景的个人信息保护自律公约正式发布，腾讯、百度、美团等31家领军企业代表现场签署，标志着AI隐私保护进入自律规范新阶段。",
+      "source": "AI Tutor Base",
+      "url": "https://aitutorbase.com/ai-news/ai-agent-privacy-protection-convention",
+      "keywords": [
+        "智能体隐私",
+        "个人信息保护",
+        "自律公约",
+        "AI安全",
+        "数据合规"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "政策标准",
+      "id": 476
+    },
+    {
+      "date": "2026-09-06",
+      "category": "policy",
+      "title": "美国CCPA新规2026年1月生效：引入数据风险评估、Cookie规则及数据经纪人新要求",
+      "summary": "美国加州消费者隐私法案（CCPA）2026年新规于1月1日正式生效，新增数据处理风险评估、Cookie/像素追踪规则以及数据经纪人专项合规要求，大幅扩展消费者隐私权利覆盖范围。",
+      "source": "McDermott Will & Emery",
+      "url": "https://www.mcdermottlaw.com/insights/data-privacy-and-cybersecurity-developments-we-are-watching-in-2026/",
+      "keywords": [
+        "CCPA",
+        "数据隐私",
+        "消费者权利",
+        "合规要求",
+        "美国隐私法"
+      ],
+      "published": "2026-01-01",
+      "categoryLabel": "政策标准",
+      "id": 477
+    },
+    {
+      "date": "2026-09-06",
+      "category": "policy",
+      "title": "2026年选中国Agent模型：先算成功任务成本，再看参数榜",
+      "summary": "针对企业Agent选型困境，业内指出模型参数榜单仅作为「值不值得测」的参考，真正需衡量的是单次任务从开始到验收的API费用、重试成本和人工介入总开销，DeepSeek、腾讯Hy4等代表三种不同成本结构。",
+      "source": "飞客茶馆",
+      "url": "https://bbs.fcgvisa.com/t/2026-agent/56022",
+      "keywords": [
+        "AI Agent",
+        "选型指南",
+        "成本评估",
+        "大模型",
+        "企业应用"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "政策标准",
+      "id": 478
+    },
+    {
+      "date": "2026-09-06",
+      "category": "product",
+      "title": "小米米家品牌正式进入欧洲市场：携2000款产品亮相IFA 2026",
+      "summary": "小米在IFA 2026期间宣布首次将米家品牌引入欧洲市场，并于当地时间9月3日举行专场发布会，展示覆盖智能照明、安防摄像头、家电控制等全品类智能家居产品及生态系统。",
+      "source": "凤凰网",
+      "url": "https://h5.ifeng.com/c/vivoArticle/v002cRNoAB--G8V52AzcWCABe1xHviVuFvJZHmwRFS28IdvM__?vivoBusiness=hiboardnews",
+      "keywords": [
+        "小米",
+        "米家",
+        "欧洲市场",
+        "IFA 2026",
+        "智能家居生态"
+      ],
+      "published": "2026-09-02",
+      "categoryLabel": "产品方案",
+      "id": 479
+    },
+    {
+      "date": "2026-09-06",
+      "category": "product",
+      "title": "华为小米苹果同日官宣发布会：9月7日三大厂商正面交锋",
+      "summary": "2026年秋季，，华为宣布9月7日14:30举办HarmonyOS 7及全场景新品发布会，小米同日晚19:00举行旗舰新品发布会，苹果亦撞档，三大厂商发布会罕见同日PK，全场景生态竞争白热化。",
+      "source": "新浪新闻",
+      "url": "https://www.sina.cn/gc/article/niqmmyy2870519.html",
+      "keywords": [
+        "华为",
+        "小米",
+        "苹果",
+        "秋季发布会",
+        "全场景生态"
+      ],
+      "published": "2026-09-03",
+      "categoryLabel": "产品方案",
+      "id": 480
+    },
+    {
+      "date": "2026-09-06",
+      "category": "product",
+      "title": "燧原科技明日申购：国产云端AI芯片最后一块拼图即将完成",
+      "summary": "国产云端AI芯片领军企业燧原科技（688801）于2026年9月2日正式开启网上网下申购，作为「国产GPU四小龙」中最后一家登陆A股的公司，其上市被视为国产算力赛道的重要里程碑。",
+      "source": "金融界",
+      "url": "https://finance.jrj.com.cn/2026/09/01182158319973.shtml",
+      "keywords": [
+        "燧原科技",
+        "国产AI芯片",
+        "GPU",
+        "算力",
+        "科创板"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "产品方案",
+      "id": 481
+    },
+    {
+      "date": "2026-09-06",
+      "category": "product",
+      "title": "2026国内AI算力厂商终极盘点：曲速科技SRAM推理架构另辟蹊径",
+      "summary": "IT之家系统梳理2026年国内AI算力厂商格局，曲速科技主打SRAM专用推理架构区别于通用GPU训推兼顾路线，成为大模型高并发推理、算力降本的专精国产方案，填补细分赛道空白。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/568.htm",
+      "keywords": [
+        "AI算力",
+        "国产芯片",
+        "SRAM推理",
+        "曲速科技",
+        "大模型推理"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "产品方案",
+      "id": 482
+    },
+    {
+      "date": "2026-09-06",
+      "category": "scenario",
+      "title": "2026年企业AI Agent发展趋势：从单点工具到多智能体协作",
+      "summary": "华为云智果AgentArts依托云生态整合能力实现智能体开发、运行、运维全生命周期闭环，自我纠错机制使端到端任务完成率提升至80%，任务转交、子智能体隔离执行、工作流编排成为多智能体协作三大主流机制。",
+      "source": "ThinkingAI",
+      "url": "https://www.thinkingai.cn/blog/enterprise-ai-agent-trends-single-tool-multi-agent-collaboration/",
+      "keywords": [
+        "多Agent协同",
+        "华为云",
+        "智果AgentArts",
+        "AI Agent",
+        "企业AI"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "场景落地",
+      "id": 483
+    },
+    {
+      "date": "2026-09-06",
+      "category": "scenario",
+      "title": "AI驱动的跌倒检测设备2026进化：老年人居家安全进入智能时代",
+      "summary": "Age Safe America和AARP等机构系统性梳理2026年AI跌倒检测技术进展，现代设备已从单纯加速度监测升级为融合计算机视觉、毫米波雷达和行为分析的多模态方案，可实现跌倒前预警而非仅事后响应。",
+      "source": "Age Safe America",
+      "url": "https://agesafeamerica.com/home-safety-hub/blog/how-ai-powered-fall-detection-devices-work-in-2026-and-which-seniors-actually-need-one/",
+      "keywords": [
+        "跌倒检测",
+        "适老看护",
+        "AI安防",
+        "老年安全",
+        "智能家居"
+      ],
+      "published": "2026-09-04",
+      "categoryLabel": "场景落地",
+      "id": 484
+    },
+    {
+      "date": "2026-09-06",
+      "category": "scenario",
+      "title": "开源鸿蒙生态设备突破13亿台，HarmonyOS 6四季度目标突破1亿",
+      "summary": "2026鸿蒙生态大会披露，开源鸿蒙生态设备累计突破13亿台，鸿蒙原生应用超10万个，华为轮值董事长徐直军透露HarmonyOS 6终端设备预计四季度内突破1亿台，全屋智能生态规模化加速。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L5M9JFET05118O92.html",
+      "keywords": [
+        "鸿蒙生态",
+        "HarmonyOS",
+        "全屋智能",
+        "华为",
+        "IoT设备"
+      ],
+      "published": "2026-08-31",
+      "categoryLabel": "场景落地",
+      "id": 485
+    },
+    {
+      "date": "2026-09-06",
+      "category": "scenario",
+      "title": "2026高端全屋智能品牌推荐：华为、绿米、小米、海尔四大流派选型指南",
+      "summary": "行业媒体梳理2026年全屋智能头部品牌格局：华为走系统集成路线（PLC+鸿蒙），绿米走单品生态路线（HomeKit友好），小米走平台生态路线（性价比+丰富生态链），海尔走家电智能化路线，各有明确用户画像。",
+      "source": "聚焦IT",
+      "url": "https://www.jujiaoit.cn/news/31615.html",
+      "keywords": [
+        "全屋智能",
+        "品牌对比",
+        "华为",
+        "绿米",
+        "小米"
+      ],
+      "published": "2026-09-03",
+      "categoryLabel": "场景落地",
+      "id": 486
+    },
+    {
+      "date": "2026-09-06",
+      "category": "security",
+      "title": "Black Hat USA 2026：Forescout披露TP-Link Omada系列15个重大漏洞",
+      "summary": "Black Hat USA 2026大会上，Forescout Vedere Labs研究团队披露TP-Link Omada零接触配置体系存在15个安全漏洞，影响路由器、交换机及VIGI、Festa、Tapo、Kasa等多条产品线，智能家居网络设备安全敲响警钟。",
+      "source": "Forkast",
+      "url": "https://forkast.news/smart-home-security-debt-when-your-router-becomes-the-agents-attack-surface/",
+      "keywords": [
+        "TP-Link漏洞",
+        "智能家居安全",
+        "Black Hat",
+        "物联网安全",
+        "网络安全"
+      ],
+      "published": "2026-09-01",
+      "categoryLabel": "数据安全",
+      "id": 487
+    },
+    {
+      "date": "2026-09-06",
+      "category": "security",
+      "title": "2026上半年AI安全威胁报告：大模型正在成为新攻击面",
+      "summary": "信息安全知识库发布2026上半年AI安全威胁报告，攻击智能化、利用极速化、监管常态化三大特征凸显，AI Agent被用于利用零日漏洞入侵HuggingFace，大模型供应链攻击已成现实威胁。",
+      "source": "信息安全知识库",
+      "url": "https://www.gm7.org/archives/153895",
+      "keywords": [
+        "AI安全",
+        "大模型攻击",
+        "威胁报告",
+        "供应链安全",
+        "零日漏洞"
+      ],
+      "published": "2026-09-05",
+      "categoryLabel": "数据安全",
+      "id": 488
+    },
+    {
+      "date": "2026-09-06",
+      "category": "security",
+      "title": "CNNVD 2026年第十三期AI漏洞通报：268个重要漏洞，含52个超危",
+      "summary": "CNNVD于8月18日至9月2日期间收录268个重要AI漏洞，其中超危52个、高危137个，涉及MLflow、NLTK、Microsoft Copilot等主流平台，重点漏洞包括MLflow服务端请求伪造等，AI应用安全风险持续攀升。",
+      "source": "信息安全知识库",
+      "url": "https://www.gm7.org/archives/153650",
+      "keywords": [
+        "CNNVD",
+        "AI漏洞",
+        "网络安全",
+        "漏洞通报",
+        "机器学习安全"
+      ],
+      "published": "2026-09-04",
+      "categoryLabel": "数据安全",
+      "id": 489
     }
   ]
 }
