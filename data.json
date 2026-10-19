@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06",
+  "lastUpdated": "2026-10-19",
   "news": [
     {
       "id": 1,
@@ -8764,6 +8764,402 @@
       "published": "2026-09-04",
       "categoryLabel": "数据安全",
       "id": 489
+    },
+    {
+      "date": "2026-10-19",
+      "category": "tech",
+      "title": "Matter协议崛起：智能家居互联标准竞争进入统一连接时代",
+      "summary": "Matter协议正推动智能家居从碎片化生态向统一连接演进。用户侧可灵活接入不同平台降低换品牌成本，厂商减少重复开发投入，开发者可围绕统一数据模型设计自动化功能。然而高阶功能仍受限于品牌私有生态，互联互通壁垒仍是全屋智能发展的核心瓶颈。",
+      "source": "AG恒峰/baileycaters.com",
+      "url": "https://www.baileycaters.com/news/2026-10-13_ba816e.html",
+      "keywords": [
+        "Matter协议",
+        "Thread协议",
+        "智能家居",
+        "互联互通",
+        "生态壁垒"
+      ],
+      "published": "2026-10-13",
+      "categoryLabel": "技术前沿",
+      "id": 490
+    },
+    {
+      "date": "2026-10-19",
+      "category": "tech",
+      "title": "苹果推HomeView智慧显示器：藉Matter规范与LG等品牌合作重掌智慧家庭主导权",
+      "summary": "苹果推出名为HomeView的智慧家庭中枢显示器，搭载A18芯片并支持Siri AI，与LG、施耐德电机等家电与电机大厂深度合作。苹果藉由通用规范Matter重新确立战略主导权，弥补智慧家庭硬件拼图，应对Google、亚马逊及中国高性价比品牌的竞争。",
+      "source": "udn科技玩家",
+      "url": "https://tech.udn.com/tech/story/123152/9813094",
+      "keywords": [
+        "苹果",
+        "HomeView",
+        "Matter规范",
+        "智慧家庭",
+        "LG"
+      ],
+      "published": "2026-10-14",
+      "categoryLabel": "技术前沿",
+      "id": 491
+    },
+    {
+      "date": "2026-10-19",
+      "category": "tech",
+      "title": "苹果发布全新智能家居配件系列：含智能摄像头、恒温器和门锁等",
+      "summary": "苹果发布全新Home Collection系列智能家居配件，与LG电子和施耐德电气合作设计，涵盖智能摄像头、恒温器和门锁等。所有配件注重隐私，Home应用数据端到端加密，LG电子、施耐德电气和苹果均无法读取用户数据。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/012/571.htm",
+      "keywords": [
+        "苹果",
+        "Home Collection",
+        "智能摄像头",
+        "Matter",
+        "端到端加密"
+      ],
+      "published": "2026-10-13",
+      "categoryLabel": "技术前沿",
+      "id": 492
+    },
+    {
+      "date": "2026-10-19",
+      "category": "tech",
+      "title": "第二代HomePod mini支持Thread与Matter协议，可作家庭中枢",
+      "summary": "第二代HomePod mini走协议兼容路线，支持Thread与Matter两大通用协议，可作为家庭中枢接入并控制兼容HomeKit及Matter的第三方智能家居设备。新增Wi-Fi 6E、Sound Glow灯光效果，可与Apple TV 4K联动，售价149美元，10月30日上市。",
+      "source": "新浪家居",
+      "url": "https://k.sina.com.cn/article_7879922989_1d5ae152d06801xoac.html",
+      "keywords": [
+        "HomePod mini",
+        "Thread",
+        "Matter",
+        "Apple HomeKit",
+        "智能家居协议"
+      ],
+      "published": "2026-10-14",
+      "categoryLabel": "技术前沿",
+      "id": 493
+    },
+    {
+      "date": "2026-10-19",
+      "category": "tech",
+      "title": "石头P系列原生支持米家/Matter认证：30秒配网不花一分钱",
+      "summary": "石头P系列全系（涵盖P10 Pro至P30 Pro等，起售价3000-4500元）原生支持米家协议并通过Matter认证，可直接接入米家App、Apple Home、Google Home等平台。配网过程极其简单：确保路由器开启2.4GHz频段，长按组合键进入配网模式，打开米家App扫码即可完成绑定，全程30秒。",
+      "source": "新浪",
+      "url": "https://weibo.com/2/detail/comos:niviqxx7211651",
+      "keywords": [
+        "石头",
+        "P系列",
+        "米家",
+        "Matter认证",
+        "智能扫地机"
+      ],
+      "published": "2026-10-16",
+      "categoryLabel": "技术前沿",
+      "id": 494
+    },
+    {
+      "date": "2026-10-19",
+      "category": "policy",
+      "title": "福州鼓楼『双中心』揭牌：算力底座+数据流通+词元调度全链条投入运营",
+      "summary": "福州市鼓楼区数据服务中心、词元（Token）运营中心在鼓楼区人工智能产业加速中心正式揭牌，标志着『算力底座—数据流通—词元调度』全链条数字基础设施投入运营，打通了数据、算力、大模型价值转化链路，让中小企业也能便捷使用。",
+      "source": "微博",
+      "url": "https://weibo.com/2/detail/comos:nivksmm7110594",
+      "keywords": [
+        "福州鼓楼",
+        "词元经济",
+        "算力底座",
+        "数据流通",
+        "数字基础设施"
+      ],
+      "published": "2026-10-15",
+      "categoryLabel": "政策标准",
+      "id": 495
+    },
+    {
+      "date": "2026-10-19",
+      "category": "policy",
+      "title": "IDC预测：全球活跃智能体数量2027年将达22.16亿个",
+      "summary": "IDC预测2026年至2030年，全球活跃智能体数量将从7940万个增长至22.16亿个，复合增长率达129.8%；全球Token消耗量复合增长率将达4822.6%。随着智能体任务从信息检索向多轮推理、工具调用和跨系统协作的复杂任务演进，全球算力产业也在相应重构。",
+      "source": "新浪新闻",
+      "url": "https://www.sina.cn/weibo/detail/5353101380814997.html",
+      "keywords": [
+        "IDC",
+        "智能体",
+        "Agent",
+        "Token",
+        "算力需求"
+      ],
+      "published": "2026-10-14",
+      "categoryLabel": "政策标准",
+      "id": 496
+    },
+    {
+      "date": "2026-10-19",
+      "category": "policy",
+      "title": "Omdia：78%边缘物联网部署已超越试点，安全与集成成规模化首要瓶颈",
+      "summary": "Omdia调查显示78%的边缘部署已超越试点阶段，其中36%达到中等规模，17%达到大规模。随着企业寻求在部署中融入AI和ML，更高的安全性、更低的数据传输成本以及更低的延迟正在推动边缘处理架构调整，安全与集成成为规模化的首要瓶颈。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L973KQI105198UNI.html",
+      "keywords": [
+        "Omdia",
+        "边缘计算",
+        "物联网",
+        "AI部署",
+        "安全瓶颈"
+      ],
+      "published": "2026-10-14",
+      "categoryLabel": "政策标准",
+      "id": 497
+    },
+    {
+      "date": "2026-10-19",
+      "category": "policy",
+      "title": "国家计算机病毒应急处理中心通报82款违法违规收集个人信息App",
+      "summary": "国家计算机病毒应急处理中心依据《网络安全法》《个人信息保护法》等法律法规，通报82款移动应用存在违法违规收集使用个人信息情况，涵盖首次运行时未提示隐私政策、默认选择同意隐私政策、隐私政策难以访问等违规行为。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908qqaq.html",
+      "keywords": [
+        "个人信息保护",
+        "App违规",
+        "隐私政策",
+        "网络安全法",
+        "移动应用"
+      ],
+      "published": "2026-10-12",
+      "categoryLabel": "政策标准",
+      "id": 498
+    },
+    {
+      "date": "2026-10-19",
+      "category": "product",
+      "title": "苹果推出HomeView智慧家庭中枢：搭载A18芯片与Siri AI，售价299美元",
+      "summary": "HomeView智能家居中枢配备7英寸触控屏，集成Siri AI、FaceTime视频通话、智能家居集中控制及家庭成员识别功能，支持个性化信息展示，提供桌面和壁挂两种形态，售价299美元，11月13日上市。这是苹果填补智慧家庭硬件拼图、确立战略主导权的关键布局。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-14/doc-inivchzz8629459.shtml",
+      "keywords": [
+        "苹果",
+        "HomeView",
+        "A18芯片",
+        "Siri AI",
+        "智慧家庭中枢"
+      ],
+      "published": "2026-10-14",
+      "categoryLabel": "产品方案",
+      "id": 499
+    },
+    {
+      "date": "2026-10-19",
+      "category": "product",
+      "title": "联想YOGA Pro 15 RTX Spark开售：全球首批搭载NVIDIA RTX Spark N1X超级芯片",
+      "summary": "作为全球首批搭载NVIDIA RTX Spark N1X超级芯片的本地智能体AI PC，联想YOGA Pro 15在国内全网正式开售。2026年AIPC的分水岭不在于能否跑模型，而在于能否实际完成任务，该产品定位为生产力工具而非单纯跑分设备。",
+      "source": "中华网",
+      "url": "https://news.china.com/socialgd/10000169/20261017/49799539.html",
+      "keywords": [
+        "联想",
+        "YOGA Pro 15",
+        "RTX Spark N1X",
+        "AIPC",
+        "本地大模型"
+      ],
+      "published": "2026-10-17",
+      "categoryLabel": "产品方案",
+      "id": 500
+    },
+    {
+      "date": "2026-10-19",
+      "category": "product",
+      "title": "爱芯元智发布AX8860系列大算力芯片：性能对标英伟达DGX Spark，价格更低",
+      "summary": "爱芯元智发布AX8860系列大算力芯片，官方定位为性能对标英伟达DGX Spark但价格更低。端侧/边缘侧『对标桌面级AI算力+价格战』的组合，正在把推理成本下推到本地设备，推动端侧AI加速普及。",
+      "source": "知乎/IT之家",
+      "url": "https://zhuanlan.zhihu.com/p/2093613332209182701",
+      "keywords": [
+        "爱芯元智",
+        "AX8860",
+        "大算力芯片",
+        "端侧AI",
+        "边缘推理"
+      ],
+      "published": "2026-10-14",
+      "categoryLabel": "产品方案",
+      "id": 501
+    },
+    {
+      "date": "2026-10-19",
+      "category": "product",
+      "title": "蓝芯算力推出全球首款RISC-V架构服务器CPU芯片LX500",
+      "summary": "蓝芯算力瞄准RISC-V高性能服务器大芯片领域，展出全球首款RISC-V架构服务器CPU芯片LX500，面向服务器场景、适用于本地私有化部署，采用48核自研异构架构，可实现算力精细化分工，为AI推理场景提供新选择。",
+      "source": "21经济网",
+      "url": "https://www.21jingji.com/article/20261014/herald/a243da21b4679d6aa198713278130f13.html",
+      "keywords": [
+        "蓝芯算力",
+        "RISC-V",
+        "LX500",
+        "服务器CPU",
+        "边缘推理"
+      ],
+      "published": "2026-10-14",
+      "categoryLabel": "产品方案",
+      "id": 502
+    },
+    {
+      "date": "2026-10-19",
+      "category": "product",
+      "title": "华为麒麟9050系列：首批获权威检测的抗量子攻击移动SoC",
+      "summary": "华为麒麟9050系列在媒体沟通会上正式发布，官方称其为首批获权威检测的抗量子攻击移动SoC，集成新一代灵犀CPU、 Maliang GPU和达芬奇架构NPU，采用大脑+小脑异构协同架构，支持30B MoE大模型端侧运行，并支持后量子密码相关安全能力。",
+      "source": "新浪/17173",
+      "url": "https://news.17173.com/content/10142026/020533461.shtml",
+      "keywords": [
+        "华为",
+        "麒麟9050",
+        "抗量子攻击",
+        "NPU",
+        "端侧大模型"
+      ],
+      "published": "2026-10-13",
+      "categoryLabel": "产品方案",
+      "id": 503
+    },
+    {
+      "date": "2026-10-19",
+      "category": "scenario",
+      "title": "适老化黑科技智能监控摄像亮相北京：24小时智能监测守护居家养老",
+      "summary": "北京城市广播报道，适老化改造之24小时智能监测监视器正式亮相，无须触碰即可自动识别老人状态，作为居家养老安全守护设备。该设备相当于老人身边一位靠谱的『隐形保镖』，解决独居老人看护难题。",
+      "source": "微博/北京城市广播",
+      "url": "https://weibo.com/2/detail/5354991217803756",
+      "keywords": [
+        "适老化改造",
+        "智能监控",
+        "居家养老",
+        "AI识别",
+        "老年看护"
+      ],
+      "published": "2026-10-17",
+      "categoryLabel": "场景落地",
+      "id": 504
+    },
+    {
+      "date": "2026-10-19",
+      "category": "scenario",
+      "title": "多Agent协作实测遇冷：成本激增效果有限，AI智能体从概念走向落地遭遇现实瓶颈",
+      "summary": "行业竞争逻辑已彻底切换：不再比拼Agent数量和演示效果，而是比拼模型稳定性、成本控制能力、业务适配能力和工程落地能力。头部企业纷纷收缩多Agent试点规模，优先落地成熟、低成本、高稳定的单智能体应用，仅在核心复杂场景小范围测试多角色协作方案。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-12/doc-iniuypex5264343.shtml",
+      "keywords": [
+        "多Agent",
+        "智能体协作",
+        "成本控制",
+        "AI落地",
+        "工程化能力"
+      ],
+      "published": "2026-10-12",
+      "categoryLabel": "场景落地",
+      "id": 505
+    },
+    {
+      "date": "2026-10-19",
+      "category": "scenario",
+      "title": "15个Agent组成研发小队：多智能体协作的端到端研发体系实践",
+      "summary": "多Agent系统正从论文走向工程实践。当前多Agent协作面临的最大挑战不是分工，而是让不同Agent共享同一份记忆。Octo等框架已支持六种协作模式：Solo、Roundtable、Critic、Pipeline、Split和Swarm，适用于不同复杂度的任务场景。",
+      "source": "53AI",
+      "url": "https://www.53ai.com/news/LargeLanguageModel/2026101406745.html",
+      "keywords": [
+        "多Agent协作",
+        "研发体系",
+        "智能体记忆",
+        "任务编排",
+        "Octo框架"
+      ],
+      "published": "2026-10-14",
+      "categoryLabel": "场景落地",
+      "id": 506
+    },
+    {
+      "date": "2026-10-19",
+      "category": "scenario",
+      "title": "科沃斯X系列厨房智能联动：3D结构光+AI摄像头+DToF激光雷达融合避障",
+      "summary": "科沃斯2026年主力机型避障方案采用『3D结构光+AI摄像头+DToF激光雷达』融合方案，用红外阵列给障碍物拍『三维点云图』，再由AI摄像头做语义识别，DToF激光雷达负责远距离测距，三者配合将决策速度压缩到0.1秒级，误撞率控制在0.3%。",
+      "source": "新浪",
+      "url": "https://weibo.com/2/detail/comos:nivksmp7796614",
+      "keywords": [
+        "科沃斯",
+        "智能避障",
+        "3D结构光",
+        "AI识别",
+        "服务机器人"
+      ],
+      "published": "2026-10-16",
+      "categoryLabel": "场景落地",
+      "id": 507
+    },
+    {
+      "date": "2026-10-19",
+      "category": "security",
+      "title": "苹果Home Collection：端到端加密保障隐私，LG/施耐德/苹果均无法读取数据",
+      "summary": "苹果与LG电子和施耐德电气合作推出的Home Collection系列产品注重隐私保护，Home应用数据端到端加密，LG电子、施耐德电气和苹果均无法读取用户数据。所有配件均支持Matter认证，兼顾跨平台兼容性与隐私安全。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/012/571.htm",
+      "keywords": [
+        "苹果",
+        "端到端加密",
+        "隐私保护",
+        "Home Collection",
+        "Matter"
+      ],
+      "published": "2026-10-13",
+      "categoryLabel": "数据安全",
+      "id": 508
+    },
+    {
+      "date": "2026-10-19",
+      "category": "security",
+      "title": "华为麒麟9050系列：业界首款抗量子密码算法落地的移动SoC，硬件级隐私守护",
+      "summary": "麒麟9050系列是业界首款实现抗量子密码算法落地的移动SoC，把抗量子能力写入启动链；双芯安全架构（移动安全处理器+独立安全芯片）从硬件源头保护隐私，硬件GPIO直连管控摄像头和麦克风，拿到高等级安全认证。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-10-14/doc-iniveqvi7809494.shtml",
+      "keywords": [
+        "华为",
+        "麒麟9050",
+        "抗量子密码",
+        "硬件安全",
+        "隐私保护"
+      ],
+      "published": "2026-10-13",
+      "categoryLabel": "数据安全",
+      "id": 509
+    },
+    {
+      "date": "2026-10-19",
+      "category": "security",
+      "title": "NIST发布Agent安全意见汇总，新型安全威胁和防护实践成为企业采用智能体重要议题",
+      "summary": "美国国家标准与技术研究院（NIST）于2026年5月发布的Agent安全意见汇总，将新型安全威胁和相应防护实践列为企业采用智能体的重要议题。基于真实生产环境17600次无人干预操作的实证案例，成为当前Agent安全落地最稀缺的一手经验。",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7697205989800689664",
+      "keywords": [
+        "NIST",
+        "Agent安全",
+        "智能体",
+        "安全威胁",
+        "防护实践"
+      ],
+      "published": "2026-10-17",
+      "categoryLabel": "数据安全",
+      "id": 510
+    },
+    {
+      "date": "2026-10-19",
+      "category": "security",
+      "title": "智能家居装置成黑客攻击目标：关键基础设施安全风险不容忽视",
+      "summary": "研究显示智能家居装置正成为黑客攻击目标。2015年研究人员曾通过互联网娱乐系统远程控制行驶中的Jeep汽车，约140万辆车需回收维修；近年亦发现仅凭车牌号码即可追踪、解锁并启动部分起亚汽车。电力、水务等关键基础设施的多重安保比一般家居设备更难攻破，但风险仍不容忽视。",
+      "source": "都市日报",
+      "url": "https://metrohk.com.hk/%E7%A7%91%E6%8A%80/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85%E8%A3%9D%E7%BD%AE%E6%88%90%E9%BB%91%E5%AE%A2%E6%94%BB%E6%93%8A%E7%9B%AE%E6%A8%99-890a43",
+      "keywords": [
+        "智能家居",
+        "黑客攻击",
+        "IoT安全",
+        "关键基础设施",
+        "漏洞"
+      ],
+      "published": "2026-10-13",
+      "categoryLabel": "数据安全",
+      "id": 511
     }
   ]
 }
