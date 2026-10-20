@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19",
+  "lastUpdated": "2026-10-20",
   "news": [
     {
       "id": 1,
@@ -9160,6 +9160,366 @@
       "published": "2026-10-13",
       "categoryLabel": "数据安全",
       "id": 511
+    },
+    {
+      "date": "2026-10-20",
+      "category": "tech",
+      "title": "Matter 1.6版本正式发布：新增高级摄像头监控支持",
+      "summary": "Matter协议在2026年推进至1.6版本，新增对智能摄像头监控场景的深度支持，这是该标准在安全领域的关键扩展。Matter旨在提升不同制造商智能家居设备之间的互操作性和安全性，始终支持本地控制选项，目前已有超过数百款设备获得认证。",
+      "source": "La Maison Connectee",
+      "url": "https://la-maison-connectee.net/2026/10/19/matter-avantages-inconvenients/",
+      "keywords": [
+        "Matter",
+        "智能家居",
+        "互联互通",
+        "摄像头",
+        "协议标准"
+      ],
+      "published": "2026-10-19",
+      "categoryLabel": "技术前沿",
+      "id": 512
+    },
+    {
+      "date": "2026-10-20",
+      "category": "tech",
+      "title": "苹果HomeView搭载Matter/Thread：全屋智能生态再进一步",
+      "summary": "苹果推出带屏智能家居中枢HomeView，与LG、施耐德等品牌深度合作，以Matter和Thread为底层协议构建家庭生态。HomeView配备7英寸Liquid视网膜显示屏，支持面部识别和Matter设备直连，强调隐私优先——所有自动化逻辑本地运行、端到端加密。这标志着苹果借助通用规范重新确立智慧家庭战略主导权。",
+      "source": "udn科技玩家",
+      "url": "https://tech.udn.com/tech/story/123152/9813094",
+      "keywords": [
+        "苹果",
+        "HomeView",
+        "Matter",
+        "Thread",
+        "智能家居"
+      ],
+      "published": "2026-10-13",
+      "categoryLabel": "技术前沿",
+      "id": 513
+    },
+    {
+      "date": "2026-10-20",
+      "category": "tech",
+      "title": "Omdia：78%边缘物联网部署已超越试点阶段",
+      "summary": "市场研究机构Omdia最新调查显示，78%的边缘物联网部署已进入中等或大规模阶段，其中36%达中等规模、17%实现大规模部署。安全性与系统集成是规模化首要瓶颈。随着企业加速在边缘侧融入AI/ML，更高的安全性、更低的数据传输成本和更低延迟正在驱动这一转型。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L973KQI105198UNI.html",
+      "keywords": [
+        "边缘计算",
+        "物联网",
+        "AI",
+        "规模化",
+        "部署"
+      ],
+      "published": "2026-10-14",
+      "categoryLabel": "技术前沿",
+      "id": 514
+    },
+    {
+      "date": "2026-10-20",
+      "category": "tech",
+      "title": "后摩智能发布存算一体架构：加速端侧AI从能跑到被需要",
+      "summary": "后摩智能在2026年10月14日大会上展示了SRAM-CIM存算一体技术路线，聚焦2D/3D CIM双路径芯片布局，显著提升Token/$与Token/W能效。后摩智能联合终端、模型、操作系统等伙伴推动Agent Computer、具身机器人等场景落地，加速端侧AI跨越可用临界点。",
+      "source": "光明网",
+      "url": "https://tech.gmw.cn/2026-10/15/content_39047567.htm",
+      "keywords": [
+        "后摩智能",
+        "存算一体",
+        "端侧AI",
+        "CIM",
+        "Agent"
+      ],
+      "published": "2026-10-15",
+      "categoryLabel": "技术前沿",
+      "id": 515
+    },
+    {
+      "date": "2026-10-20",
+      "category": "tech",
+      "title": "2026大模型网关体系解读：多模型共存时代的基础设施演进",
+      "summary": "随着企业从选哪个大模型转向多模型共存策略，大模型网关成为基础设施关键组件。网关数据面可随业务分布部署在云上、分支或边缘节点；部分能力向网络边缘下沉，企业接入网关可同时承担AI推理与安全检测功能。统一接口标准与OpenTelemetry语义规范让网关迁移成本持续下降。",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7696485975317184531",
+      "keywords": [
+        "大模型网关",
+        "AI网关",
+        "多模型",
+        "云边端",
+        "推理"
+      ],
+      "published": "2026-10-15",
+      "categoryLabel": "技术前沿",
+      "id": 516
+    },
+    {
+      "date": "2026-10-20",
+      "category": "policy",
+      "title": "国家卫健委发布人工智能+医疗卫生实施意见：2030年基层诊疗智能辅助基本全覆盖",
+      "summary": "国家卫健委发布人工智能+医疗卫生应用发展实施意见，明确到2030年基层诊疗智能辅助应用基本全覆盖的目标。医疗成为政策目标最量化、落地路径最清晰的AI垂直领域，智能辅助诊疗的全面铺开将为智慧医疗与家庭健康监测提供政策支撑。",
+      "source": "知乎",
+      "url": "https://zhuanlan.zhihu.com/p/2093613332209182701",
+      "keywords": [
+        "AI医疗",
+        "国家卫健委",
+        "政策",
+        "智能诊疗",
+        "基层"
+      ],
+      "published": "2026-10-14",
+      "categoryLabel": "政策标准",
+      "id": 517
+    },
+    {
+      "date": "2026-10-20",
+      "category": "policy",
+      "title": "NIST发布2026年AI Agent安全意见汇总：新型安全威胁成重要议题",
+      "summary": "美国国家标准与技术研究院（NIST）于2026年5月发布Agent安全意见汇总，将新型安全威胁和相应防护实践列为企业采用智能体的重要议题。随着AI Agent从论文走向工程实践，Agent系统的安全边界、记忆共享与分工协作模式中的风险成为行业焦点。",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7697205989800689664",
+      "keywords": [
+        "NIST",
+        "AI Agent",
+        "安全威胁",
+        "智能体",
+        "防护"
+      ],
+      "published": "2026-10-17",
+      "categoryLabel": "政策标准",
+      "id": 518
+    },
+    {
+      "date": "2026-10-20",
+      "category": "policy",
+      "title": "十五五规划纲要发布：科技创新与数字经济成主线",
+      "summary": "《中华人民共和国国民经济和社会发展第十五个五年规划纲要》于2026年3月发布，科技创新与数字经济成为核心主线。规划对边缘计算、物联网、人工智能在家庭与城市场景的落地提出明确指引，智慧家庭产业迎来政策红利期。",
+      "source": "国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/fggz/fzzlgh/gjfzgh/202603/U020260317369114704096.pdf",
+      "keywords": [
+        "十五五规划",
+        "数字经济",
+        "科技创新",
+        "智慧家庭",
+        "政策"
+      ],
+      "published": "2026-03-01",
+      "categoryLabel": "政策标准",
+      "id": 519
+    },
+    {
+      "date": "2026-10-20",
+      "category": "policy",
+      "title": "Matter协议生态壁垒分析：互联互通困局与行业破局路径",
+      "summary": "智能家居行业面临用户自由混搭需求与厂商生态锁定之间的矛盾，Wi-Fi、蓝牙、Zigbee等协议混战，Matter仅能实现基础开关互通，高阶功能仍受限于品牌私有生态。行业分析指出，技术本身不难实现，难的是行业放下封闭思维；只有打通跨品牌隔阂，人车家一体智慧生活才能真正落地。",
+      "source": "新浪新闻",
+      "url": "https://www.sina.cn/weibo/detail/5353940326552253.html",
+      "keywords": [
+        "Matter",
+        "互联互通",
+        "生态壁垒",
+        "智能家居",
+        "协议"
+      ],
+      "published": "2026-10-15",
+      "categoryLabel": "政策标准",
+      "id": 520
+    },
+    {
+      "date": "2026-10-20",
+      "category": "product",
+      "title": "爱芯元智发布AX8860系列：边缘端侧大算力芯片，算力达256TOPS",
+      "summary": "10月13日，爱芯元智在上海工博会发布AX8860系列大算力AI芯片，专为边缘和端侧大模型推理设计。该芯片搭载16核Arm CPU加自研NPU，提供256 TOPS混合精度算力，原生支持FP4，定位对标英伟达DGX Spark但价格更具竞争力，标志着国产边缘AI芯片在端侧推理市场的实质性突破。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1087547251_121344276",
+      "keywords": [
+        "爱芯元智",
+        "AX8860",
+        "边缘AI",
+        "256TOPS",
+        "国产芯片"
+      ],
+      "published": "2026-10-13",
+      "categoryLabel": "产品方案",
+      "id": 521
+    },
+    {
+      "date": "2026-10-20",
+      "category": "product",
+      "title": "联想YOGA Pro 15 RTX Spark开售：全球首批本地千亿大模型AIPC",
+      "summary": "10月17日，联想YOGA Pro 15 RTX Spark在国内全网正式开售，作为全球首批搭载NVIDIA RTX Spark N1X超级芯片的本地智能体AI PC，可运行千亿参数大模型。2026年AIPC的分水岭不在于能不能跑模型，而在于能不能办成事，该产品标志着国产AIPC生产力全面进入深水区。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivnzsi6501331.shtml",
+      "keywords": [
+        "联想",
+        "YOGA",
+        "RTX Spark",
+        "AIPC",
+        "千亿大模型"
+      ],
+      "published": "2026-10-17",
+      "categoryLabel": "产品方案",
+      "id": 522
+    },
+    {
+      "date": "2026-10-20",
+      "category": "product",
+      "title": "苹果HomeView智能家居中枢正式发布：7英寸屏+面部识别",
+      "summary": "苹果在10月13日欢迎回家活动上正式推出HomeView智慧显示中枢，7英寸Liquid显示屏支持面部识别，可作为HomeKit和Matter设备控制中心。苹果此次联合LG、施耐德电机等品牌推出门锁、门铃、摄像头到温控器全套配件，HomePod mini 2和Apple TV 4K同步亮相，构建完整智慧家庭产品矩阵。",
+      "source": "udn科技玩家",
+      "url": "https://tech.udn.com/tech/story/123152/9812672",
+      "keywords": [
+        "苹果",
+        "HomeView",
+        "HomeKit",
+        "智能家居中枢",
+        "新品"
+      ],
+      "published": "2026-10-13",
+      "categoryLabel": "产品方案",
+      "id": 523
+    },
+    {
+      "date": "2026-10-20",
+      "category": "product",
+      "title": "石头P系列全系Matter认证：30秒直连米家/Apple Home/Google Home",
+      "summary": "石头P系列扫地机器人（涵盖P10 Pro至P30 Pro等多款2025-2026年产品）全系通过Matter认证，可直接接入米家App、Apple Home、Google Home等主流平台，无需额外网关或中枢硬件。配网过程仅需约30秒，这标志着扫地机器人品类在跨生态互联互通上实现重要突破。",
+      "source": "新浪",
+      "url": "https://weibo.com/2/detail/comos:niviqxx7211651",
+      "keywords": [
+        "石头",
+        "Matter",
+        "扫地机器人",
+        "米家",
+        "互联互通"
+      ],
+      "published": "2026-10-16",
+      "categoryLabel": "产品方案",
+      "id": 524
+    },
+    {
+      "date": "2026-10-20",
+      "category": "scenario",
+      "title": "北京适老化黑科技智能监控摄像亮相：AI三秒识别老人摔倒",
+      "summary": "北京城市广播发布24小时AI智能监测监视器，专为居家养老场景设计。产品通过AI技术自动识别老人摔倒等意外，无需触碰即可在约3秒内预警家属或工作人员。该设备已通过公安部门相关认证，被视为老人身边靠谱的隐形保镖，标志着适老化智能安防产品在北京率先落地。",
+      "source": "新浪新闻",
+      "url": "https://www.sina.cn/weibo/detail/5354991217803756.html",
+      "keywords": [
+        "适老化",
+        "智能安防",
+        "摔倒检测",
+        "居家养老",
+        "AI监控"
+      ],
+      "published": "2026-10-18",
+      "categoryLabel": "场景落地",
+      "id": 525
+    },
+    {
+      "date": "2026-10-20",
+      "category": "scenario",
+      "title": "三星/LG KES 2026同台竞技：AI家电与订阅服务成焦点",
+      "summary": "2026年韩国电子展（KES）在首尔COEX开幕，三星与LG同台展示AI家电及订阅服务。三星设立体验区，将移动设备、家电和显示屏互联，呈现Bespoke AI家庭产品组合及Samsung AI Subscription服务。LG同步推出ThinQ AI平台相关产品，AI家电的订阅收费模式成为行业商业化新方向。",
+      "source": "Digital Today",
+      "url": "https://www.digitaltoday.co.kr/en/view/113810/samsung-lg-face-off-over-ai-appliances-subscriptions-at-kes-2026",
+      "keywords": [
+        "三星",
+        "LG",
+        "AI家电",
+        "KES 2026",
+        "订阅服务"
+      ],
+      "published": "2026-10-13",
+      "categoryLabel": "场景落地",
+      "id": 526
+    },
+    {
+      "date": "2026-10-20",
+      "category": "scenario",
+      "title": "LOBO宣布AI养老计算基础设施开发计划：家庭设备与健康数据联动",
+      "summary": "LOBO公司宣布开发一套将老年护理档案、健康数据与家庭监控设备、移动产品相连接的AI系统，整合护理档案、日程安排和健康数据与家庭监控硬件。该系统落地取决于测试进度和合规审查，标志着AI在养老场景从单一监控向系统性健康管理的延伸。",
+      "source": "Stock Titan",
+      "url": "https://www.stocktitan.net/news/LOBO/lobo-announces-development-plan-for-ai-computing-infrastructure-and-h3wak2ou5d6n.html",
+      "keywords": [
+        "AI养老",
+        "健康数据",
+        "家庭设备",
+        "LOBO",
+        "适老"
+      ],
+      "published": "2026-10-15",
+      "categoryLabel": "场景落地",
+      "id": 527
+    },
+    {
+      "date": "2026-10-20",
+      "category": "scenario",
+      "title": "多Agent协作从单兵到团队：Octo支持六种协作模式",
+      "summary": "多Agent系统已从论文走向工程实践，明略科技等企业披露了Octo框架的六种协作模式：Solo（单Agent独立完成）、Roundtable（多Agent轮流讨论）、Critic（评审角色质疑修正）、Pipeline（线性流水线）、Split（并行分发）和Swarm（动态涌现式协作）。共享记忆与任务分工是多Agent协作的核心工程难题。",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7696883050710810650",
+      "keywords": [
+        "多Agent",
+        "协作",
+        "Octo",
+        "框架",
+        "工程实践"
+      ],
+      "published": "2026-10-16",
+      "categoryLabel": "场景落地",
+      "id": 528
+    },
+    {
+      "date": "2026-10-20",
+      "category": "security",
+      "title": "智能家居隐私风险2026深度解析：云端vs本地控制的本质区别",
+      "summary": "专业隐私资讯平台PromptQuorum发布智能家居隐私风险深度报告，指出云端智能家居设备会将使用模式、语音录音和摄像头画面收集至企业服务器，面临数据泄露与第三方共享风险。报告建议采用本地优先配置，彻底去除外部处理方，将数据留在家中，这是解决智慧家庭隐私问题的根本路径。",
+      "source": "PromptQuorum",
+      "url": "https://www.promptquorum.com/zh/smart-home/smart-home-privacy-risks",
+      "keywords": [
+        "智能家居",
+        "隐私风险",
+        "本地控制",
+        "数据泄露",
+        "云端"
+      ],
+      "published": "2026-10-18",
+      "categoryLabel": "数据安全",
+      "id": 529
+    },
+    {
+      "date": "2026-10-20",
+      "category": "security",
+      "title": "2026年手机隐私保护三重体系：硬件级阻断已成标配",
+      "summary": "2026年旗舰手机隐私保护已从软件开关升级为系统级主动审计加硬件级数据隔离加AI场景化防御三重体系。华为鸿蒙NEXT禁止9类不合理权限将管权限升级为管数据，iOS 26提供一键隐私审计，Android 16新增敏感数据硬件锁从底层拦截第三方应用偷读屏幕，三大系统形成全链路防护竞争格局。",
+      "source": "微博",
+      "url": "https://weibo.com/2/detail/comos:nivqccv6278847",
+      "keywords": [
+        "隐私保护",
+        "鸿蒙NEXT",
+        "iOS26",
+        "Android16",
+        "硬件隔离"
+      ],
+      "published": "2026-10-18",
+      "categoryLabel": "数据安全",
+      "id": 530
+    },
+    {
+      "date": "2026-10-20",
+      "category": "security",
+      "title": "苹果HomeKit安全性分析：本地运行与端到端加密的隐私优势",
+      "summary": "行业分析指出，苹果HomeKit路线与米家、鸿蒙智家不同：除中枢外苹果不自己生产硬件，主要靠认证协议接入第三方设备。其最突出卖点是安全性——自动化逻辑主要在本地运行、端到端加密带来更全面隐私保护。这与国内厂商普遍依赖云端的模式形成对比，为注重隐私的用户提供差异化选择。",
+      "source": "虎嗅",
+      "url": "https://www.huxiu.com/article/4897992.html",
+      "keywords": [
+        "HomeKit",
+        "苹果",
+        "隐私保护",
+        "本地运行",
+        "端到端加密"
+      ],
+      "published": "2026-10-16",
+      "categoryLabel": "数据安全",
+      "id": 531
     }
   ]
 }
