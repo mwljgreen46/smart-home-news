@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20",
+  "lastUpdated": "2026-10-21",
   "news": [
     {
       "id": 1,
@@ -9520,6 +9520,330 @@
       "published": "2026-10-16",
       "categoryLabel": "数据安全",
       "id": 531
+    },
+    {
+      "date": "2026-10-21",
+      "category": "tech",
+      "title": "全球智能家居赛道加速转型 国内产业链迎增量机会",
+      "summary": "苹果智能家居最大短板是缺少可视化独立中控硬件和空间交互节点，HomeView的推出填补了硬件空位，延续苹果软硬一体打法。苹果同时规划2026年下半年推出折叠手机、iPhone 18等多款硬件新品，覆盖手机、手表、平板、电脑、智能家居五大产品线，果链企业可借新增硬件产品线获得切入供应链的机会窗口。",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4219140.html",
+      "keywords": [
+        "智能家居",
+        "苹果",
+        "HomeKit",
+        "Matter协议",
+        "HomeView"
+      ],
+      "published": "2026-10-14",
+      "categoryLabel": "技术前沿",
+      "id": 532
+    },
+    {
+      "date": "2026-10-21",
+      "category": "tech",
+      "title": "Matter Protocol: The Future of Smart Home Design",
+      "summary": "Matter协议正在重塑智能家居设计格局，实现无缝互操作性、智能自动化、能效优化和面向未来的架构升级。当前Matter设备生态持续扩大，已覆盖 TP-Link Tapo、 Nanoleaf、Eve、Meross、Aqara等主流品牌，为跨品牌设备互联提供统一标准支撑。",
+      "source": "Studio Matrx",
+      "url": "https://www.studiomatrx.org/blog/matter-protocol-smart-home-design",
+      "keywords": [
+        "Matter协议",
+        "智能家居",
+        "Thread",
+        "设备互通",
+        "物联网"
+      ],
+      "published": "2026-10-16",
+      "categoryLabel": "技术前沿",
+      "id": 533
+    },
+    {
+      "date": "2026-10-21",
+      "category": "tech",
+      "title": "工博会现场：算力、存力、边缘计算，听到哪些信号？",
+      "summary": "2026工博会发布《2026工业边缘计算与存储应用产业研究报告》，数据显示2026年中国工业PC市场出货量预计达448.9万台、对应规模约120亿元，2026-2030年复合增长率13.1%，至2030年出货量有望增至735.5万台。边缘算力已在智慧制造、智慧能源、智慧交通领域成熟落地。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34242956",
+      "keywords": [
+        "工博会",
+        "边缘计算",
+        "工业PC",
+        "智慧制造",
+        "云边端"
+      ],
+      "published": "2026-10-14",
+      "categoryLabel": "技术前沿",
+      "id": 534
+    },
+    {
+      "date": "2026-10-21",
+      "category": "policy",
+      "title": "中国端侧AI行业报告（2026年前三季度）：端侧模型备案达360款，8亿用户规模",
+      "summary": "报告指出端侧AI产业链在感知与模组环节进展最快，高端端侧SoC与车规芯片仍依赖外部先进制程。端侧模型备案数量已达360款，用户规模突破8亿，对开发工具链与OS自主性提出更高要求，国产手机OS与车机OS的端侧推理框架适配成为隐性壁垒。",
+      "source": "H33研报",
+      "url": "https://www.h33.top/report/20261017-fe11",
+      "keywords": [
+        "端侧AI",
+        "国产芯片",
+        "模型备案",
+        "AIoT",
+        "NPU"
+      ],
+      "published": "2026-10-17",
+      "categoryLabel": "政策标准",
+      "id": 535
+    },
+    {
+      "date": "2026-10-21",
+      "category": "policy",
+      "title": "NIST发布2026年AI Agent安全意见汇总，新型安全威胁成企业采用智能体重要议题",
+      "summary": "美国国家标准与技术研究院（NIST）于2026年5月18日发布Agent安全意见汇总，将新型安全威胁和相应防护实践列为企业采用智能体的重要议题。17,600次无人干预操作的实证案例表明，Agent在真实生产环境中的安全落地是当前最稀缺的一手经验。",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7697205989800689664",
+      "keywords": [
+        "NIST",
+        "AI Agent",
+        "安全威胁",
+        "智能体",
+        "防护实践"
+      ],
+      "published": "2026-10-17",
+      "categoryLabel": "政策标准",
+      "id": 536
+    },
+    {
+      "date": "2026-10-21",
+      "category": "policy",
+      "title": "2026年中国国产AI芯片深度研判：华为昇腾一超多强，推理芯片格局重塑",
+      "summary": "报告指出华为昇腾910C已实现规模化部署，FP16推理性能达英伟达H100的60%-80%，并解决片间互联瓶颈，更适配万卡集群训练。摩根大通预测2027年ASIC/XPU在AI加速器出货占比将升至54%，首次超过GPU，推理场景正重构半导体竞争逻辑。",
+      "source": "OpenAxo",
+      "url": "http://openaxo.com/innovation/china-domestic-ai-chip-2026",
+      "keywords": [
+        "国产AI芯片",
+        "华为昇腾",
+        "推理芯片",
+        "ASIC",
+        "H100"
+      ],
+      "published": "2026-10-16",
+      "categoryLabel": "政策标准",
+      "id": 537
+    },
+    {
+      "date": "2026-10-21",
+      "category": "product",
+      "title": "石头P系列全系原生支持米家协议并通过Matter认证",
+      "summary": "石头P系列全系（涵盖P10 Pro至P30 Pro等）原生支持米家协议并通过Matter认证，可直接接入米家App、Apple Home、Google Home等平台，无需任何网关或中枢硬件。配网全程30秒，扫一下即可完成绑定，打通多生态互联壁垒。",
+      "source": "新浪",
+      "url": "https://weibo.com/2/detail/comos:niviqxx7211651",
+      "keywords": [
+        "石头科技",
+        "Matter认证",
+        "米家",
+        "智能扫地机",
+        "跨平台"
+      ],
+      "published": "2026-10-16",
+      "categoryLabel": "产品方案",
+      "id": 538
+    },
+    {
+      "date": "2026-10-21",
+      "category": "product",
+      "title": "联想YOGA Pro 15 RTX Spark开售：全球首批NVIDIA RTX Spark N1X超级芯片，AIPC进入深水区",
+      "summary": "2026年AIPC分水岭不在能不能跑模型，而在能不能办成事。联想YOGA Pro 15作为全球首批搭载NVIDIA RTX Spark N1X超级芯片的本地智能体AI PC正式开售，支持本地千亿参数大模型运行，标志AIPC生产力全面进入深水区。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-17/doc-inivnzsi6501331.shtml",
+      "keywords": [
+        "联想",
+        "YOGA Pro",
+        "RTX Spark",
+        "AIPC",
+        "端侧大模型"
+      ],
+      "published": "2026-10-17",
+      "categoryLabel": "产品方案",
+      "id": 539
+    },
+    {
+      "date": "2026-10-21",
+      "category": "product",
+      "title": "华为行业感知首批通过网络安全标识三星级备案，亮相2026网络安全周",
+      "summary": "华为行业感知首批通过网络安全标识三星级备案，亮相2026网络安全周。华为同时发布智能协作产品升级，从沉浸式体验到智能服务，推动生产力跃升。可追溯技术正重构消防安防品牌选型体系。",
+      "source": "a&s传媒",
+      "url": "https://www.asmag.com.cn/",
+      "keywords": [
+        "华为",
+        "网络安全标识",
+        "行业感知",
+        "智能安防",
+        "网络安全周"
+      ],
+      "published": "2026-10-20",
+      "categoryLabel": "产品方案",
+      "id": 540
+    },
+    {
+      "date": "2026-10-21",
+      "category": "product",
+      "title": "瑞芯微RK1828端侧AI协处理器斩获工博会创新成果奖",
+      "summary": "瑞芯微在工博会现场展示RK1828端侧AI协处理器，凭借高算力、高能效比斩获工博会创新成果奖（CIIF专业奖体系）。该奖项是行业对核心芯片创新能力与量产落地能力的权威认可，标志着国产端侧AI芯片在能效与算力融合方面取得突破。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L97RJID80550WHYR.html",
+      "keywords": [
+        "瑞芯微",
+        "RK1828",
+        "端侧AI",
+        "协处理器",
+        "工博会"
+      ],
+      "published": "2026-10-14",
+      "categoryLabel": "产品方案",
+      "id": 541
+    },
+    {
+      "date": "2026-10-21",
+      "category": "scenario",
+      "title": "基隆市携手中保科技打造独老居家安全防护网，首创智慧连线住警器3.0",
+      "summary": "基隆市消防局携手市政府社会处与中保科技共同推动「独老守望人身安全」专案，打造全台首创「智慧连线住警器3.0」服务，将智慧消防与AI科技导入独居长者居家安全防护，实现24小时实时守护与紧急呼叫响应。",
+      "source": "蕃新闻网",
+      "url": "https://n.yam.com/Article/20261020288337",
+      "keywords": [
+        "智慧消防",
+        "独老看护",
+        "住警器",
+        "AI科技",
+        "居家安全"
+      ],
+      "published": "2026-10-20",
+      "categoryLabel": "场景落地",
+      "id": 542
+    },
+    {
+      "date": "2026-10-21",
+      "category": "scenario",
+      "title": "适老化黑科技智能监控摄像亮相北京，守护居家养老安全",
+      "summary": "北京城市广播报道，适老化改造系列之24小时智能监测监视器正式亮相，无需触碰即可自动识别老人状态，兼具跌倒检测、长时间静止预警、紧急呼叫等功能，成为独居老人身边的隐形保镖，破解居家养老安全监护难题。",
+      "source": "微博",
+      "url": "https://weibo.com/2/detail/5354991217803756",
+      "keywords": [
+        "适老化改造",
+        "智能监控",
+        "跌倒检测",
+        "居家养老",
+        "AI识别"
+      ],
+      "published": "2026-10-18",
+      "categoryLabel": "场景落地",
+      "id": 543
+    },
+    {
+      "date": "2026-10-21",
+      "category": "scenario",
+      "title": "2026湾区半导体产业生态博览会开幕，推理侧重构竞争逻辑",
+      "summary": "2026湾芯展在深圳开幕，RISC-V服务器芯片、AI一体机、先进封装设备等展位人头攒动。AI算力需求正从训练侧向推理侧大规模迁移，摩根大通预测2027年ASIC/XPU在AI加速器出货占比将升至54%首次超过GPU，推理芯片赛道热度急剧上升。",
+      "source": "新浪新闻",
+      "url": "https://www.sina.cn/weibo/detail/5354015937527986.html",
+      "keywords": [
+        "湾芯展",
+        "RISC-V",
+        "推理芯片",
+        "AI一体机",
+        "国产半导体"
+      ],
+      "published": "2026-10-14",
+      "categoryLabel": "场景落地",
+      "id": 544
+    },
+    {
+      "date": "2026-10-21",
+      "category": "scenario",
+      "title": "多Agent协作：从单兵作战到团队协同的技术演进",
+      "summary": "多Agent协作技术正在快速成熟，单个Agent具备工具调用、结构化输出、规划、知识库查询等能力后，多Agent通过协作可完成更复杂任务。AI开源生态正围绕自主智能体、本地优先智能和以智能体为中心的基础设施迎来爆发式增长。",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7696758874040205355",
+      "keywords": [
+        "多Agent",
+        "协作智能",
+        "AI Agent",
+        "开源生态",
+        "自主智能体"
+      ],
+      "published": "2026-10-16",
+      "categoryLabel": "场景落地",
+      "id": 545
+    },
+    {
+      "date": "2026-10-21",
+      "category": "scenario",
+      "title": "2026年家用安防行业：从通用型产品向细分人群方案延伸",
+      "summary": "家用安防行业呈现细分化趋势：老年家庭聚焦跌倒检测、长时间静止预警、紧急呼叫；孩童家庭聚焦窗户防闯入、危险区域监测；租房群体偏好轻量化易拆装安防套件。毫米波无视觉传感器凭借不拍摄画面、依靠人体探测实现安防预警，解决隐私顾虑。",
+      "source": "中国安全防范工程行业协会",
+      "url": "https://www.caspte.com/info/272.html",
+      "keywords": [
+        "家用安防",
+        "毫米波传感器",
+        "跌倒检测",
+        "细分人群",
+        "隐私保护"
+      ],
+      "published": "2026-10-15",
+      "categoryLabel": "场景落地",
+      "id": 546
+    },
+    {
+      "date": "2026-10-21",
+      "category": "security",
+      "title": "智能家居隐私风险（2026）：云端设备把你的数据做了什么",
+      "summary": "云端智能家居设备会将使用模式、语音录音和摄像头画面收集到企业服务器，面临数据泄露和第三方共享风险。本地优先配置可将数据保留在家中，去除外部处理方，从根本上解决隐私问题。2026年本地优先智能家居方案关注度显著上升。",
+      "source": "PromptQuorum",
+      "url": "https://www.promptquorum.com/zh/smart-home/smart-home-privacy-risks",
+      "keywords": [
+        "智能家居",
+        "隐私风险",
+        "云端数据",
+        "本地优先",
+        "数据泄露"
+      ],
+      "published": "2026-10-18",
+      "categoryLabel": "数据安全",
+      "id": 547
+    },
+    {
+      "date": "2026-10-21",
+      "category": "security",
+      "title": "2026年三大系统隐私保护实测对比：iOS 26、Android 16、鸿蒙NEXT",
+      "summary": "2026年手机隐私保护进入系统级主动审计与硬件级隔离全面对抗时代。iOS 26带来一次性隐私审计和一键关闭语音监听；Android 16新增敏感数据硬件锁从底层拦截第三方应用；华为鸿蒙NEXT禁止9类不合理权限，将管权限细化为管数据，实现选一张照片就只给一张的精细控制。",
+      "source": "微博",
+      "url": "https://weibo.com/2/detail/comos:nivqccv6278847",
+      "keywords": [
+        "iOS 26",
+        "Android 16",
+        "鸿蒙NEXT",
+        "隐私保护",
+        "硬件隔离"
+      ],
+      "published": "2026-10-18",
+      "categoryLabel": "数据安全",
+      "id": 548
+    },
+    {
+      "date": "2026-10-21",
+      "category": "security",
+      "title": "DeepSeek今年崩了18次背后：大模型公司正在集体造芯",
+      "summary": "LongCat-2.0成为业界首个在五万卡国产算力集群上完成全流程训练与推理的万亿参数模型，发布当天华为昇腾、摩尔线程、沐曦股份等国产芯片厂商宣布完成对该模型的推理适配。隐私保护的最高境界是让数据根本不上传，端侧推理成为大模型落地的重要方向。",
+      "source": "知乎",
+      "url": "https://zhuanlan.zhihu.com/p/2058663454681125278",
+      "keywords": [
+        "DeepSeek",
+        "LongCat-2.0",
+        "国产算力",
+        "端侧推理",
+        "万亿参数模型"
+      ],
+      "published": "2026-10-17",
+      "categoryLabel": "数据安全",
+      "id": 549
     }
   ]
 }
