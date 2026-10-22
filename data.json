@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21",
+  "lastUpdated": "2026-10-22",
   "news": [
     {
       "id": 1,
@@ -9844,6 +9844,533 @@
       "published": "2026-10-17",
       "categoryLabel": "数据安全",
       "id": 549
+    },
+    {
+      "date": "2026-10-22",
+      "category": "tech",
+      "title": "Matter 1.6 与 1.6.1 解析：NFC 配网、Joint Fabric 与 Groupcast 成为新特性",
+      "summary": "Matter 1.6 已于 2026 年 6 月 17 日正式发布，1.6.1 为当前最新维护版本。新版本引入 NFC 简化配网、Joint Fabric 跨设备联动与 Groupcast 群组广播能力，并已被 Home Assistant 等开源生态支持，为跨品牌互操作提供了更完整的技术底座。",
+      "source": "PromptQuorum",
+      "url": "https://www.promptquorum.com/fr/smart-home/matter-1-6-explained",
+      "keywords": [
+        "Matter 1.6",
+        "智能家居互联",
+        "NFC 配网",
+        "Home Assistant"
+      ],
+      "published": "2026-10-20",
+      "categoryLabel": "技术前沿",
+      "id": 550
+    },
+    {
+      "date": "2026-10-22",
+      "category": "tech",
+      "title": "研究对比 Zigbee 与 Matter over Thread：两种低功耗网状协议实测差异",
+      "summary": "arXiv 论文对比了智能家居中两种基于 802.15.4 的低功耗网状协议 Zigbee 与 Matter over Thread。两者在组网模型和实际部署表现上各有差异，Mesh 稳定性与生态兼容成为家庭组网选型的关键变量。",
+      "source": "Adafruit Blog",
+      "url": "https://blog.adafruit.com/2026/10/16/zigbee-vs-matter-over-thread-understanding-iot-protocol-performance-in-practice",
+      "keywords": [
+        "Zigbee",
+        "Matter over Thread",
+        "Mesh 组网",
+        "协议对比"
+      ],
+      "published": "2026-10-16",
+      "categoryLabel": "技术前沿",
+      "id": 551
+    },
+    {
+      "date": "2026-10-22",
+      "category": "tech",
+      "title": "苹果举办「欢迎回家」发布会：HomeView 中枢、HomePod mini 2 与 Apple Home Collection 亮相",
+      "summary": "10 月 13 日苹果发布控制中枢 HomeView、新一代 HomePod mini 2、Apple TV 4K 以及与 LG、施耐德联名的十余款配件。家庭 AI 仍围绕“语音加屏幕”展开，并借 Matter 协议打通跨品牌设备，弥补 HomeKit 生态短板。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L9CK1VSA05118O8G.html",
+      "keywords": [
+        "Apple HomeView",
+        "家庭中枢",
+        "Matter 协议",
+        "HomePod mini 2"
+      ],
+      "published": "2026-10-16",
+      "categoryLabel": "技术前沿",
+      "id": 552
+    },
+    {
+      "date": "2026-10-22",
+      "category": "tech",
+      "title": "后摩智能公布 2D/3D CIM 双路径存算一体，开源生态共拓端侧 AI",
+      "summary": "10 月 14 日后摩智能在智能终端创新实践大会上公布 2D CIM 与 3D CIM 两条存算一体技术路线，开源“后摩 AI 生态软件”，核心产品 M50 量产不到一年已拿下超 150 个产品定点。存算一体被视为破解端侧算力“存储墙”的关键路径。",
+      "source": "环球网科技（网易订阅转载）",
+      "url": "https://www.163.com/dy/article/L99ST9PT0514R9OJ.html",
+      "keywords": [
+        "存算一体",
+        "端侧 AI",
+        "CIM 芯片",
+        "后摩智能"
+      ],
+      "published": "2026-10-15",
+      "categoryLabel": "技术前沿",
+      "id": 553
+    },
+    {
+      "date": "2026-10-22",
+      "category": "tech",
+      "title": "联想预告 10 月 24 日发布国产芯片 AI 主机 P7，本地跑 1220 亿参数大模型",
+      "summary": "联想将推出基于国产芯片的边缘侧算力设备 AI 主机 P7，体积接近充电宝，最高支持本地运行 1220 亿参数大模型。智能体从云端下放到家庭本地，算力小型化与国产芯片承接能力成为焦点。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L9CR1Q0T05129QAF.html",
+      "keywords": [
+        "AI 主机 P7",
+        "边缘算力",
+        "本地大模型",
+        "国产芯片"
+      ],
+      "published": "2026-10-16",
+      "categoryLabel": "技术前沿",
+      "id": 554
+    },
+    {
+      "date": "2026-10-22",
+      "category": "tech",
+      "title": "智源 FlagOS 2.2 发布：覆盖 1454 个算子，跨芯性能提升 27%",
+      "summary": "面向 AI 时代的开源操作系统 FlagOS 2.2 聚焦多芯片协同优化，覆盖 1454 个算子，跨芯性能提升 27%。其对 GLM、Qwen、DeepSeek 等主流模型实现 Day0 适配 12 款芯片，为异构算力调度提供统一软件栈。",
+      "source": "CSDN",
+      "url": "https://blog.csdn.net/csdnnews/article/details/168449706",
+      "keywords": [
+        "FlagOS",
+        "多芯片协同",
+        "算子库",
+        "异构算力"
+      ],
+      "published": "2026-10-19",
+      "categoryLabel": "技术前沿",
+      "id": 555
+    },
+    {
+      "date": "2026-10-22",
+      "category": "tech",
+      "title": "米家中枢网关灰度推送 0.11.5：自动化能力回归本地，断网仍可用",
+      "summary": "米家中枢网关 0.11.5 版本把“稳定”从云端拿回家庭本地，自动化场景在断网情况下依然可运行。该版本灰度推送，被视为国产家庭中枢应对苹果 HomeView 等新竞争的关键一步。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/axkoderw/",
+      "keywords": [
+        "米家中枢网关",
+        "本地自动化",
+        "断网可用",
+        "家庭中枢"
+      ],
+      "published": "2026-10-19",
+      "categoryLabel": "技术前沿",
+      "id": 556
+    },
+    {
+      "date": "2026-10-22",
+      "category": "policy",
+      "title": "八部门发文促进智能家居消费：加快制定互联互通强制性国家标准",
+      "summary": "八部门联合发文提出鼓励智能家居产品研发，支持家居卖场设立全屋智能和数字家庭样板间，并引导金融机构加大消费贷款支持。文件明确针对互联互通堵点，完善智能化分级评价标准体系，加快制定实施强制性国家标准。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1087915767_122014422",
+      "keywords": [
+        "八部门",
+        "智能家居消费",
+        "强制性国标",
+        "互联互通"
+      ],
+      "published": "2026-10-15",
+      "categoryLabel": "政策标准",
+      "id": 557
+    },
+    {
+      "date": "2026-10-22",
+      "category": "policy",
+      "title": "民政部等 8 部门印发银发经济措施：大力支持科技赋能养老服务",
+      "summary": "《关于培育养老服务经营主体促进银发经济发展的若干措施》提出大力支持科技赋能养老服务，鼓励养老科技攻关及产品研发，支持产品技术应用验证。专家建议将新技术用于老年人健康监测、安全报警及个性化服务，并通过设备租赁、试点试用加快产品适老化转型。",
+      "source": "人民日报（新浪转载）",
+      "url": "https://k.sina.cn/article_3057540037_b63e5bc502001vjey.html",
+      "keywords": [
+        "银发经济",
+        "科技赋能养老",
+        "适老化",
+        "政策解读"
+      ],
+      "published": "2026-10-18",
+      "categoryLabel": "政策标准",
+      "id": 558
+    },
+    {
+      "date": "2026-10-22",
+      "category": "policy",
+      "title": "工信部推动 AI 设备普及：推广《人工智能终端智能化分级》系列国家标准",
+      "summary": "工信部发布《意见》推动 AI 设备普及，并推广实施《人工智能终端智能化分级》系列国家标准。该系列标准由工信部、商务部、市场监管总局等今年 5 月联合启动实施，覆盖移动终端、微型计算机、电视、眼镜、音箱、耳机等终端，为“真智能”提供统一评价尺子。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a82p68ll/",
+      "keywords": [
+        "人工智能终端",
+        "智能化分级",
+        "国家标准",
+        "AI 设备普及"
+      ],
+      "published": "2026-10-19",
+      "categoryLabel": "政策标准",
+      "id": 559
+    },
+    {
+      "date": "2026-10-22",
+      "category": "policy",
+      "title": "工信部：加快推进新一代通信网、算力网建设，部署一批标志性工程项目",
+      "summary": "10 月 20 日国新办发布会介绍前三季度工业和信息化发展情况，工信部提出完成新一轮十大重点行业稳增长工作方案年度目标，扩大优质商品和服务供给，加快推进新一代通信网、算力网建设。云边端算力基础设施建设被列为重点方向。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/money/bond/2026-10-20/doc-inivwith0874960.shtml",
+      "keywords": [
+        "工信部",
+        "算力网建设",
+        "通信网",
+        "稳增长"
+      ],
+      "published": "2026-10-20",
+      "categoryLabel": "政策标准",
+      "id": 560
+    },
+    {
+      "date": "2026-10-22",
+      "category": "product",
+      "title": "苹果智能家居新品集中亮相：HomeView、HomePod mini 2 与 Home Collection 配件系列",
+      "summary": "10 月 13 日晚苹果集中发布全新智能家居显示设备 HomeView、新一代 HomePod mini 2，以及与 LG 电子、施耐德电气合作推出的 Apple Home Collection 配件系列。产品围绕家庭中枢与全屋场景展开，形成软硬一体的家庭入口。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/al38qopg/",
+      "keywords": [
+        "Apple HomeView",
+        "Home Collection",
+        "家庭中枢",
+        "全屋智能"
+      ],
+      "published": "2026-10-15",
+      "categoryLabel": "产品方案",
+      "id": 561
+    },
+    {
+      "date": "2026-10-22",
+      "category": "product",
+      "title": "施耐德 Home 智能恒温器接入 Apple Home：跨品牌联动链路解析",
+      "summary": "苹果与施耐德电气联合设计的 Home 智能恒温器成为苹果官方合作设备，可通过 Thread 网络接入并在 HomeView 上显示与调节温度。文章拆解了“恒温器—Thread—家庭中枢—Home 应用—HomeView”链路中的接线、网关与功能门槛。",
+      "source": "什么值得买（智东西）",
+      "url": "https://post.smzdm.com/p/awwok97k/",
+      "keywords": [
+        "施耐德恒温器",
+        "Apple Home",
+        "Thread",
+        "跨品牌联动"
+      ],
+      "published": "2026-10-15",
+      "categoryLabel": "产品方案",
+      "id": 562
+    },
+    {
+      "date": "2026-10-22",
+      "category": "product",
+      "title": "HomeView 定价 299 美元开卖：九款智能家居配件齐发，中国大陆不首发",
+      "summary": "苹果一口气发布摄像头、门铃、门锁、恒温器、传感器等九款智能家居配件，HomeView 售价 299 美元，中国大陆不在首发之列，Siri AI 目前仅支持英语。生态互通与本地化落地节奏成为关注焦点。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a9565pg0/",
+      "keywords": [
+        "HomeView 定价",
+        "智能门锁摄像头",
+        "首发地区",
+        "Siri AI"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "产品方案",
+      "id": 563
+    },
+    {
+      "date": "2026-10-22",
+      "category": "product",
+      "title": "家庭安防摄像头横评：叮零、360、萤石与华为智选隐私安全路线对比",
+      "summary": "文章盘点市面主流家庭监控摄像头品牌，萤石走硬核光学与隐私加密本地存储路线，海康威视供应链支撑双摄与暗光表现，人形检测追踪流畅。不同路线在室内覆盖、数据合规与居家美学融合上各有取舍。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1089351541_122645258",
+      "keywords": [
+        "家庭安防",
+        "监控摄像头",
+        "本地存储",
+        "隐私加密"
+      ],
+      "published": "2026-10-18",
+      "categoryLabel": "产品方案",
+      "id": 564
+    },
+    {
+      "date": "2026-10-22",
+      "category": "product",
+      "title": "端侧 AI 芯片赛道梳理：瑞芯微、晶晨等 8 家布局公司技术亮点",
+      "summary": "瑞芯微提供 0.2TOPs 到 6TOPs 的 AIoT 芯片，RK3588、RK3576 内置 6TOPS NPU，支持端侧 3B 以下参数模型本地部署，RK182X 采用 3D 堆叠架构理论带宽达 1TB/s。晶晨等厂商则推动多媒体主控芯片集成 AI 算力，适配 Google Home Gemini 等生态。",
+      "source": "新浪财经（微博）",
+      "url": "https://www.sina.cn/weibo/detail/5356355616768231.html",
+      "keywords": [
+        "端侧 AI 芯片",
+        "AIoT SoC",
+        "NPU 算力",
+        "智能家居主控"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "产品方案",
+      "id": 565
+    },
+    {
+      "date": "2026-10-22",
+      "category": "product",
+      "title": "苹果连续四个周五密集发新品：第二代 HomePod mini 于 10 月 30 日登场",
+      "summary": "苹果 iPhone Duo 之后第二轮新品将于 10 月 30 日发布，主角是第二代 HomePod mini。该入门级智能音箱延续小巧机身设计，升级 Siri AI 智能能力并新增多款配色，音频声场同步优化。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivtynp6193953.shtml",
+      "keywords": [
+        "HomePod mini 2",
+        "Siri AI",
+        "苹果新品",
+        "智能音箱"
+      ],
+      "published": "2026-10-19",
+      "categoryLabel": "产品方案",
+      "id": 566
+    },
+    {
+      "date": "2026-10-22",
+      "category": "product",
+      "title": "华为鸿蒙智家品牌升级：全屋智能迈向“NEXT”级生态协同",
+      "summary": "作为华为泛智能家居品牌的新形态，“华为鸿蒙智家”围绕智慧家庭构建统一品牌体系，强调全屋智能与鸿蒙系统、鸿蒙生态的深度结合。品牌更名透露出设备互联与场景编排能力将进一步向系统层收敛。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3055877654712704",
+      "keywords": [
+        "鸿蒙智家",
+        "全屋智能",
+        "生态协同",
+        "华为"
+      ],
+      "published": "2026-10-20",
+      "categoryLabel": "产品方案",
+      "id": 567
+    },
+    {
+      "date": "2026-10-22",
+      "category": "scenario",
+      "title": "养老服务机器人加速走进家庭：试点要求 200 户验证与 200 台套部署",
+      "summary": "国家层面启动智能养老服务机器人结对攻关与场景应用试点，试点期为 2025 至 2027 年，要求居家养老服务机器人产品完成不少于 200 户家庭应用验证、部署不少于 200 台套，社区和机构类产品完成不少于 20 个社区或机构验证，地方亦出台消费补贴配套。",
+      "source": "21经济网",
+      "url": "https://www.21jingji.com/article/20261020/herald/ebcb40543d039d61156f3fc7140c16c2.html",
+      "keywords": [
+        "养老机器人",
+        "场景应用试点",
+        "居家养老",
+        "消费补贴"
+      ],
+      "published": "2026-10-20",
+      "categoryLabel": "场景落地",
+      "id": 568
+    },
+    {
+      "date": "2026-10-22",
+      "category": "scenario",
+      "title": "AI 养老如何走进普通家庭：长沙 566 份问卷调查提出补贴与数据边界建议",
+      "summary": "课题组基于 566 份问卷调查提出探索适老化智能家居产品购置补贴并先行试点，同时建议明确健康监测、情感陪伴等产品的数据采集与使用边界、保障老人知情同意，并厘清 AI 辅助诊疗相关责任。",
+      "source": "华声在线（湖南在线）",
+      "url": "https://hunan.voc.com.cn/news/202610/34048323.html",
+      "keywords": [
+        "AI 养老",
+        "问卷调查",
+        "数据边界",
+        "购置补贴"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "场景落地",
+      "id": 569
+    },
+    {
+      "date": "2026-10-22",
+      "category": "scenario",
+      "title": "成都 10 余家机器人企业进养老机构实景验证，展示医疗康养最新成果",
+      "summary": "10 月 16 日“智启银龄·AI 助养”2026 年成都市人工智能与机器人创新应用大赛主题活动举行，四川具身、阿加犀、焜傲机器人等 10 余家企业走进大型养老机构，在真实场景中开展集中验证、技术迭代与竞技比拼。",
+      "source": "新浪新闻（四川在线）",
+      "url": "https://k.sina.cn/article_1700648435_655dd5f302001nc8s.html",
+      "keywords": [
+        "养老机构",
+        "实景验证",
+        "机器人",
+        "银发经济"
+      ],
+      "published": "2026-10-17",
+      "categoryLabel": "场景落地",
+      "id": 570
+    },
+    {
+      "date": "2026-10-22",
+      "category": "scenario",
+      "title": "海淀区智慧养老试点样板：毫米波雷达与陪伴机器人进入高龄老人家庭",
+      "summary": "海淀区清河街道学府树家园第二社区养老驿站引入陪伴机器人提醒用药、“火柴人”跌倒识别同时守护隐私、智能家居语音响应，高龄老人家中则部署毫米波监测雷达、一键呼叫座机与随身一键呼“三件套”。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.cn/article_1893892941_70e2834d020024dtq.html",
+      "keywords": [
+        "智慧养老",
+        "毫米波雷达",
+        "跌倒识别",
+        "社区试点"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "场景落地",
+      "id": 571
+    },
+    {
+      "date": "2026-10-22",
+      "category": "scenario",
+      "title": "基隆市打造全台首创「智慧连线住警器 3.0」，守护独居长者居家安全",
+      "summary": "基隆市消防局联合社会处与中保科技推动“独老守望人身安全”专案，将智慧消防与 AI 技术导入独居长者居家场景，构建即时侦测、远端连线的防护网，实现从发现异常到联动救援的闭环。",
+      "source": "蕃新闻",
+      "url": "https://n.yam.com/Article/20261020288337",
+      "keywords": [
+        "智慧住警器",
+        "独居长者",
+        "智慧消防",
+        "居家安防"
+      ],
+      "published": "2026-10-20",
+      "categoryLabel": "场景落地",
+      "id": 572
+    },
+    {
+      "date": "2026-10-22",
+      "category": "scenario",
+      "title": "嘉义县民雄乡启动 AI 智慧照护示范，导入毫米波雷达与紧急通报",
+      "summary": "面对高龄化与少子化挑战，嘉义县民雄乡宣布在新山村率先启动 AI 智慧照护示范试办，导入毫米波雷达、远端监控及紧急通报系统，以科技手段补足基层照护人力缺口。",
+      "source": "蕃新闻",
+      "url": "https://n.yam.com/Article/20261015971438",
+      "keywords": [
+        "AI 智慧照护",
+        "毫米波雷达",
+        "紧急通报",
+        "基层养老"
+      ],
+      "published": "2026-10-15",
+      "categoryLabel": "场景落地",
+      "id": 573
+    },
+    {
+      "date": "2026-10-22",
+      "category": "scenario",
+      "title": "北京适老化改造推出 24 小时智能监测监视器，摔倒识别约 3 秒预警",
+      "summary": "北京城市广播发布适老化改造第四期方案，24 小时智能监测监视器通过 AI 自动识别老人摔倒等意外，无需触碰即可预警家属或工作人员，识别耗时约 3 秒，产品经过公安部相关检测验证。",
+      "source": "新浪新闻（微博）",
+      "url": "https://www.sina.cn/weibo/detail/5354991217803756.html",
+      "keywords": [
+        "适老化改造",
+        "跌倒预警",
+        "24 小时监测",
+        "居家养老"
+      ],
+      "published": "2026-10-18",
+      "categoryLabel": "场景落地",
+      "id": 574
+    },
+    {
+      "date": "2026-10-22",
+      "category": "scenario",
+      "title": "智慧养老驿站在北京经开区落地首笔专项贷款，破解轻资产融资难",
+      "summary": "智慧配餐、机器人银发课堂、按摩理疗与陪伴机器人等新技术进入养老驿站，但驿站规模小、属轻资产，传统贷款难获批。银行首笔“养老驿站专项贷款”在北京经开区落地，审批到放款仅用一周。",
+      "source": "21经济网",
+      "url": "https://www.21jingji.com/article/20261019/herald/52b495ec8ee1fc13bea5ac43687bf818.html",
+      "keywords": [
+        "养老驿站",
+        "专项贷款",
+        "银发科技",
+        "场景落地"
+      ],
+      "published": "2026-10-19",
+      "categoryLabel": "场景落地",
+      "id": 575
+    },
+    {
+      "date": "2026-10-22",
+      "category": "security",
+      "title": "工信部通报 17 款 APP 及 SDK 侵害用户权益，依据个保法等开展处置",
+      "summary": "依据《个人信息保护法》《网络安全法》《电信条例》等规定，工信部对 17 款 APP 及 SDK 存在侵害用户权益行为的情况予以通报并处置。SDK 层面的违规收集成为监管重点，与智能家居设备端 SDK 直接相关。",
+      "source": "新浪新闻（工信部通报转载）",
+      "url": "https://k.sina.cn/article_5952915705_162d248f906703qr6c.html",
+      "keywords": [
+        "工信部通报",
+        "SDK 违规",
+        "个人信息保护法",
+        "APP 治理"
+      ],
+      "published": "2026-10-15",
+      "categoryLabel": "数据安全",
+      "id": 576
+    },
+    {
+      "date": "2026-10-22",
+      "category": "security",
+      "title": "中央网信办通报 2026 年个人信息保护系列专项行动 App 违规收集问题",
+      "summary": "依据《关于开展 2026 年个人信息保护系列专项行动的公告》及《网络安全法》《个人信息保护法》《网络数据安全管理条例》等，中央网信办对 App（含小程序）收集使用个人信息行为开展检测并通报存在的问题，持续压实平台主体责任。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1089394894_121106994",
+      "keywords": [
+        "中央网信办",
+        "个人信息保护专项行动",
+        "违规收集",
+        "数据安全"
+      ],
+      "published": "2026-10-18",
+      "categoryLabel": "数据安全",
+      "id": 577
+    },
+    {
+      "date": "2026-10-22",
+      "category": "security",
+      "title": "全屋智能隐私保护对比：美的、小米、华为、海尔合规路径各有侧重",
+      "summary": "2026 年 6 月国家网信办、工信部、公安部联合印发《实施网络安全标识的产品目录（第一批）》，消费类网联摄像头被纳入，配套安全要求自 2026 年 7 月 1 日起实施，按基础级、增强级、领先级对应一至三星标识，隐私保护从口号变为可核验的技术动作。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1090674312_122761097",
+      "keywords": [
+        "网络安全标识",
+        "网联摄像头",
+        "全屋智能隐私",
+        "分级"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "数据安全",
+      "id": 578
+    },
+    {
+      "date": "2026-10-22",
+      "category": "security",
+      "title": "智能家居隐私风险深度解析：数据泄露与本地优先控制方案",
+      "summary": "云端智能家居设备会把使用模式、语音录音和摄像头画面上传至企业服务器，面临泄露与第三方共享风险。分析认为解决之道在于本地优先配置，可彻底去除外部处理方，让敏感数据留在家中。",
+      "source": "PromptQuorum",
+      "url": "https://www.promptquorum.com/zh/smart-home/smart-home-privacy-risks",
+      "keywords": [
+        "智能家居隐私",
+        "本地优先",
+        "数据泄露",
+        "语音录音"
+      ],
+      "published": "2026-10-18",
+      "categoryLabel": "数据安全",
+      "id": 579
+    },
+    {
+      "date": "2026-10-22",
+      "category": "security",
+      "title": "研究警示：大量 IoT 设备与容器正被签名合法恶意软件持续攻击",
+      "summary": "安全研究者指出，数以百万计的 IoT 设备、Docker 容器、遗留 Linux 主机与缺乏维护的 CLI 工具，正通过合法签名渠道被持续植入恶意软件，且这一趋势将在未来数年持续，IoT 设备固件与凭证管理风险上升。",
+      "source": "X / JOSΞPH",
+      "url": "https://x.com/CupOJoseph/status/2112709932424265741",
+      "keywords": [
+        "IoT 安全",
+        "恶意软件",
+        "固件漏洞",
+        "设备凭证"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "数据安全",
+      "id": 580
     }
   ]
 }
