@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22",
+  "lastUpdated": "2026-10-23",
   "news": [
     {
       "id": 1,
@@ -10371,6 +10371,402 @@
       "published": "2026-10-21",
       "categoryLabel": "数据安全",
       "id": 580
+    },
+    {
+      "date": "2026-10-23",
+      "category": "tech",
+      "title": "京都大学将 Matter 与 Wi-SUN FAN 集成，验证「Matter over Wi-SUN FAN」基础功能",
+      "summary": "京都大学研究团队把多跳中继无线规格 Wi-SUN FAN 与智能家居互操作国际标准 Matter 集成为一体化 IoT 连接底座 \"Matter over Wi-SUN FAN\"。通过楼宇照明远程控制实验完成基本功能实证，面向大范围覆盖、低功耗的家庭与楼宇物联场景。",
+      "source": "TII SYS (tiisys.com)",
+      "url": "https://tiisys.com/blog/2026/10/22/post-210107/",
+      "keywords": [
+        "Matter",
+        "Wi-SUN FAN",
+        "京都大学",
+        "IoT连接",
+        "楼宇照明"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "技术前沿",
+      "id": 581
+    },
+    {
+      "date": "2026-10-23",
+      "category": "tech",
+      "title": "Matter 1.6.1 规范落地首批平台，matter.js 完成规范实现",
+      "summary": "继 CSA 官方 SDK 之后，matter.js 也实现了 Matter 1.6.1 规范，首批平台已可运行该版本。开发者无需等待官方工具链即可跟进新特性，生态适配节奏明显加快。",
+      "source": "matter-smarthome.de",
+      "url": "https://matter-smarthome.de/en/development/matter-1-6-1-arrives-on-the-first-platforms/",
+      "keywords": [
+        "Matter 1.6.1",
+        "matter.js",
+        "CSA",
+        "SDK",
+        "智能家居生态"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "技术前沿",
+      "id": 582
+    },
+    {
+      "date": "2026-10-23",
+      "category": "tech",
+      "title": "AI 下沉到 MCU：端侧小模型推动「MCU + NPU」融合，AI MCU 成新品类",
+      "summary": "行业分析指出端侧 LLM 与多模态小模型正在把 AI 能力下沉到 MCU 层级，形成 8/16 位 MCU 加小算力、SoC 加大 NPU 两条并行路线。乐鑫、瑞芯微、全志等厂商已在卡位，AI MCU 有望成为下一个 ESP8266 式规模品类。",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7698719417669320704",
+      "keywords": [
+        "端侧小模型",
+        "AI MCU",
+        "NPU",
+        "本地推理",
+        "智能家居"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "技术前沿",
+      "id": 583
+    },
+    {
+      "date": "2026-10-23",
+      "category": "tech",
+      "title": "后摩智能生态大会聚焦存算一体与端边 AI：从「能跑模型」到「被用户需要」",
+      "summary": "后摩智能生态大会以存算一体支撑端边 AI 为主线，展示 Agent Computer、智能移动终端、具身机器人与边缘推理等应用实践。议题聚焦芯片、模型、软件与终端的生态协同，推动大模型真正进入终端场景。",
+      "source": "新浪新闻",
+      "url": "https://www.sina.cn/weibo/detail/5354703748857903.html",
+      "keywords": [
+        "存算一体",
+        "端边AI",
+        "Agent Computer",
+        "智能终端",
+        "边缘推理"
+      ],
+      "published": "2026-10-16",
+      "categoryLabel": "技术前沿",
+      "id": 584
+    },
+    {
+      "date": "2026-10-23",
+      "category": "tech",
+      "title": "端侧 AI 芯片赛道梳理：瑞芯微、晶晨等布局 0.2TOPS 至 6TOPS AIoT 芯片",
+      "summary": "梳理端侧 AI 与算力芯片布局厂商：瑞芯微可提供 0.2TOPS 至 6TOPS 的 AIoT 芯片，RK3588/RK3576 集成 6TOPS NPU，支持端侧 3B 以下参数模型部署；其 3D 堆叠端侧 AI 协处理器理论带宽达 1TB/s。晶晨等厂商亦切入智能音箱等 AIoT 场景。",
+      "source": "新浪新闻",
+      "url": "https://www.sina.cn/weibo/detail/5356265543827701.html",
+      "keywords": [
+        "端侧AI芯片",
+        "瑞芯微",
+        "NPU",
+        "AIoT",
+        "TOPS算力"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "技术前沿",
+      "id": 585
+    },
+    {
+      "date": "2026-10-23",
+      "category": "policy",
+      "title": "住建部：首批数字家庭场景将在深圳、青岛、宁波、合肥、东莞、金华 6 城先行落地",
+      "summary": "住建部披露首批数字家庭场景应用城市名单，选取深圳、青岛、宁波、合肥、东莞、金华 6 城先行落地建设。将通过完善数字家庭标准体系、攻坚产品与平台互联互通核心技术，以商品房、保障房、新建及老旧小区为载体探索分层分类实践样板。",
+      "source": "21经济网",
+      "url": "https://www.21jingji.com/article/20261021/herald/2b8498fde04ca2f9a6e07a3fa2d83326.html",
+      "keywords": [
+        "数字家庭",
+        "住建部",
+        "场景落地",
+        "互联互通",
+        "标准体系"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "政策标准",
+      "id": 586
+    },
+    {
+      "date": "2026-10-23",
+      "category": "policy",
+      "title": "2026 年前三季度我国制定国际标准 220 项，新提案 318 项",
+      "summary": "市场监管总局介绍，2026 年 1 至 9 月我国在 ISO、IEC 牵头下制定智慧城市数据利用顶层框架等国际标准 220 项，新提出固态电池、人形机器人数据集等提案 318 项。目前我国牵头和发布的国际标准共 2368 个，提案 4079 项。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.cn/article_3172302792_bd157fc802001kfb6.html",
+      "keywords": [
+        "国际标准",
+        "市场监管总局",
+        "智慧城市",
+        "标准化",
+        "ISO/IEC"
+      ],
+      "published": "2026-10-17",
+      "categoryLabel": "政策标准",
+      "id": 587
+    },
+    {
+      "date": "2026-10-23",
+      "category": "policy",
+      "title": "天津启动智能家居产品购新补贴，覆盖 10 类产品每件最高补贴 1500 元",
+      "summary": "天津市 2026 年智能家居产品购新补贴活动于 10 月 16 日启动，涵盖智能扫洗地机（洗地机、扫地机）等 10 类智能家居产品。消费者购买指定品类可享受相应补贴，每件最高补贴 1500 元。",
+      "source": "天津政务网",
+      "url": "https://www.tj.gov.cn/zmhd/hygqx/202610/t20261016_7632489.html",
+      "keywords": [
+        "智能家居",
+        "购新补贴",
+        "天津",
+        "消费促进",
+        "1500元"
+      ],
+      "published": "2026-10-16",
+      "categoryLabel": "政策标准",
+      "id": 588
+    },
+    {
+      "date": "2026-10-23",
+      "category": "policy",
+      "title": "「十五五」专项规划加速落地，商务部等部门出台促进智能家居消费举措",
+      "summary": "国家发改委国家信息中心表示，有关方面正制定可操作可评估的工作安排，推动「十五五」专项规划实施与规划衔接。商务部等部门已出台促进智能家居消费举措，人社部发布新就业形态劳动者权益保障办法征求意见稿，形成全国「一盘棋」推进格局。",
+      "source": "中国网",
+      "url": "http://news.china.com.cn/2026-10/22/content_118743830.shtml",
+      "keywords": [
+        "十五五规划",
+        "智能家居消费",
+        "商务部",
+        "专项规划",
+        "消费升级"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "政策标准",
+      "id": 589
+    },
+    {
+      "date": "2026-10-23",
+      "category": "product",
+      "title": "苹果一口气发布 12 款「果家」新品，带屏中枢 HomeView 售价 299 美元",
+      "summary": "苹果在曼哈顿发布会推出带屏智能家居中枢 HomeView（299 美元）、新款 Apple TV 4K、HomePod mini 及 Home Collection 系列配件。HomeView 通过面部识别区分家庭成员并提供个性化体验，Siri AI 进一步接管全屋控制，联合 LG 电子与施耐德电气推出智能门锁、摄像头等产品。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/4025056096817028",
+      "keywords": [
+        "苹果",
+        "HomeView",
+        "HomePod mini",
+        "智能门锁",
+        "家庭AI"
+      ],
+      "published": "2026-10-18",
+      "categoryLabel": "产品方案",
+      "id": 590
+    },
+    {
+      "date": "2026-10-23",
+      "category": "product",
+      "title": "宜家连发 21 款支持 Matter 的智能家居产品，逐步替换既有 Zigbee 设备",
+      "summary": "宜家正式发布新一代支持 Matter 标准的智能家居产品阵容，涵盖灯具、传感器、控制器等共 21 款。其 Liljebagge 智能温控阀采用 Thread 通信，需 Thread 边界路由器与 Matter 控制器接入家庭网络，并计划以 Matter 逐步替代存量 Zigbee 设备。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a5rx3erk/",
+      "keywords": [
+        "宜家",
+        "Matter",
+        "智能家居产品",
+        "Thread",
+        "Zigbee"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "产品方案",
+      "id": 591
+    },
+    {
+      "date": "2026-10-23",
+      "category": "product",
+      "title": "米家中枢网关推送 0.11.5，多类自动化玩法落地本地执行",
+      "summary": "米家自动化此前部分玩法只能走云端执行，0.11.5 版本将其全部落地到中枢网关本地完成，可实现断网情况下的本地联动。该更新被视为 2026 年米家自动化能力的最大补齐之一，但对部分用户仍需评估本地算力与兼容性。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/axkoderw/",
+      "keywords": [
+        "米家",
+        "中枢网关",
+        "本地自动化",
+        "断网",
+        "全屋智能"
+      ],
+      "published": "2026-10-19",
+      "categoryLabel": "产品方案",
+      "id": 592
+    },
+    {
+      "date": "2026-10-23",
+      "category": "product",
+      "title": "AI 管家「住进你家」：全屋智能从联网控制迈向主动智能的三层架构",
+      "summary": "行业观察指出，全屋智能营销话术已从「动嘴开灯」转向「让 AI 管你的家」，背后是家庭 AI 架构向感知、决策、执行三层拆分的演进。小米开源全屋智能 AI 方案 Miloco 2.0，博联则在 IFA 把 AI 服务定价喊到 1 元/台/年，推动主动智能规模化订阅。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a5rxo9d7/",
+      "keywords": [
+        "主动智能",
+        "AI管家",
+        "Miloco",
+        "博联",
+        "订阅定价"
+      ],
+      "published": "2026-10-17",
+      "categoryLabel": "产品方案",
+      "id": 593
+    },
+    {
+      "date": "2026-10-23",
+      "category": "scenario",
+      "title": "北京构建智慧养老体系，涉老数据治理「四梁八柱」框架在朝阳试点",
+      "summary": "北京科技创新促进中心副主任肖澜提出智慧养老须答好「适老好用、数据融通、转化落地、普惠供给」四道题。中国信息协会数据智能专委会副主任潘彭丹提出涉老数据治理「四梁八柱」框架，含安全治理、可信流通、价值释放、试点推广四阶段模式，已在朝阳区落地试点。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.cn/article_5952915720_162d24908067050xko.html",
+      "keywords": [
+        "智慧养老",
+        "涉老数据治理",
+        "北京",
+        "朝阳区",
+        "数据融通"
+      ],
+      "published": "2026-10-20",
+      "categoryLabel": "场景落地",
+      "id": 594
+    },
+    {
+      "date": "2026-10-23",
+      "category": "scenario",
+      "title": "海淀养老驿站实地探访：陪伴机器人提醒吃药，「火柴人」识别跌倒兼顾隐私",
+      "summary": "记者蹲点海淀区清河街道学府树家园第二社区养老驿站，老人体验陪伴机器人用药提醒、「火柴人」形态跌倒识别装置与声控智能家居。方案强调在识别跌倒的同时守护隐私，并通过小爱同学实现智能家居响应，反映老年人使用门槛仍是落地关键。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.cn/article_1893892941_70e2834d020024dtq.html",
+      "keywords": [
+        "海淀区",
+        "养老驿站",
+        "跌倒识别",
+        "陪伴机器人",
+        "小爱同学"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "场景落地",
+      "id": 595
+    },
+    {
+      "date": "2026-10-23",
+      "category": "scenario",
+      "title": "智慧养老产品如何叫好又叫座：厂商以智能手表等设备守住黄金施救窗口",
+      "summary": "人民网报道指出，依托物联网、大数据、人工智能的智慧养老模式正成为提升适老化服务水平的重要路径。国内厂商推出智能手表、血压计、血糖仪及人体状态识别类产品，荣耀智能手表可在心脏骤停风险升高时自动触发紧急呼救与声光报警，服务独居老人。",
+      "source": "人民网",
+      "url": "http://finance.people.com.cn/n1/2026/1017/c1004-40816383.html",
+      "keywords": [
+        "智慧养老",
+        "智能手表",
+        "紧急呼救",
+        "独居老人",
+        "适老化"
+      ],
+      "published": "2026-10-17",
+      "categoryLabel": "场景落地",
+      "id": 596
+    },
+    {
+      "date": "2026-10-23",
+      "category": "scenario",
+      "title": "北京 24 小时智能监测监视器亮相，摔倒识别约 3 秒预警家属",
+      "summary": "北京城市广播发布适老化改造第四期成果，24 小时智能监测监视器无需触碰即可自动识别老人摔倒等意外，识别耗时约 3 秒并预警家属或工作人员。设备经过公安部相关检测，是居家养老安全监测的典型落地形态。",
+      "source": "新浪新闻",
+      "url": "https://www.sina.cn/weibo/detail/5354991217803756.html",
+      "keywords": [
+        "智能监视器",
+        "摔倒识别",
+        "居家养老",
+        "3秒预警",
+        "适老化改造"
+      ],
+      "published": "2026-10-18",
+      "categoryLabel": "场景落地",
+      "id": 597
+    },
+    {
+      "date": "2026-10-23",
+      "category": "scenario",
+      "title": "AI 养老实用派：门磁、水表、毫米波雷达等小设备先于人形机器人落地",
+      "summary": "合肥靠门磁判断老人多久未开门，上海用水表监测一天用水量是否低于 0.01 立方米，南京用毫米波雷达监测摔倒，这些低成本感知设备比人形机器人更早在养老场景跑通。业内观点认为 AI 养老第一步不是陪聊，而是确保出事能被及时发现。",
+      "source": "新浪新闻",
+      "url": "https://www.sina.cn/weibo/detail/5355755645439392.html",
+      "keywords": [
+        "AI养老",
+        "毫米波雷达",
+        "门磁",
+        "水表监测",
+        "低成本感知"
+      ],
+      "published": "2026-10-20",
+      "categoryLabel": "场景落地",
+      "id": 598
+    },
+    {
+      "date": "2026-10-23",
+      "category": "security",
+      "title": "消费类网联摄像头纳入网络安全标识目录，2026 年 7 月起按一至三星分级实施",
+      "summary": "2026 年 6 月国家网信办、工信部、公安部联合印发《实施网络安全标识的产品目录（第一批）》，消费类网联摄像头被纳入，配套《网络安全标识消费类网联摄像头安全要求》自 7 月 1 日起实施，按基础级、增强级、领先级对应一至三星标识，智能家电多项国标同步提出数据与隐私要求。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1090674312_122761097",
+      "keywords": [
+        "网络安全标识",
+        "网联摄像头",
+        "数据安全",
+        "分级标识",
+        "国家标准"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "数据安全",
+      "id": 599
+    },
+    {
+      "date": "2026-10-23",
+      "category": "security",
+      "title": "智能家居隐私风险深度解析：数据收集、泄露与本地控制解决方案",
+      "summary": "云端智能家居设备会将使用模式、语音录音和摄像头画面上传至企业服务器，面临泄露与第三方共享风险。解决路径是本地优先配置，把数据留在家中本地控制，从而彻底去除外部处理方。",
+      "source": "PromptQuorum",
+      "url": "https://www.promptquorum.com/zh/smart-home/smart-home-privacy-risks",
+      "keywords": [
+        "智能家居隐私",
+        "本地控制",
+        "数据泄露",
+        "语音录音",
+        "摄像头"
+      ],
+      "published": "2026-10-18",
+      "categoryLabel": "数据安全",
+      "id": 600
+    },
+    {
+      "date": "2026-10-23",
+      "category": "security",
+      "title": "IP 摄像头安全 12 问：密码、端口、存储、云端与固件加固要点",
+      "summary": "面向安装与运维团队梳理 IP 摄像头的 12 个高频安全问题，涵盖默认密码、端口暴露、存储介质、云端连接、固件升级与合规要求等。文中给出当前可落地的加固做法，反映家庭与商用场景中安防设备的整体安全基线正在提高。",
+      "source": "Anabon",
+      "url": "https://www.anabon.com/surveillance-knowledge/network-cybersecurity/cybersecurity-questions-customers-ask/",
+      "keywords": [
+        "IP摄像头",
+        "固件安全",
+        "端口暴露",
+        "安防加固",
+        "云存储"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "数据安全",
+      "id": 601
+    },
+    {
+      "date": "2026-10-23",
+      "category": "security",
+      "title": "工信部就《汽车数据安全要求》等五项强制性国家标准公开征求意见",
+      "summary": "10 月 20 日工信部发布公告，《汽车数据安全要求》等五项强制性国家标准制修订已形成征求意见稿并公开征求社会意见，其中对汽车数据安全与外部照明光信号装置等提出新要求，标志终端数据安全强制性标准体系进一步收紧。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-10-20/doc-inivwitm5713689.shtml",
+      "keywords": [
+        "汽车数据安全",
+        "强制性国标",
+        "工信部",
+        "征求意见",
+        "数据合规"
+      ],
+      "published": "2026-10-20",
+      "categoryLabel": "数据安全",
+      "id": 602
     }
   ]
 }
