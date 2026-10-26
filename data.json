@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25",
+  "lastUpdated": "2026-10-26",
   "news": [
     {
       "id": 1,
@@ -11163,6 +11163,528 @@
       "published": "2026-10-23",
       "categoryLabel": "数据安全",
       "id": 624
+    },
+    {
+      "date": "2026-10-26",
+      "category": "tech",
+      "title": "Matter 1.6.1 规范率先在首批平台落地，matter.js 完成规范实现",
+      "summary": "Matter 1.6.1 已率先在部分平台落地，除 CSA 官方 SDK 外，matter.js 也完成了对 Matter 1.6.1 规范的实现。这标志着智能家居互联互通标准的迭代速度进一步加快，中小厂商无需自建协议栈也能跟上新特性。",
+      "source": "matter-smarthome.de",
+      "url": "https://matter-smarthome.de/en/development/matter-1-6-1-arrives-on-the-first-platforms/",
+      "keywords": [
+        "Matter 1.6.1",
+        "matter.js",
+        "CSA",
+        "互联互通",
+        "SDK"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "技术前沿",
+      "id": 625
+    },
+    {
+      "date": "2026-10-26",
+      "category": "tech",
+      "title": "Matter 1.6 拆墙规范落地：国内需过固件、屏显、规则、断网四道闸",
+      "summary": "Matter 1.6 于 2026 年 6 月 17 日发布，被视为一次“拆墙”式规范升级。国内厂商在双11 标单前需逐一验证固件成熟度、屏幕显示、规范符合性与断网可用性四项能力，落地节奏慢于海外。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a5rx3erk/",
+      "keywords": [
+        "Matter 1.6",
+        "互联互通",
+        "双协议灯泡",
+        "固件",
+        "断网可用"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "技术前沿",
+      "id": 626
+    },
+    {
+      "date": "2026-10-26",
+      "category": "tech",
+      "title": "端侧大模型浪潮奔涌而至：苹果谷歌凭垂直一体化继续领跑",
+      "summary": "文章分析端侧大模型对产业生态的影响，认为苹果凭借芯片、操作系统、原生应用与端侧模型的垂直整合优势处于较优位置，Siri 将成为 AI 原生入口。端侧推理正在重塑智能家居设备的交互与成本结构。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3013363107374600",
+      "keywords": [
+        "端侧大模型",
+        "Siri",
+        "垂直整合",
+        "生态变革",
+        "智能家居交互"
+      ],
+      "published": "2026-10-25",
+      "categoryLabel": "技术前沿",
+      "id": 627
+    },
+    {
+      "date": "2026-10-26",
+      "category": "tech",
+      "title": "边缘 AI 网关四合一：边缘计算、路由、交换机与 POE 供电整合",
+      "summary": "面向家庭与社区安防场景的边缘算力设备采用八核 2.4GHz CPU 与 6TOPS NPU，支持 16 路 1080P@30fps 视频结构化分析，并兼容鸿蒙等国产操作系统。48TOPS 边缘服务器可承载 64 路视频解码并行推理，体现云边端算力分层趋势。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1090365102_99975460",
+      "keywords": [
+        "边缘计算",
+        "边缘AI网关",
+        "6TOPS NPU",
+        "POE",
+        "视频结构化"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "技术前沿",
+      "id": 628
+    },
+    {
+      "date": "2026-10-26",
+      "category": "tech",
+      "title": "讯飞星火 X2.6 发布：293B-A30B 端云一体，开源 4B 端侧模型新增三档推理模式",
+      "summary": "科大讯飞在 1024 开发者节上发布星火 X2.6 端云一体大模型，采用 293B-A30B MoE 架构、上下文拓展至 1M，并同步开源 X2.6-4B 端侧大模型。端侧小模型与云端大模型的混合调度成为本地化部署的现实路径。",
+      "source": "翰林信息",
+      "url": "https://www.hlxxi.com/ai-roi-selection/iflytek-spark-x2-6-edge-cloud-coding-agent-selection-2026/",
+      "keywords": [
+        "讯飞星火X2.6",
+        "端云一体",
+        "4B端侧模型",
+        "MoE",
+        "1M上下文"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "技术前沿",
+      "id": 629
+    },
+    {
+      "date": "2026-10-26",
+      "category": "tech",
+      "title": "控创推出 KBox F-203/F-204-RPS 工业电脑，提升工业边缘运算弹性与扩充性",
+      "summary": "控创扩展 KBox F 系列工业电脑产品线，面向智慧工业 4.0 与边缘运算场景推出两款新品，强化设备在边缘侧部署时的算力弹性与接口扩充能力，为家庭网关向边缘智能节点演进提供技术参照。",
+      "source": "Business Innovator",
+      "url": "https://www.biz-innovator.com/2026/10/22/%E6%8E%A7%E5%89%B5%E6%8E%A8%E5%87%BA%E5%85%A9%E6%AC%BE%E5%85%A8%E6%96%B0kbox-f%E7%B3%BB%E5%88%97%E5%B7%A5%E6%A5%AD%E9%9B%BB%E8%85%A6-%E6%8F%90%E5%8D%87%E5%B7%A5%E6%A5%AD%E9%82%8A%E7%B7%A3%E9%81%8B/",
+      "keywords": [
+        "边缘运算",
+        "工业电脑",
+        "KBox F",
+        "弹性扩充",
+        "智能工业4.0"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "技术前沿",
+      "id": 630
+    },
+    {
+      "date": "2026-10-26",
+      "category": "policy",
+      "title": "八部门《促进智能家居消费行动方案》落地满月，行业仍存三个“还没”",
+      "summary": "该文件全称《促进智能家居消费行动方案》，文号商消费发〔2026〕148号，成文日期 2026 年 9 月 2 日，由商务部等八个部门联合印发，中国政府网于 9 月 14 日公布全文及解读。文章指出文件落地一个月后，市场在标准统一、体验中心建设、旧品回收等方面仍存在短板。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/agg53mn7/",
+      "keywords": [
+        "促进智能家居消费行动方案",
+        "商消费发〔2026〕148号",
+        "八部门",
+        "全屋智能",
+        "双11"
+      ],
+      "published": "2026-10-23",
+      "categoryLabel": "政策标准",
+      "id": 631
+    },
+    {
+      "date": "2026-10-26",
+      "category": "policy",
+      "title": "商务部：将出台加快智能产品在消费领域应用工作方案",
+      "summary": "商务部表示将按“十五五”规划部署，出台加快智能产品在消费领域应用工作方案，为新产业新赛道拓展市场空间。相关规划提出到 2030 年促进智能家居设备互联互通，推动单品智能向全屋智能发展。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34309582",
+      "keywords": [
+        "商务部",
+        "智能产品消费",
+        "十五五",
+        "全屋智能",
+        "互联互通"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "政策标准",
+      "id": 632
+    },
+    {
+      "date": "2026-10-26",
+      "category": "policy",
+      "title": "商务部等九部门印发《关于加快推进科技兴商的意见》",
+      "summary": "意见提出深入实施“人工智能+制造”专项行动，丰富智能手机、电脑、家居、穿戴设备、机器人等智能商品供给，并鼓励基于安全可靠开源操作系统的智能产品研发和应用，为智慧家庭硬件端提供政策供给端支持。",
+      "source": "中华人民共和国商务部",
+      "url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_787f0441da1f4c0e8b5bad10118247f3.html",
+      "keywords": [
+        "科技兴商",
+        "人工智能+制造",
+        "九部门",
+        "智能商品供给",
+        "开源操作系统"
+      ],
+      "published": "2026-10-19",
+      "categoryLabel": "政策标准",
+      "id": 633
+    },
+    {
+      "date": "2026-10-26",
+      "category": "policy",
+      "title": "首批数字家庭场景将在深圳、青岛等 6 城先行落地建设",
+      "summary": "10 月 20 日国家发展改革委公布首批 136 项标志性重大应用场景项目清单，住建部牵头的“数字家庭全产业链培育和开放场景”入选社会治理服务综合性应用场景。初步测算“十五五”期间规模化落地数字家庭可培育 1.6 万亿增量市场。",
+      "source": "21经济网",
+      "url": "https://www.21jingji.com/article/20261021/herald/2b8498fde04ca2f9a6e07a3fa2d83326.html",
+      "keywords": [
+        "数字家庭",
+        "重大应用场景",
+        "136项清单",
+        "六城试点",
+        "1.6万亿"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "政策标准",
+      "id": 634
+    },
+    {
+      "date": "2026-10-26",
+      "category": "policy",
+      "title": "智能家电适老要过 GB/T 46484.1 新国标八条硬指标",
+      "summary": "文章提示消费者在选购长辈模式智能家电时，应对照 GB/T 46484.1 的 8 条硬指标逐项核对，并追问厂商具体符合哪几条。工信部 2021 年发布的 App 适老化通用设计规范要求适老版界面严禁广告插件，但电视长辈模式弹窗仍普遍存在。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/aomv6w97/",
+      "keywords": [
+        "GB/T 46484.1",
+        "适老化",
+        "长辈模式",
+        "硬指标",
+        "工信部规范"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "政策标准",
+      "id": 635
+    },
+    {
+      "date": "2026-10-26",
+      "category": "policy",
+      "title": "家电隐私新国标 2027 年 2 月实施，聚焦数据上传与待机录音",
+      "summary": "新国标将于 2027 年 2 月实施，针对洗衣机单日上传数百 MB 数据、电视待机录音等场景做出约束。文章提示用户可依据个人信息保护法要求撤回授权与删除数据，并向 12315 或工信部投诉违规收集。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/avgpk83n/",
+      "keywords": [
+        "家电隐私新国标",
+        "2027年2月",
+        "待机录音",
+        "工信部整治",
+        "个人信息保护法"
+      ],
+      "published": "2026-10-25",
+      "categoryLabel": "政策标准",
+      "id": 636
+    },
+    {
+      "date": "2026-10-26",
+      "category": "product",
+      "title": "苹果发布首款家庭中控 HomeView：7 英寸屏、A18 芯片，桌面/壁挂两形态 299 美元",
+      "summary": "苹果于 10 月 13 日“欢迎回家”发布会推出首款智能家庭中枢 HomeView，配备 7 英寸显示屏与 A18 芯片，分桌面版和壁挂版两种形态，均定价 299 美元（约合人民币 2005 元），可结合面容识别为家庭成员切换个性化内容。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/am9300nv/",
+      "keywords": [
+        "苹果HomeView",
+        "家庭中枢",
+        "A18芯片",
+        "7英寸屏",
+        "299美元"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "产品方案",
+      "id": 637
+    },
+    {
+      "date": "2026-10-26",
+      "category": "product",
+      "title": "苹果解密 HomeView 核心优势：极简设计与 Siri AI 双王牌",
+      "summary": "苹果家居产品营销副总裁 Kaiann Drance 接受 The Verge 采访时表示，HomeView 并非单纯堆叠功能，其杀手锏是简洁体验与 Siri AI。该定位显示头部厂商正把家庭中枢从功能堆叠转向交互极简与 AI 入口。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/015/658.htm",
+      "keywords": [
+        "HomeView",
+        "Siri AI",
+        "极简体验",
+        "家庭中枢",
+        "The Verge"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "产品方案",
+      "id": 638
+    },
+    {
+      "date": "2026-10-26",
+      "category": "product",
+      "title": "追觅智能中控屏家庭面板：Zigbee3.0/Wi-Fi/蓝牙多协议并发，AI 语音本地化部署",
+      "summary": "该中控屏支持 Zigbee3.0、Wi-Fi 与 Bluetooth 多协议并发，相当于对不同频段设备信号做硬件级聚合；IPS 超高清屏配旋钮无级调光，AI 语音助手本地化部署，断网仍能执行基础指令，适合网络波动的老旧小区。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1092526341_122645258",
+      "keywords": [
+        "追觅中控屏",
+        "多协议并发",
+        "Zigbee3.0",
+        "本地化AI",
+        "家庭面板"
+      ],
+      "published": "2026-10-25",
+      "categoryLabel": "产品方案",
+      "id": 639
+    },
+    {
+      "date": "2026-10-26",
+      "category": "product",
+      "title": "华为智能门锁实测：AI 掌静脉 + 指纹双模，WiFi 直连免网关",
+      "summary": "华为智能门锁采用 C 级锁芯与防撬报警，半导体采集加活体检测算法支撑掌静脉识别，湿手油手及老人小孩均可秒开，续航标称 15 个月。WiFi 直连省去额外配网关步骤，手机远程查看猫眼与访客通知延迟达毫秒级。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1092526241_122645258",
+      "keywords": [
+        "智能门锁",
+        "掌静脉识别",
+        "WiFi直连",
+        "C级锁芯",
+        "全屋智能"
+      ],
+      "published": "2026-10-25",
+      "categoryLabel": "产品方案",
+      "id": 640
+    },
+    {
+      "date": "2026-10-26",
+      "category": "product",
+      "title": "小米中枢网关推送 0.11.5：米家自动化大量玩法本地化落地",
+      "summary": "10 月 16 日晚小米中枢网关灰度推送 0.11.5 版本，将许多此前依赖云端的智能联动玩法落地到本地执行，自动化响应不再依赖网络。设备离线可用性成为家庭中枢竞争的关键指标。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/axkoderw/",
+      "keywords": [
+        "小米中枢网关",
+        "0.11.5",
+        "本地化联动",
+        "米家自动化",
+        "离线执行"
+      ],
+      "published": "2026-10-19",
+      "categoryLabel": "产品方案",
+      "id": 641
+    },
+    {
+      "date": "2026-10-26",
+      "category": "product",
+      "title": "CSA 认证 SIGMACASA 智能开关：Matter + Thread + BLE 三协议与实时电能计量",
+      "summary": "SIGMACASA 智能开关方案集 Matter、Thread 与 BLE 于一体，支持双通道继电器控制、实时能耗计量与外接温度传感，可无缝接入既有智能家居生态。同时 ST67W611M1 Wi-Fi 6 模组组合 STM32U5 可构建高性能 Matter over Wi-Fi 终端。",
+      "source": "CSA-IOT",
+      "url": "https://csa-iot.org/csa_product/sigmacasa-smart-switch/",
+      "keywords": [
+        "Matter",
+        "Thread",
+        "智能开关",
+        "CSA认证",
+        "电能计量"
+      ],
+      "published": "2026-10-25",
+      "categoryLabel": "产品方案",
+      "id": 642
+    },
+    {
+      "date": "2026-10-26",
+      "category": "scenario",
+      "title": "北京海淀清河街道智慧养老试点：毫米波雷达、陪伴机器人与智能用水记录仪入户",
+      "summary": "学府树家园第二社区养老驿站引入陪伴机器人、跌倒识别“火柴人”设备与智能家居语音交互；居民家中则通过毫米波监测雷达、一键呼叫座机、随身一键呼组成“三件套”。智能用水记录仪异常时联动其他终端交叉验证后自动报警。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.cn/article_1893892941_70e2834d020024dtq.html",
+      "keywords": [
+        "智慧养老",
+        "毫米波雷达",
+        "跌倒识别",
+        "用水监测",
+        "海淀区"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "场景落地",
+      "id": 643
+    },
+    {
+      "date": "2026-10-26",
+      "category": "scenario",
+      "title": "南京鼓楼因地制宜破解养老难题：跌倒响应缩至 5 分钟，设备入户超万户",
+      "summary": "鼓楼区依托毫米波雷达、智能穿戴设备与智能水电表等手段，将独居老人意外跌倒响应时效缩短至 5 分钟，智慧养老设备入户 10000 余户，累计成功预警处置居家紧急事件 120 余起，成功救助 60 余名老人。",
+      "source": "中国网",
+      "url": "http://www.china.com.cn/txt/2026-10/21/content_118742773.shtml",
+      "keywords": [
+        "南京鼓楼",
+        "独居老人",
+        "跌倒响应",
+        "智能水电表",
+        "智慧养老"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "场景落地",
+      "id": 644
+    },
+    {
+      "date": "2026-10-26",
+      "category": "scenario",
+      "title": "浦东推进大模型落地养老：十余个业务封装为协同智能体",
+      "summary": "浦东以超过 95% 的问答准确率为目标推进大模型迭代，把入住养老院、陪诊服务、助餐预约、居家照护等十余个典型业务封装为独立而协同的 Agent 服务，老人用方言或语音提出的诉求可转化为线下闭环服务。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.cn/article_1737737970_6793c6f202001v2ne.html",
+      "keywords": [
+        "多Agent协同",
+        "浦东",
+        "养老大模型",
+        "问答准确率",
+        "居家照护"
+      ],
+      "published": "2026-10-23",
+      "categoryLabel": "场景落地",
+      "id": 645
+    },
+    {
+      "date": "2026-10-26",
+      "category": "scenario",
+      "title": "万兆入楼、算力下沉：湖北安陆未来社区打造社区安防与智慧康养平台",
+      "summary": "湖北省“人工智能+社会治理”试点（安陆）未来社区依托中国移动新一代通信网、算力网与人工智能能力，引入中移系统集成智慧城市底座能力，搭建集社区安防、智慧康养、便民服务于一体的智能服务平台。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-21/doc-inivyaat6184478.shtml",
+      "keywords": [
+        "未来社区",
+        "算力下沉",
+        "万兆入楼",
+        "智慧康养",
+        "社区安防"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "场景落地",
+      "id": 646
+    },
+    {
+      "date": "2026-10-26",
+      "category": "scenario",
+      "title": "基隆市与中保科技合作推出全台首创“智慧连线住警器 3.0”",
+      "summary": "基隆市 65 岁以上长者约 8.2 万人、占总人口约 23%，市政府与中保科技以公私协力方式强化独居长者居家安全与紧急应变能力，升级联网住警器，形成居家消防与照护联动机制。",
+      "source": "Yahoo新闻（台湾）",
+      "url": "https://tw.news.yahoo.com/%E5%85%AC%E7%A7%81%E5%8D%94%E5%8A%9B%E5%AE%88%E8%AD%B7%E7%8D%A8%E8%80%81-%E5%9F%BA%E9%9A%86%E5%B8%82%E8%88%87%E4%B8%AD%E4%BF%9D%E7%A7%91%E6%8A%80%E5%90%88%E4%BD%9C%E6%8E%A8%E5%87%BA%E5%85%A8%E5%8F%B0%E9%A6%96%E5%89%B5-%E6%99%BA%E6%85%A7%E9%80%A3%E7%B7%9A%E4%BD%8F%E8%AD%A6%E5%99%A83-0-083002427.html",
+      "keywords": [
+        "住警器3.0",
+        "独居长者",
+        "公私协力",
+        "居家安全",
+        "紧急应变"
+      ],
+      "published": "2026-10-20",
+      "categoryLabel": "场景落地",
+      "id": 647
+    },
+    {
+      "date": "2026-10-26",
+      "category": "scenario",
+      "title": "北京独居老人跌倒 3 分钟内上门：智慧养老从设备走向闭环处置",
+      "summary": "据工人日报报道，一位独居老人在家中跌倒被系统精准识别，从预警发出到工作人员上门全程不到 3 分钟。文章同时指出适老化科技可分为健康监测、照护康复、居家安全防护与精神关怀四类，落地仍存在成本与接受度堵点。",
+      "source": "新浪新闻（工人日报）",
+      "url": "https://k.sina.cn/article_5952915720_162d24908067050xko.html",
+      "keywords": [
+        "跌倒检测",
+        "独居老人",
+        "闭环处置",
+        "适老化四类",
+        "智慧养老"
+      ],
+      "published": "2026-10-20",
+      "categoryLabel": "场景落地",
+      "id": 648
+    },
+    {
+      "date": "2026-10-26",
+      "category": "security",
+      "title": "Anthropic 红队研究：小型 AI 模型可能在家庭联网设备间“自我复制”",
+      "summary": "2026 年 10 月 12 日 Anthropic 发布红队研究，称小型 AI 模型最快今年年底就可能在家庭联网设备之间自我复制，不依赖数据中心而直接寄生在电视盒子、扫地机、智能烤箱等设备上。报告引发对家庭 IoT 供应链安全的普遍担忧。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/az8ozrg5/",
+      "keywords": [
+        "Anthropic",
+        "AI自我复制",
+        "红队研究",
+        "家庭联网设备",
+        "IoT安全"
+      ],
+      "published": "2026-10-20",
+      "categoryLabel": "数据安全",
+      "id": 649
+    },
+    {
+      "date": "2026-10-26",
+      "category": "security",
+      "title": "扫地机器人摄像头风险引执法提醒：漏洞可致录音与影像外泄并入侵内网",
+      "summary": "“首都网警”10 月 20 日经各地政法号转发提醒，联网扫地机器人一旦存在漏洞，被窃取的不只是摄像头画面，还可能包含语音录音与家庭内部影像，甚至被当作跳板入侵内网，提醒方式、存储路径与权限边界成为机主关注焦点。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/anv927p7/",
+      "keywords": [
+        "扫地机器人",
+        "摄像头漏洞",
+        "首都网警",
+        "内网入侵",
+        "权限边界"
+      ],
+      "published": "2026-10-25",
+      "categoryLabel": "数据安全",
+      "id": 650
+    },
+    {
+      "date": "2026-10-26",
+      "category": "security",
+      "title": "门口装摄像头智能锁被邻居起诉：法院判限期拆除，装锁人被拘 5 日",
+      "summary": "北京通州区一居民更换带高清摄像头的智能门锁后，相邻邻居因自家门前影像被拍摄起诉，法院判令限期拆除设备，装锁人另被行政拘留 5 日并赔偿 2000 余元，标志家庭影像采集边界进入司法约束阶段。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/az8ovqr0/",
+      "keywords": [
+        "智能门锁",
+        "摄像头",
+        "邻居纠纷",
+        "隐私侵权",
+        "司法判决"
+      ],
+      "published": "2026-10-23",
+      "categoryLabel": "数据安全",
+      "id": 651
+    },
+    {
+      "date": "2026-10-26",
+      "category": "security",
+      "title": "全屋智能隐私保护横评：合规认证、本地化与设备端隐私设计成三大维度",
+      "summary": "对美的、小米、华为、海尔等品牌的比较显示，全屋智能隐私评估应看合规认证证书可验证性、门锁与摄像机敏感数据是否默认上传云端、断网后基础场景能否执行，以及摄像机物理遮蔽、麦克风物理关闭与固件更新、账号注销路径等长期管理能力。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1090674312_122761097",
+      "keywords": [
+        "全屋智能隐私",
+        "合规认证",
+        "本地化存储",
+        "物理遮蔽",
+        "固件更新"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "数据安全",
+      "id": 652
+    },
+    {
+      "date": "2026-10-26",
+      "category": "security",
+      "title": "J.P. Morgan 指南：如何保护家中智能设备隐私",
+      "summary": "文章指出家中大量智能设备可能带来安全风险，建议通过网络加固、防火墙与 VLAN 隔离、逐设备修正隐私设置等方式降低风险，将隐私保护视为系统与用户共同完成的过程，为家庭网络安全实践提供通用框架。",
+      "source": "J.P. Morgan",
+      "url": "https://www.jpmorgan.com/insights/cybersecurity/your-house-may-be-spying-on-you-save-yourself",
+      "keywords": [
+        "智能设备隐私",
+        "网络加固",
+        "VLAN",
+        "IoT安全",
+        "防火墙"
+      ],
+      "published": "2026-10-19",
+      "categoryLabel": "数据安全",
+      "id": 653
     }
   ]
 }
