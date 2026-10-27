@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26",
+  "lastUpdated": "2026-10-27",
   "news": [
     {
       "id": 1,
@@ -11685,6 +11685,546 @@
       "published": "2026-10-19",
       "categoryLabel": "数据安全",
       "id": 653
+    },
+    {
+      "date": "2026-10-27",
+      "category": "tech",
+      "title": "Matter 1.6.1 首个平台落地，CSA 年内第三次发布标准小版本",
+      "summary": "连接标准联盟（CSA）于 2026 年 9 月悄然发布 Matter 1.6.1，这是继 Matter 1.4、1.5、1.6 之后今年内的第三个小版本维护更新。首个平台已开始适配该规范，摄像头设备类型首次纳入、NFC 配网等 1.6 能力正逐步落到实际产品上。对家庭网关与品牌方而言，协议维护节奏加快意味着产品固件排期需要更紧密跟进。",
+      "source": "Matter Smarthome (DE)",
+      "url": "https://matter-smarthome.de/en/development/matter-1-6-1-arrives-on-the-first-platforms/",
+      "keywords": [
+        "Matter 1.6.1",
+        "CSA",
+        "互联互通",
+        "智能家居标准",
+        "NFC配网"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "技术前沿",
+      "id": 654
+    },
+    {
+      "date": "2026-10-27",
+      "category": "tech",
+      "title": "Matter 1.6 拆墙规范落地，国内市场检验慢半拍",
+      "summary": "CSA 官方在 8 月底已通过演讲披露 Matter 1.5 到 1.6 的能力升级路径，宜家同期一口气发布 21 款支持 Matter 的新一代智能家居产品。但国内消费者端对固件是否支持、屏显与规则适配、断网可用性等仍存在认知落差，实际落地速度慢于标准发布节奏。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a5rx3erk/",
+      "keywords": [
+        "Matter 1.6",
+        "宜家",
+        "CSA",
+        "固件适配",
+        "双十一"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "技术前沿",
+      "id": 655
+    },
+    {
+      "date": "2026-10-27",
+      "category": "tech",
+      "title": "端侧 AI 崛起：算力竞争从云端转向终端设备",
+      "summary": "过去十年 AI 竞争主要围绕云端算力展开，生成式 AI 进入消费电子后，手机、PC、汽车、机器人等终端开始承担越来越多 AI 任务，芯片厂商在 SoC 中集成更强 NPU。Counterpoint 预计 2025 年具备生成式 AI 能力的手机 SoC 出货占比将达 35%，同比增长 74%，端侧算力正成为新的产业焦点。",
+      "source": "TLIndex Path Tools",
+      "url": "https://www.tlindexpathtools.com/news/2026-10-21_9ff27e.html",
+      "keywords": [
+        "端侧AI",
+        "NPU",
+        "SoC",
+        "消费电子",
+        "算力"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "技术前沿",
+      "id": 656
+    },
+    {
+      "date": "2026-10-27",
+      "category": "tech",
+      "title": "端侧大模型时代 NPU 进化：复杂任务更强，轻量任务更省电",
+      "summary": "NPU 通过专为 Transformer 优化的加速单元、大容量共享内存以及 MoE 架构的多精度支持实现进化，使端侧模型在提升复杂任务推理能力的同时降低轻量任务功耗。这一演进为 AI 智能体在多步骤任务中的高效执行铺路，也是家庭网关本地化部署智能体的算力基础。",
+      "source": "新浪新闻",
+      "url": "https://www.sina.cn/weibo/detail/5357673715337663.html",
+      "keywords": [
+        "NPU",
+        "Transformer",
+        "MoE",
+        "端侧大模型",
+        "AI智能体"
+      ],
+      "published": "2026-10-25",
+      "categoryLabel": "技术前沿",
+      "id": 657
+    },
+    {
+      "date": "2026-10-27",
+      "category": "tech",
+      "title": "华为鸿蒙智家升级至 NEXT Level，全屋智能从高端大宅拓展到平层",
+      "summary": "华为鸿蒙智家指出当前全屋智能标准多由欧美品牌主导，场景偏向高端大宅，不适合以平层为主要居住形态的中国消费者。随着解决方案成熟与品类扩充，鸿蒙智家已能提供更多档位产品，落地场景从住宅、酒店拓展到康养、办公等一体化智能空间。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3055877654712704",
+      "keywords": [
+        "鸿蒙智家",
+        "全屋智能",
+        "康养",
+        "一体化智能空间",
+        "华为"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "技术前沿",
+      "id": 658
+    },
+    {
+      "date": "2026-10-27",
+      "category": "tech",
+      "title": "合一智控发布边缘自控系统，打通建筑节能最后一平米",
+      "summary": "合一智控通过近四年研发实现硬件到软件、算法、协议与平台的全栈自研，是国内首个可规模推广的边缘自控系统。系统以人员存在感知为核心，实现从设备端节能到空间末端的管理节能，并用标准化极简控制器将空调、灯光、插座统一接入管理。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/2406236753945348",
+      "keywords": [
+        "边缘自控",
+        "全栈自研",
+        "存在感知",
+        "节能",
+        "控制器"
+      ],
+      "published": "2026-10-25",
+      "categoryLabel": "技术前沿",
+      "id": 659
+    },
+    {
+      "date": "2026-10-27",
+      "category": "policy",
+      "title": "市场监管总局批准发布 515 项重要国家标准，涉高新技术与安全生产等领域",
+      "summary": "市场监管总局（国家标准委）近日批准发布 515 项重要国家标准及国家标准化指导性技术文件，其中强制性国家标准 10 项、推荐性国家标准 466 项、指导性技术文件 39 项。相关内容涉及人工智能、人形机器人、工业环境机器人等 16 项国标，为 AI 与机器人产业划定安全底线。",
+      "source": "21经济网",
+      "url": "https://www.21jingji.com/article/20261023/herald/0b9a661832ba424183fa981ea651b3f5.html",
+      "keywords": [
+        "国家标准",
+        "市场监管总局",
+        "人工智能",
+        "强制性国标",
+        "标准化"
+      ],
+      "published": "2026-10-23",
+      "categoryLabel": "政策标准",
+      "id": 660
+    },
+    {
+      "date": "2026-10-27",
+      "category": "policy",
+      "title": "一批国家标准发布：发布人工智能、人形机器人等 16 项国标",
+      "summary": "该批国标通过划定安全底线、统一技术规范，赋能机器人与 AI 产业高质量发展。同期市场监管总局还批准发布 515 项重要国家标准，覆盖高新技术、传统产业、安全生产等方向，为智能家居相关产品与系统的安全合规提供统一技术依据。",
+      "source": "中国网",
+      "url": "http://news.china.com.cn/2026-10/24/content_118747262.shtml",
+      "keywords": [
+        "国家标准",
+        "人工智能",
+        "人形机器人",
+        "数据安全",
+        "市场监管总局"
+      ],
+      "published": "2026-10-24",
+      "categoryLabel": "政策标准",
+      "id": 661
+    },
+    {
+      "date": "2026-10-27",
+      "category": "policy",
+      "title": "统一互联标准发布后的第一个双11：智能家电还要装几个 APP",
+      "summary": "行业组织提出「强制性国家标准、统一认证标识、限期执行」的方案，但现阶段仍为建议，尚未有公开发布消息表明已成为正式标准。2026 CEIC 消费电子创新大会 10 月 22 日至 24 日在深圳会展中心举行，OneConnect 智能家居测试平台被列入议程。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/ak8lrnok/",
+      "keywords": [
+        "互联互通标准",
+        "CEIC",
+        "OneConnect",
+        "认证标识",
+        "双十一"
+      ],
+      "published": "2026-10-25",
+      "categoryLabel": "政策标准",
+      "id": 662
+    },
+    {
+      "date": "2026-10-27",
+      "category": "policy",
+      "title": "八部门智能家居文件落地一个月，双11 话术抢跑：先弄清三个「还没」",
+      "summary": "八部门文件原文要求「完善智能家居产品智能化分级评价标准体系，加快制定实施智能家居互联互通等强制性国家标准，加速推动全屋智能一体化融合发展」。文件落地一个月后，市场宣传中标准、认证等关键环节仍存在未落地环节，理性选购需分辨宣传与实际。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/agg53mn7/",
+      "keywords": [
+        "八部门文件",
+        "强制性国标",
+        "智能化分级评价",
+        "全屋智能",
+        "双十一"
+      ],
+      "published": "2026-10-23",
+      "categoryLabel": "政策标准",
+      "id": 663
+    },
+    {
+      "date": "2026-10-27",
+      "category": "policy",
+      "title": "美国监管焦点扩大：智能电表之外的敏感消费者数据",
+      "summary": "美国一项针对智能电表数据出售的新联邦法案，反映出监管层对日常技术可反推消费者行为的日益关注。监管视线已从智能电表扩展到联网汽车、可穿戴设备、恒温器、智能电视等物联网产品被动采集数据、消费者往往无感知的问题。",
+      "source": "Morgan Lewis",
+      "url": "https://www.morganlewis.com/pubs/2026/10/beyond-smart-meters-the-expanding-regulatory-focus-on-sensitive-consumer-data",
+      "keywords": [
+        "智能电表",
+        "隐私监管",
+        "物联网数据",
+        "联邦法案",
+        "智能电视"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "政策标准",
+      "id": 664
+    },
+    {
+      "date": "2026-10-27",
+      "category": "product",
+      "title": "苹果发布 Apple Home Collection 智能家居配件新阵容",
+      "summary": "苹果宣布推出 Apple Home Collection 全新智能家居配件产品线，与 LG Electronics 和施耐德电气合作打造。产品涵盖安防、照明与温控等品类，主打简单安装与更私密的 Apple Home 体验，标志着苹果正式补齐自有智能家居硬件版图。",
+      "source": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
+      "keywords": [
+        "Apple Home Collection",
+        "智能家居配件",
+        "施耐德电气",
+        "LG",
+        "Matter"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "产品方案",
+      "id": 665
+    },
+    {
+      "date": "2026-10-27",
+      "category": "product",
+      "title": "ST67W611 Wi-Fi 6 模组入列 CSA-IOT，可构建 Matter over Wi-Fi 终端",
+      "summary": "ST67W611M1 模组为 STM32 生态带来 Wi-Fi 6 连接能力，与 STM32U5 MCU 组合后可构建高性能 Matter over Wi-Fi 终端设备。CSA-IOT 认证目录的更新说明芯片侧对新版 Matter 规范的支撑已就绪，利好低成本家电与传感器厂商快速接入。",
+      "source": "CSA-IOT",
+      "url": "https://csa-iot.org/csa_product/stm32u5-st67w611/",
+      "keywords": [
+        "Matter over Wi-Fi",
+        "Wi-Fi 6",
+        "STM32U5",
+        "CSA认证",
+        "芯片模组"
+      ],
+      "published": "2026-10-24",
+      "categoryLabel": "产品方案",
+      "id": 666
+    },
+    {
+      "date": "2026-10-27",
+      "category": "product",
+      "title": "2026 年 10 月十大 Matter 兼容智能家居网关横评",
+      "summary": "文章横向比较 10 款 Matter 兼容智能家居中枢的协议支持、桥接能力与生态兼容性，为家庭网关选型提供参考。对智能家居方案集成方而言，网关的 Thread/Zigbee/Matter 桥接能力仍是决定互联互通上限的关键指标。",
+      "source": "Sharp Expert Lab",
+      "url": "https://sharpexpertlab.com/best-matter-compatible-smart-home-hubs/",
+      "keywords": [
+        "Matter网关",
+        "家庭网关",
+        "横评",
+        "智能家居中枢",
+        "选型"
+      ],
+      "published": "2026-10-24",
+      "categoryLabel": "产品方案",
+      "id": 667
+    },
+    {
+      "date": "2026-10-27",
+      "category": "product",
+      "title": "Home Assistant 可用 Matter 认证设备清单：13 款在售产品",
+      "summary": "文章列出 13 款在美国销售、型号级通过 CSA 认证且厂商页面明确提及支持 Home Assistant 的 Matter 产品，涵盖 4 款传感器、3 款中枢/桥接、2 款开关及窗帘电机、门锁、插座与温控器。其中 7 款使用 Thread，需额外部署 Thread 边界路由器。",
+      "source": "Matter Catalog",
+      "url": "https://mattercatalog.com/guides/best-matter-home-assistant-devices-2026",
+      "keywords": [
+        "Matter认证",
+        "Home Assistant",
+        "Thread",
+        "边界路由器",
+        "设备清单"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "产品方案",
+      "id": 668
+    },
+    {
+      "date": "2026-10-27",
+      "category": "product",
+      "title": "2026 全屋智能升级指南：华为、萤石、追觅按场景分档推荐",
+      "summary": "文章按场景给出全屋智能产品推荐，分析认为 Zigbee 3.0 相比传统 Wi-Fi 设备功耗更低、节点容量更大，适合中大户型组网。不同档位覆盖安防解锁、视频监控与全屋中控三类刚需，估算成本在千元级。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1091252282_122645258",
+      "keywords": [
+        "全屋智能",
+        "Zigbee 3.0",
+        "华为",
+        "萤石",
+        "追觅"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "产品方案",
+      "id": 669
+    },
+    {
+      "date": "2026-10-27",
+      "category": "product",
+      "title": "小米及家用双摄监控深度体验：按人群场景匹配选型",
+      "summary": "评测指出选型不应盲目追高：新手爸妈关注哭声检测与超微光全彩，养宠家庭更看重宠物行为识别与防拆警报，为独居老人做看护则大字体 UI、一键呼叫与跌倒预警算法更关键。所有场景均建议优先选择支持双频或 Wi-Fi 6 的型号。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1092525891_122645258",
+      "keywords": [
+        "家用摄像头",
+        "跌倒检测",
+        "哭声检测",
+        "Wi-Fi 6",
+        "场景选型"
+      ],
+      "published": "2026-10-25",
+      "categoryLabel": "产品方案",
+      "id": 670
+    },
+    {
+      "date": "2026-10-27",
+      "category": "scenario",
+      "title": "一键呼叫、助餐助浴、康复机器人：居家养老这样落地",
+      "summary": "养老陪护机器人搭载康养垂直大模型，具备情绪陪伴、安全巡检、健康用药管理等功能，适配居家与机构两类场景。通过空间感知技术识别老人跌倒后即刻触发预警，自主抵达现场开启双向视频通话，并联动后台话务平台快速救援。",
+      "source": "光明网",
+      "url": "https://life.gmw.cn/2026-10/26/content_39066307.htm",
+      "keywords": [
+        "居家养老",
+        "陪护机器人",
+        "跌倒预警",
+        "康养大模型",
+        "空间感知"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "场景落地",
+      "id": 671
+    },
+    {
+      "date": "2026-10-27",
+      "category": "scenario",
+      "title": "AI 打开养老新世界：无感式水电守护探索智能居家监测",
+      "summary": "适老科技可分为健康监测、照护康复、居家安全防护与精神关怀四类，毫米波雷达、智能床垫等健康监测应用已逐步普及。广州市民政局介绍的水电守护属于无感式监测，具有无打扰、无隐私压力、无须老人主动操作、低运维成本等优势。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-10-25/doc-iniwmpax3233109.shtml",
+      "keywords": [
+        "适老科技",
+        "毫米波雷达",
+        "智能水电表",
+        "无感监测",
+        "居家养老"
+      ],
+      "published": "2026-10-25",
+      "categoryLabel": "场景落地",
+      "id": 672
+    },
+    {
+      "date": "2026-10-27",
+      "category": "scenario",
+      "title": "浦东以 95% 问答准确率为目标推进大模型迭代，多 Agent 协同落地养老",
+      "summary": "浦东以人机 PK 赛成果为基础推进大模型迭代，将入住养老院、陪诊服务、助餐预约、居家照护等十余个典型业务封装为独立而协同的智能体（Agent）服务。老人用方言或语音提出诉求即可转化为线下闭环服务，形成多 Agent 协同的典型落地范式。",
+      "source": "网易",
+      "url": "https://www.163.com/dy/article/L9UOTJAD055040N3.html",
+      "keywords": [
+        "多Agent协同",
+        "养老服务",
+        "浦东",
+        "智能体",
+        "语音交互"
+      ],
+      "published": "2026-10-23",
+      "categoryLabel": "场景落地",
+      "id": 673
+    },
+    {
+      "date": "2026-10-27",
+      "category": "scenario",
+      "title": "广交会 AI 落地延展：体征监测床垫打造昼夜协同看护",
+      "summary": "获广交会设计创新奖的体征监测床垫可实时监测心率、呼吸率与翻身等体征，支持语音紧急报警和自主学习。方案按「昼夜协同」设计，夜间用床垫无感监测、白天佩戴智能健康戒指追踪心率血氧体温，突发状况可敲击戒指标配触控板求救。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-10-25/doc-iniwncym9657124.shtml",
+      "keywords": [
+        "体征监测床垫",
+        "广交会",
+        "智能戒指",
+        "方言呼救",
+        "智慧养老"
+      ],
+      "published": "2026-10-25",
+      "categoryLabel": "场景落地",
+      "id": 674
+    },
+    {
+      "date": "2026-10-27",
+      "category": "scenario",
+      "title": "南京鼓楼发布银发经济场景机会清单，AI 陪伴机器人首次亮相",
+      "summary": "鼓楼区今年发布银发经济场景机会清单，围绕智慧生活、医养服务、安全守护、产业载体等方向，聚焦长者群体在居家、助医、助行方面的实际需求，推出一批可合作可落地的场景项目，AI 陪伴机器人在发布现场首次亮相。",
+      "source": "中国网",
+      "url": "http://www.china.com.cn/txt/2026-10/21/content_118742773.shtml",
+      "keywords": [
+        "银发经济",
+        "场景清单",
+        "AI陪伴机器人",
+        "南京鼓楼",
+        "居家助医"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "场景落地",
+      "id": 675
+    },
+    {
+      "date": "2026-10-27",
+      "category": "scenario",
+      "title": "2026 年智能电视适老化交互与 AI 改造报告",
+      "summary": "报告认为场景融合的终局不是单一大屏优化，而是以电视为中枢的全屋智能与社区服务生态，老年人客厅将演变为健康、社交与服务的入口。消费者调研中全屋智能联动深度融合以 37.79% 位列首位，显著高于 AI 交互升级与护眼低功耗。",
+      "source": "H33研报",
+      "url": "https://www.h33.top/report/20261024-0384",
+      "keywords": [
+        "适老化",
+        "智能电视",
+        "全屋智能",
+        "场景融合",
+        "消费者调研"
+      ],
+      "published": "2026-10-23",
+      "categoryLabel": "场景落地",
+      "id": 676
+    },
+    {
+      "date": "2026-10-27",
+      "category": "security",
+      "title": "黑客逆向三星电视：内置 AI 持续监听，语音链路疑涉第三方服务",
+      "summary": "安全研究员对自家 2025 款三星智能电视逆向分析，通过拆解固件与监控网络流量，发现电视并非仅在唤醒时处理语音，而是在后台持续采集与分析环境声音。相关语音数据处理链路疑似接入 OpenAI 服务接口，客厅对话可能被传送至第三方 AI 服务商解析。",
+      "source": "80aj",
+      "url": "https://www.80aj.com/2026/10/24/samsung-tv-ai-listening/",
+      "keywords": [
+        "三星电视",
+        "逆向工程",
+        "持续监听",
+        "语音数据",
+        "OpenAI"
+      ],
+      "published": "2026-10-24",
+      "categoryLabel": "数据安全",
+      "id": 677
+    },
+    {
+      "date": "2026-10-27",
+      "category": "security",
+      "title": "三星电视被曝内置卷积神经网络，监视观看、语音甚至人脸",
+      "summary": "分析称该模型从内容识别扩展到声学事件检测、外设麦克风嗅探乃至数据包记录，卷积神经网络文件按地区差异化加载，属于典型的边缘 AI 部署方案。事件可能推动智能电视领域隐私监管收紧，GDPR 及美国各州隐私法均可成为追责依据。",
+      "source": "80aj",
+      "url": "https://www.80aj.com/2026/10/24/samsung-tv-spying-cnn/",
+      "keywords": [
+        "卷积神经网络",
+        "边缘AI",
+        "声学事件检测",
+        "隐私监管",
+        "GDPR"
+      ],
+      "published": "2026-10-24",
+      "categoryLabel": "数据安全",
+      "id": 678
+    },
+    {
+      "date": "2026-10-27",
+      "category": "security",
+      "title": "TechRadar 核查：三星电视「秘密上报」争议基于部分错误假设",
+      "summary": "针对黑客指控三星智能电视软件进行秘密报告并探测已连接设备麦克风，TechRadar 核查后认为相关讨论建立在对三星已公开 marketed 功能的错误假设之上，不宜直接定性为隐私丑闻。事件仍凸显家庭 IoT 监听能力与用户知情权之间的落差。",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/televisions/a-hacker-claims-samsungs-smart-tv-software-is-doing-secret-reporting-and-looks-for-mics-on-connected-devices-but-this-doesnt-look-like-a-privacy-scandal-on-the-face-of-it",
+      "keywords": [
+        "三星电视",
+        "隐私争议",
+        "麦克风探测",
+        "知情权",
+        "核查"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "数据安全",
+      "id": 679
+    },
+    {
+      "date": "2026-10-27",
+      "category": "security",
+      "title": "智能电视借蓝牙音箱偷听，遥测数据含婴儿哭声与环境光标志位",
+      "summary": "log4j 发布的调查结果显示，电视遥测数据中包含 EV201/SOUNDSENSOR_ON 事件，下设狗叫计数与婴儿哭声计数，另有环境光传感器标志位、摄像头状态字段和摄像头流媒体时长字段，并以键值对形式上传服务器。家庭隐私数据采集的颗粒度远超出用户预期。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/tech/2026-10-26/detail-iniwprzx2320683.d.html",
+      "keywords": [
+        "遥测数据",
+        "蓝牙音箱",
+        "婴儿哭声",
+        "环境光传感器",
+        "隐私采集"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "数据安全",
+      "id": 680
+    },
+    {
+      "date": "2026-10-27",
+      "category": "security",
+      "title": "全屋隐私网关实践：用两台 NAS 藏起全家的 IP 与设备出口",
+      "summary": "作者家中三十余台设备长期裸连，网站、App 与各类 IoT 云均可见家宽 IP。通过自建主备网关与自建出口将全屋设备接入隐藏真实 IP，实践过程中遭遇智能床误响、婴儿摄像头无法出画、视频持续缓冲等具体问题。",
+      "source": "DIYGod",
+      "url": "https://diygod.cc/home-gateway/",
+      "keywords": [
+        "隐私网关",
+        "NAS",
+        "主备网关",
+        "IP隐藏",
+        "自建出口"
+      ],
+      "published": "2026-10-20",
+      "categoryLabel": "数据安全",
+      "id": 681
+    },
+    {
+      "date": "2026-10-27",
+      "category": "security",
+      "title": "全屋智能隐私保护横评：网联摄像头被纳入网络安全标识目录",
+      "summary": "2026 年 6 月网信办、工信部、公安部联合印发《实施网络安全标识的产品目录（第一批）》，消费类网联摄像头被纳入，配套《网络安全标识消费类网联摄像头安全要求》自 2026 年 7 月 1 日起实施，按基础级、增强级、领先级对应一至三星标识。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1090674312_122761097",
+      "keywords": [
+        "网络安全标识",
+        "网联摄像头",
+        "一星至三星",
+        "数据合规",
+        "全屋智能"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "数据安全",
+      "id": 682
+    },
+    {
+      "date": "2026-10-27",
+      "category": "security",
+      "title": "12315 智能设备投诉 15.2 万件，智能家居设备约 2.9 万件",
+      "summary": "市场监管总局公布的 2025 年消费维权数据显示，全国 12315 平台接收智能设备相关投诉举报 15.2 万件，同比增长 26.6%，其中智能家居设备约 2.9 万件，投诉集中在功能与宣传不符、售后困难、泄露个人信息等问题。低价设备用满一年「变砖」是典型痛点。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a82p9x9l/",
+      "keywords": [
+        "12315",
+        "智能设备投诉",
+        "设备变砖",
+        "信息泄露",
+        "消费者权益"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "数据安全",
+      "id": 683
     }
   ]
 }
