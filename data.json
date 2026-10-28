@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27",
+  "lastUpdated": "2026-10-28",
   "news": [
     {
       "id": 1,
@@ -12225,6 +12225,474 @@
       "published": "2026-10-26",
       "categoryLabel": "数据安全",
       "id": 683
+    },
+    {
+      "date": "2026-10-28",
+      "category": "tech",
+      "title": "边缘 AI 推理的状态协同：竞争焦点从算力层转向状态层",
+      "summary": "多数边缘 AI 项目的瓶颈不在模型算力，而在特征获取、会话对齐与难例回传等状态管理，导致端到端延迟远高于模型推理耗时。文章判断未来两三年边缘计算的竞争点将从“能不能跑模型”转向“能不能把状态管住”，并以 Redis 等状态层组件的职责边界为例展开分析。",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7699308376320213011",
+      "keywords": [
+        "边缘计算",
+        "边缘AI",
+        "状态协同",
+        "推理延迟",
+        "边缘盒子"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "技术前沿",
+      "id": 684
+    },
+    {
+      "date": "2026-10-28",
+      "category": "tech",
+      "title": "DeepSeek 开源 DeepInfer 推理引擎：首发同时支持英伟达与华为昇腾",
+      "summary": "DeepSeek 正式开源其 API 背后的生产级推理框架 DeepInfer，首发版本同时支持英伟达 Blackwell 架构与华为昇腾 950 系列芯片。该框架负责管理模型如何使用算力资源，直接影响延迟、吞吐与运行硬件，是影响 AI 运营成本的关键环节。",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7698923838285332514",
+      "keywords": [
+        "DeepSeek",
+        "DeepInfer",
+        "推理引擎",
+        "昇腾950",
+        "开源"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "技术前沿",
+      "id": 685
+    },
+    {
+      "date": "2026-10-28",
+      "category": "tech",
+      "title": "端侧 AI SoC 产业链梳理：国产厂商本地运行 7B 级模型能力成标配",
+      "summary": "端侧 AI 正从概念走向规模落地，瑞芯微等厂商以自研 NPU 的全场景端侧 SoC 为核心，可本地运行 7B 级轻量化大模型，覆盖 AI 平板、机器人、智能座舱等终端形态。产业链上游还包括多媒体 SoC、模组与算法方案商，端侧算力供给趋于完整。",
+      "source": "新浪",
+      "url": "https://www.sina.cn/weibo/detail/5356359868483382.html",
+      "keywords": [
+        "端侧AI",
+        "SoC",
+        "NPU",
+        "瑞芯微",
+        "本地大模型"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "技术前沿",
+      "id": 686
+    },
+    {
+      "date": "2026-10-28",
+      "category": "tech",
+      "title": "2026 年昇腾 AI 一体机选型：覆盖训练、推理与轻量本地部署",
+      "summary": "昇腾 AI 一体机产品线已形成从超节点、推理一体机到塔式工作站的完整梯度，分别面向大模型训练与高并发推理、千亿级 MoE 推理以及企业知识库、政务问答等轻量本地部署场景。文章梳理了主流品牌与选型思路，强调自主可控与算力密度两个关键判断维度。",
+      "source": "新浪",
+      "url": "https://k.sina.com.cn/article_5426766895_14375e42f00102znao.html",
+      "keywords": [
+        "昇腾",
+        "AI一体机",
+        "国产算力",
+        "推理部署",
+        "选型"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "技术前沿",
+      "id": 687
+    },
+    {
+      "date": "2026-10-28",
+      "category": "tech",
+      "title": "Matter 摄像头接入 Home Assistant：原生 WebRTC 直传流进展与限制",
+      "summary": "Home Assistant 合并请求为 Matter 摄像头新增原生 WebRTC 实体，媒体流可在浏览器与摄像头之间直连传输。但该实现仍有明显限制：静态图像为占位实现、流的选择为自动匹配，电池类摄像头常用的 offer 流程也尚未支持。",
+      "source": "ComputingForGeeks",
+      "url": "https://computingforgeeks.com/matter-cameras-vs-frigate/",
+      "keywords": [
+        "Matter",
+        "摄像头",
+        "HomeAssistant",
+        "WebRTC",
+        "家庭中枢"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "技术前沿",
+      "id": 688
+    },
+    {
+      "date": "2026-10-28",
+      "category": "policy",
+      "title": "首批数字家庭场景将在深圳、青岛等 6 城先行落地",
+      "summary": "国家发展改革委公布首批 136 项标志性重大应用场景项目清单，住房城乡建设部牵头报送的“数字家庭全产业链培育和开放场景”入选社会治理服务综合性应用场景。首批场景应用城市拟选取深圳、青岛、宁波、合肥、东莞、金华 6 个城市先行落地，以商品房、保障房、新建及老旧小区为载体推进。",
+      "source": "21财经",
+      "url": "https://m.21jingji.com/article/20261021/herald/2b8498fde04ca2f9a6e07a3fa2d83326.html",
+      "keywords": [
+        "数字家庭",
+        "应用场景",
+        "发改委",
+        "城市试点",
+        "住房城乡建设部"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "政策标准",
+      "id": 689
+    },
+    {
+      "date": "2026-10-28",
+      "category": "policy",
+      "title": "六城市将开展数字家庭建设 分层分类打造实践样板",
+      "summary": "首批数字家庭场景应用城市将搭建多方协同的长效工作机制，围绕数字家庭标准体系、产品与平台互联互通等关键技术集中攻坚，并探索打造多个数字家庭产业基地。政策与产业场景结合，对智慧家庭产业链形成中长期需求支撑。",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/20261027/7aa885aaf6be49cfac92db2508f42824/c.html",
+      "keywords": [
+        "数字家庭",
+        "标准体系",
+        "互联互通",
+        "产业基地",
+        "样板城市"
+      ],
+      "published": "2026-10-27",
+      "categoryLabel": "政策标准",
+      "id": 690
+    },
+    {
+      "date": "2026-10-28",
+      "category": "policy",
+      "title": "智能家居不会统一：苹果押注体验，中国推进互联互通强制国标",
+      "summary": "西方阵营以 Matter 收口互联互通，Apple Home Collection 配件全系支持 Thread 与 Matter；同期中国侧的《智能家居互联互通》系列已列入强制性国家标准制修订计划公开征求意见项目。两条路径并行推进，短期内多标准共存格局不会改变。",
+      "source": "腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20261023A0998Q00",
+      "keywords": [
+        "智能家居",
+        "Matter",
+        "强制国标",
+        "互联互通",
+        "标准竞争"
+      ],
+      "published": "2026-10-24",
+      "categoryLabel": "政策标准",
+      "id": 691
+    },
+    {
+      "date": "2026-10-28",
+      "category": "policy",
+      "title": "家电国补即将停止？多地回应：额度充足",
+      "summary": "针对 2026 年家电以旧换新补贴是否即将到期的传闻，多地商务部门回应额度充足。政策覆盖 1 级能效的冰箱、洗衣机、电视、空调、热水器、电脑等 6 类家电，以及单价不超过 6000 元的手机、平板、智能手表与智能眼镜，补贴比例为最终售价的 15%。",
+      "source": "网易",
+      "url": "https://www.163.com/dy/article/L9UMKMC20534A4SC.html",
+      "keywords": [
+        "家电以旧换新",
+        "国补",
+        "能效",
+        "智能产品补贴",
+        "促消费"
+      ],
+      "published": "2026-10-23",
+      "categoryLabel": "政策标准",
+      "id": 692
+    },
+    {
+      "date": "2026-10-28",
+      "category": "policy",
+      "title": "开源鸿蒙互联接口获工信部行业标准立项",
+      "summary": "在统一互联标准发布后，产业组织披露开源鸿蒙的互联接口已获工信部行业标准立项。目前落地的 OneConnect 智家标准属联盟牵头、企业参与的团体与行业层面规范，强制性国家标准、统一认证标识等仍停留在代表建议阶段。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/ak8lrnok/",
+      "keywords": [
+        "开源鸿蒙",
+        "OneConnect",
+        "工信部",
+        "行业标准",
+        "互联接口"
+      ],
+      "published": "2026-10-25",
+      "categoryLabel": "政策标准",
+      "id": 693
+    },
+    {
+      "date": "2026-10-28",
+      "category": "product",
+      "title": "Aqara 全面拥抱 Matter：三条互联边界与中枢网关选型建议",
+      "summary": "文章梳理 Aqara 接入 Matter 后的三条互联边界，建议全屋已基于 Zigbee 的用户不必为 Matter 重新组网，而是借双 11 折扣把中枢升级为支持桥接的双协议型号（如支持 Zigbee 与 Thread 的网关）。设备量大时可选定位“网关的网关”的本地管理型中枢。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a70p3p0l/",
+      "keywords": [
+        "Aqara",
+        "Matter",
+        "Zigbee",
+        "中枢网关",
+        "Thread"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "产品方案",
+      "id": 694
+    },
+    {
+      "date": "2026-10-28",
+      "category": "product",
+      "title": "Apple Home Collection 全系解析：智能门锁、视频门铃与安防摄像头",
+      "summary": "苹果于 2026 年 10 月发布 Apple Home Collection 智能家居配件系列，与 LG 电子、施耐德电气联合研发，涵盖智能门锁、视频门铃、内外安防摄像头、温控器与温湿度传感器，售价 199.95 至 399.95 美元。全系支持 Thread 与 Matter，可接入 Apple Home 及第三方生态，2026 年 12 月起陆续发售。",
+      "source": "微博",
+      "url": "https://weibo.com/2/detail/comos:niwrzht4566109",
+      "keywords": [
+        "Apple",
+        "HomeCollection",
+        "Matter",
+        "智能门锁",
+        "视频门铃"
+      ],
+      "published": "2026-10-27",
+      "categoryLabel": "产品方案",
+      "id": 695
+    },
+    {
+      "date": "2026-10-28",
+      "category": "product",
+      "title": "家用智能摄像头深度体验：海雀、萤石、RAXCH、360 四条技术路线分化",
+      "summary": "实测显示家用摄像头已明显分化：海雀走软硬协同与大模型持续学习路线，萤石 H9c 以双摄加声光震做主动安防，RAXCH 以三镜头做广域覆盖并强化 IP66 与长距夜视，360 9Pro 则把 AI 识别与隐私安全下放到入门价位。选购应围绕核心诉求而非单纯像素。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1092525051_122645258",
+      "keywords": [
+        "家用摄像头",
+        "AI识别",
+        "主动安防",
+        "多摄",
+        "选购"
+      ],
+      "published": "2026-10-25",
+      "categoryLabel": "产品方案",
+      "id": 696
+    },
+    {
+      "date": "2026-10-28",
+      "category": "product",
+      "title": "智能门锁选购三维度：AI 大模型与天地双摄成核心分水岭",
+      "summary": "2026 年智能门锁已从“能用”走向“懂你”，AI 大模型与双摄融合成为分水岭：小米 5Max 引入 AI 大模型与 192° 鱼眼，凯迪仕 i60 Ultra 配备天地双摄与 8000mAh 无线充，萤石 Y5000FVX Ultra 主打 AI 识别。选购需从 AI 能力、适老看护与生态兼容三个维度判断。",
+      "source": "微博",
+      "url": "https://weibo.com/2/detail/comos:niwmhux6562729",
+      "keywords": [
+        "智能门锁",
+        "AI大模型",
+        "双摄",
+        "适老看护",
+        "生态兼容"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "产品方案",
+      "id": 697
+    },
+    {
+      "date": "2026-10-28",
+      "category": "product",
+      "title": "边缘计算网关选型：CPU、接口与软件栈的系统性考量",
+      "summary": "边缘计算型网关在协议转换基础上增加边缘侧存储与计算能力，可本地缓存 7 至 30 天历史数据并运行清洗、异常检测等轻量逻辑。硬件建议 4 核 ARM Cortex-A53 或 Intel Atom 级别、2-4GB 内存、16-64GB 存储，软件栈需支持 Docker 与 EdgeX Foundry、EMQX Kuiper 等边缘框架。",
+      "source": "涛思数据",
+      "url": "https://www.taosdata.com/iiot-knowledge/39954.html",
+      "keywords": [
+        "边缘网关",
+        "选型",
+        "协议转换",
+        "Docker",
+        "边缘框架"
+      ],
+      "published": "2026-10-23",
+      "categoryLabel": "产品方案",
+      "id": 698
+    },
+    {
+      "date": "2026-10-28",
+      "category": "scenario",
+      "title": "家庭智能看护选型：小米移动看护屏的声纹识别与本地隐私模式",
+      "summary": "小米的带屏可移动看护机以 500 万像素主摄加声纹算法实现咳嗽、哭声与异常响应的秒级推送，误报率较低，且支持镜头物理遮挡后的数据完全离线处理。该方案适合母婴精细化看护，开放式大户型建议搭配多机位组网。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1091248802_122645258",
+      "keywords": [
+        "家庭看护",
+        "声纹识别",
+        "本地隐私",
+        "看护屏",
+        "多机位"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "场景落地",
+      "id": 699
+    },
+    {
+      "date": "2026-10-28",
+      "category": "scenario",
+      "title": "远程守护老人：定位围栏与防诈家庭联防成为标配",
+      "summary": "面向老人的远程守护方案以手机品牌原生能力加国家反诈中心 APP 组合为主，定位围栏与诈骗号码同步拦截是核心功能，华为与荣耀鸿蒙方案的定位围栏和诈骗同步体验最稳。所有方案都必须以老人本人授权为前提。",
+      "source": "新浪",
+      "url": "https://k.sina.cn/article_7879996819_1d5af3593068020hbq.html",
+      "keywords": [
+        "适老看护",
+        "定位围栏",
+        "反诈",
+        "家庭联防",
+        "鸿蒙"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "场景落地",
+      "id": 700
+    },
+    {
+      "date": "2026-10-28",
+      "category": "scenario",
+      "title": "适老科技四大分类：健康监测、照护康复、居家安全与精神关怀",
+      "summary": "业内将适老化科技归纳为健康监测类、照护与康复类、居家安全防护类和精神关怀类四类。健康监测方向已相对普及，典型设备包括监测心率血压的智能手环、毫米波雷达与智能床垫，AI 在慢病预警与生命体征监测中的价值突出。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-10-25/doc-iniwmpax3233109.shtml",
+      "keywords": [
+        "适老化",
+        "养老",
+        "健康监测",
+        "毫米波雷达",
+        "慢病预警"
+      ],
+      "published": "2026-10-25",
+      "categoryLabel": "场景落地",
+      "id": 701
+    },
+    {
+      "date": "2026-10-28",
+      "category": "scenario",
+      "title": "数字家庭全产业链培育和开放场景入选首批重大应用场景清单",
+      "summary": "该场景聚焦完善标准体系、攻坚核心技术、丰富应用场景三条主线，推动数字家庭产品与建筑一体化深度融合，对接“十五五”规划提出的“安全舒适绿色智慧的好房子”与老旧房改造方向，有望带动万亿级消费市场潜力。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1092946934_121106991",
+      "keywords": [
+        "数字家庭",
+        "重大应用场景",
+        "好房子",
+        "标准体系",
+        "消费市场"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "场景落地",
+      "id": 702
+    },
+    {
+      "date": "2026-10-28",
+      "category": "scenario",
+      "title": "AI 陪伴机器人家庭场景横评：四款产品的场景边界划分",
+      "summary": "以 enabot EBO Air 2 Plus 等产品为例，家庭陪伴机器人已形成清晰的能力分层：TOF 避障、3K 夜视与自动回充组合适合全屋安防与老人宠物看护，其他产品则侧重情感对话与家庭陪伴。选购应按核心看护目标而非功能堆砌决定。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1092807383_122645060",
+      "keywords": [
+        "陪伴机器人",
+        "家庭看护",
+        "避障",
+        "夜视",
+        "情感交互"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "场景落地",
+      "id": 703
+    },
+    {
+      "date": "2026-10-28",
+      "category": "scenario",
+      "title": "云边端算力分层落地：轻量化推理下沉边缘节点的实践路径",
+      "summary": "以病理 AI 为例说明算力分层方法：云端承担训练与多中心验证等重计算，边缘节点部署轻量化推理模型实现“阅片即推理”的常驻服务，端侧承接低时延交互。相比全云或全本地，按场景拆分为三层可同时兼顾带宽时延与数据合规。",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7700753560883118121",
+      "keywords": [
+        "云边端",
+        "算力分层",
+        "边缘推理",
+        "隐私合规",
+        "轻量化模型"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "场景落地",
+      "id": 704
+    },
+    {
+      "date": "2026-10-28",
+      "category": "security",
+      "title": "84 款 App 违法违规收集个人信息被通报",
+      "summary": "依据《关于开展 2026 年个人信息保护系列专项行动的公告》与《个人信息保护法》《网络数据安全管理条例》等规定，国家计算机病毒应急处理中心检测发现 84 款移动应用存在违法违规收集使用个人信息情形，典型问题包括首次运行未弹窗提示隐私政策、默认勾选同意等。",
+      "source": "新浪",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908si5c.html",
+      "keywords": [
+        "个人信息保护",
+        "App通报",
+        "网信办",
+        "隐私政策",
+        "专项行动"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "数据安全",
+      "id": 705
+    },
+    {
+      "date": "2026-10-28",
+      "category": "security",
+      "title": "《网络数据安全管理条例》个人信息保护规则要点梳理",
+      "summary": "文章梳理从《数据安全法》《个人信息保护法》到《网络数据安全管理条例》的制度演进脉络，并逐条解析条例第三章个人信息保护部分。该部分细化告知、同意与个人权利规则，要求个人信息处理规则集中公开展示、易于访问并置于醒目位置。",
+      "source": "犀术智法",
+      "url": "https://legis.wiki/news/draft-af3da5b7-1152-46dc-a669-0813ebc51e1c/",
+      "keywords": [
+        "网络数据安全管理条例",
+        "个人信息保护",
+        "告知同意",
+        "数据合规",
+        "监管"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "数据安全",
+      "id": 706
+    },
+    {
+      "date": "2026-10-28",
+      "category": "security",
+      "title": "智能摄像头远程代码执行（RCE）漏洞分析与 POC",
+      "summary": "该漏洞影响一款在售的智能摄像头，攻击者可通过特定方式获取设备控制权，实现查看与录制实时视频、控制云台移动等恶意操作。文中给出漏洞概述与 POC 分析，提醒家庭用户及时更新固件并避免将摄像头直接暴露于公网。",
+      "source": "Shenlong CVE Platform",
+      "url": "https://cve.imfht.com/intel/875692",
+      "keywords": [
+        "智能摄像头",
+        "RCE",
+        "漏洞",
+        "POC",
+        "设备安全"
+      ],
+      "published": "2026-10-27",
+      "categoryLabel": "数据安全",
+      "id": 707
+    },
+    {
+      "date": "2026-10-28",
+      "category": "security",
+      "title": "全屋智能隐私保护横评：合规认证、本地化与设备端隐私设计",
+      "summary": "2026 年 6 月国家网信办、工信部、公安部联合印发实施网络安全标识的产品目录（第一批），消费类网联摄像头被纳入，配套安全要求自 2026 年 7 月 1 日起实施，按基础级、增强级、领先级对应一至三星标识。美的、小米、华为、海尔在隐私实现路径上各有侧重。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1090674312_122761097",
+      "keywords": [
+        "隐私保护",
+        "网络安全标识",
+        "网联摄像头",
+        "数据本地化",
+        "全屋智能"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "数据安全",
+      "id": 708
+    },
+    {
+      "date": "2026-10-28",
+      "category": "security",
+      "title": "智能家居网络加固实践：网络隔离、防火墙与逐设备隐私设置",
+      "summary": "文章给出家庭网络安全加固的可执行清单，核心是锁定网络、配置防火墙与 VLAN 进行网络隔离，并逐台设备核查隐私设置。相较于单纯修改账号密码，网络分区与默认凭证治理是阻断家庭设备横向移动的关键手段。",
+      "source": "Nerdy Home Tech",
+      "url": "https://nerdyhometech.com/security/smart-home-security/",
+      "keywords": [
+        "网络安全",
+        "VLAN",
+        "防火墙",
+        "设备隔离",
+        "家庭防护"
+      ],
+      "published": "2026-10-21",
+      "categoryLabel": "数据安全",
+      "id": 709
     }
   ]
 }
