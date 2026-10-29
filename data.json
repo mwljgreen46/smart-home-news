@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28",
+  "lastUpdated": "2026-10-29",
   "news": [
     {
       "id": 1,
@@ -12693,6 +12693,420 @@
       "published": "2026-10-21",
       "categoryLabel": "数据安全",
       "id": 709
+    },
+    {
+      "date": "2026-10-29",
+      "category": "tech",
+      "title": "Home Assistant Matter Server 1.5.0 beta 引入 Matter 1.6.1 与摄像头双向对讲",
+      "summary": "Home Assistant 的 Matter Server 1.5.0 beta 已完成 Matter 1.6.1 规范的基础适配，并新增摄像头对讲（Camera Talkback）能力。同期加入了对 Aqara 与 IKEA 硬件的支持，开放生态在 Matter 1.6 之后继续扩展设备类型与联动能力。",
+      "source": "GeekVintage",
+      "url": "https://geekvintage.com/general/home-assistant-s-matter-server-adds-matter-1-6-1-camera-talkback-and-ikea-hardwa/",
+      "keywords": [
+        "Matter 1.6.1",
+        "Home Assistant",
+        "摄像头对讲",
+        "IKEA",
+        "Aqara"
+      ],
+      "published": "2026-10-24",
+      "categoryLabel": "技术前沿",
+      "id": 710
+    },
+    {
+      "date": "2026-10-29",
+      "category": "tech",
+      "title": "30B 大模型进驻手机：端侧推理引擎开启自主迭代之路",
+      "summary": "端侧部署 30B 级模型的核心约束是内存瓶颈，产业形成两条并行路径：一是通过量化压缩改造模型，二是保持模型原样、在推理引擎层面削减系统开销。端侧 AI 基础设施层目前尚无被行业广泛认可的标准方案，引擎路线仍有较大窗口期。",
+      "source": "53AI",
+      "url": "https://www.53ai.com/news/zhinengyingjian/2026102756240.html",
+      "keywords": [
+        "端侧大模型",
+        "推理引擎",
+        "30B参数",
+        "内存优化",
+        "端侧AI基础设施"
+      ],
+      "published": "2026-10-27",
+      "categoryLabel": "技术前沿",
+      "id": 711
+    },
+    {
+      "date": "2026-10-29",
+      "category": "tech",
+      "title": "端侧 AI 芯片的机遇与挑战：存算一体与 3D 近存成融资主线",
+      "summary": "随着推理成为 AI 算力的主要消耗，把推理留在终端完成的端侧 AI 被视为下一轮增长点。2026 年 9 月国内近十家端侧 AI 芯片企业单月披露融资超 30 亿元，资金集中于存算一体与 3D 近存方向；瑞芯微、爱芯元智等出货平台型公司业绩已开始兑现。",
+      "source": "网易（老王看产业）",
+      "url": "https://www.163.com/dy/article/LA6DRHV20511RIVP.html",
+      "keywords": [
+        "端侧AI芯片",
+        "存算一体",
+        "3D近存",
+        "国产芯片",
+        "推理"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "技术前沿",
+      "id": 712
+    },
+    {
+      "date": "2026-10-29",
+      "category": "tech",
+      "title": "国产大模型用上全国产算力：科大讯飞端云一体协同架构提速",
+      "summary": "科大讯飞在国产算力平台上完成训练到推理的全栈自主可控实践，通过长程任务动态并行训练使超长上下文训练效率提升约 4 倍，自适应存算协同推理使推理效率提升 4.5 倍。新端云一体协同架构可按任务难度、端侧能力动态分配算力负载。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/LA7S1M4S0514R9M0.html",
+      "keywords": [
+        "国产算力",
+        "端云一体",
+        "科大讯飞",
+        "存算协同",
+        "推理效率"
+      ],
+      "published": "2026-10-27",
+      "categoryLabel": "技术前沿",
+      "id": 713
+    },
+    {
+      "date": "2026-10-29",
+      "category": "tech",
+      "title": "物联网边缘计算分层架构：设备端感知、网关端决策、云端全局分析",
+      "summary": "边缘计算在智能家居中的典型架构是设备端、网关端与云端三层：设备端负责感知与指令执行，网关端承担核心边缘计算任务，云端负责全局分析与长期存储。管理平台实现“云上管控、边缘执行”，边缘节点可远程下发 AI 模型与算法。",
+      "source": "技象科技",
+      "url": "https://www.techphant.cn/blog/109640.html",
+      "keywords": [
+        "边缘计算",
+        "云边端",
+        "物联网网关",
+        "分层架构",
+        "模型下发"
+      ],
+      "published": "2026-10-28",
+      "categoryLabel": "技术前沿",
+      "id": 714
+    },
+    {
+      "date": "2026-10-29",
+      "category": "tech",
+      "title": "讯飞星火更新 X2.6-4B 端侧通用大模型，原生支持百万词元上下文",
+      "summary": "科大讯飞旗下词元星火更新 X2.6-4B 端侧模型，原生支持最长 100 万词元上下文，并提升智能体、代码、长文本、数学与推理能力。端云协同被视为 AI 落地的关键堵点，4B 级端侧模型成为家庭与轻量设备场景的现实基线。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.cn/article_5953740931_162dee0830670436w8.html",
+      "keywords": [
+        "星火",
+        "端侧模型",
+        "4B",
+        "端云协同",
+        "长上下文"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "技术前沿",
+      "id": 715
+    },
+    {
+      "date": "2026-10-29",
+      "category": "policy",
+      "title": "黑龙江发布 2026 年智能家居（自主品类）购新补贴实施细则（修订版）",
+      "summary": "黑龙江省商务厅等 6 部门印发 2026 年智能家居（含适老化家居产品）购新补贴实施细则修订版，并同步启动年度政策参与市场主体选定工作。地方以财政补贴拉动智能家居与适老化产品消费，是继八部门文件后落到省级的落地抓手。",
+      "source": "黑龙江省人民政府",
+      "url": "https://www.hlj.gov.cn/hljzqc/c100117/202610/c00_31982940.shtml",
+      "keywords": [
+        "智能家居",
+        "购新补贴",
+        "适老化家居",
+        "消费促进",
+        "地方政策"
+      ],
+      "published": "2026-10-24",
+      "categoryLabel": "政策标准",
+      "id": 716
+    },
+    {
+      "date": "2026-10-29",
+      "category": "policy",
+      "title": "智能体安全迎来“强制时代”：全球首部智能体安全国标立项",
+      "summary": "我国以强制性国家标准形式为智能体安全划定底线，全球首部智能体安全国标正式立项。随着智能体从“建议层”进入“行动层”，其越权执行带来的风险对传统合规框架构成根本性挑战，智能体治理规则密集出台。",
+      "source": "腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20261003A08ZGX00",
+      "keywords": [
+        "智能体安全",
+        "强制性国标",
+        "AI Agent",
+        "合规",
+        "标准立项"
+      ],
+      "published": "2026-10-03",
+      "categoryLabel": "政策标准",
+      "id": 717
+    },
+    {
+      "date": "2026-10-29",
+      "category": "policy",
+      "title": "市场监管总局批准发布 515 项重要国家标准，涵盖高新技术与百姓生活领域",
+      "summary": "市场监管总局（国家标准委）批准发布 515 项重要国家标准及国家标准化指导性技术文件，其中强制性国家标准 10 项、推荐性国家标准 466 项、指导性技术文件 39 项，覆盖高新技术、传统产业、安全生产与百姓生活，为智能家居等民生硬件产品提供统一技术依据。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1093084132_121107000",
+      "keywords": [
+        "国家标准",
+        "市场监管总局",
+        "强制性标准",
+        "智能家居",
+        "标准体系"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "政策标准",
+      "id": 718
+    },
+    {
+      "date": "2026-10-29",
+      "category": "policy",
+      "title": "智能家居标准加速，消费体验从“会联网”转向“真好用”",
+      "summary": "智能家居产品正从单品联网走向全屋协同，随之出现质量安全、隐私保护与售后责任等新问题。市场监管总局此前发布智能家用电器质量安全风险分类评价国家标准，明确产品硬件、控制系统、网络传输与消费者反诈的责任边界。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a5rxnpn7/",
+      "keywords": [
+        "智能家居标准",
+        "风险分类评价",
+        "全屋协同",
+        "售后责任",
+        "消费体验"
+      ],
+      "published": "2026-10-15",
+      "categoryLabel": "政策标准",
+      "id": 719
+    },
+    {
+      "date": "2026-10-29",
+      "category": "product",
+      "title": "苹果九款智能家居新品官宣：门锁、摄像头全线进入 Apple Home Collection",
+      "summary": "苹果联合 LG、施耐德电气推出覆盖智能门锁、视频门铃、安防摄像头、温控器的 Apple Home Collection 系列，起售价 199.95 美元、12 月起发售。全系支持 Thread 与 Matter，iCloud+ 端到端加密，智能门锁支持 Home Key 免密开门。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a6zpvgx0/",
+      "keywords": [
+        "Apple Home Collection",
+        "智能门锁",
+        "Matter",
+        "Thread",
+        "Home Key"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "产品方案",
+      "id": 720
+    },
+    {
+      "date": "2026-10-29",
+      "category": "product",
+      "title": "智能锁下半场：比功能更重要的，是门锁适配与长期可靠",
+      "summary": "行业从堆功能转向解决真实适配问题，盼盼推出覆盖多场景的产品矩阵：PH7410M 主力款采用 3D 人脸加掌静脉双识别与 4.5 英寸室内大屏，PF7390M 面向高端，PF7330M 为户外防水款，PF7240M 为耐火款，适配不同户型与安全诉求。",
+      "source": "新浪家居",
+      "url": "https://jiaju.sina.com.cn/news-ZG202610231424150001.html",
+      "keywords": [
+        "智能门锁",
+        "3D人脸",
+        "掌静脉",
+        "产品矩阵",
+        "场景适配"
+      ],
+      "published": "2026-10-23",
+      "categoryLabel": "产品方案",
+      "id": 721
+    },
+    {
+      "date": "2026-10-29",
+      "category": "product",
+      "title": "六款主流单 App 控制全屋方案对比：本地联动成核心选型指标",
+      "summary": "对比绿米 Aqara、美的、华为等主流方案，选型应从五个维度考量，首要是本地联动与断网可用性——如美的在网关加持下把触发、判断、执行收拢在局域网内完成。此外还要评估全品类覆盖能力，避免拼凑式智能带来的体验割裂。",
+      "source": "中关村在线",
+      "url": "https://news.zol.com.cn/1266/12660105.html",
+      "keywords": [
+        "全屋智能",
+        "单App控制",
+        "本地联动",
+        "断网可用",
+        "方案选型"
+      ],
+      "published": "2026-10-28",
+      "categoryLabel": "产品方案",
+      "id": 722
+    },
+    {
+      "date": "2026-10-29",
+      "category": "product",
+      "title": "海信 Moii H1 AI 陪伴机器人：移动监控与全屋中控节点双身份",
+      "summary": "Moii H1 支持全屋巡航与自适应巡检，白天无人时段自动进入低功耗待机以兼顾隐私；产品不止是摄像头，同时作为智能家居中控节点，可通过语音或 App 联动跨品牌智能灯光、窗帘与空调，兼具“移动探头+IoT 网关”双重价值。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1093783597_122645060",
+      "keywords": [
+        "AI陪伴机器人",
+        "全屋巡航",
+        "IoT网关",
+        "低功耗待机",
+        "中控节点"
+      ],
+      "published": "2026-10-28",
+      "categoryLabel": "产品方案",
+      "id": 723
+    },
+    {
+      "date": "2026-10-29",
+      "category": "scenario",
+      "title": "大华股份以数字化技术破解适老照护难题",
+      "summary": "在机构照护场景中，大华以 AI 视觉与音频分析搭配非接触感知设备，兼顾安全监测与长者隐私保护；智慧呼叫系统打通床头呼叫器、护理手表与护士站 PDA，区分告警紧急等级并可设夜间静音模式，烟感、燃气探测、智能空开、明厨亮灶等配套同步就位。",
+      "source": "人民网浙江频道",
+      "url": "http://zj.people.com.cn/n2/2026/1028/c186327-41734945.html",
+      "keywords": [
+        "适老照护",
+        "非接触感知",
+        "智慧呼叫",
+        "隐私保护",
+        "机构养老"
+      ],
+      "published": "2026-10-28",
+      "categoryLabel": "场景落地",
+      "id": 724
+    },
+    {
+      "date": "2026-10-29",
+      "category": "scenario",
+      "title": "毫米波雷达走进卧室，AI 打开养老新世界",
+      "summary": "适老化科技可分为健康监测、照护与康复、居家安全防护与精神关怀四类，健康监测类近年加速普及，涵盖适老智能手环、毫米波雷达与智能床垫等设备。毫米波雷达在卧室场景实现无感监测，慢病预警与生命体征监测成为 AI 发挥价值的关键方向。",
+      "source": "新浪财经（第一财经）",
+      "url": "https://finance.sina.com.cn/roll/2026-10-25/doc-iniwmanz6651020.shtml",
+      "keywords": [
+        "毫米波雷达",
+        "适老化",
+        "生命体征监测",
+        "慢病预警",
+        "居家安全"
+      ],
+      "published": "2026-10-25",
+      "categoryLabel": "场景落地",
+      "id": 725
+    },
+    {
+      "date": "2026-10-29",
+      "category": "scenario",
+      "title": "多款“AI+养老”设备在浦东实景实验室打磨，陪伴机器人适配百种方言",
+      "summary": "第十五届相关博览会上，多款针对卧室养老场景打磨迭代的智能养老产品集中亮相，覆盖康复训练、智能洗护、健康筛查与情感陪护等刚需赛道，包括主动式 AI 伙伴机器人、智能驾驶轮椅机器人、穿戴式智能护理机器人与 AI 养老巡检服务机器人。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/LABR1L32055040N3.html",
+      "keywords": [
+        "AI+养老",
+        "实景实验室",
+        "方言识别",
+        "陪伴机器人",
+        "居家照护"
+      ],
+      "published": "2026-10-28",
+      "categoryLabel": "场景落地",
+      "id": 726
+    },
+    {
+      "date": "2026-10-29",
+      "category": "scenario",
+      "title": "扬州移动居家适老化改造：一键呼叫、智能烟感把安防搬进普通老人家庭",
+      "summary": "聚焦老人居家安全痛点，扬州移动推进居家适老化智慧改造服务，配备一键呼叫报警器、智能烟感与安全定位守护终端。遇摔倒、身体不适或火情时设备一键触发告警，信息同步推送家属与社区工作人员，服务团队上门安装调试并手把手教会老人操作。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1091681415_122405567",
+      "keywords": [
+        "适老化改造",
+        "一键呼叫",
+        "智能烟感",
+        "告警推送",
+        "居家安防"
+      ],
+      "published": "2026-10-23",
+      "categoryLabel": "场景落地",
+      "id": 727
+    },
+    {
+      "date": "2026-10-29",
+      "category": "security",
+      "title": "攻击者利用 Easy4IP 与弱口令劫持大华 IP 摄像头（乌克兰）",
+      "summary": "CERT-UA 报告攻击者通过大华 IP 摄像头的 Easy4IP 服务实施劫持，可预测的序列号、弱密码或固件缺陷均可能导致设备被控。该事件再次提示家庭与工程场景中摄像头默认凭证、序列号可预测与固件更新滞后带来的横向风险。",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+      "keywords": [
+        "IP摄像头",
+        "大华",
+        "弱口令",
+        "固件缺陷",
+        "设备劫持"
+      ],
+      "published": "2026-10-28",
+      "categoryLabel": "数据安全",
+      "id": 728
+    },
+    {
+      "date": "2026-10-29",
+      "category": "security",
+      "title": "海康威视披露部分对讲产品安全漏洞并发布修复方案",
+      "summary": "海康威视发布安全公告，披露部分对讲产品（intercom）存在安全漏洞并提供修复版本与缓解建议。厂商公开披露与透明更新机制，是家庭与楼宇对讲设备安全治理的重要环节，用户应及时升级固件与修改默认凭证。",
+      "source": "Hikvision 官方安全公告",
+      "url": "https://www.hikvision.com/mena-en/support/cybersecurity/security-advisory/security-vulnerabilities-in-some-hikvision-intercom-products/",
+      "keywords": [
+        "对讲产品",
+        "漏洞修复",
+        "安全公告",
+        "固件升级",
+        "楼宇对讲"
+      ],
+      "published": "2026-10-22",
+      "categoryLabel": "数据安全",
+      "id": 729
+    },
+    {
+      "date": "2026-10-29",
+      "category": "security",
+      "title": "2026 年 10 月网络攻击与信息泄露汇总：云与 SaaS 成为共性风险点",
+      "summary": "10 月多起大规模个人信息泄露集中公布，特点是委托方与云、SaaS 等共享基础设施被攻破后影响面波及大量使用组织。CISA KEV 目录在 10 月 1 日至 23 日间新增 26 条已知被利用漏洞，其中 PHP 未认证远程代码执行漏洞于 10 月 21 日修复。",
+      "source": "CVE Registry Blog",
+      "url": "https://cvejp.com/blog/post/cyberattack-roundup-2026-10",
+      "keywords": [
+        "信息泄露",
+        "云与SaaS",
+        "KEV目录",
+        "远程代码执行",
+        "供应链风险"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "数据安全",
+      "id": 730
+    },
+    {
+      "date": "2026-10-29",
+      "category": "security",
+      "title": "智能家居连接设备风险解析：摄像头、语音助手与个人数据如何防护",
+      "summary": "文章系统梳理智能家居连接设备的安全风险，覆盖摄像头被入侵、语音助手被劫持与个人数据外泄等典型场景，并给出对应的防护做法。对家庭场景而言，风险控制的关键在于设备端默认凭证治理与数据本地化处理能力。",
+      "source": "Bejares Consultores",
+      "url": "https://www.bejaresconsultores.com/hogar-inteligente-riesgos/",
+      "keywords": [
+        "智能家居安全",
+        "摄像头",
+        "语音助手",
+        "个人数据",
+        "设备加固"
+      ],
+      "published": "2026-10-23",
+      "categoryLabel": "数据安全",
+      "id": 731
+    },
+    {
+      "date": "2026-10-29",
+      "category": "security",
+      "title": "PHP2Shell 高危漏洞引发 AI 漏洞攻防“机器速度”时代讨论",
+      "summary": "10 月 21 日 PHP 曝出 CVE-2026-109618、CVE-2026-109619 两个高危漏洞，攻击者在特定条件下无需认证即可实现远程代码执行，CVSS 评分 9.2，全球约 69.4% 的网站后端使用 PHP。漏洞复现与修复速度显著加快，AI 参与漏洞攻防的趋势显现。",
+      "source": "极目新闻",
+      "url": "https://www.ctdsb.net/c1747_202610/2885762.html",
+      "keywords": [
+        "PHP2Shell",
+        "远程代码执行",
+        "AI漏洞攻防",
+        "应急修复",
+        "高危漏洞"
+      ],
+      "published": "2026-10-28",
+      "categoryLabel": "数据安全",
+      "id": 732
     }
   ]
 }
