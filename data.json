@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30",
+  "lastUpdated": "2026-10-31",
   "news": [
     {
       "id": 1,
@@ -13557,6 +13557,492 @@
       "published": "2026-10-28",
       "categoryLabel": "数据安全",
       "id": 757
+    },
+    {
+      "date": "2026-10-31",
+      "category": "tech",
+      "title": "意法半导体推出 ST MatterConnect 个性化服务，简化 Matter 智能家居设备身份验证",
+      "summary": "意法半导体推出 ST MatterConnect 服务，可将身份验证凭证安全写入兼容 Matter 的智能家居设备所使用的安全芯片中。该服务提供一站式解决方案，支持将认证数据写入 ST25DA-C NFC 标签和 STSAFE-A120 安全元件，大幅降低中小厂商接入 Matter 认证体系的门槛。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-30/doc-iniwzazv4578013.shtml",
+      "keywords": [
+        "Matter",
+        "ST MatterConnect",
+        "设备认证",
+        "安全芯片",
+        "意法半导体"
+      ],
+      "published": "2026-10-30",
+      "categoryLabel": "技术前沿",
+      "id": 758
+    },
+    {
+      "date": "2026-10-31",
+      "category": "tech",
+      "title": "端侧 AI 芯片的机遇与挑战：Agent 主机与 IoT 是两大增量",
+      "summary": "分析指出，端侧 AI 需求真实存在，推理成本、时延、隐私与智能体常驻运行都要求一部分 AI 留在终端。增量集中在两头：一头是 Agent 主机、机器人等单设备价值高的场景，另一头是 AI 耳机、眼镜等出货量大但单价低的可穿戴与 IoT 设备。放量顺序依次为 Agent 主机与私有化推理一体机、机器人大脑、车载大模型。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/LA6DRHV20511RIVP.html",
+      "keywords": [
+        "端侧AI",
+        "AI芯片",
+        "智能体主机",
+        "IoT",
+        "推理"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "技术前沿",
+      "id": 759
+    },
+    {
+      "date": "2026-10-31",
+      "category": "tech",
+      "title": "30B 大模型进驻手机，推理引擎开启自主迭代之路",
+      "summary": "DRAM 3D 堆叠技术有望把端侧带宽提升到传统 SoC 的十倍左右，闪存侧 HBF 技术带宽可达常规 Flash 的十几倍。业界预估明年 100B 规模模型即可在手机上流畅运行，终端将搭载具备自主迭代能力的智能系统，对手机、车载设备、机器人及家庭终端均有带动。",
+      "source": "53AI",
+      "url": "https://www.53ai.com/news/zhinengyingjian/2026102756240.html",
+      "keywords": [
+        "端侧推理",
+        "30B模型",
+        "DRAM堆叠",
+        "推理引擎",
+        "手机"
+      ],
+      "published": "2026-10-27",
+      "categoryLabel": "技术前沿",
+      "id": 760
+    },
+    {
+      "date": "2026-10-31",
+      "category": "tech",
+      "title": "苹果与英伟达同时出手，端侧大模型带动 AI PC 变革",
+      "summary": "端侧部署 120B 甚至更大参数模型后，开发者可将琐碎推理任务拆分给端侧模型，复杂任务才交云端，边际推理成本大幅下降。文中明确指出，家庭智能设备管理、本地数据分析与高保密要求的数据整理等本地化任务，可通过端侧模型降低数据外传风险。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/LA64FSK0051100B9.html",
+      "keywords": [
+        "端侧大模型",
+        "AI PC",
+        "推理成本",
+        "本地数据",
+        "隐私"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "技术前沿",
+      "id": 761
+    },
+    {
+      "date": "2026-10-31",
+      "category": "tech",
+      "title": "端侧 AI 用上扩散模型：本地 Agent 从「能跑」到「能用」",
+      "summary": "2026 年 10 月 28 日，深圳扩散智能开源首个商用扩散语言模型 Clover-35B-A3B-Preview，官方口径下其 Agent 任务平均耗时为主流方案的一半。此前与端侧智能体计算平台 Acrab 的测试显示，扩散语言模型可将端侧 Agent 运行速度提升约 5 倍，并计划推进 AI PC、智能汽车、机器人及智能家居落地。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/agg5pge6/",
+      "keywords": [
+        "扩散模型",
+        "端侧Agent",
+        "Clover",
+        "智能家居",
+        "推理加速"
+      ],
+      "published": "2026-10-29",
+      "categoryLabel": "技术前沿",
+      "id": 762
+    },
+    {
+      "date": "2026-10-31",
+      "category": "tech",
+      "title": "云边端算力分层实践：病理 AI 算力下沉，消费级主机能否扛住推理",
+      "summary": "文章以病理 AI 为例说明云边端分层架构：云端承担大模型增量训练与多中心验证，边缘节点部署轻量化推理模型实现「阅片即推理」的常驻服务，端侧负责数据采集与指令执行。作者强调不要一上来就选全云或全本地，而应按场景拆解算力分层。",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7700753560883118121",
+      "keywords": [
+        "云边端",
+        "边缘计算",
+        "算力分层",
+        "端侧推理",
+        "本地部署"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "技术前沿",
+      "id": 763
+    },
+    {
+      "date": "2026-10-31",
+      "category": "policy",
+      "title": "星闪 3.0 标准成果发布：面向全场景智能物联，瞄准 AI、无源、毫米波方向",
+      "summary": "星闪 3.0 标准成果正式发布，聚焦全场景智能物联，方向覆盖 AI、无源、毫米波等。该系列标准完成从团体标准向推荐性国家标准的跃升，将于 2027 年 4 月 1 日起正式实施，为智能家居终端的连接与低功耗通信提供统一规范。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1092512711_114760",
+      "keywords": [
+        "星闪3.0",
+        "国家标准",
+        "智能物联",
+        "毫米波",
+        "2027年实施"
+      ],
+      "published": "2026-10-25",
+      "categoryLabel": "政策标准",
+      "id": 764
+    },
+    {
+      "date": "2026-10-31",
+      "category": "policy",
+      "title": "国内首个面向 DPU 数据处理器的国家标准发布",
+      "summary": "国内首个面向 DPU 数据处理器的国家标准正式发布，由中国移动、中国联通、中国电信、中兴通讯、浪潮、京东科技信息技术等共同起草。标准着力解决厂商方案异构、性能指标难以对标、系统兼容性不足、项目验收缺乏统一规范等问题，推动行业从单点技术竞争走向标准化协同。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1093427965_122014422",
+      "keywords": [
+        "DPU",
+        "国家标准",
+        "云边协同",
+        "信通院",
+        "互联互通"
+      ],
+      "published": "2026-10-27",
+      "categoryLabel": "政策标准",
+      "id": 765
+    },
+    {
+      "date": "2026-10-31",
+      "category": "policy",
+      "title": "市场监管总局批准发布 515 项重要国家标准及国家标准化指导性技术文件",
+      "summary": "市场监管总局（国家标准委）批准发布 515 项重要国家标准及国家标准化指导性技术文件，其中强制性国家标准 10 项、推荐性国家标准 466 项、国家标准化指导性技术文件 39 项，涉及高新技术、传统产业、安全生产与百姓生活等领域。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1093084132_121107000",
+      "keywords": [
+        "国家标准",
+        "市场监管总局",
+        "强制性标准",
+        "推荐性标准",
+        "标准发布"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "政策标准",
+      "id": 766
+    },
+    {
+      "date": "2026-10-31",
+      "category": "policy",
+      "title": "团体标准与国家标准如何衔接？市场监管总局公开答复",
+      "summary": "针对团体标准与国家标准的立项、发布与效力衔接问题，市场监管总局答复强调坚持需求导向和社会团体自愿原则，被采信团体标准的技术内容与推荐性国家标准原则一致。相关工作主要用于填补国家标准体系中缺失的重要标准，尊重社会团体意愿。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34327513",
+      "keywords": [
+        "团体标准",
+        "国家标准",
+        "市场监管总局",
+        "标准采信",
+        "合规"
+      ],
+      "published": "2026-10-24",
+      "categoryLabel": "政策标准",
+      "id": 767
+    },
+    {
+      "date": "2026-10-31",
+      "category": "policy",
+      "title": "统一互联标准发布后的第一个双 11：智能家电还要装几个 APP",
+      "summary": "围绕智能家电互联互通统一标准发布，产业界在首个双 11 节点检验落地效果。文中指出开源鸿蒙的互联接口已获工信部行业标准立项，但当前落地的 OneConnect 属于联盟牵头、企业参与的团体与行业层面规范；强制国标、统一认证标识与限期执行目前仍为人大代表建议，尚未成为正式标准。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/ak8lrnok/",
+      "keywords": [
+        "互联互通",
+        "OneConnect",
+        "开源鸿蒙",
+        "行业标准",
+        "双11"
+      ],
+      "published": "2026-10-24",
+      "categoryLabel": "政策标准",
+      "id": 768
+    },
+    {
+      "date": "2026-10-31",
+      "category": "product",
+      "title": "Apple 发布 Apple HomeView：家庭中枢与个人化娱乐新入口",
+      "summary": "苹果正式推出 Apple HomeView，将其定位为家庭中枢与家庭中每个人的个人化娱乐入口。该设备是苹果首款把 Siri AI 放到台面上的家居设备，支持与支持 Apple Intelligence 的 iPhone/iPad 配对调用个人上下文，跨应用完成任务。",
+      "source": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "keywords": [
+        "Apple HomeView",
+        "家庭中枢",
+        "Siri AI",
+        "Thread",
+        "智能家居"
+      ],
+      "published": "2026-10-29",
+      "categoryLabel": "产品方案",
+      "id": 769
+    },
+    {
+      "date": "2026-10-31",
+      "category": "product",
+      "title": "亚马逊发布五款新一代 Alexa 设备，涵盖智能音箱、闹钟与智能显示屏",
+      "summary": "当地时间 10 月 28 日，亚马逊发布五款新一代 Alexa 设备，包括 Echo Dot、搭载家庭摄像头的 Echo Studio、智能闹钟 Echo Time、Alexa Photo Frame 以及 Echo Show 16，均搭载最新一代智能交互能力，家庭摄像与多形态交互终端成为本轮产品重点。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/LAFN03RJ0534A4SC.html",
+      "keywords": [
+        "Alexa",
+        "Echo Studio",
+        "家庭摄像头",
+        "智能音箱",
+        "智能显示屏"
+      ],
+      "published": "2026-10-29",
+      "categoryLabel": "产品方案",
+      "id": 770
+    },
+    {
+      "date": "2026-10-31",
+      "category": "product",
+      "title": "力合微牵手创维，共推 PLCP+Matter 全屋智能一体化方案落地",
+      "summary": "力合微与深圳创维显示科技签署战略合作协议，双方围绕 PLCP 互联开放生态、创维 IoT 平台与 Matter 生态协同打造全屋智能一体化方案，推动方案的产品融合落地与市场普及，赋能家庭智慧场景升级。",
+      "source": "新浪家居",
+      "url": "https://jiaju.sina.com.cn/news-ZG202610281536420001.html",
+      "keywords": [
+        "PLCP",
+        "Matter",
+        "创维",
+        "全屋智能",
+        "战略合作"
+      ],
+      "published": "2026-10-28",
+      "categoryLabel": "产品方案",
+      "id": 771
+    },
+    {
+      "date": "2026-10-31",
+      "category": "product",
+      "title": "首家 PLCP-Matter 苹果生态旗舰店落地南昌，力合微加速 C 端渠道渗透",
+      "summary": "首家 PLCP-Matter 苹果生态旗舰店在南昌落地，标志着该生态从 B 端品牌技术合作走向 C 端线下体验落地。力合微持续推动智能家居业务场景落地与渠道拓展，「智能电网+非电网」双轮驱动战略价值进一步清晰。",
+      "source": "新浪家居",
+      "url": "https://jiaju.sina.com.cn/news-ZG202610281535480001.html",
+      "keywords": [
+        "PLCP-Matter",
+        "苹果生态",
+        "旗舰店",
+        "全屋智能",
+        "渠道落地"
+      ],
+      "published": "2026-10-28",
+      "categoryLabel": "产品方案",
+      "id": 772
+    },
+    {
+      "date": "2026-10-31",
+      "category": "product",
+      "title": "心言机器人发布具身家庭智能体「巴布」，基于 Bubbo OS 打造伙伴式交互",
+      "summary": "10 月 29 日，心言机器人在北京举办「神奇伙伴」新品见面会，正式发布具身家庭智能体「巴布（Bubbo 1）」。产品基于 Bubbo OS 打造伙伴式交互，面向家庭场景提供具身智能体形态的陪伴与交互能力。",
+      "source": "CSDN",
+      "url": "https://blog.csdn.net/csdnnews/article/details/169463846",
+      "keywords": [
+        "具身智能体",
+        "巴布",
+        "Bubbo OS",
+        "家庭智能体",
+        "伙伴式交互"
+      ],
+      "published": "2026-10-29",
+      "categoryLabel": "产品方案",
+      "id": 773
+    },
+    {
+      "date": "2026-10-31",
+      "category": "product",
+      "title": "乐奇 Rokid 发布 Rokid Glasses 2，AI 眼镜交互全面升级",
+      "summary": "2026 年 10 月 27 日，乐奇 Rokid 在 Rokid Jungle 2026 AI 眼镜新品发布会上推出新一代带显示功能的 AI 眼镜 Rokid Glasses 2，黑色经典款官方售价 3699 元、国补到手价 3199 元，玳瑁色 3840 元。产品从佩戴到交互全面升级，显示型 AI 终端继续向轻量化普及方向推进。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/LAAQUB7A0531LTUZ.html",
+      "keywords": [
+        "Rokid Glasses 2",
+        "AI眼镜",
+        "显示",
+        "交互升级",
+        "新品发布"
+      ],
+      "published": "2026-10-28",
+      "categoryLabel": "产品方案",
+      "id": 774
+    },
+    {
+      "date": "2026-10-31",
+      "category": "scenario",
+      "title": "数字家庭全产业链场景入选国家首批重大应用场景清单，六城先行落地",
+      "summary": "首批场景应用城市拟选取深圳、青岛、宁波、合肥、东莞、金华 6 个城市先行落地建设，覆盖不同区域与经济发展阶段。场景将搭建多方协同长效机制，聚焦数字家庭产品与平台互联互通等核心技术攻坚，以商品房、保障房、新建及老旧小区为实施载体，并探索产业基地、人才培养基地与中试平台。",
+      "source": "21财经",
+      "url": "https://m.21jingji.com/article/20261027/herald/27e36e0ce9bfbdd201d7d085d40c0807.html",
+      "keywords": [
+        "数字家庭",
+        "重大应用场景",
+        "六城试点",
+        "互联互通",
+        "产业基地"
+      ],
+      "published": "2026-10-27",
+      "categoryLabel": "场景落地",
+      "id": 775
+    },
+    {
+      "date": "2026-10-31",
+      "category": "scenario",
+      "title": "一键呼叫、助餐助浴、康复机器人：老人最期盼的居家养老这样落地",
+      "summary": "养老陪护机器人搭载康养垂直大模型，具备情绪陪伴、安全巡检、健康用药管理等功能，适配居家与机构两类场景，打造 24 小时居家安全监护消费新场景。依托空间感知技术，机器人识别老人跌倒后即刻触发预警，自主抵达现场开启双向视频通话并联动后台快速救援。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-26/doc-iniwpwir9216208.shtml",
+      "keywords": [
+        "居家养老",
+        "陪护机器人",
+        "康养大模型",
+        "跌倒预警",
+        "空间感知"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "场景落地",
+      "id": 776
+    },
+    {
+      "date": "2026-10-31",
+      "category": "scenario",
+      "title": "AI 打开养老新世界：毫米波雷达走进卧室",
+      "summary": "中国人民大学老年学研究所所长杜鹏表示，适老化科技可分健康监测、照护康复、居家安全防护与精神关怀四类，其中毫米波雷达、智能床垫、适老智能手环等健康监测应用已开始普及，慢病预警与生命体征监测是 AI 发挥价值的关键方向。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-10-25/doc-iniwmpax3233109.shtml",
+      "keywords": [
+        "适老化",
+        "毫米波雷达",
+        "健康监测",
+        "养老",
+        "无感检测"
+      ],
+      "published": "2026-10-25",
+      "categoryLabel": "场景落地",
+      "id": 777
+    },
+    {
+      "date": "2026-10-31",
+      "category": "scenario",
+      "title": "从单品堆砌到空间智能的进化之路：全屋智能的生态破壁",
+      "summary": "文章指出，在头部厂商牵引与 Matter 等开放协议推动下，生态破壁是不可逆转的产业趋势，未来智能家装项目将越来越多面对跨品牌、跨协议设备协同，要求在设计阶段具备异构系统集成意识。同时强调中国智能家居在全球最全最复杂人居场景沉淀与艺术化硬件上的差异化优势。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34359026",
+      "keywords": [
+        "空间智能",
+        "生态破壁",
+        "Matter",
+        "异构集成",
+        "全屋智能"
+      ],
+      "published": "2026-10-30",
+      "categoryLabel": "场景落地",
+      "id": 778
+    },
+    {
+      "date": "2026-10-31",
+      "category": "security",
+      "title": "Bitdefender 2026 IoT 安全报告：电视、智能插座与 NAS 占智能家居漏洞三分之二",
+      "summary": "Bitdefender 与 NETGEAR 联合发布的 2026 IoT 安全态势报告基于 2026 年 1 月至 9 月约 1040 万台受保护家庭路由器的遥测数据。智能电视与智能插座成为暴露度最高的两类设备，报告共分析约 54 亿条安全事件与 12 亿条漏洞记录。",
+      "source": "Bitdefender",
+      "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/2026_iot_security_report",
+      "keywords": [
+        "IoT安全",
+        "智能电视",
+        "智能插座",
+        "遥测数据",
+        "Bitdefender"
+      ],
+      "published": "2026-10-29",
+      "categoryLabel": "数据安全",
+      "id": 779
+    },
+    {
+      "date": "2026-10-31",
+      "category": "security",
+      "title": "智能家居隐私陷阱：设备收集了什么，用户为何从不读条款",
+      "summary": "智能家居设备会收集语音录音、门口摄像视频、使用习惯乃至访客人脸等数据，而这些授权通常被打包在多数用户从未阅读的服务条款中。近期的和解与诉讼显示，这类条款实际允许的数据外传范围远超用户预期，隐私保护成为家庭设备采购的重要变量。",
+      "source": "The City Celeb",
+      "url": "https://www.thecityceleb.com/editorial/the-privacy-problem-with-smart-home-devices-most-people-accept-without-reading/",
+      "keywords": [
+        "智能家居隐私",
+        "语音数据",
+        "服务条款",
+        "生物特征",
+        "数据外传"
+      ],
+      "published": "2026-10-30",
+      "categoryLabel": "数据安全",
+      "id": 780
+    },
+    {
+      "date": "2026-10-31",
+      "category": "security",
+      "title": "智能摄像头远程代码执行（RCE）漏洞分析与 POC 披露",
+      "summary": "漏洞分析显示，某流行型号智能摄像头存在远程代码执行漏洞，攻击者可通过特定方式获取摄像头控制权，实现查看实时视频、录制视频以及控制摄像头移动等恶意操作。该类漏洞直接威胁家庭隐私安全，用户应避免将摄像头直接暴露于公网并及时更新固件。",
+      "source": "Shenlong CVE Platform",
+      "url": "https://cve.imfht.com/intel/875692",
+      "keywords": [
+        "RCE漏洞",
+        "智能摄像头",
+        "远程控制",
+        "隐私泄露",
+        "POC"
+      ],
+      "published": "2026-10-27",
+      "categoryLabel": "数据安全",
+      "id": 781
+    },
+    {
+      "date": "2026-10-31",
+      "category": "security",
+      "title": "个人信息保护合规要点实务解读：常见风险与维权指南",
+      "summary": "结合《个人信息保护法》及各地司法实务裁判标准，梳理个人信息处理的核心合规要点与常见风险场景，指出不少经营主体对个人信息处理的合规边界认知模糊。文章同时纠正「只要授权同意就无法追责」「信息泄露后无证据就没法维权」等常见误区。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1093375758_123024088",
+      "keywords": [
+        "个人信息保护法",
+        "合规",
+        "隐私风险",
+        "授权同意",
+        "维权"
+      ],
+      "published": "2026-10-27",
+      "categoryLabel": "数据安全",
+      "id": 782
+    },
+    {
+      "date": "2026-10-31",
+      "category": "security",
+      "title": "智能家居已成为当前主要攻击面",
+      "summary": "安全分析指出智能家居正在成为攻击面：弱口令、未更新固件与缺乏家庭网络隔离，都会把智能家居变成隐私与安全漏洞。文章援引报告与金融时报报道，说明大规模摄像网络被长期入侵用于构建目标生活规律的案例，家庭设备安全已成公共安全议题。",
+      "source": "SecureWorld",
+      "url": "https://www.secureworld.io/industry-news/smart-home-attack-surface",
+      "keywords": [
+        "攻击面",
+        "智能家居安全",
+        "弱口令",
+        "摄像头入侵",
+        "网络隔离"
+      ],
+      "published": "2026-10-29",
+      "categoryLabel": "数据安全",
+      "id": 783
+    },
+    {
+      "date": "2026-10-31",
+      "category": "security",
+      "title": "西班牙明确：家用摄像头朝向邻居属违法，罚款 600 至 3000 欧元",
+      "summary": "西班牙明确规定，家用监控摄像头不得朝向邻居住宅，否则可能面临 600 至 3000 欧元罚款乃至刑事责任。相关报道援引宪法对通信秘密与公民隐私的保护，指出违规安装监控是很多家庭安防部署中易被忽视的法律边界。",
+      "source": "MARCA",
+      "url": "https://www.marca.com/tiramillas/sociedad/2026/10/27/600-3-000-euros-sancion-penal-consecuencias-instalar-mal-camaras-seguridad-vivienda.html",
+      "keywords": [
+        "家用摄像头",
+        "隐私权",
+        "罚款",
+        "合规安装",
+        "邻居"
+      ],
+      "published": "2026-10-27",
+      "categoryLabel": "数据安全",
+      "id": 784
     }
   ]
 }
