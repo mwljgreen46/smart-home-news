@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31",
+  "lastUpdated": "2026-11-01",
   "news": [
     {
       "id": 1,
@@ -14043,6 +14043,474 @@
       "published": "2026-10-27",
       "categoryLabel": "数据安全",
       "id": 784
+    },
+    {
+      "date": "2026-11-01",
+      "category": "tech",
+      "title": "意法半导体推出ST MatterConnect个性化服务，简化Matter设备身份验证",
+      "summary": "意法半导体发布ST MatterConnect一站式服务，可将Matter智能家居设备所需的认证凭证安全写入ST25DA-C NFC标签与STSAFE-A120安全元件。该服务降低了厂商为Matter设备做安全配网与身份验证的门槛，加速消费级智能家居产品的Matter认证落地。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-30/doc-iniwzazv4578013.shtml",
+      "keywords": [
+        "Matter协议",
+        "安全芯片",
+        "设备认证",
+        "意法半导体",
+        "NFC"
+      ],
+      "published": "2026-10-30",
+      "categoryLabel": "技术前沿",
+      "id": 785
+    },
+    {
+      "date": "2026-11-01",
+      "category": "tech",
+      "title": "Matter摄像头与双向语音对讲正式登陆Home Assistant 2026.11",
+      "summary": "开放Home基金会发布Home Assistant 2026.11 beta，前端正式支持Matter摄像头、双向语音对讲、内置Marketplace，并带来一批Matter增强能力。Matter从照明扩展到安防视频与音频通道，意味着家庭中控侧将可直接消费Matter摄像头流。",
+      "source": "Matter Alpha",
+      "url": "https://www.matteralpha.com/industry-news/matter-cameras-and-two-way-talk-officially-arrive-in-home-assistant-2026-11",
+      "keywords": [
+        "Matter协议",
+        "摄像头",
+        "双向对讲",
+        "Home Assistant",
+        "生态互联"
+      ],
+      "published": "2026-10-31",
+      "categoryLabel": "技术前沿",
+      "id": 786
+    },
+    {
+      "date": "2026-11-01",
+      "category": "tech",
+      "title": "米家中枢网关推送0.11.5固件，断网也能跑本地自动化",
+      "summary": "小米中枢网关悄悄推送0.11.5版本，强化了断网状态下的本地自动化能力，把\"离线\"细分为三种不同层级。文章指出，2026年智能家居的最大教训是为尚未兑现的兼容承诺提前付全款，购买网关前应先分清本地执行、局域网执行与云端执行的边界。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a3m4e9kn/",
+      "keywords": [
+        "中枢网关",
+        "本地自动化",
+        "断网可用",
+        "米家",
+        "边缘执行"
+      ],
+      "published": "2026-10-31",
+      "categoryLabel": "技术前沿",
+      "id": 787
+    },
+    {
+      "date": "2026-11-01",
+      "category": "tech",
+      "title": "端侧AI芯片评价指标从TOPS转向每token字节数与每瓦token数",
+      "summary": "产业分析指出，手机端大模型持续推理受3–5W热设计约束，单纯堆TOPS收益递减，芯片评价体系正从峰值算力转向内存搬运效率与能效比。已有NPU特征图无损压缩IP、1.58-bit端侧语言模型等方案出现，对家庭网关、门锁、摄像头等终端选型具有直接参考价值。",
+      "source": "网易订阅（老王看产业）",
+      "url": "https://www.163.com/dy/article/LA6DRHV20511RIVP.html",
+      "keywords": [
+        "端侧推理",
+        "AI芯片",
+        "能效比",
+        "NPU",
+        "大模型"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "技术前沿",
+      "id": 788
+    },
+    {
+      "date": "2026-11-01",
+      "category": "tech",
+      "title": "2026国产AI算力厂商全景：细分突围，东方算芯首发DF1000近存AI芯片",
+      "summary": "国产AI算力厂商形成多元架构并存的格局，产品覆盖云端训练、云端推理与边缘推理多场景。东方算芯在WAIC 2026全球首发DF1000 3D堆叠近存AI芯片，采用成熟14nm工艺搭配存储计算垂直键合架构，访存带宽超越传统HBM方案。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.cn/article_5426766895_14375e42f00102zv34.html",
+      "keywords": [
+        "国产AI芯片",
+        "边缘推理",
+        "近存计算",
+        "算力架构",
+        "WAIC"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "技术前沿",
+      "id": 789
+    },
+    {
+      "date": "2026-11-01",
+      "category": "policy",
+      "title": "六城市将开展数字家庭建设，\"数字家庭全产业链培育和开放场景\"入选国家首批重大应用场景清单",
+      "summary": "国家发展改革委公布首批136项标志性重大应用场景项目清单，住房城乡建设部牵头报送的\"数字家庭全产业链培育和开放场景\"入选社会治理服务综合性应用场景。首批应用城市拟选取深圳、青岛、宁波、合肥、东莞、金华6城先行落地。",
+      "source": "新华网",
+      "url": "https://www1.xinhuanet.com/politics/20261027/7aa885aaf6be49cfac92db2508f42824/c.html",
+      "keywords": [
+        "数字家庭",
+        "重大应用场景",
+        "国家发改委",
+        "六城试点",
+        "标准体系"
+      ],
+      "published": "2026-10-27",
+      "categoryLabel": "政策标准",
+      "id": 790
+    },
+    {
+      "date": "2026-11-01",
+      "category": "policy",
+      "title": "约50万套住宅已\"智慧化\"，青岛入选全国数字家庭场景应用城市",
+      "summary": "青岛\"十四五\"期间率先制定住宅小区智慧化基础设施配置指南与\"好房子\"建设技术导则，从小区、楼栋、单元、楼层、套间五个维度提出智慧化建设标准，2021年以来落实智慧化配置标准的住宅约50万套。入选后将承担数字家庭新技术、新产品的规模化验证任务。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34351018",
+      "keywords": [
+        "数字家庭",
+        "好房子",
+        "智慧化标准",
+        "青岛",
+        "规模验证"
+      ],
+      "published": "2026-10-28",
+      "categoryLabel": "政策标准",
+      "id": 791
+    },
+    {
+      "date": "2026-11-01",
+      "category": "policy",
+      "title": "康复辅助器具产业扩能提质三年行动方案出台，布局康养机器人与智能照护设备",
+      "summary": "《康复辅助器具产业扩能提质三年行动方案》重点布局康养机器人、智能照护设备等领域，推动适老产品进机构、进社区、进家庭，持续丰富产品类养老消费场景。政策方向直接利好居家养老智能硬件与照护机器人的规模化落地。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-26/doc-iniwpwir9216208.shtml",
+      "keywords": [
+        "康复辅助器具",
+        "三年行动方案",
+        "康养机器人",
+        "智能照护",
+        "适老产品"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "政策标准",
+      "id": 792
+    },
+    {
+      "date": "2026-11-01",
+      "category": "policy",
+      "title": "从单品堆砌到空间智能：\"十五五\"数字家庭配套法规将强化数据安全、互联互通、适老化三重强制标准",
+      "summary": "行业文章指出，\"十四五\"数字家庭缺乏统一规范，数据采集与跨品牌互通依赖企业自律；\"十五五\"将出台数字家庭配套法规，隐私合规、跨协议兼容、居家紧急康养功能成为硬性门槛。同时封闭生态仍是头部企业护城河，生态破壁不可逆。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34359026",
+      "keywords": [
+        "数字家庭法规",
+        "强制标准",
+        "互联互通",
+        "适老化",
+        "异构集成"
+      ],
+      "published": "2026-10-30",
+      "categoryLabel": "政策标准",
+      "id": 793
+    },
+    {
+      "date": "2026-11-01",
+      "category": "product",
+      "title": "苹果智能家居新品亮相：HomeView家庭中枢、HomePod mini 2与全新家居配件登场",
+      "summary": "苹果10月13日\"欢迎回家\"发布会带来品牌首款智能家庭中枢HomeView、HomePod mini 2等新品。Statista预计2026年全球智能家居硬件市场收入将达1595亿美元，同比增长4.8%，但HomeView暂无国行，国行新品主要为1099元的音箱。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/axkox6q9/",
+      "keywords": [
+        "苹果",
+        "HomeView",
+        "家庭中枢",
+        "HomePod mini",
+        "智能家居硬件"
+      ],
+      "published": "2026-10-29",
+      "categoryLabel": "产品方案",
+      "id": 794
+    },
+    {
+      "date": "2026-11-01",
+      "category": "product",
+      "title": "心言机器人发布具身家庭智能体\"巴布\"（Bubbo 1）",
+      "summary": "心言机器人在北京举办\"神奇伙伴\"新品见面会，正式发布具身家庭智能体巴布（Bubbo 1），产品即日起在京东等官方渠道开售。该产品把大模型能力装入家庭实体形态，是家庭多智能体协同落地的新形态。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwwyas2769085.shtml",
+      "keywords": [
+        "具身智能",
+        "家庭智能体",
+        "心言机器人",
+        "巴布",
+        "新品发布"
+      ],
+      "published": "2026-10-29",
+      "categoryLabel": "产品方案",
+      "id": 795
+    },
+    {
+      "date": "2026-11-01",
+      "category": "product",
+      "title": "499元Aqara绿米智能网关M200开售：接入苹果HomeKit，Zigbee与Thread双协议支持",
+      "summary": "绿米推出智能网关M200，支持接入苹果HomeKit并同时支持Zigbee与Thread双协议，成为Matter生态下多协议网关的高性价比选项。文章提示，是否为Matter加预算应等待设备类型扩展、第三方Matter设备清单与multi-admin支持等信号落地。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a70p3p0l/",
+      "keywords": [
+        "Aqara",
+        "智能网关",
+        "Thread",
+        "Zigbee",
+        "Matter兼容"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "产品方案",
+      "id": 796
+    },
+    {
+      "date": "2026-11-01",
+      "category": "product",
+      "title": "CEIC 2026举办，全屋智能有望加速走入普通家庭",
+      "summary": "CEIC 2026展会上，全屋智能成为主角，产业界认为全屋智能正从样板间走向普通家庭。与此同时力合微牵手创维共推PLCP+Matter全屋智能方案，首家PLCP-Matter苹果生态旗舰店落地南昌，非电网业务加速渠道渗透。",
+      "source": "新浪家居",
+      "url": "https://jiaju.sina.com.cn/news-ZG202610281517220001.html",
+      "keywords": [
+        "全屋智能",
+        "CEIC",
+        "PLCP",
+        "Matter方案",
+        "渠道落地"
+      ],
+      "published": "2026-10-29",
+      "categoryLabel": "产品方案",
+      "id": 797
+    },
+    {
+      "date": "2026-11-01",
+      "category": "product",
+      "title": "小度推出\"最顾家\"的智能体应用：看孩子、护老人，云台加红外实现无死角守护",
+      "summary": "小度把家庭智能体产品落到智能屏之上，硬件在云台两侧加装红外人体感应，即使人不在视野内智能屏摄像机也会转过去查看，摄像机升级为专业安防摄像头。结合安防看护智能体，实现从看得见、看得清到看得懂的AI随心看护。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a4qxor07/",
+      "keywords": [
+        "家庭智能体",
+        "智能屏",
+        "看护",
+        "红外感知",
+        "小度"
+      ],
+      "published": "2026-10-31",
+      "categoryLabel": "产品方案",
+      "id": 798
+    },
+    {
+      "date": "2026-11-01",
+      "category": "product",
+      "title": "芝华仕2026离线语音系列：本地声控芯片，断网也能语音控制沙发",
+      "summary": "芝华仕2026年3月推出的智能语音系列采用完全离线方案，搭载本地声控芯片，插电即用，不连接Wi-Fi或蓝牙，断网环境下语音控制靠背与脚托依然正常。优势是零配网、零隐私顾虑、断网不罢工，短板是无法接入米家或华为全屋智能。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.cn/article_7880068957_1d5b04f5d06801xcb2.html",
+      "keywords": [
+        "离线语音",
+        "本地芯片",
+        "断网可用",
+        "隐私保护",
+        "智能家居选型"
+      ],
+      "published": "2026-10-26",
+      "categoryLabel": "产品方案",
+      "id": 799
+    },
+    {
+      "date": "2026-11-01",
+      "category": "scenario",
+      "title": "AI打开养老新世界：毫米波雷达走进卧室，慢病预警与生命体征监测成核心",
+      "summary": "中国人民大学老年学研究所所长杜鹏表示，适老化科技可分为健康监测类、照护与康复类、居家安全防护类和精神关怀类四类，健康监测应用已逐渐普及，涵盖适老智能手环、毫米波雷达、智能床垫等。多个城市已试点智能水电表动态掌握独居老人居家状态。",
+      "source": "第一财经（新浪财经转载）",
+      "url": "https://finance.sina.com.cn/roll/2026-10-25/doc-iniwmanz6651020.shtml",
+      "keywords": [
+        "毫米波雷达",
+        "适老科技",
+        "慢病预警",
+        "居家安全",
+        "智慧养老"
+      ],
+      "published": "2026-10-25",
+      "categoryLabel": "场景落地",
+      "id": 800
+    },
+    {
+      "date": "2026-11-01",
+      "category": "scenario",
+      "title": "以真实场景吸引企业落地：长宁老社区跑出\"银发\"新赛道",
+      "summary": "上海长宁老社区半年内举办8次政企对接会，累计70家企业参与，西区联通、海尔康养、超级智慧家等投入百余万元参与场景建设，建成智慧居家养老样板间、AI康养平台与智慧门禁试点。该模式成为政府以真实场景撬动企业落地的可复制样板。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34344500",
+      "keywords": [
+        "智慧养老",
+        "老旧小区",
+        "场景验证",
+        "政企对接",
+        "银发经济"
+      ],
+      "published": "2026-10-27",
+      "categoryLabel": "场景落地",
+      "id": 801
+    },
+    {
+      "date": "2026-11-01",
+      "category": "scenario",
+      "title": "北京海淀智慧养老试点样板：毫米波雷达、一键呼叫座机、随身一键呼组成\"三件套\"",
+      "summary": "海淀区民政局指导、清河街道重点打造的智慧养老试点样板在养老驿站与居民家中落地。陪伴机器人提醒吃药，\"火柴人\"识别跌倒的同时守护隐私，智能家居一声\"小爱同学\"即可响应，\"三件套\"已悄悄进入高龄老人的日常生活。",
+      "source": "今日头条",
+      "url": "https://www.toutiao.com/article/7698993690974405147/",
+      "keywords": [
+        "智慧养老试点",
+        "一键呼叫",
+        "跌倒识别",
+        "隐私保护",
+        "社区服务"
+      ],
+      "published": "2026-10-28",
+      "categoryLabel": "场景落地",
+      "id": 802
+    },
+    {
+      "date": "2026-11-01",
+      "category": "scenario",
+      "title": "大华股份亮相2026浙江康博会，四端一体化智慧康养覆盖民政、机构、社区与家庭",
+      "summary": "大华股份以\"科技赋能 适老入微\"为主题携四端一体化智慧康养解决方案参展，展示从前端智能感知、边缘灵活部署到中心智能研判的端边云协同能力。机构照护场景中AI视觉、音频分析搭配非接触感知设备，兼顾安全监测与长者隐私保护。",
+      "source": "同花顺财经",
+      "url": "https://m.10jqka.com.cn/20261028/c681198808.shtml",
+      "keywords": [
+        "智慧康养",
+        "端边云协同",
+        "适老照护",
+        "大华股份",
+        "隐私保护"
+      ],
+      "published": "2026-10-28",
+      "categoryLabel": "场景落地",
+      "id": 803
+    },
+    {
+      "date": "2026-11-01",
+      "category": "scenario",
+      "title": "养老机器人进家庭走到了哪一步：2025年市场规模82.2亿元，2026年预计破百亿",
+      "summary": "工信部软件与集成电路促进中心《智能养老服务机器人发展研究报告（2026版）》显示，2025年我国养老机器人市场规模达82.2亿元，同比增长28.6%。工信部办公厅、民政部办公厅联合开展智能养老服务机器人结对攻关，试点正在贵阳等地推进。",
+      "source": "今日头条",
+      "url": "https://www.toutiao.com/article/7699241781992391178/",
+      "keywords": [
+        "养老机器人",
+        "市场规模",
+        "结对攻关",
+        "工信部",
+        "试点落地"
+      ],
+      "published": "2026-10-28",
+      "categoryLabel": "场景落地",
+      "id": 804
+    },
+    {
+      "date": "2026-11-01",
+      "category": "security",
+      "title": "84款移动应用违法违规收集使用个人信息被通报",
+      "summary": "根据中央网信办、工业和信息化部、公安部联合发布的《关于开展2026年个人信息保护系列专项行动的公告》，经国家计算机病毒应急处理中心检测，84款移动应用存在一项或多项违法违规收集使用个人信息情况。涉事应用涉及应用商店、小程序等多个分发渠道。",
+      "source": "澎湃新闻（政务）",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34358521",
+      "keywords": [
+        "个人信息保护",
+        "App通报",
+        "网信办",
+        "专项行动",
+        "违规收集"
+      ],
+      "published": "2026-10-29",
+      "categoryLabel": "数据安全",
+      "id": 805
+    },
+    {
+      "date": "2026-11-01",
+      "category": "security",
+      "title": "35款移动应用违法违规收集使用个人信息被通报，涉微信小程序等",
+      "summary": "经公安部计算机信息系统安全产品质量监督检验中心检测，35款移动应用存在违法违规收集使用个人信息情况并被通报，涉及微信小程序等入口。智能家居类App、小程序及配套服务平台是家庭数据采集的高发环节，需关注自身合规自查。",
+      "source": "澎湃新闻（政务）",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34372617",
+      "keywords": [
+        "App通报",
+        "小程序",
+        "数据合规",
+        "公安部",
+        "个人信息"
+      ],
+      "published": "2026-10-31",
+      "categoryLabel": "数据安全",
+      "id": 806
+    },
+    {
+      "date": "2026-11-01",
+      "category": "security",
+      "title": "2026 IoT安全报告：电视、智能插座与NAS设备占据智能家居漏洞的三分之二",
+      "summary": "Bitdefender与NETGEAR联合发布2026 IoT安全态势报告，基于2026年1月至9月约1040万台受保护家庭路由器的安全事件采样。数据显示电视占智能家居安全漏洞的22.7%，与智能插座、存储设备合计占已知设备漏洞的三分之二。",
+      "source": "Bitdefender",
+      "url": "https://www.bitdefender.com/en-au/blog/hotforsecurity/2026_iot_security_report",
+      "keywords": [
+        "IoT安全报告",
+        "智能家居漏洞",
+        "家庭路由器",
+        "Bitdefender",
+        "NETGEAR"
+      ],
+      "published": "2026-10-29",
+      "categoryLabel": "数据安全",
+      "id": 807
+    },
+    {
+      "date": "2026-11-01",
+      "category": "security",
+      "title": "智能家居正在成为攻击面：家庭监控设备被长期入侵的历史警示",
+      "summary": "报道指出智能家居正演变为现实攻击面，援引金融时报等信源说明城市级交通摄像头长期被入侵、可被用于构建目标人物的\"生活规律\"画像。该案例警示家庭摄像头与智能门锁一旦失守，个人行为轨迹数据将被系统性利用。",
+      "source": "SecureWorld",
+      "url": "https://www.secureworld.io/industry-news/smart-home-attack-surface",
+      "keywords": [
+        "攻击面",
+        "摄像头入侵",
+        "行为画像",
+        "隐私泄露",
+        "物联网安全"
+      ],
+      "published": "2026-10-29",
+      "categoryLabel": "数据安全",
+      "id": 808
+    },
+    {
+      "date": "2026-11-01",
+      "category": "security",
+      "title": "智能家居隐私困局：设备收集语音、视频与生物特征，多数用户不读条款就接受",
+      "summary": "文章指出智能家居设备会收集语音录音、视频、使用模式乃至生物特征数据，而授权这些采集的条款通常被捆绑在冗长的服务协议中，多数用户未阅读即接受。消费者需逐一核查授权范围、留存期限与删除机制。",
+      "source": "The City Celeb",
+      "url": "https://www.thecityceleb.com/editorial/the-privacy-problem-with-smart-home-devices-most-people-accept-without-reading/",
+      "keywords": [
+        "智能家居隐私",
+        "生物特征",
+        "数据收集",
+        "授权条款",
+        "用户教育"
+      ],
+      "published": "2026-10-30",
+      "categoryLabel": "数据安全",
+      "id": 809
+    },
+    {
+      "date": "2026-11-01",
+      "category": "security",
+      "title": "数据出境合规新口径：标准合同备案后仍需PIA报告与境外接收方约束条款",
+      "summary": "律师解读指出，2026年监管口径已从\"备了就行\"转向\"备了还要能查、能改、能撤回\"。平台向境外提供个人信息必须选择安全评估、标准合同备案、认证或国际条约之一，备案后30日内还需提交个人信息保护影响评估报告并落实境外接收方约束条款。",
+      "source": "广东知明律师事务所",
+      "url": "https://www.zhiminglawyer.com/zhiming-dongtai/hangye-zhuandi/9948.html",
+      "keywords": [
+        "数据出境",
+        "标准合同备案",
+        "个人信息保护法",
+        "PIA",
+        "合规义务"
+      ],
+      "published": "2026-10-27",
+      "categoryLabel": "数据安全",
+      "id": 810
     }
   ]
 }
