@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02",
+  "lastUpdated": "2026-11-04",
   "news": [
     {
       "id": 1,
@@ -14925,6 +14925,402 @@
       "published": "2026-10-30",
       "categoryLabel": "数据安全",
       "id": 833
+    },
+    {
+      "date": "2026-11-04",
+      "category": "tech",
+      "title": "Matter 1.6.1 落地 matter.js：新增 Groupcast 群组通信与电池设备管理优化",
+      "summary": "Matter 1.6.1 规范正式随 matter.js 落地，新增 Groupcast 群组通信能力，改善电池供电设备的续航管理，并强化 OTA 升级控制流程与传感器侧特性。Home Assistant 借此进一步补齐对高端智能家居生态的支持能力，成为开放生态侧跟进协议演进的重要案例。",
+      "source": "Maison et Domotique",
+      "url": "https://www.maison-et-domotique.com/en/174189-home-assistant-shifts-into-high-gear-with-matter-1-6-1-and-matter-js/",
+      "keywords": [
+        "Matter 1.6.1",
+        "matter.js",
+        "Groupcast",
+        "Home Assistant",
+        "Thread"
+      ],
+      "published": "2026-11-03",
+      "categoryLabel": "技术前沿",
+      "id": 834
+    },
+    {
+      "date": "2026-11-04",
+      "category": "tech",
+      "title": "算力开始分层：天数智芯把“云端能力”下沉到边端设备",
+      "summary": "天数智芯提出“云端 GPU 厂商做端侧，不是把芯片做小，而是把能力下沉”。模型压缩、量化、蒸馏与软硬协同能力连同通用 GPU 架构、编译器、算子库与性能工具一并下沉到边端，实现“生在云、长在边”，需要时再由云端复判，为家庭网关等边缘算力形态提供技术范式。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/4053459438179209",
+      "keywords": [
+        "天数智芯",
+        "边缘算力",
+        "模型量化",
+        "云边端协同",
+        "GPU"
+      ],
+      "published": "2026-11-03",
+      "categoryLabel": "技术前沿",
+      "id": 835
+    },
+    {
+      "date": "2026-11-04",
+      "category": "tech",
+      "title": "当 AI 压进 GPU，边缘算力走向融合",
+      "summary": "随着端侧大模型负载从单一对话走向多模态协同、长上下文，芯片设计必须兼顾灵活性。文章分析边缘端算力与通用 GPU 的融合路径，指出算力在物理层面向边缘下沉将成为家庭网关、视觉分析盒等终端的差异化关键。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/LANK2F9I05198R91.html",
+      "keywords": [
+        "边缘计算",
+        "端侧大模型",
+        "GPU",
+        "多模态",
+        "芯片设计"
+      ],
+      "published": "2026-11-02",
+      "categoryLabel": "技术前沿",
+      "id": 836
+    },
+    {
+      "date": "2026-11-04",
+      "category": "tech",
+      "title": "消息称 DeepSeek V5 大模型计划依托华为昇腾芯片开展训练",
+      "summary": "多名产业链人士称 DeepSeek 计划基于昇腾芯片开展下一代大模型 DeepSeek V5 的预训练，此前昇腾主要承担推理任务。此前 DeepSeek 已面向华为昇腾开源 TileLang 编译工具、计算库与分布式通信库，国产算力软件生态持续补齐。",
+      "source": "21财经",
+      "url": "https://m.21jingji.com/article/20261103/herald/df246f239d7506af28155ef462e1233e.html",
+      "keywords": [
+        "DeepSeek V5",
+        "华为昇腾",
+        "国产算力",
+        "预训练",
+        "AI芯片"
+      ],
+      "published": "2026-11-03",
+      "categoryLabel": "技术前沿",
+      "id": 837
+    },
+    {
+      "date": "2026-11-04",
+      "category": "policy",
+      "title": "六城市将开展数字家庭建设：“十五五”可培育 1.6 万亿元增量市场",
+      "summary": "住房城乡建设部牵头的“数字家庭全产业链培育和开放场景”入选国家首批标志性重大应用场景项目清单。首批场景应用城市拟选取深圳、青岛、宁波、合肥、东莞、金华 6 城先行落地，以商品房、保障房、新建及老旧小区为载体，完善标准体系并攻坚产品与平台互联互通核心技术。",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/20261027/7aa885aaf6be49cfac92db2508f42824/c.html",
+      "keywords": [
+        "数字家庭",
+        "重大应用场景",
+        "试点城市",
+        "互联互通",
+        "万亿市场"
+      ],
+      "published": "2026-10-27",
+      "categoryLabel": "政策标准",
+      "id": 838
+    },
+    {
+      "date": "2026-11-04",
+      "category": "policy",
+      "title": "500 多项国家标准 11 月起实施，含《智慧园区建设与运维指南》与 App 适老化要求",
+      "summary": "自 11 月 1 日起，54 项强制性、465 项推荐性及 1 项指导性技术文件国家标准开始实施。内容涵盖移动互联网应用程序适老化、家用电器安全与能效限定值等，其中《智慧园区建设与运维指南》推荐性国标规定了智慧园区建设与运维总则和总体框架。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/t/2026-10-31/doc-inixcfyv3905339.shtml",
+      "keywords": [
+        "国家标准",
+        "智慧园区",
+        "App适老化",
+        "能效限定值",
+        "标准实施"
+      ],
+      "published": "2026-10-31",
+      "categoryLabel": "政策标准",
+      "id": 839
+    },
+    {
+      "date": "2026-11-04",
+      "category": "policy",
+      "title": "GIIC 联盟 OneConnect 智家评测平台上线，补齐智家标准生态最后拼图",
+      "summary": "自今年 3 月《智家统一互联系列标准》发布以来，标准已获产业界新增 20 多家智家工委会成员单位关注，中国移动 AndLink 生态、华为 FTTR 星光系列、上海海思开源鸿蒙星闪智联方案已率先支持该系列标准。评测平台上线后，智家工委会补齐“标准建设—评测落地—方案实现—产品部署”全链路。",
+      "source": "全球智慧物联网联盟 GIIC",
+      "url": "https://www.giiconsortium.org/en/2026/post/6349/",
+      "keywords": [
+        "智家统一互联",
+        "OneConnect",
+        "评测平台",
+        "GIIC",
+        "全场景互联"
+      ],
+      "published": "2026-11-02",
+      "categoryLabel": "政策标准",
+      "id": 840
+    },
+    {
+      "date": "2026-11-04",
+      "category": "policy",
+      "title": "个人信息保护法实施纪念日：依法守护数据安全",
+      "summary": "《个人信息保护法》实施迎来纪念节点，官方提示姓名、电话、住址、网购订单等信息受法律严格保护，非法获取、出售、提供乃至“代为解密”“代为转发”达到数量标准即构成犯罪。对智能家庭设备持续采集环境数据等新型场景的合规要求正成为行业关注焦点。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34387072",
+      "keywords": [
+        "个人信息保护法",
+        "数据安全",
+        "非法获取",
+        "合规",
+        "纪念日"
+      ],
+      "published": "2026-11-02",
+      "categoryLabel": "政策标准",
+      "id": 841
+    },
+    {
+      "date": "2026-11-04",
+      "category": "product",
+      "title": "苹果发布 Apple Home Collection 智能家居配件新 lineup",
+      "summary": "苹果推出 Apple Home Collection 智能家居配件系列，与 LG 电子和施耐德电气合作打造一体化的 Apple Home 体验。系列包含首批摄像头、温控器与智能门锁等产品，并延续 Works with Apple Home 与 Matter 认证生态的开放接入策略。",
+      "source": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
+      "keywords": [
+        "Apple Home Collection",
+        "Matter认证",
+        "智能门锁",
+        "温控器",
+        "苹果生态"
+      ],
+      "published": "2026-10-31",
+      "categoryLabel": "产品方案",
+      "id": 842
+    },
+    {
+      "date": "2026-11-04",
+      "category": "product",
+      "title": "苹果推出家庭中枢 Apple HomeView，统一娱乐体验与全屋管理",
+      "summary": "Apple HomeView 作为新的家庭中枢提供娱乐播放与家庭管理能力，并可与 Apple Home Collection 系列摄像头、温控器、门锁以及其它 Works with Apple Home 和 Matter 认证配件协同。该产品定于 11 月 13 日正式发售，随附 HomeView 27.2 系统。",
+      "source": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "keywords": [
+        "Apple HomeView",
+        "家庭中枢",
+        "Matter",
+        "智能家居生态",
+        "Siri"
+      ],
+      "published": "2026-10-31",
+      "categoryLabel": "产品方案",
+      "id": 843
+    },
+    {
+      "date": "2026-11-04",
+      "category": "product",
+      "title": "亚马逊发布五款 Alexa+ 新品，Echo Show 16 起售价 499.99 美元",
+      "summary": "亚马逊一次推出五款搭载 Alexa+ 的新一代智能家居设备，覆盖客厅大屏、旗舰音箱、入门音箱、卧室闹钟与数码相框五个细分场景。新一代 Echo Dot 首次内置支持 Matter 与 Zigbee 的智能家居中枢并集成 eero Wi-Fi 扩展，Echo Show 16 支持 Alexa Home Map 交互式地图管理。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/019/164.htm",
+      "keywords": [
+        "Alexa+",
+        "Echo Show 16",
+        "Echo Dot",
+        "家庭AI入口",
+        "Matter"
+      ],
+      "published": "2026-10-29",
+      "categoryLabel": "产品方案",
+      "id": 844
+    },
+    {
+      "date": "2026-11-04",
+      "category": "product",
+      "title": "技象科技发布 TP8901 AI 语义通信网关，提供 6 TOPS 本地算力",
+      "summary": "技象科技 TP8901 语义通信网关搭载主频 2GHz 的国产高性能 AI 芯片，提供 6 TOPS 本地 AI 算力，支持 INT4/INT8/INT16 混合运算。该配置显著高于紧凑型网关支持 2 路 1080P 视频分析的行业基础要求，适用于家庭与园区场景的本地协议解析与边缘推理。",
+      "source": "技象科技",
+      "url": "https://www.techphant.cn/blog/109701.html",
+      "keywords": [
+        "语义通信网关",
+        "TP8901",
+        "国产AI芯片",
+        "6TOPS",
+        "边缘推理"
+      ],
+      "published": "2026-11-03",
+      "categoryLabel": "产品方案",
+      "id": 845
+    },
+    {
+      "date": "2026-11-04",
+      "category": "scenario",
+      "title": "大华股份以数字化技术破解适老照护难题，构建省市县三级智慧养老安联网",
+      "summary": "大华依托多地落地实践搭建省、市、县三级智慧养老安联网，将消防安全、食品安全、医疗护理、服务规范纳入统一管理平台。物联网数据实时汇聚、风险告警双向推送，推动养老安全管理从事后补救转向主动发现与提前干预。",
+      "source": "人民网浙江频道",
+      "url": "http://zj.people.com.cn/n2/2026/1028/c186327-41734945.html",
+      "keywords": [
+        "智慧养老",
+        "适老照护",
+        "物联数据汇聚",
+        "风险预警",
+        "大华股份"
+      ],
+      "published": "2026-10-28",
+      "categoryLabel": "场景落地",
+      "id": 846
+    },
+    {
+      "date": "2026-11-04",
+      "category": "scenario",
+      "title": "AI 从“虚拟域”进入养老“物理域”：技术必须适配老年人",
+      "summary": "在亚太会议上，多场专题讨论聚焦人工智能助力老龄事业，涉及适老 App 开发、助行器优化与无障碍体系建设。嘉宾指出 AI 在屏幕里已足够聪明，但在搀扶、喂饭、搬动等真实物理场景仍存在明显差距，技术适配老年群体是落地前提。",
+      "source": "杭州网",
+      "url": "https://hznews.hangzhou.com.cn/shehui/content/2026-11/03/content_9366353.htm",
+      "keywords": [
+        "适老化",
+        "养老AI",
+        "助行器",
+        "无障碍",
+        "技术适配"
+      ],
+      "published": "2026-11-03",
+      "categoryLabel": "场景落地",
+      "id": 847
+    },
+    {
+      "date": "2026-11-04",
+      "category": "scenario",
+      "title": "TeleAI 隐私摄像头 5 秒内告警，落地独居老人与养老机构看护场景",
+      "summary": "TeleAI 隐私摄像头面向老人独居家庭与养老机构，可识别跌倒、突发急症无法行动及挥手求救等异常，并在 5 秒内向家属或看护发出告警。其“TeleAI 智慧看护助手”软硬一体一站式部署，采用烟感报警器式吊顶外观以缓解被监视的抵触情绪。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1096566562_122014422",
+      "keywords": [
+        "隐私摄像头",
+        "居家看护",
+        "跌倒识别",
+        "TeleAI",
+        "养老机构"
+      ],
+      "published": "2026-11-03",
+      "categoryLabel": "场景落地",
+      "id": 848
+    },
+    {
+      "date": "2026-11-04",
+      "category": "scenario",
+      "title": "温州发布住建领域场景方案：AI 慧眼、智能机器人与全屋智能落地“未来人居”",
+      "summary": "依据《温州市住建领域场景…》方案，未来三年温州将落地 AI 慧眼排查工地隐患、建筑机器人承担施工作业、全屋智能点亮日常起居、楼宇自主节能降碳、老旧房屋风险提前预警等一批可复制的住建人工智能新场景。",
+      "source": "新欧洲新闻网",
+      "url": "https://www.xinouzhou.com/wenzhang/184941-ai-fu-neng-zhu-jian-sai-dao-wen-zhou-yong-zhe-fen-fang-an-da-zao-wei-lai-ren-ju-chang-jing",
+      "keywords": [
+        "温州",
+        "未来人居",
+        "AI慧眼",
+        "全屋智能",
+        "老旧房屋预警"
+      ],
+      "published": "2026-10-29",
+      "categoryLabel": "场景落地",
+      "id": 849
+    },
+    {
+      "date": "2026-11-04",
+      "category": "scenario",
+      "title": "从单品堆砌到空间智能：全屋智能生态破壁趋势下的产业协同路径",
+      "summary": "文章指出短期封闭生态仍是头部企业护城河，但在国家标准牵引和 Matter 等开放协议推动下，“生态破壁”不可逆转。智能家装项目将越来越多面对跨品牌、跨协议设备协同，要求从业者在设计阶段就具备异构系统集成意识，并推进精装与全屋智能一体化落地。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34359026",
+      "keywords": [
+        "全屋智能",
+        "空间智能",
+        "异构集成",
+        "Matter",
+        "生态互联"
+      ],
+      "published": "2026-10-30",
+      "categoryLabel": "场景落地",
+      "id": 850
+    },
+    {
+      "date": "2026-11-04",
+      "category": "security",
+      "title": "Bitdefender 与 NETGEAR 发布 2026 IoT 安全报告：家庭平均联网设备达 24 台",
+      "summary": "报告基于 2026 年 1 月至 9 月全球约 1040 万台家庭路由器的遥测数据，分析了 54 亿条安全事件与 12 亿条漏洞记录。智能电视与智能插座占家庭设备安全弱点的三分之二，路由器漏洞同比上升约 12%，家庭设备正被用作攻击云服务的跳板。",
+      "source": "FinancialContent / Business Wire",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-10-28-bitdefender-and-netgear-2026-iot-report-reveals-growing-threat-exposure-throughout-the-connected-home",
+      "keywords": [
+        "IoT安全报告",
+        "Bitdefender",
+        "NETGEAR",
+        "智能电视",
+        "家庭攻击面"
+      ],
+      "published": "2026-10-28",
+      "categoryLabel": "数据安全",
+      "id": 851
+    },
+    {
+      "date": "2026-11-04",
+      "category": "security",
+      "title": "智能电视存在未修补漏洞，可被用于追踪用户观看行为",
+      "summary": "Help Net Security 分析指出，智能电视与联网插座在家庭设备记录的安全弱点中占比很高。智能电视普遍存在长期未修补的安全缺陷，可能被用来追踪用户观看内容，构成家庭内部隐私与供应链安全的双重风险点。",
+      "source": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/10/30/bitdefender-smart-tvs-vulnerabilities-report/",
+      "keywords": [
+        "智能电视",
+        "未修补漏洞",
+        "观看行为追踪",
+        "IoT",
+        "隐私"
+      ],
+      "published": "2026-10-30",
+      "categoryLabel": "数据安全",
+      "id": 852
+    },
+    {
+      "date": "2026-11-04",
+      "category": "security",
+      "title": "联网家庭设备正在喂养僵尸网络，成为攻击云服务的跳板与代理",
+      "summary": "报道指出家庭中平均 24 台联网设备已不只是家庭内部问题，存在漏洞的电视、摄像头与路由器正被用作他人流量的中转站，并为发起拒绝服务攻击的僵尸网络提供弹药，使家庭安全直接关联到云服务侧的风险暴露。",
+      "source": "CloudNews.tech",
+      "url": "https://cloudnews.tech/the-connected-home-is-fueling-botnets-and-proxies-that-hit-the-cloud/",
+      "keywords": [
+        "僵尸网络",
+        "拒绝服务攻击",
+        "路由器漏洞",
+        "云安全",
+        "家庭设备"
+      ],
+      "published": "2026-11-03",
+      "categoryLabel": "数据安全",
+      "id": 853
+    },
+    {
+      "date": "2026-11-04",
+      "category": "security",
+      "title": "智能家居隐私规制存在立法空白：静默录音与待机摄像头定性不清",
+      "summary": "评论指出目前约束智能家居隐私问题的法律散落在多部法规中且各管一段。《个人信息保护法》对设备持续采集环境数据缺乏专门条款，设备后台静默录音、摄像头待机保持连接是否构成“收集个人信息”、是否需重新授权均无细颗粒度答案，授权条款藏于长隐私政策也引发有效性争议。",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202611/571261.shtml",
+      "keywords": [
+        "智能家居隐私",
+        "静默录音",
+        "个人信息保护法",
+        "立法空白",
+        "授权有效性"
+      ],
+      "published": "2026-11-03",
+      "categoryLabel": "数据安全",
+      "id": 854
+    },
+    {
+      "date": "2026-11-04",
+      "category": "security",
+      "title": "AI 硬件，别想绕过隐私：把保护前移到产品设计环节",
+      "summary": "文章指出对旁人的保护必须向产品设计前移：哪些场所应限制采集、如何让录制状态容易被察觉、设备能否方便暂停、被记录者如何投诉与要求处理，都需明确安排。指示灯与提示音只是告知的一部分，让每位使用者自行研究设备灯光含义并主动交涉显然不是合理分工。",
+      "source": "虎嗅网",
+      "url": "https://www.huxiu.com/article/4901758.html",
+      "keywords": [
+        "AI硬件",
+        "隐私设计",
+        "采集提示",
+        "投诉机制",
+        "隐私保护"
+      ],
+      "published": "2026-10-30",
+      "categoryLabel": "数据安全",
+      "id": 855
     }
   ]
 }
