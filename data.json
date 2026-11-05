@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04",
+  "lastUpdated": "2026-11-05",
   "news": [
     {
       "id": 1,
@@ -15321,6 +15321,438 @@
       "published": "2026-10-30",
       "categoryLabel": "数据安全",
       "id": 855
+    },
+    {
+      "date": "2026-11-05",
+      "category": "tech",
+      "title": "Home Assistant 2026.11：Marketplace 上线，Matter 摄像头正式落地",
+      "summary": "Home Assistant 2026.11 版本正式引入内置 Marketplace，完成从 HACS 到 Marketplace 的迁移，并支持 Matter 1.5 摄像头标准。用户可获得带实时视频与快照的摄像头实体，视频通过 WebRTC 在浏览器与摄像头之间直接传输，实体可跟随摄像头移动。同时该版本扩展了对 climate、covers、lighting 与 sensors 设备的支持。",
+      "source": "Smart Home Field Guide",
+      "url": "https://smarthomefieldguide.com/blog/2026-11-02-standards-news-weekly-home-assistant-2026-11/",
+      "keywords": [
+        "Home Assistant",
+        "Matter 1.5",
+        "摄像头",
+        "WebRTC",
+        "Matter协议"
+      ],
+      "published": "2026-11-02",
+      "categoryLabel": "技术前沿",
+      "id": 856
+    },
+    {
+      "date": "2026-11-05",
+      "category": "tech",
+      "title": "Matter 摄像头与双向对讲正式登陆 Home Assistant 2026.11",
+      "summary": "新版 Home Assistant 将 Matter 摄像头与双向语音对讲带入前端，是 Matter 1.5 摄像头标准落地开源生态的关键节点。版本还扩展了对温控、窗帘、照明与各类传感器的支持，为家庭多设备统一管理提供了更完整的协议基础。",
+      "source": "Matter Alpha",
+      "url": "https://www.matteralpha.com/industry-news/matter-cameras-and-two-way-talk-officially-arrive-in-home-assistant-2026-11",
+      "keywords": [
+        "Matter",
+        "摄像头",
+        "双向对讲",
+        "Home Assistant",
+        "智能家居"
+      ],
+      "published": "2026-10-31",
+      "categoryLabel": "技术前沿",
+      "id": 857
+    },
+    {
+      "date": "2026-11-05",
+      "category": "tech",
+      "title": "Home Assistant 提速：Matter 1.6.1 与 matter.js 上线",
+      "summary": "Matter 1.6.1 已随 matter.js 发布，带来 Groupcast（群组广播）、电池供电设备管理改进以及多项技术增强。Matter Server 9.3 已支持 Matter 1.6.1 并为摄像头功能做准备，1.5.1 版本修复了迁移后设备不可达的问题。新版服务器内存占用约为旧版两倍，升级前需做好备份与资源规划。",
+      "source": "Maison et Domotique",
+      "url": "https://www.maison-et-domotique.com/en/174189-home-assistant-shifts-into-high-gear-with-matter-1-6-1-and-matter-js/",
+      "keywords": [
+        "Matter 1.6.1",
+        "matter.js",
+        "Groupcast",
+        "Matter Server",
+        "协议升级"
+      ],
+      "published": "2026-11-03",
+      "categoryLabel": "技术前沿",
+      "id": 858
+    },
+    {
+      "date": "2026-11-05",
+      "category": "tech",
+      "title": "物理AI升温，端侧SoC走到台前：星宸科技、瑞芯微业绩亮眼",
+      "summary": "端侧SoC公司陆续发布三季报，星宸科技2026年三季度归母净利润7.01亿元、同比增长752.76%，瑞芯微同期归母净利润4.73亿元、同比增长90.5%。物理AI对时延要求高，关键计算必须在设备本地完成，端侧SoC成为机器人、智能家居等实体设备的核心算力载体。",
+      "source": "网易",
+      "url": "https://www.163.com/dy/article/LAL9TMBP05199DKK.html",
+      "keywords": [
+        "端侧SoC",
+        "物理AI",
+        "瑞芯微",
+        "星宸科技",
+        "端侧推理"
+      ],
+      "published": "2026-11-01",
+      "categoryLabel": "技术前沿",
+      "id": 859
+    },
+    {
+      "date": "2026-11-05",
+      "category": "tech",
+      "title": "DeepSeek 探索 Super-agent 架构：智能体迈向多任务自主运行",
+      "summary": "文章探讨 Agent 系统从单任务向持续自主实体演进的路径。随模型多Agent协同能力提升，跨会话的组织与调度成为可能，人的角色从底层执行上移至高层决策与验收。接入消息、日程、邮件与工作平台的个人助手近期集中涌现，形成持续在线、事件驱动的工作模式。",
+      "source": "80aj",
+      "url": "https://www.80aj.com/2026/11/01/deepseek-super-agent-architecture/",
+      "keywords": [
+        "DeepSeek",
+        "Super-agent",
+        "多Agent协同",
+        "智能体",
+        "自主运行"
+      ],
+      "published": "2026-11-01",
+      "categoryLabel": "技术前沿",
+      "id": 860
+    },
+    {
+      "date": "2026-11-05",
+      "category": "tech",
+      "title": "算力开始分层：天数智芯把“云的能力”折叠进方寸之间",
+      "summary": "天数智芯提出端侧不是把芯片做小，而是把云端能力下沉。模型压缩、量化、蒸馏与软硬协同能力诞生于云端训练侧，连同通用GPU架构、编译器、算子库被一起带到边端，实现“生在云、长在边”，需要时再由云端复判，精度对齐且不重训。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/4053459438179209",
+      "keywords": [
+        "云边端",
+        "算力分层",
+        "天数智芯",
+        "模型压缩",
+        "边缘推理"
+      ],
+      "published": "2026-11-03",
+      "categoryLabel": "技术前沿",
+      "id": 861
+    },
+    {
+      "date": "2026-11-05",
+      "category": "policy",
+      "title": "国家首批标志性重大应用场景公布，“数字家庭全产业链培育和开放场景”入选",
+      "summary": "国家首批标志性重大应用场景中，“数字家庭全产业链培育和开放场景”入选，聚焦完善标准体系、攻坚核心技术、丰富应用场景三大主线，支撑数字家庭场景落地并推动智慧城市与民生服务深度融合。标准院联合华为、海尔、中国移动等产业链企业开展课题研发与案例调研。",
+      "source": "澎湃新闻·政务",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34407254",
+      "keywords": [
+        "数字家庭",
+        "重大应用场景",
+        "产业培育",
+        "标准体系",
+        "国家政策"
+      ],
+      "published": "2026-11-05",
+      "categoryLabel": "政策标准",
+      "id": 862
+    },
+    {
+      "date": "2026-11-05",
+      "category": "policy",
+      "title": "智能家居规范发展需“标准+法律”双轨并进",
+      "summary": "法治日报报道指出，2025年四项智能家居互联互通国家标准发布；2026年5月1日起两项智能家电国家标准实施，将产品智能程度划分为L1至L5五级，并要求企业标注智能功能效用、网络接入方法与信息安全风险提示。《智能家用电器质量安全风险分类评价指南》将于2027年2月1日起实施，评价范围扩展至信息安全和数据与隐私保护领域。",
+      "source": "光明网",
+      "url": "https://legal.gmw.cn/2026-11/04/content_39084728.htm",
+      "keywords": [
+        "智能家居标准",
+        "L1-L5分级",
+        "互联互通",
+        "风险评价指南",
+        "法治日报"
+      ],
+      "published": "2026-11-04",
+      "categoryLabel": "政策标准",
+      "id": 863
+    },
+    {
+      "date": "2026-11-05",
+      "category": "policy",
+      "title": "涉电动汽车、App适老化等 500多项国家标准11月起实施",
+      "summary": "11月起500多项国家标准集中实施，涵盖电动汽车安全、App适老化、家用电器安全等多个领域。其中两项推荐性国家标准分别规定了家用和类似用途电动晾衣机以及商用真空包装器具的特殊要求，家居家电相关标准实施节奏明显加快。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1095451552_121345914",
+      "keywords": [
+        "国家标准",
+        "适老化",
+        "家用电器安全",
+        "标准实施",
+        "合规"
+      ],
+      "published": "2026-10-31",
+      "categoryLabel": "政策标准",
+      "id": 864
+    },
+    {
+      "date": "2026-11-05",
+      "category": "policy",
+      "title": "国家发改委：健全“人工智能+”政策体系，细化落实重点行业实施方案",
+      "summary": "国家发改委在“十五五”系列新闻发布会上表示，将健全“人工智能+”政策体系并细化重点行业实施方案。目前人工智能已从实验室走向工厂、田间和办公室，累计建成万余家先进级智能工厂，超8000家基层医疗机构接入云端AI影像服务，公共服务普惠度持续提升。",
+      "source": "21财经",
+      "url": "https://m.21jingji.com/article/20261103/herald/a3fa77db3fd729629b65d6a520db7662.html",
+      "keywords": [
+        "人工智能+",
+        "国家发改委",
+        "十五五",
+        "政策体系",
+        "智能工厂"
+      ],
+      "published": "2026-11-03",
+      "categoryLabel": "政策标准",
+      "id": 865
+    },
+    {
+      "date": "2026-11-05",
+      "category": "policy",
+      "title": "GIIC联盟OneConnect智家评测平台上线，补齐智家统一互联标准生态链路",
+      "summary": "GIIC联盟在CEIC大会正式上线OneConnect智家评测平台。自2026年3月《智家统一互联系列标准》发布以来，已获20多家智家工委会成员单位关注，中国移动智慧家庭AndLink生态、华为FTTR星光系列、上海海思开源鸿蒙星闪智联方案率先支持该系列标准，补齐“标准建设-评测落地-方案实现-产品部署”全链路。",
+      "source": "全球智慧物联网联盟",
+      "url": "https://www.giiconsortium.org/en/2026/post/6349/",
+      "keywords": [
+        "GIIC",
+        "智家统一互联",
+        "评测平台",
+        "FTTR",
+        "互联互通标准"
+      ],
+      "published": "2026-11-02",
+      "categoryLabel": "政策标准",
+      "id": 866
+    },
+    {
+      "date": "2026-11-05",
+      "category": "product",
+      "title": "家电行业AI化转型加速，美的年底超九成产品适配家居智能体",
+      "summary": "美的自进化家居智能体 MevoX 于今年3月推出，目前服务超过1.5亿用户，在空气、用水、烹饪等六大系统形成家庭多元主动智能应用能力。美的AI研究院院长徐翼表示，到年底全品牌全品类产品90%以上将支持该系统，并透露工厂与家庭两个场景均在做具身智能探索，但重心更多放在工业场景。",
+      "source": "富途资讯",
+      "url": "https://news.futunn.com/post/1003187079/ai-driven-transformation-accelerates-in-the-home-appliance-industry-over",
+      "keywords": [
+        "美的",
+        "MevoX",
+        "家居智能体",
+        "AI化转型",
+        "全屋智能"
+      ],
+      "published": "2026-11-03",
+      "categoryLabel": "产品方案",
+      "id": 867
+    },
+    {
+      "date": "2026-11-05",
+      "category": "product",
+      "title": "看孩子、护老人，小度推出面向家庭的智能体应用矩阵",
+      "summary": "小度在带屏音箱与蓝牙 Mesh 全屋智能技术基础上，扩展了针对孩子看护、家庭日常、老年人问药医疗等场景的智能体服务，共同组成能在家庭中真正闭环落地的家庭服务。同期发布的 HomeView 带屏智能音箱进一步强化了家庭中枢定位。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a4qxor07/",
+      "keywords": [
+        "小度",
+        "家庭智能体",
+        "看护场景",
+        "适老医疗",
+        "全屋智能"
+      ],
+      "published": "2026-10-31",
+      "categoryLabel": "产品方案",
+      "id": 868
+    },
+    {
+      "date": "2026-11-05",
+      "category": "product",
+      "title": "亚马逊一口气发5款AI硬件，Alexa 争夺“家庭AI入口”",
+      "summary": "亚马逊集中发布5款AI硬件，争夺家庭AI入口。全新 Echo Show 16 将墙面智能屏推向新高度，配备16英寸高清屏幕、可视面积较上代增加10%、边框收窄近40%、机身更薄，并可选 Nanomatte 防眩光屏幕以更好融入家居环境。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1096035712_121124370",
+      "keywords": [
+        "亚马逊",
+        "Echo Show 16",
+        "家庭AI入口",
+        "智能屏",
+        "Alexa"
+      ],
+      "published": "2026-11-02",
+      "categoryLabel": "产品方案",
+      "id": 869
+    },
+    {
+      "date": "2026-11-05",
+      "category": "product",
+      "title": "美的连续举办31年的科技月：年底九成新品将搭载 MevoX 智能体",
+      "summary": "美的集团AI研究院院长徐翼表示，到今年底全品牌全品类90%的新品都将搭载行业首个家居智能体 MevoX。自进化家居智能体进入大众视野仅7个多月，已服务超过1.5亿用户，标志家电从单品智能向系统化主动智能服务转型。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-04/doc-inixqaay1643898.shtml",
+      "keywords": [
+        "美的集团",
+        "科技月",
+        "MevoX",
+        "家居智能体",
+        "新品适配"
+      ],
+      "published": "2026-11-04",
+      "categoryLabel": "产品方案",
+      "id": 870
+    },
+    {
+      "date": "2026-11-05",
+      "category": "scenario",
+      "title": "杭州市西湖区智慧养老三景：科技忙在细处，晚年安在日常",
+      "summary": "杭州西湖区以智能养老手环等设备构建社区智慧养老体系。翠苑一区一位86岁独居老人夜间身体不适按下SOS，社区数字驾驶舱值班人员数秒内收到呼叫，大屏精确定位，5分钟内工作人员上门，体现居家康养场景中设备与社区响应的闭环。",
+      "source": "人民网",
+      "url": "http://zj.people.com.cn/n2/2026/1030/c186327-41736707.html",
+      "keywords": [
+        "智慧养老",
+        "智能手环",
+        "独居老人",
+        "社区数字驾驶舱",
+        "居家照护"
+      ],
+      "published": "2026-10-30",
+      "categoryLabel": "场景落地",
+      "id": 871
+    },
+    {
+      "date": "2026-11-05",
+      "category": "scenario",
+      "title": "高雄亚湾智慧社宅二期动土，659户一期已招租",
+      "summary": "高雄市政府4日举办“亚湾智慧社宅（第二期）公办都更案”动土典礼，由亚湾智能公司获选实施，投入112亿元兴建6栋住宅。社宅一期659户已完工招租中，以智慧管理导入吸引科技人才与新创进驻，导入智慧化住宅管理成为社会住宅建设的新方向。",
+      "source": "中时新闻网",
+      "url": "https://www.chinatimes.com/realtimenews/20261104003870-260405",
+      "keywords": [
+        "智慧社宅",
+        "亚湾",
+        "高雄",
+        "智慧住宅",
+        "城市更新"
+      ],
+      "published": "2026-11-04",
+      "categoryLabel": "场景落地",
+      "id": 872
+    },
+    {
+      "date": "2026-11-05",
+      "category": "scenario",
+      "title": "智慧养老社区实现日常服务“一键”可达",
+      "summary": "北京安贞街道以党建引领搭建政府平台、医养联合专业平台（22家养老机构与医疗机构共建）和社会公益慈善资源平台三个平台，形成多方共治的为老服务体系，让养老服务在社区层面真正落地而非停留在概念演示。",
+      "source": "人民网·健康",
+      "url": "http://health.people.com.cn/n1/2026/1029/c14739-40823589.html",
+      "keywords": [
+        "智慧养老社区",
+        "医养结合",
+        "多方共治",
+        "养老服务",
+        "基层落地"
+      ],
+      "published": "2026-10-29",
+      "categoryLabel": "场景落地",
+      "id": 873
+    },
+    {
+      "date": "2026-11-05",
+      "category": "security",
+      "title": "智能家居邪修术：隐私监控需求浮现，法律约束颗粒度不足",
+      "summary": "2025年江苏消保委调查显示42.6%用户质疑智能音箱被监听，科沃斯曾曝设备漏洞致隐私泄露。目前约束智能家居隐私的法律散落在多部法规中，《个人信息保护法》对“设备持续采集环境数据”缺乏专门条款，隐私风险与监管短板或制约行业长期合规发展。",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202611/571241.shtml",
+      "keywords": [
+        "隐私监控",
+        "智能音箱监听",
+        "江苏消保委",
+        "设备漏洞",
+        "法律空白"
+      ],
+      "published": "2026-11-03",
+      "categoryLabel": "数据安全",
+      "id": 874
+    },
+    {
+      "date": "2026-11-05",
+      "category": "security",
+      "title": "异地恋防出轨？智能家居邪修术引出的隐私边界讨论",
+      "summary": "文章指出智能家居隐私约束散落在《个人信息保护法》《刑法》等多部法规中，对设备静默录音、摄像头待机连接是否属于“收集个人信息”缺乏颗粒度足够细的答案。技术上应改默认密码、启用双重验证、摄像头与音箱独立组网并优先本地存储；物理上卧室浴室不应装摄像头。",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202611/571261.shtml",
+      "keywords": [
+        "隐私边界",
+        "本地存储",
+        "双重验证",
+        "个人信息保护法",
+        "摄像头"
+      ],
+      "published": "2026-11-03",
+      "categoryLabel": "数据安全",
+      "id": 875
+    },
+    {
+      "date": "2026-11-05",
+      "category": "security",
+      "title": "Home Assistant 终极安全避坑指南：零暴露公网穿透与 AI Agent 最小特权",
+      "summary": "指南指出把 Home Assistant 端口直接映射到公网是典型高危操作，应通过网络边界零暴露隔离、传输层TLS加密与内核级IP封禁构成三道防线。同时强调 AI Agent 控制设备时应遵循最小特权原则，并对门锁、燃气等高风险设备加二次确认。",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7702402013540450354",
+      "keywords": [
+        "Home Assistant",
+        "公网暴露",
+        "TLS加密",
+        "最小特权",
+        "家庭安全"
+      ],
+      "published": "2026-10-31",
+      "categoryLabel": "数据安全",
+      "id": 876
+    },
+    {
+      "date": "2026-11-05",
+      "category": "security",
+      "title": "AI 硬件，别想绕过隐私：保护需向产品设计前移",
+      "summary": "文章指出对旁人的保护要向产品设计环节前移：哪些场所应限制采集、如何让录制状态容易被察觉、设备能否方便暂停、被记录者如何投诉并要求处理，都需明确安排。指示灯与提示音只是告知的一部分，让每位使用者自行研究设备灯光含义并主动交涉显然不是合理分工。",
+      "source": "虎嗅网",
+      "url": "https://www.huxiu.com/article/4901758.html",
+      "keywords": [
+        "隐私保护",
+        "AI硬件",
+        "产品设计",
+        "录制提示",
+        "知情权"
+      ],
+      "published": "2026-10-30",
+      "categoryLabel": "数据安全",
+      "id": 877
+    },
+    {
+      "date": "2026-11-05",
+      "category": "security",
+      "title": "个人信息保护法实施纪念日：用法守护，用心防范",
+      "summary": "宣传文章提示姓名、电话、住址、网购订单等信息受法律严格保护，非法获取、出售、提供，哪怕只是“帮忙解密”“代为转发”，数量达标即构成犯罪。强调既要重视个人信息价值、不非法买卖他人信息，也要保护好自身信息不被泄露。",
+      "source": "澎湃新闻·政务",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34387072",
+      "keywords": [
+        "个人信息保护法",
+        "信息泄露",
+        "非法买卖",
+        "合规",
+        "隐私防护"
+      ],
+      "published": "2026-11-02",
+      "categoryLabel": "数据安全",
+      "id": 878
+    },
+    {
+      "date": "2026-11-05",
+      "category": "security",
+      "title": "家庭NAS遭批量加密：风险来自“怎么连网”而非硬盘本身",
+      "summary": "多起NAS勒索事件显示，端口映射之外，UPnP、DMZ、IPv6防火墙任一未关好都可能被扫描到。RAID 只防盘坏不防文件加密，且内存中的密钥比数据更值得抢救。建议以 VPN 加密隧道回连替代公网直连，并叠加两步验证、自动封锁、禁用 admin 账号等措施。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a5rpmkml/",
+      "keywords": [
+        "NAS勒索",
+        "端口映射",
+        "UPnP",
+        "VPN回连",
+        "家庭网络安全"
+      ],
+      "published": "2026-11-02",
+      "categoryLabel": "数据安全",
+      "id": 879
     }
   ]
 }
