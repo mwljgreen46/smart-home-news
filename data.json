@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07",
+  "lastUpdated": "2026-11-08",
   "news": [
     {
       "id": 1,
@@ -16167,6 +16167,456 @@
       "published": "2026-11-06",
       "categoryLabel": "数据安全",
       "id": 902
+    },
+    {
+      "date": "2026-11-08",
+      "category": "tech",
+      "title": "Invisible Tech：开放标准与本地 AI 正在重新定义智能家居",
+      "summary": "Forbes 报道认为，Matter、Aliro 等开放标准正在抹平专业智能家居与 DIY 智能家居之间的界线，零售货架上的设备普遍采用专业级芯片组。ISE 常务董事 Mike Blackman 表示，专业安装依然在整体设计与长期居住体验上具有优势，但开放标准与本地 AI 已成为行业主线。",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paullamkin/2026/11/02/invisible-tech-why-open-standards-and-local-ai-are-redefining-the-smart-home/",
+      "keywords": [
+        "Matter",
+        "Aliro",
+        "本地AI",
+        "智能家居",
+        "开放标准"
+      ],
+      "published": "2026-11-03",
+      "categoryLabel": "技术前沿",
+      "id": 903
+    },
+    {
+      "date": "2026-11-08",
+      "category": "tech",
+      "title": "把家里几乎所有 IKEA Zigbee 设备换成 Matter 后，实际发生了什么",
+      "summary": "作者用六个月时间将家中大部分 IKEA Zigbee 设备替换为 Matter over Thread 方案，结论是灵活性更好、价格更低，但速度和可靠性并没有明显提升。这为一线厂商评估 Matter 迁移的实际收益提供了参考。",
+      "source": "Matter Alpha",
+      "url": "https://www.matteralpha.com/explainer/i-replaced-almost-every-ikea-zigbee-device-with-matter-heres-what-changed",
+      "keywords": [
+        "Matter",
+        "Thread",
+        "Zigbee",
+        "智能家居",
+        "互联互通"
+      ],
+      "published": "2026-11-05",
+      "categoryLabel": "技术前沿",
+      "id": 904
+    },
+    {
+      "date": "2026-11-08",
+      "category": "tech",
+      "title": "边缘 AI 重塑商业版图：芯片巨头与新创業者双轨抢市",
+      "summary": "DIGITIMES 研究指出，边缘 AI 处理器的应用重心正从以往 10 TOPS 以下的传统机器视觉与感测识别，转向 40 TOPS 以上的地端生成式 AI 与自主机器人等高阶应用。分析师申作昊分析认为，散热空间、功耗预算、内存带宽成本以及终端软硬件生态碎片化，迫使手机芯片巨头、视觉 SoC 大厂与边缘 AI 新创企业各走差异化路线。",
+      "source": "MoneyDJ 理財網",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=8cd3a361-39a5-4bd8-adbe-354c69fb609b",
+      "keywords": [
+        "边缘AI",
+        "端侧生成式AI",
+        "TOPS",
+        "SoC",
+        "智能家居"
+      ],
+      "published": "2026-11-04",
+      "categoryLabel": "技术前沿",
+      "id": 905
+    },
+    {
+      "date": "2026-11-08",
+      "category": "tech",
+      "title": "2026 移动网络大会广州开幕：中国移动展示三大数智底座及多场景应用",
+      "summary": "中国移动展示了 6G 智能应用共创与群智协同展项，并基于全国一体化算力网形成 AICN 智算网络、AIDC 算电协同、AICC 云算服务三大支柱，以算网大脑 4.0 实现异构、异域算力统一调度。上层 MoMA 移动模型服务平台已实现主流模型全量接入，自研 SDN 网关支持百万亿 Token 日调度量。",
+      "source": "网易科技",
+      "url": "https://www.163.com/tech/article/LB0DI1O400097U7T.html",
+      "keywords": [
+        "算力网络",
+        "算网大脑",
+        "6G",
+        "边缘算力",
+        "智算网络"
+      ],
+      "published": "2026-11-05",
+      "categoryLabel": "技术前沿",
+      "id": 906
+    },
+    {
+      "date": "2026-11-08",
+      "category": "tech",
+      "title": "硅谷华人团队提出下一代 Agent Harness 架构，指向 Super-agent 超级智能体",
+      "summary": "文章梳理了 DeepSeek Harness 团队提出的下一代 Super-agent 架构设想：拥有连续上下文、可自主调度多个 Agent 并行工作、实现 7×24 小时在线。文章指出其背后指向同一个人机协同的底层困境——当 AI 可同时推进成千上万个任务、多到人看不过来时，Agent 究竟该变成什么形态。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1098428432_121207965",
+      "keywords": [
+        "多Agent",
+        "Agent Harness",
+        "Super-agent",
+        "任务调度",
+        "协同"
+      ],
+      "published": "2026-11-07",
+      "categoryLabel": "技术前沿",
+      "id": 907
+    },
+    {
+      "date": "2026-11-08",
+      "category": "policy",
+      "title": "定下万亿目标！广东出台全国首个省级全屋智能专项政策",
+      "summary": "广东省全屋智能产业行动方案是全国首个省级全屋智能领域专项政策，以 42 项具体任务推动产业从“规模领先”向“规模+质量+创新”跃升。方案分三阶段提出目标：到 2026 年底培育 30 款以上全屋智能优质产品，全省累计建设 60 个以上全屋智能项目。",
+      "source": "21经济网",
+      "url": "https://www.21jingji.com/article/20261107/herald/0212a3fe518626e1add6cde6841bce5c.html",
+      "keywords": [
+        "全屋智能",
+        "专项政策",
+        "广东",
+        "万亿目标",
+        "数字家庭"
+      ],
+      "published": "2026-11-07",
+      "categoryLabel": "政策标准",
+      "id": 908
+    },
+    {
+      "date": "2026-11-08",
+      "category": "policy",
+      "title": "六部门印发培育多元场景促进适老用品产品消费若干措施",
+      "summary": "民政部、国家发改委、工信部、商务部、市场监管总局、全国老龄办联合印发《措施》，提出结合居家养老服务推动适老化改造、健康管理、智能安防等用品产品进家入户。文件还要求加快推进具身智能、大语言模型、脑机接口、外骨骼等前沿技术在养老领域应用。",
+      "source": "凤凰网科技",
+      "url": "https://tech.ifeng.com/c/8xpZqZfrbsb",
+      "keywords": [
+        "适老化",
+        "智能安防",
+        "居家养老",
+        "六部门",
+        "大模型"
+      ],
+      "published": "2026-11-06",
+      "categoryLabel": "政策标准",
+      "id": 909
+    },
+    {
+      "date": "2026-11-08",
+      "category": "policy",
+      "title": "广东印发扩大消费实施方案：发展智能家居消费，加快新一代智能家居终端",
+      "summary": "《广东省扩大消费实施方案》提出，加快发展新一代智能家居终端，深化物联感知、智能控制、人机交互等技术在家电、家具、照明等终端消费品的应用，并研究开发适老化智能家居、生活服务类机器人等智能产品，推广高端、绿色、智能泛家居产品。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1097388582_124706",
+      "keywords": [
+        "扩大消费",
+        "智能家居终端",
+        "适老化智能家居",
+        "广东",
+        "物联感知"
+      ],
+      "published": "2026-11-05",
+      "categoryLabel": "政策标准",
+      "id": 910
+    },
+    {
+      "date": "2026-11-08",
+      "category": "policy",
+      "title": "广东放大招：37 条举措提振消费，重点支持智能家居以旧换新",
+      "summary": "方案明确深入实施消费品以旧换新，重点支持汽车、家电、数码、智能家居等重点领域，并结合广东产业特色增补智能家居产品（含适老化家居产品）等自选品类。同时鼓励地市探索“财政补贴+企业让利+金融赋能”组合模式。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34397836",
+      "keywords": [
+        "以旧换新",
+        "智能家居",
+        "适老化家居",
+        "促消费",
+        "广东"
+      ],
+      "published": "2026-11-04",
+      "categoryLabel": "政策标准",
+      "id": 911
+    },
+    {
+      "date": "2026-11-08",
+      "category": "policy",
+      "title": "工信部等六部门：加快推进具身智能、大语言模型、脑机接口、外骨骼等在养老领域应用",
+      "summary": "《关于培育多元场景 促进适老用品产品消费的若干措施》提出将具身智能、大语言模型、脑机接口、外骨骼等前沿技术引入养老领域应用。有条件的社区养老服务中心、日间照料中心等设施可开设适老用品体验、租售网点，推动适老用品规模化使用。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/LB2AI7B10511B8LM.html",
+      "keywords": [
+        "具身智能",
+        "大语言模型",
+        "脑机接口",
+        "养老",
+        "适老用品"
+      ],
+      "published": "2026-11-06",
+      "categoryLabel": "政策标准",
+      "id": 912
+    },
+    {
+      "date": "2026-11-08",
+      "category": "product",
+      "title": "摩尔线程 AICUBE 迎来重大升级：打通全屋智能物联与 AI NAS 直控",
+      "summary": "摩尔线程推送 MTT AIOS 1.6.1 版本，AI 智能体“小麦”新增支持全屋智能家电控制、AI NAS 直控与全新桌宠模式，并同步推出“摩尔小麦”手机客户端。该升级被视作 AICUBE 从显卡盒子向“家庭 AI 中枢”定位演进的关键一步。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-06/doc-inixuqhu5000698.shtml",
+      "keywords": [
+        "摩尔线程",
+        "AICUBE",
+        "家庭AI中枢",
+        "AI NAS",
+        "全屋智能"
+      ],
+      "published": "2026-11-06",
+      "categoryLabel": "产品方案",
+      "id": 913
+    },
+    {
+      "date": "2026-11-08",
+      "category": "product",
+      "title": "亚马逊一口气发 5 款 AI 硬件，Alexa 正在抢“家庭 AI 入口”",
+      "summary": "亚马逊集中发布 5 款 AI 硬件，其中全新 Echo Show 16 把“墙面智能屏”推向新高度：16 英寸高清屏幕，可视面积比上代增加 10%，边框收窄近 40%，机身更薄，并可选 Nanomatte 防眩光屏幕以更好融入家居环境。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1096035712_121124370",
+      "keywords": [
+        "Echo Show 16",
+        "Alexa",
+        "AI硬件",
+        "家庭入口",
+        "智能屏"
+      ],
+      "published": "2026-11-02",
+      "categoryLabel": "产品方案",
+      "id": 914
+    },
+    {
+      "date": "2026-11-08",
+      "category": "product",
+      "title": "全屋智能三重门槛之下，美的“换新品牌日”如何替用户接住不确定性",
+      "summary": "文章认为没有高价值的用户场景和实际体验，用户需求就不会被唤醒。美的已在西安、杭州、长沙搭建全屋智能体验展厅，10 月至 11 月还将在焦作、怀化、西安、嘉兴等地落地“美的智能家年华”，以场景沉浸体验带动用户认知。",
+      "source": "CNMO 科技",
+      "url": "https://home.cnmo.com/news/821597.html",
+      "keywords": [
+        "美的智慧家",
+        "全屋智能",
+        "体验展厅",
+        "场景体验",
+        "三翼鸟"
+      ],
+      "published": "2026-11-02",
+      "categoryLabel": "产品方案",
+      "id": 915
+    },
+    {
+      "date": "2026-11-08",
+      "category": "product",
+      "title": "路过不解锁：Apple 新专利让门锁学会判断你的回家意图",
+      "summary": "Apple 在 10 月 13 日发布 HomeView 及 Home Collection 产品线的同时公开了一项智能电子门锁专利。该方案利用超宽带、蓝牙、摄像头及激光雷达技术，分析用户行进方向、速度及轨迹连贯性判断解锁意图，区分径直走向门口与路过行为，并支持自定义入口布局模板与灵敏度参数。",
+      "source": "新浪新闻",
+      "url": "https://www.sina.cn/weibo/detail/5362228909049229.html",
+      "keywords": [
+        "智能门锁",
+        "Apple",
+        "UWB",
+        "HomeView",
+        "安防"
+      ],
+      "published": "2026-11-06",
+      "categoryLabel": "产品方案",
+      "id": 916
+    },
+    {
+      "date": "2026-11-08",
+      "category": "product",
+      "title": "国内端侧 AI 芯片企业全景梳理：哪些厂商值得重点关注",
+      "summary": "文章梳理国内端侧 AI 芯片厂商选型参考，指出应重点关注芯片企业的大模型适配能力与工具链完备度。国科微已与通义千问、DeepSeek 等实现合作落地，爱芯元智等视觉推理厂商同样值得纳入比较范围，相关芯片适用于 AI 眼镜、智能家居、具身智能等方向。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1096719272_122058772",
+      "keywords": [
+        "端侧AI芯片",
+        "国科微",
+        "爱芯元智",
+        "大模型适配",
+        "选型"
+      ],
+      "published": "2026-11-03",
+      "categoryLabel": "产品方案",
+      "id": 917
+    },
+    {
+      "date": "2026-11-08",
+      "category": "scenario",
+      "title": "松原市“敬老月”适老化改造完工：26 户失能老人家庭居家安全再升级",
+      "summary": "2026 年“敬老月”期间，松原市民政局联合当地志愿者协会，针对失能、半失能及行动不便的困难老年群体开展适老化改造。共涉及全市 26 户困难老年人家庭，按 2000 元/户标准实施居家改造，项目总资金达 52025 元。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1095972632_122094388",
+      "keywords": [
+        "适老化改造",
+        "失能老人",
+        "居家安全",
+        "松原",
+        "智慧养老"
+      ],
+      "published": "2026-11-02",
+      "categoryLabel": "场景落地",
+      "id": 918
+    },
+    {
+      "date": "2026-11-08",
+      "category": "scenario",
+      "title": "宋靓珺：让技术主动“弯下腰”——从数字鸿沟到数智守护体系",
+      "summary": "文章指出适老思路正从“补短板”转向“建体系”，把适老要求前置到技术研发和产品设计流程之中。对社区居家养老而言，服务重心已延伸至老年人“家门口”和“床边”，智能感知、紧急呼叫、健康监测等下沉到社区和家庭，能让独居、高龄老人在跌倒、突发疾病时被及时发现。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34386554",
+      "keywords": [
+        "数智守护",
+        "居家养老",
+        "智能感知",
+        "紧急呼叫",
+        "适老设计"
+      ],
+      "published": "2026-11-02",
+      "categoryLabel": "场景落地",
+      "id": 919
+    },
+    {
+      "date": "2026-11-08",
+      "category": "scenario",
+      "title": "大户型全屋智能横评：统一入口、全品类覆盖与安装改造难度成核心维度",
+      "summary": "报道指出大平层、复式及别墅业主在入住后常遭遇痛点：全屋设备由多个品牌拼凑，分散在十几个独立 APP 中，多代同堂家庭中复杂交互逻辑让老人难以操作，出门还要跨楼层逐个检查关灯关空调。横评围绕统一入口能力、全品类覆盖度、线下服务落地能力与安装改造难度展开。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908tqgq.html",
+      "keywords": [
+        "大户型",
+        "全屋智能",
+        "统一入口",
+        "多代同堂",
+        "改造难度"
+      ],
+      "published": "2026-11-06",
+      "categoryLabel": "场景落地",
+      "id": 920
+    },
+    {
+      "date": "2026-11-08",
+      "category": "scenario",
+      "title": "省级资源赋能泛家居转型：“粤智赋万企行”走进佛山",
+      "summary": "“粤智赋万企行”是广东省制造业赋能对接系列活动的重要一环，推动政策、技术、资源、金融与企业需求精准对接，让赋能落到车间、产线、产品。作为智能家居专场所在地，佛山泛家居产业总产值已超万亿元，是智能家居转型的重要战场。",
+      "source": "21财经",
+      "url": "https://m.21jingji.com/article/20261104/herald/06e4982dea8581bccc2bb4bd77cdb2e3.html",
+      "keywords": [
+        "粤智赋万企行",
+        "佛山",
+        "泛家居",
+        "智能家居转型",
+        "产业升级"
+      ],
+      "published": "2026-11-05",
+      "categoryLabel": "场景落地",
+      "id": 921
+    },
+    {
+      "date": "2026-11-08",
+      "category": "scenario",
+      "title": "智能门锁功能重心转向门口场景：AI 看护与多摄猫眼成 2026 年新品主战场",
+      "summary": "智能门锁的价值重心正从“忘带钥匙也能进门”转向围绕门口场景做 AI 看护，AI 看护与多摄猫眼成为 2026 年新品最集中的比拼方向。一线品牌普遍提供逗留抓拍、远程实时告警、防撬报警与虚位密码等门口安防能力。",
+      "source": "微博",
+      "url": "https://weibo.com/2/detail/comos:nixyfih7528121",
+      "keywords": [
+        "智能门锁",
+        "AI看护",
+        "多摄猫眼",
+        "门口安防",
+        "逗留抓拍"
+      ],
+      "published": "2026-11-08",
+      "categoryLabel": "场景落地",
+      "id": 922
+    },
+    {
+      "date": "2026-11-08",
+      "category": "security",
+      "title": "凌晨 3 点摄像头自己转向床铺：双 11 装海康前先查这 4 个设置",
+      "summary": "文章以海康威视 IP 摄像头认证绕过漏洞（CVE-2017-7921）为例，该漏洞今年 3 月被列入美国 CISA 已知被利用漏洞目录，GitHub 上相关利用工具已有二十多个。其典型原理是认证只做在网页登录层、后台接口不校验，厂商处置方式主要是更新固件。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a03z6pzz/",
+      "keywords": [
+        "摄像头漏洞",
+        "CVE-2017-7921",
+        "海康威视",
+        "CISA",
+        "认证绕过"
+      ],
+      "published": "2026-11-07",
+      "categoryLabel": "数据安全",
+      "id": 923
+    },
+    {
+      "date": "2026-11-08",
+      "category": "security",
+      "title": "智能家居邪修术：当隐私边界被设备漏洞和隐藏授权条款击穿",
+      "summary": "报道梳理智能家居隐私领域的法律空白：《个人信息保护法》管数据收集合法性与授权，但对“设备持续采集环境数据”缺乏专门条款；刑法非法控制计算机信息系统罪管“未经授权进入”，但若授权条款藏在三十页隐私政策第九页，用户的“同意”是否成立并无清晰答案。文中还提到开发者可访问全球超 7000 台同型号扫地机的实时画面与房间地图且无需 PIN 码的案例。",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202611/571261.shtml",
+      "keywords": [
+        "智能家居隐私",
+        "个人信息保护法",
+        "授权条款",
+        "设备漏洞",
+        "扫地机"
+      ],
+      "published": "2026-11-03",
+      "categoryLabel": "数据安全",
+      "id": 924
+    },
+    {
+      "date": "2026-11-08",
+      "category": "security",
+      "title": "快自查！35 款移动应用存在违法违规收集使用个人信息情况被通报",
+      "summary": "根据中央网信办、工业和信息化部、公安部联合发布的《关于开展 2026 年个人信息保护系列专项行动的公告》，经公安部计算机信息系统安全产品质量监督检验中心检测，35 款移动应用存在一项或多项违法违规收集使用个人信息情况，现予通报。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34388752",
+      "keywords": [
+        "个人信息保护",
+        "App通报",
+        "网信办",
+        "专项行动",
+        "35款应用"
+      ],
+      "published": "2026-11-02",
+      "categoryLabel": "数据安全",
+      "id": 925
+    },
+    {
+      "date": "2026-11-08",
+      "category": "security",
+      "title": "门口监控被邻居告上法庭之前，这五条边界先走完",
+      "summary": "结合入户门外摄像头“越界”判例，文章梳理家庭安防取证的合规边界：可遥控旋转的摄像头若拍摄范围可调整至邻居入户门，可能构成侵犯隐私权并引发诉讼。安装位置、朝向与拍摄范围的事前设定，是化解邻里矛盾与法律风险的关键。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/am9vg0wk/",
+      "keywords": [
+        "摄像头边界",
+        "隐私权",
+        "入户门外",
+        "邻里纠纷",
+        "安防合规"
+      ],
+      "published": "2026-11-02",
+      "categoryLabel": "数据安全",
+      "id": 926
+    },
+    {
+      "date": "2026-11-08",
+      "category": "security",
+      "title": "警惕！你可能正在“直播”你的隐私：蓝牙漏洞可远程接管手机",
+      "summary": "在手机蓝牙漏洞被攻击的演示中，不法者只需植入一段攻击脚本即可完整接管被攻击手机，通讯录、短信、通话记录等隐私信息一览无余，甚至正在聊天的界面也能被远程实时截屏，凸显近距离无线协议的安全风险。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34414736",
+      "keywords": [
+        "蓝牙漏洞",
+        "手机接管",
+        "隐私泄露",
+        "远程截屏",
+        "安全防护"
+      ],
+      "published": "2026-11-06",
+      "categoryLabel": "数据安全",
+      "id": 927
     }
   ]
 }
