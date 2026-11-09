@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08",
+  "lastUpdated": "2026-11-09",
   "news": [
     {
       "id": 1,
@@ -16617,6 +16617,366 @@
       "published": "2026-11-06",
       "categoryLabel": "数据安全",
       "id": 927
+    },
+    {
+      "date": "2026-11-09",
+      "category": "tech",
+      "title": "Matter 1.6 与 1.6.1：Groupcast、NFC Setup、Joint Fabric 与 Product Security 1.1 开发指南",
+      "summary": "文章系统梳理 Matter 1.6/1.6.1 的新特性，包括 Groupcast 多设备同时配网、NFC 配网流程、Joint Fabric 多生态联合组网以及产品安全 1.1 相关要求。核心关注点在于降低用户将设备从纸箱接入家庭网络的门槛，并强化产品侧安全基线。",
+      "source": "IoT Digital Twin PLM",
+      "url": "https://iotdigitaltwinplm.com/matter-1-6-1-groupcast-nfc-setup-joint-fabric-product-security-1-1-developer-guide-2026/",
+      "keywords": [
+        "Matter 1.6.1",
+        "Groupcast",
+        "NFC配网",
+        "Joint Fabric",
+        "Product Security"
+      ],
+      "published": "2026-11-06",
+      "categoryLabel": "技术前沿",
+      "id": 928
+    },
+    {
+      "date": "2026-11-09",
+      "category": "tech",
+      "title": "Home Assistant 借 Matter 1.6.1 与 matter.js 加速推进",
+      "summary": "Home Assistant 正借新版 Matter 1.6.1 与 matter.js 库加速演进，本轮 CSA 并未新增大量品类，而是聚焦既有能力的补齐与稳定性提升。开源平台的跟进速度反映出 Matter 生态正在从协议层向工程落地层快速收敛。",
+      "source": "Maison et Domotique",
+      "url": "https://www.maison-et-domotique.com/en/174189-home-assistant-shifts-into-high-gear-with-matter-1-6-1-and-matter-js/",
+      "keywords": [
+        "Home Assistant",
+        "Matter 1.6.1",
+        "matter.js",
+        "开源平台",
+        "互操作"
+      ],
+      "published": "2026-11-03",
+      "categoryLabel": "技术前沿",
+      "id": 929
+    },
+    {
+      "date": "2026-11-09",
+      "category": "tech",
+      "title": "终端侧 AI：从单点应用走向智能体体验",
+      "summary": "高通在第九届进博会展出端侧 MoE 智能体演示，与 InfrisAI、江波龙、阶跃星辰联合协作，从模型、推理、存储和芯片平台多环节协同优化。阶跃星辰提升模型智能能力，InfrisAI 对专家模块提前预测与预取，江波龙优化 UFS 到内存的加载效率，高通则负责芯片平台与软件栈优化。",
+      "source": "网易科技",
+      "url": "https://www.163.com/dy/article/LB7UPPJ505118HA4.html",
+      "keywords": [
+        "端侧MoE",
+        "高通",
+        "进博会",
+        "专家模块预取",
+        "智能体"
+      ],
+      "published": "2026-11-08",
+      "categoryLabel": "技术前沿",
+      "id": 930
+    },
+    {
+      "date": "2026-11-09",
+      "category": "tech",
+      "title": "DeepSeek 押注昇腾，国产 AI 芯片的突围之年",
+      "summary": "文章指出当单卡制程短期难以追平台积电与英伟达时，国产算力选择用高速互联和系统级工程把多卡集群有效算力拉上去。昇腾 384 超节点已部署 750 余套，天数智芯 IXL144 以单机柜 144 卡、10.1TB 显存切入训练与高并发推理场景，竞争单元从单颗芯片升级为可交付的算力系统。",
+      "source": "网易科技",
+      "url": "https://www.163.com/dy/article/LATOT86U0552OH9Y.html",
+      "keywords": [
+        "昇腾超节点",
+        "国产AI芯片",
+        "天数智芯",
+        "DeepSeek",
+        "算力系统"
+      ],
+      "published": "2026-11-04",
+      "categoryLabel": "技术前沿",
+      "id": 931
+    },
+    {
+      "date": "2026-11-09",
+      "category": "policy",
+      "title": "全屋智能站上普及拐点：互联互通强制国标有望明年落地，跨品牌壁垒待破",
+      "summary": "跨品牌“互联互通”难题迎来相对明确的国标时间表。美的全屋智能总经理尚喆透露，全品类家电及关键家居产品已基于国家互联互通强制标准推进测试和认证，预计明年 6 月完成测试并进入公示，公示结束后标准将逐步落地执行。TCL 实业、创维等企业表示标准落地将对设备互联、身份认证、数据授权、兼容性测试和产品合规提出更明确要求。",
+      "source": "21财经 / 每日经济新闻",
+      "url": "https://www.21jingji.com/article/20261106/herald/1937ad7c2d45ef5225899dacd2a0767c.html",
+      "keywords": [
+        "互联互通强制国标",
+        "全屋智能",
+        "跨品牌",
+        "测试认证",
+        "2027下半年"
+      ],
+      "published": "2026-11-06",
+      "categoryLabel": "政策标准",
+      "id": 932
+    },
+    {
+      "date": "2026-11-09",
+      "category": "policy",
+      "title": "六部门：推动适老化改造、健康管理、智能安防等用品产品进家入户",
+      "summary": "民政部、国家发展改革委等部门联合印发《关于培育多元场景 促进适老用品产品消费的若干措施》，提出拓展适老用品产品消费场景，融入居家社区机构养老服务场景。政策明确结合居家养老服务，推动适老化改造、健康管理、智能安防等用品产品进家入户，扩大银发经济在家庭场景的消费规模。",
+      "source": "21财经",
+      "url": "https://m.21jingji.com/article/20261106/herald/a2ecb595dd1f368c327f6a7f9af3662b.html",
+      "keywords": [
+        "适老用品",
+        "居家养老",
+        "智能安防",
+        "六部门",
+        "消费场景"
+      ],
+      "published": "2026-11-06",
+      "categoryLabel": "政策标准",
+      "id": 933
+    },
+    {
+      "date": "2026-11-09",
+      "category": "policy",
+      "title": "以旧换新收官季：多地将智能门锁等智能家居与适老产品纳入地方自主品类补贴",
+      "summary": "以旧换新进入收官阶段并呈现“品类精准化”特征，政策带动相关品类销售额超 2 万亿元、惠及超 2.5 亿人次。河南、山西、天津、黑龙江、四川等地出台自主品类补贴，将智能门锁、智能净水机、运动相机、助听器等智能家居与适老产品纳入，按最终销售价格 15%、最高 2000 元补贴，执行期至 12 月 31 日。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34411143",
+      "keywords": [
+        "以旧换新",
+        "地方自主品类",
+        "智能门锁补贴",
+        "适老产品",
+        "消费扩容"
+      ],
+      "published": "2026-11-05",
+      "categoryLabel": "政策标准",
+      "id": 934
+    },
+    {
+      "date": "2026-11-09",
+      "category": "product",
+      "title": "TCL 布局 AI + 智慧家庭，推动家电由被动执行转向主动服务",
+      "summary": "TCL 加速布局 AI + 智慧家庭赛道，依托伏羲等垂域大模型，推动家电产品从被动执行指令升级为主动感知服务。产品矩阵覆盖全品类智能家电以及雷鸟 AR 眼镜等新终端品类，形成“家电+眼镜”的多模态感知组合。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1098527742_120539363",
+      "keywords": [
+        "TCL",
+        "伏羲大模型",
+        "AI+智慧家庭",
+        "雷鸟AR眼镜",
+        "主动服务"
+      ],
+      "published": "2026-11-06",
+      "categoryLabel": "产品方案",
+      "id": 935
+    },
+    {
+      "date": "2026-11-09",
+      "category": "product",
+      "title": "美的全屋智能锚定 A2A：家电互联正从“接口对接”走向“Agent 对话”",
+      "summary": "美的成为首个将家庭智能体 A2A 与生态伙伴打通的家电企业，推动家电互联从接口对接走向 Agent 对话。美的正转向“群品思维”，例如厨房协同烹饪、洗衣房场景，让冰箱、烤箱、洗碗机、晾衣机等设备数据互通，空调等单品能力被重新编排为场景化服务。",
+      "source": "网易科技",
+      "url": "https://www.163.com/dy/article/LB2T987005118DFD.html",
+      "keywords": [
+        "美的",
+        "A2A",
+        "家庭智能体",
+        "群品思维",
+        "场景协同"
+      ],
+      "published": "2026-11-06",
+      "categoryLabel": "产品方案",
+      "id": 936
+    },
+    {
+      "date": "2026-11-09",
+      "category": "product",
+      "title": "华盛昌携全场景 AI 智家新品亮相 2026 移动网络大会",
+      "summary": "华盛昌持续深耕“AI+测量”核心战略，推出全场景 AI 智家新品。针对独居老人应急响应难、用药管理弱的痛点，发布 AI 银发陪伴机 AC-01，以一键 SOS 求助、电子围栏、健康用药提醒为核心功能，配合适老化轻量化设计，让长辈随身可戴。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-11-08/doc-inixywfa3922603.shtml",
+      "keywords": [
+        "华盛昌",
+        "AI银发陪伴机",
+        "电子围栏",
+        "一键SOS",
+        "移动网络大会"
+      ],
+      "published": "2026-11-08",
+      "categoryLabel": "产品方案",
+      "id": 937
+    },
+    {
+      "date": "2026-11-09",
+      "category": "product",
+      "title": "I 用 Matter 替换了几乎所有 IKEA Zigbee 设备，实际变化如何",
+      "summary": "作者用半年时间把家中几乎全部 IKEA Zigbee 设备替换为 Matter over Thread 方案，实际体验是灵活性和价格更优，但速度与可靠性并没有明显提升。这一实测为普通用户提供了从 Zigbee 生态迁移到 Matter 的真实收益判断依据。",
+      "source": "Matter Alpha",
+      "url": "https://www.matteralpha.com/explainer/i-replaced-almost-every-ikea-zigbee-device-with-matter-heres-what-changed",
+      "keywords": [
+        "Matter over Thread",
+        "IKEA",
+        "Zigbee迁移",
+        "互通性",
+        "实测"
+      ],
+      "published": "2026-11-05",
+      "categoryLabel": "产品方案",
+      "id": 938
+    },
+    {
+      "date": "2026-11-09",
+      "category": "product",
+      "title": "后摩智能完成数十亿元 B 轮融资，存算一体 AI 芯片产业化提速",
+      "summary": "后摩智能于 2026 年 11 月 4 日宣布完成数十亿元 B 轮融资，标志着存算一体底层架构进入大规模商业化量产阶段。随着模型变小变强，端侧芯片可承载模型规模从 2024 年的 7B 级提升至 2026 年的 120B 级，存算一体被视为击穿端侧“内存墙”的关键路径。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1096985887_553580",
+      "keywords": [
+        "后摩智能",
+        "存算一体",
+        "B轮融资",
+        "内存墙",
+        "端侧大模型"
+      ],
+      "published": "2026-11-04",
+      "categoryLabel": "产品方案",
+      "id": 939
+    },
+    {
+      "date": "2026-11-09",
+      "category": "scenario",
+      "title": "进博会里找答案：多样银发新场景落地，“走到”老人身边",
+      "summary": "进博会现场，多样银发新场景加速落地：智能手表长按 3 秒即可一键呼救，求助信息连同实时定位推送给家属、物业和社区值班人员，目前已覆盖社区一百多位独居、高龄老人。针对老旧住宅，济南案例提供了可升降厨房灶台、遥控智能床垫、助起沙发等整套居家适老整改方案。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1098524812_121620820",
+      "keywords": [
+        "进博会",
+        "银发场景",
+        "一键呼救",
+        "独居老人",
+        "居家适老改造"
+      ],
+      "published": "2026-11-07",
+      "categoryLabel": "场景落地",
+      "id": 940
+    },
+    {
+      "date": "2026-11-09",
+      "category": "scenario",
+      "title": "不戴手环也不装摄像头，索尼的“Wi-Fi 养老神器”怎么发现跌倒",
+      "summary": "索尼展示的方案利用人体活动对 Wi-Fi 信号传播特征的影响，结合信道状态信息与深度学习算法识别跌倒事件并发出告警，不依赖手环或摄像头。但现场展陈显示其并非普通路由器可兼职：需布置专门无线接收节点，告警后台呈现实时波形与跌倒概率再推送到看护端。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a03z2d08/",
+      "keywords": [
+        "索尼",
+        "Wi-Fi跌倒检测",
+        "CSI信道状态",
+        "无感监测",
+        "看护端"
+      ],
+      "published": "2026-11-08",
+      "categoryLabel": "场景落地",
+      "id": 941
+    },
+    {
+      "date": "2026-11-09",
+      "category": "scenario",
+      "title": "乌镇照见 AI 走进生活：叠被子的、送件的、陪护老人的、泡茶的",
+      "summary": "乌镇峰会展示了 AI 在家庭服务场景的密集落地，叠被子、送件、陪护老人、泡茶等家庭服务机器人均有实机运行，峰会 AI 底色概括为落地、多元、未来。家庭服务机器人正从展台演示走向可规模化验证的日常服务形态。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-05/doc-inixsezw5621206.shtml",
+      "keywords": [
+        "乌镇峰会",
+        "家庭服务机器人",
+        "陪护机器人",
+        "AI落地",
+        "家庭场景"
+      ],
+      "published": "2026-11-05",
+      "categoryLabel": "场景落地",
+      "id": 942
+    },
+    {
+      "date": "2026-11-09",
+      "category": "scenario",
+      "title": "机构养老服务综合管理平台：智慧社区+智慧居家+智慧机构三位一体",
+      "summary": "以南京爱普雷德打造的泉水社区智慧养老服务中心为例，约 1500 平方米，设日间照料床位 11 张、全托护理床位 28 张，构建三位一体服务体系，获评南京市标杆项目并入选 2025 年南京市人工智能应用标杆场景。数据显示试点区域养老服务效率提升 30% 以上，综合人力成本降低 20% 以上。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1095910292_122896576",
+      "keywords": [
+        "智慧养老平台",
+        "社区居家机构",
+        "南京标杆",
+        "护理床位",
+        "效率提升"
+      ],
+      "published": "2026-11-02",
+      "categoryLabel": "场景落地",
+      "id": 943
+    },
+    {
+      "date": "2026-11-09",
+      "category": "security",
+      "title": "智能家居邪修术：附加价值之外，隐私泄露风险不容忽视",
+      "summary": "文章指出智能家居除基础功能外被用于防出轨、监护老幼等附加场景，但存在设备被黑客入侵、厂商不合理收集数据等风险，现有法律对智能家居数据监管存在空白。《个人信息保护法》对设备持续采集环境数据缺乏专门条款，刑法对授权边界亦无细颗粒度答案，行业需完善监管框架。",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202611/571241.shtml",
+      "keywords": [
+        "智能家居隐私",
+        "数据收集合法性",
+        "监管空白",
+        "持续采集",
+        "授权边界"
+      ],
+      "published": "2026-11-02",
+      "categoryLabel": "数据安全",
+      "id": 944
+    },
+    {
+      "date": "2026-11-09",
+      "category": "security",
+      "title": "交流站：组屋摄像头须兼顾安全与隐私",
+      "summary": "不少组屋居民在自家门外安装智能视频门铃或闭路电视保障家庭安全，但部分智能摄像头直接对准对面或隔壁邻居大门，引发隐私侵犯担忧。事件反映社区级摄像设备部署中安全需求与个人隐私边界之间需要更清晰的规则与社区协商机制。",
+      "source": "联合早报",
+      "url": "https://www.zaobao.com.sg/forum/talk/story20261106-9960156",
+      "keywords": [
+        "智能摄像头",
+        "隐私边界",
+        "智能视频门铃",
+        "社区安全",
+        "邻居权益"
+      ],
+      "published": "2026-11-06",
+      "categoryLabel": "数据安全",
+      "id": 945
+    },
+    {
+      "date": "2026-11-09",
+      "category": "security",
+      "title": "欧洲冰箱遭遇网络攻击，CSA 呼吁新加坡企业限制控制系统网页访问",
+      "summary": "在多起欧洲超市及法国血库冷库遭网络攻击之后，连接标准联盟 CSA 呼吁新加坡企业限制对控制系统的网页访问权限。该事件再次暴露 IoT 设备管理界面暴露在公网所带来的系统性风险，对家庭与社区级智能设备管理同样具有警示意义。",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/tech/csa-warns-singapore-firms-to-restrict-control-systems-from-web-after-european-supermarket-attacks",
+      "keywords": [
+        "IoT网络攻击",
+        "冷链设备",
+        "CSA安全建议",
+        "控制系统暴露",
+        "物联网安全"
+      ],
+      "published": "2026-11-07",
+      "categoryLabel": "数据安全",
+      "id": 946
+    },
+    {
+      "date": "2026-11-09",
+      "category": "security",
+      "title": "拥抱 AI 的同时，如何守好个人信息边界",
+      "summary": "文章结合上海的司法与监管实践梳理个人信息保护的多重路径：司法个案明确侵权责任，专项治理清理违规产品和内容，企业合规指导推动安全要求进入技术流程，举报机制提供公众监督渠道。多方衔接使个人信息保护从法律原则逐渐变为可检查、可执行、可追责的具体要求。",
+      "source": "网易科技",
+      "url": "https://www.163.com/dy/article/LASNV20E0514R9P4.html",
+      "keywords": [
+        "个人信息保护",
+        "合规治理",
+        "专项治理",
+        "企业合规",
+        "AI应用"
+      ],
+      "published": "2026-11-04",
+      "categoryLabel": "数据安全",
+      "id": 947
     }
   ]
 }
