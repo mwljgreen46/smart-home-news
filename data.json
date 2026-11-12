@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10",
+  "lastUpdated": "2026-11-12",
   "news": [
     {
       "id": 1,
@@ -17409,6 +17409,492 @@
       "published": "2026-11-03",
       "categoryLabel": "数据安全",
       "id": 971
+    },
+    {
+      "date": "2026-11-12",
+      "category": "tech",
+      "title": "中国移动联合华为发布家宽边缘算力网关（BCG）创新方案",
+      "summary": "在2026中国移动网络大会“数智生活AI+创新合作论坛”上，中国移动与华为联合发布家宽边缘算力网关方案，以iBNG智能网关为底座、MPC算力单板为引擎，把算力下沉到家庭边缘。方案同时开启Token化经营，支持无感鉴权、融合计费和模型路由调度，实现算力、网络与智能体服务一体化调度。",
+      "source": "新华网",
+      "url": "http://www.zj.xinhuanet.com/20261110/61d896840db040deb30ac0d754d6ba27/c.html",
+      "keywords": [
+        "边缘算力",
+        "家宽网关",
+        "模型路由",
+        "Token化",
+        "中国移动"
+      ],
+      "published": "2026-11-10",
+      "categoryLabel": "技术前沿",
+      "id": 972
+    },
+    {
+      "date": "2026-11-12",
+      "category": "tech",
+      "title": "Home Assistant 2026.11 发布：38 项新集成、内置HACS与自动化升级",
+      "summary": "开源智能家居平台Home Assistant发布2026.11版本，带来38项新集成、内置HACS市场、简化的自动化流程与自动仪表盘等更新。新版对目标与实体名称做了调整，同时引入破坏性变更，跨品牌接入Matter设备的用户在升级前需核对兼容性。",
+      "source": "Maison et Domotique",
+      "url": "https://www.maison-et-domotique.com/en/174535-home-assistant-2026-11-smarter-automations-automatic-dashboards-and-38-new-integrations/",
+      "keywords": [
+        "Home Assistant",
+        "Matter",
+        "集成",
+        "开源",
+        "自动化"
+      ],
+      "published": "2026-11-10",
+      "categoryLabel": "技术前沿",
+      "id": 973
+    },
+    {
+      "date": "2026-11-12",
+      "category": "tech",
+      "title": "35B多模态大模型跑进手机：面壁智能发布MiniCPM-V 4.7技术进展",
+      "summary": "面壁智能展示MiniCPM-V 4.7，总参数350亿的多模态大模型可在手机上以约3GB运行内存完成推理。在iPhone 18 Pro Max上，模型以约3GB运行内存实现20.51 token/s的解码速度。该进展被视为端侧大模型在消费级终端落地的关键一步。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/LBEQQ1FH0512B07B.html",
+      "keywords": [
+        "端侧推理",
+        "MiniCPM",
+        "多模态",
+        "内存优化",
+        "面壁智能"
+      ],
+      "published": "2026-11-11",
+      "categoryLabel": "技术前沿",
+      "id": 974
+    },
+    {
+      "date": "2026-11-12",
+      "category": "tech",
+      "title": "端侧智能迎来撞线前夜，大模型跑进普通人的手机",
+      "summary": "10月31日苹果宣布国行版Apple Intelligence正式接入阿里通义千问，11月4日开启测试、12月正式推送，被视为端侧AI从概念走向商业化验证的标志性事件。端侧模型正成为二级市场重点关注方向，AI手机、AI眼镜与智能穿戴等终端硬件具备本地运行大模型的能力。",
+      "source": "21经济网",
+      "url": "https://www.21jingji.com/article/20261111/herald/0e01aba71908e3713a7223314e7fd184.html",
+      "keywords": [
+        "端侧智能",
+        "Apple Intelligence",
+        "通义千问",
+        "AI手机",
+        "商用验证"
+      ],
+      "published": "2026-11-11",
+      "categoryLabel": "技术前沿",
+      "id": 975
+    },
+    {
+      "date": "2026-11-12",
+      "category": "tech",
+      "title": "美的全屋智能锚定A2A：家电互联从“接口对接”走向“Agent对话”",
+      "summary": "美的全屋智能提出以A2A（Agent-to-Agent）为方向，推动家电互联从接口层对接升级为智能体对话形态。依托全品类家电智能化底座与硬件矩阵，前端承接模糊意图、后端调度具体设备，中间通过上下文记忆串联交互，形成从理解到执行的完整链路。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/LB2T987005118DFD.html",
+      "keywords": [
+        "A2A",
+        "全屋智能",
+        "智能体",
+        "美的",
+        "意图理解"
+      ],
+      "published": "2026-11-06",
+      "categoryLabel": "技术前沿",
+      "id": 976
+    },
+    {
+      "date": "2026-11-12",
+      "category": "tech",
+      "title": "2026移动网络大会：算网大脑4.0实现异构异域算力统一调度",
+      "summary": "中国移动在2026移动网络大会展示全国一体化算力网，形成AICN智算网络、AIDC算电协同、AICC云算服务三大支柱，并通过算网大脑4.0实现异构、异域算力统一调度。上层MoMA移动模型服务平台已实现主流模型全量接入，自研SDN网关支持百万亿Token日调度量。",
+      "source": "网易科技",
+      "url": "https://www.163.com/tech/article/LB0DI1O400097U7T.html",
+      "keywords": [
+        "算力网",
+        "算网大脑",
+        "Token调度",
+        "5G-A",
+        "异构算力"
+      ],
+      "published": "2026-11-05",
+      "categoryLabel": "技术前沿",
+      "id": 977
+    },
+    {
+      "date": "2026-11-12",
+      "category": "policy",
+      "title": "工信部发布《关于加强智能体终端设备进网管理的通知》",
+      "summary": "11月6日，工信部公开发布《关于加强智能体终端设备进网管理的通知》（工信厅信管〔2026〕42号），对智能体及智能体终端给出定义与准入要求。预置智能体的手机、平板、可穿戴设备须在进网检测中开展智能体适配验证，终端上的智能体应配备唯一身份码，重大变化须报备并重新检测。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727035.shtml",
+      "keywords": [
+        "工信部",
+        "智能体终端",
+        "进网管理",
+        "唯一身份码",
+        "适配验证"
+      ],
+      "published": "2026-11-06",
+      "categoryLabel": "政策标准",
+      "id": 978
+    },
+    {
+      "date": "2026-11-12",
+      "category": "policy",
+      "title": "智能家居互联互通强制性国标有望2027年下半年落地",
+      "summary": "工信部2026年3月公示的《2026年第五批强制性国家标准制修订计划（征求意见稿）》中，5项《智能家居互联互通》系列标准同时立项，性质均为强制性，项目周期18个月。美的全屋智能总经理尚喆表示测试预计明年6月完成，随后进入公示与落地执行阶段，跨品牌壁垒有望被打破。",
+      "source": "21财经",
+      "url": "https://www.21jingji.com/article/20261106/herald/1937ad7c2d45ef5225899dacd2a0767c.html",
+      "keywords": [
+        "强制性国标",
+        "互联互通",
+        "全屋智能",
+        "工信部",
+        "标准立项"
+      ],
+      "published": "2026-11-06",
+      "categoryLabel": "政策标准",
+      "id": 979
+    },
+    {
+      "date": "2026-11-12",
+      "category": "policy",
+      "title": "六部门发文推动适老化改造、健康管理、智能安防等用品进家入户",
+      "summary": "民政部、国家发展改革委、工业和信息化部、商务部、市场监管总局、全国老龄办印发《关于培育多元场景 促进适老用品产品消费的若干措施》。文件提出结合居家养老服务推动适老化改造、健康管理、智能安防等用品产品进家入户，并支持社区养老服务中心开设体验、租售网点，推动规模化使用。",
+      "source": "凤凰网科技",
+      "url": "https://tech.ifeng.com/c/8xpZqZfrbsb",
+      "keywords": [
+        "适老化",
+        "养老服务",
+        "智能安防",
+        "六部门",
+        "消费场景"
+      ],
+      "published": "2026-11-06",
+      "categoryLabel": "政策标准",
+      "id": 980
+    },
+    {
+      "date": "2026-11-12",
+      "category": "policy",
+      "title": "工信部：截至2026年9月底我国智能算力规模达2592EFLOPS，同比增长146%",
+      "summary": "工业和信息化部新闻发言人、信息通信管理局局长谢存介绍，截至2026年9月底，我国智能算力规模达2592EFLOPS，同比增长146%。算力网持续织密，新场景不断涌现，为云边端协同与家庭边缘算力下沉提供了基础设施支撑。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34448048",
+      "keywords": [
+        "智能算力",
+        "EFLOPS",
+        "工信部",
+        "算力网",
+        "基础设施"
+      ],
+      "published": "2026-11-11",
+      "categoryLabel": "政策标准",
+      "id": 981
+    },
+    {
+      "date": "2026-11-12",
+      "category": "product",
+      "title": "Alarm.com 首次支持 Matter 照明设备",
+      "summary": "Alarm.com 发布说明显示平台新增Matter照明设备支持，这是Matter技术首次登陆该平台。飞利浦Hue、Jasco、Leviton、IKEA等品牌设备可与Alarm.com平台协同工作，标志Matter生态在专业安防平台侧进一步扩张。",
+      "source": "Surety Support Forum",
+      "url": "https://support.suretyhome.com/t/11-9-2026-alarm-com-release-notes/52679",
+      "keywords": [
+        "Matter",
+        "Alarm.com",
+        "照明设备",
+        "生态互操作",
+        "安防平台"
+      ],
+      "published": "2026-11-09",
+      "categoryLabel": "产品方案",
+      "id": 982
+    },
+    {
+      "date": "2026-11-12",
+      "category": "product",
+      "title": "SmartThings 付费 API 计划上线，Home Assistant 集成12月15日后将失效",
+      "summary": "SmartThings 正式推出付费 API 计划，未订阅该计划的 Home Assistant 现有SmartThings集成将在12月15日后停止工作。Matter 共享功能仍保持免费。这将对依赖SmartThings桥接的家庭自动化用户产生直接影响，需提前规划迁移或订阅。",
+      "source": "Matterhome.io",
+      "url": "https://www.matterhome.io/news/smartthings-api-paid-plans-december-cutoff",
+      "keywords": [
+        "SmartThings",
+        "Home Assistant",
+        "付费API",
+        "Matter共享",
+        "集成停用"
+      ],
+      "published": "2026-11-05",
+      "categoryLabel": "产品方案",
+      "id": 983
+    },
+    {
+      "date": "2026-11-12",
+      "category": "product",
+      "title": "亚马逊 Ring 推出 250 美元家用飞行摄像机 Ring Drone Cam",
+      "summary": "亚马逊旗下Ring发布售价250美元的Ring Drone Cam，可在室内飞行巡查，并在警报触发时自动前往可疑区域，主打家庭监控与威慑功能。同时Ring推出面向商家的自主巡逻机器人，显示其加码智能家居安防市场，但隐私争议仍是主要风险点。",
+      "source": "FX168",
+      "url": "https://www.fx168news.com/article/%E4%BA%9A%E9%A9%AC%E9%80%8A-1114384",
+      "keywords": [
+        "Ring",
+        "飞行摄像机",
+        "室内安防",
+        "家庭监控",
+        "隐私争议"
+      ],
+      "published": "2026-11-11",
+      "categoryLabel": "产品方案",
+      "id": 984
+    },
+    {
+      "date": "2026-11-12",
+      "category": "product",
+      "title": "中国移动杭州研发中心发布移动看家智能看护解决方案",
+      "summary": "中国移动杭州研发中心围绕看老、看幼、看宠、居家安防、隐私看护等细分场景，打造可自由组合的软硬一体化智能看护体系。产品用软硬一体组合替代固定搭配的标准化硬件套装，解决独居老人、双职工家庭、养宠用户等差异化需求。",
+      "source": "新华网",
+      "url": "http://www.zj.xinhuanet.com/20261110/f7a3091200bd46d9b9e6112e998de16d/c.html",
+      "keywords": [
+        "移动看家",
+        "智能看护",
+        "软硬一体",
+        "看老看幼看宠",
+        "隐私看护"
+      ],
+      "published": "2026-11-10",
+      "categoryLabel": "产品方案",
+      "id": 985
+    },
+    {
+      "date": "2026-11-12",
+      "category": "product",
+      "title": "中国移动发布网联机器人体系：12580个助理支持多机协同",
+      "summary": "中国移动在2026移动网络大会上展示网联机器人方案，将“大脑”置于云端，通过多机协同与数据回流实现越用越聪明。产品覆盖四足机器狗、人形陪护、移动星厨等形态，宣称覆盖家庭、巡检、餐饮等场景，主张网联化是具身智能的最优解。",
+      "source": "新浪新闻",
+      "url": "https://www.sina.cn/weibo/detail/5362285916984398.html",
+      "keywords": [
+        "网联机器人",
+        "多机协同",
+        "具身智能",
+        "家庭场景",
+        "云端大脑"
+      ],
+      "published": "2026-11-07",
+      "categoryLabel": "产品方案",
+      "id": 986
+    },
+    {
+      "date": "2026-11-12",
+      "category": "scenario",
+      "title": "“千里之外亦心安”：移动看家AI看护筑牢居家安全防线",
+      "summary": "中国移动杭州研发中心打通智能识别、消息推送、远程响应一体化服务链路，实现全天候AI感知识别，可识别门口人员长时间逗留、儿童独自居家、宠物异常活动等情形。告警通过APP消息、短信、电话等多种形态推送，并以“一键呼叫”降低老年群体使用门槛。",
+      "source": "新华网",
+      "url": "http://www.zj.xinhuanet.com/20261111/9e417061ef3c4c5a94ac3a2c6da2ba22/c.html",
+      "keywords": [
+        "AI看护",
+        "居家安防",
+        "异常识别",
+        "一键呼叫",
+        "适老交互"
+      ],
+      "published": "2026-11-11",
+      "categoryLabel": "场景落地",
+      "id": 987
+    },
+    {
+      "date": "2026-11-12",
+      "category": "scenario",
+      "title": "从“买回家”到“用起来”：双11全屋智能竞争转向落地战",
+      "summary": "双11期间全屋智能品牌密集促销，参数竞争之外，真正的用户痛点在于设备到家后能否连通、能否用起来。美的全屋智能的解法是把AI能力做进产品，让设备连得上、听得懂、记得住，背后是家电智能化底座到安装交付的整套落地能力。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-09/doc-iniycrzw6551258.shtml",
+      "keywords": [
+        "全屋智能",
+        "交付落地",
+        "双11",
+        "AI能力",
+        "安装服务"
+      ],
+      "published": "2026-11-09",
+      "categoryLabel": "场景落地",
+      "id": 988
+    },
+    {
+      "date": "2026-11-12",
+      "category": "scenario",
+      "title": "广东全屋智能三年行动方案落地，好用不贵的“聪明房”受关注",
+      "summary": "广东行动方案以三年目标分阶段推进全屋智能产品培育与项目覆盖。媒体报道的住宅案例显示，7万元级别的全屋智能场景设计已可实现离家、会客、睡眠、休闲多模式切换、语音控灯与窗帘联动、门锁反锁及地灯感应起夜等完整体验。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-12/doc-iniykvcw8967930.shtml",
+      "keywords": [
+        "聪明房",
+        "全屋智能场景",
+        "多模式联动",
+        "广东行动方案",
+        "住宅改造"
+      ],
+      "published": "2026-11-12",
+      "categoryLabel": "场景落地",
+      "id": 989
+    },
+    {
+      "date": "2026-11-12",
+      "category": "scenario",
+      "title": "上海松江推进“天翼智慧社区”平台，物业治理迈向智慧化",
+      "summary": "松江区房管局与松江电信对接推进物业治理智慧社区平台建设，平台打通政府、物业、居民三方链路，采用“标准功能+弹性开发”模式，覆盖报修表决、智能安防、智能问答等场景。双方将遴选试点片区打造智慧社区样板，并融入民政助老等便民服务。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.cn/article_5953190046_162d6789e06703wuqk.html",
+      "keywords": [
+        "智慧社区",
+        "物业治理",
+        "智能安防",
+        "云网融合",
+        "松江"
+      ],
+      "published": "2026-11-10",
+      "categoryLabel": "场景落地",
+      "id": 990
+    },
+    {
+      "date": "2026-11-12",
+      "category": "scenario",
+      "title": "中国太保进博会发布养老照护服务生态成果，推进居家享老与认知健康",
+      "summary": "在进博会上，杉泰健康科技发布“百岁居2.0”，围绕安全、就医、照护筑牢服务底线，聚焦身体、营养、运动、睡眠、心态五个健康促进方向。方案推出“家庭诊室+智能手表”双终端守护、线下管家队伍与心血管专病管理计划，构建全周期居家健康管理闭环。",
+      "source": "华龙网",
+      "url": "https://www.cqnews.net/web/content_1569744534005633024.html",
+      "keywords": [
+        "居家养老",
+        "智慧手表",
+        "认知健康",
+        "进博会",
+        "健康管理"
+      ],
+      "published": "2026-11-11",
+      "categoryLabel": "场景落地",
+      "id": 991
+    },
+    {
+      "date": "2026-11-12",
+      "category": "scenario",
+      "title": "低成本家居改造与适老科技帮助老年人安全居家",
+      "summary": "报道指出，围绕居住环境的低成本小改造与“适老科技”结合，可显著降低老年人居家跌倒等风险。卫生间扶手、防滑垫、床边感应灯等硬件改造，配合一键呼叫、智能监测设备自动报警并通知子女或社区，为独居老人增加一层安全网。",
+      "source": "WBAY",
+      "url": "https://www.wbay.com/2026/11/11/low-cost-home-fixes-age-tech-can-help-older-adults-stay-safe-home/",
+      "keywords": [
+        "适老改造",
+        "跌倒预防",
+        "一键呼叫",
+        "居家安全",
+        "养老科技"
+      ],
+      "published": "2026-11-11",
+      "categoryLabel": "场景落地",
+      "id": 992
+    },
+    {
+      "date": "2026-11-12",
+      "category": "security",
+      "title": "摄像头再聪明，也要有边界：法律与技术双重防线",
+      "summary": "评论指出家庭摄像头的应用需守住法律与技术两道边界：法律层面要求按必要、适度原则处理个人信息，技术层面应明确数据访问与设备联动的权限，并通过数据保护、漏洞修复、异常提醒等机制降低信息泄露与非法控制风险；涉及敏感或高后果操作还应设置确认机制。",
+      "source": "京报网",
+      "url": "https://news.bjd.com.cn/2026/11/11/12026310.shtml",
+      "keywords": [
+        "摄像头",
+        "隐私边界",
+        "权限管理",
+        "漏洞修复",
+        "风险确认"
+      ],
+      "published": "2026-11-11",
+      "categoryLabel": "数据安全",
+      "id": 993
+    },
+    {
+      "date": "2026-11-12",
+      "category": "security",
+      "title": "智能家电网络漏洞频现，家庭网络安全面临新挑战",
+      "summary": "随着家电大规模联网，网络安全问题增多。全国约90%的用户对智能家居设备的安全防护缺乏了解，摄像头、智能门锁、扫地机器人、智能插座与智能音箱因防护措施较弱更易受攻击。专家建议修改默认凭据、关闭不必要的远程访问、定期安装补丁并划分独立访客网络隔离设备。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1098194272_122066678",
+      "keywords": [
+        "网络漏洞",
+        "智能家电",
+        "默认凭据",
+        "网络隔离",
+        "家庭安全"
+      ],
+      "published": "2026-11-06",
+      "categoryLabel": "数据安全",
+      "id": 994
+    },
+    {
+      "date": "2026-11-12",
+      "category": "security",
+      "title": "智能家居的“智能”不该只停留在屏幕开关上：敏感个人信息须单独同意",
+      "summary": "评论指出，智能门锁的指纹与人脸信息、健康监测数据、可识别特定自然人的摄像头影像大多属于敏感个人信息，处理须取得消费者单独同意。《消费者权益保护法》禁止虚假或引人误解宣传，功能不符或存在质量问题的用户可依法主张修理、更换、退货，行业竞争将从接入数量转向体验稳定与权责清晰。",
+      "source": "光明网",
+      "url": "https://guancha.gmw.cn/2026-11/05/content_39086788.htm",
+      "keywords": [
+        "敏感个人信息",
+        "单独同意",
+        "消费者权益保护法",
+        "智能门锁",
+        "隐私合规"
+      ],
+      "published": "2026-11-05",
+      "categoryLabel": "数据安全",
+      "id": 995
+    },
+    {
+      "date": "2026-11-12",
+      "category": "security",
+      "title": "组屋摄像头须兼顾安全与隐私：建议备案登记与物理遮挡并重",
+      "summary": "新加坡联合早报交流站讨论组屋摄像头安装规范，建议建屋局与市镇会制定更明确的安装指引，规定安装智能视频门铃或闭路电视前须进行简易备案登记，对违规且拒不调整角度者限期拆除。同时建议与厂商合作推广“物理隐私遮挡”与“软件动态打码”功能。",
+      "source": "联合早报",
+      "url": "https://www.zaobao.com.sg/forum/talk/story20261106-9960156",
+      "keywords": [
+        "组屋摄像头",
+        "备案登记",
+        "隐私遮挡",
+        "动态打码",
+        "邻居隐私"
+      ],
+      "published": "2026-11-06",
+      "categoryLabel": "数据安全",
+      "id": 996
+    },
+    {
+      "date": "2026-11-12",
+      "category": "security",
+      "title": "监控依法备案、视频规范使用：公共安全视频图像违法案例警示",
+      "summary": "通报多起监控设备违法案例：某服装店摄像头拍到顾客隐私，公安机关依《条例》没收涉案摄像头并对店铺罚款1万元、对责任人罚款5000元。备案是让监控系统纳入监管、防止滥用的关键，视频图像采集使用须依法依规。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34431422",
+      "keywords": [
+        "监控备案",
+        "视频图像",
+        "违法案例",
+        "个人信息",
+        "处罚"
+      ],
+      "published": "2026-11-08",
+      "categoryLabel": "数据安全",
+      "id": 997
+    },
+    {
+      "date": "2026-11-12",
+      "category": "security",
+      "title": "智能体终端准入新规落地，端侧AI迈入全链条合规时代",
+      "summary": "新规要求应用开发者以电子签名形式明确授权智能体调用权限，未经授权严禁智能体强制调取第三方应用；分发平台不得上架、推送不兼容机型的智能体版本，对未完成合规适配、存在安全隐患的在架产品要求限期整改或下架清退，规范终端智能体的调用与分发秩序。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-11-07/doc-inixwtha4782475.shtml",
+      "keywords": [
+        "智能体终端",
+        "电子签名授权",
+        "应用分发",
+        "端侧AI",
+        "合规"
+      ],
+      "published": "2026-11-07",
+      "categoryLabel": "数据安全",
+      "id": 998
     }
   ]
 }
