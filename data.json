@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13",
+  "lastUpdated": "2026-11-14",
   "news": [
     {
       "id": 1,
@@ -18273,6 +18273,420 @@
       "published": "2026-11-13",
       "categoryLabel": "数据安全",
       "id": 1019
+    },
+    {
+      "date": "2026-11-14",
+      "category": "tech",
+      "title": "中国移动联合华为发布家宽边缘算力网关（BCG）创新方案，算力下沉家庭边缘",
+      "summary": "在2026中国移动网络大会“数智生活AI+创新合作论坛”上，中国移动联合华为发布家宽边缘算力网关方案，以iBNG智能网关为底座、MPC算力单板为引擎，把算力下沉到家庭边缘侧。该方案同时开启Token化经营，支持无感鉴权、融合计费与模型路由调度，实现算力、网络与智能体服务的一体化调度。",
+      "source": "新华网",
+      "url": "http://www.zj.xinhuanet.com/20261110/61d896840db040deb30ac0d754d6ba27/c.html",
+      "keywords": [
+        "家宽边缘算力网关",
+        "中国移动",
+        "华为",
+        "Token化经营",
+        "模型路由"
+      ],
+      "published": "2026-11-10",
+      "categoryLabel": "技术前沿",
+      "id": 1020
+    },
+    {
+      "date": "2026-11-14",
+      "category": "tech",
+      "title": "中国移动正式发布“智能网”，构建与通信网、算力网协同的AI基础设施",
+      "summary": "11月6日中国移动正式发布智能网，该智能网与通信网、算力网协同构建，作为智能要素的“交换机”和“路由器”促进智能要素融合融通。目标是支撑上层智能应用更加泛在普惠、敏捷高效、安全可信、韧性可靠，为家庭与个人场景的AI服务提供网络底座。",
+      "source": "新华网",
+      "url": "https://www.xinhuanet.com/info/20261109/4237032b35674271949b0bd375b81159/c.html",
+      "keywords": [
+        "智能网",
+        "算力网",
+        "网络化人工智能",
+        "中国移动",
+        "智能要素融合"
+      ],
+      "published": "2026-11-09",
+      "categoryLabel": "技术前沿",
+      "id": 1021
+    },
+    {
+      "date": "2026-11-14",
+      "category": "tech",
+      "title": "Matter 1.5为家庭摄像头确立标准，但认证强制项仍不清晰",
+      "summary": "Matter 1.5正式为家庭摄像头类设备提供了统一标准，涵盖WebRTC实时预览、双向音频、PTZ与检测/隐私区域等能力。但标准公告只列举特性，并未明确哪些是认证摄像头必须具备的。用户选购带Matter标识的摄像头时，仍需对照两份简短文档逐条核对实际能力。",
+      "source": "DEV Community",
+      "url": "https://dev.to/superfunicular/matter-15-gave-home-cameras-a-standard-its-announcement-lists-features-without-saying-which-a-49o2",
+      "keywords": [
+        "Matter 1.5",
+        "家庭摄像头",
+        "WebRTC",
+        "隐私区域",
+        "认证要求"
+      ],
+      "published": "2026-11-11",
+      "categoryLabel": "技术前沿",
+      "id": 1022
+    },
+    {
+      "date": "2026-11-14",
+      "category": "tech",
+      "title": "端侧AI迎来“高智能”时刻：Edge0-145B开放权重，端侧统一推理引擎开源",
+      "summary": "无界方舟将端侧模型规模推至145B千亿参数，Edge0-145B在Hugging Face开放模型权重，同时开源端侧统一推理引擎并提供一键部署工具与硬件适配指南。模型可完成写代码、操作软件、搭建三维场景及围绕目标的连续规划执行，首日即全面支持macOS、Windows、Linux及苹果M系列、NVIDIA GPU平台。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1101081047_413980",
+      "keywords": [
+        "端侧大模型",
+        "Edge0-145B",
+        "统一推理引擎",
+        "开源",
+        "本地部署"
+      ],
+      "published": "2026-11-13",
+      "categoryLabel": "技术前沿",
+      "id": 1023
+    },
+    {
+      "date": "2026-11-14",
+      "category": "tech",
+      "title": "Arduino推出40 TOPS边缘AI开发板，“双脑”架构结合高通QCS8275与STM32",
+      "summary": "Arduino最新高性能边缘计算开发板采用双脑架构，将高通QCS8275应用处理器（40 TOPS NPU）与STM32实时微控制器结合，硬件配备16GB RAM、64GB eMMC、M.2扩展及CAN FD、多路MIPI摄像头等工业级接口。板卡预装Ubuntu并提供长期安全更新，配套全新Arduino App Lab统一开发平台。",
+      "source": "新浪新闻",
+      "url": "https://www.sina.cn/weibo/detail/5364754474339363.html",
+      "keywords": [
+        "边缘AI开发板",
+        "高通QCS8275",
+        "40TOPS",
+        "双脑架构",
+        "Arduino"
+      ],
+      "published": "2026-11-13",
+      "categoryLabel": "技术前沿",
+      "id": 1024
+    },
+    {
+      "date": "2026-11-14",
+      "category": "policy",
+      "title": "《社区嵌入式服务设施 适老化设施配置规范》国家标准发布",
+      "summary": "该国标聚焦通行安全、环境细节、功能配置、安全监护、运维检查五大核心环节，明确重点功能用房不得设置在地下室、半地下室，二层及以上须配置电梯。通道高差大于5毫米须平顺过渡，采用3000K至4000K柔和光源避免眩光，并对七类社区服务设施提出面积与配置底线要求。",
+      "source": "21财经",
+      "url": "https://m.21jingji.com/article/20261113/herald/97d93a74a9e700e21dda4fbb38570497.html",
+      "keywords": [
+        "适老化设施配置规范",
+        "国家标准",
+        "社区嵌入式服务设施",
+        "无障碍",
+        "养老服务"
+      ],
+      "published": "2026-11-13",
+      "categoryLabel": "政策标准",
+      "id": 1025
+    },
+    {
+      "date": "2026-11-14",
+      "category": "policy",
+      "title": "广州发布居住建筑智能家居评价指引，明确底线约束与星级引导",
+      "summary": "《指引》要求智能中控网关、智能交互终端的安装位置与布线应与室内装修同步规划实施，并预留插座点位与线路容量。套内需设置家庭综合信息箱、燃气泄漏报警并联动切断气源、水浸监测、火灾探测器、紧急求助与访客对讲装置，同时满足个人隐私保护要求，平台需提供不少于3年维保服务。",
+      "source": "网易",
+      "url": "https://www.163.com/dy/article/LB9J5VJJ0556IL51.html",
+      "keywords": [
+        "广州",
+        "智能家居评价指引",
+        "智能中控网关",
+        "住宅智能化",
+        "维保服务"
+      ],
+      "published": "2026-11-09",
+      "categoryLabel": "政策标准",
+      "id": 1026
+    },
+    {
+      "date": "2026-11-14",
+      "category": "policy",
+      "title": "全屋智能三年行动方案落地：2028年优质产品累计100款以上、修订标准90项以上",
+      "summary": "《方案》将三年目标分三个阶段：到2026年底培育30款以上全屋智能优质产品、累计建设60个以上项目、覆盖各类住房与公共建筑空间超1万套间。2027年底产品累计60款以上、覆盖超2万套间；2028年底累计100款以上、覆盖超3万套间，并推动地方与团体标准90项以上。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-12/doc-iniykvcw8967930.shtml",
+      "keywords": [
+        "全屋智能",
+        "三年行动方案",
+        "互联互通",
+        "标准体系",
+        "智慧家庭"
+      ],
+      "published": "2026-11-12",
+      "categoryLabel": "政策标准",
+      "id": 1027
+    },
+    {
+      "date": "2026-11-14",
+      "category": "policy",
+      "title": "个人信息保护法施行五周年：技术升级，防御同步升级",
+      "summary": "2021年11月1日《个人信息保护法》施行，明确个人对信息处理享有知情权与决定权。《中国网络法治发展报告（2025年）》显示截至2025年12月我国已出台网络领域立法180余部。法律落地体现在APP授权、人脸核验、数据流转的治理细节，以及隐私保护意识的普遍增强上。",
+      "source": "新华网",
+      "url": "http://www.ha.xinhuanet.com/20261113/7f310c9f60e049e5bb4a8b804e7b4c85/c.html",
+      "keywords": [
+        "个人信息保护法",
+        "五周年",
+        "网络法治",
+        "APP授权",
+        "数据流转"
+      ],
+      "published": "2026-11-13",
+      "categoryLabel": "政策标准",
+      "id": 1028
+    },
+    {
+      "date": "2026-11-14",
+      "category": "product",
+      "title": "美的推出自进化家居智能体MevoX，主攻深度推理与长期记忆",
+      "summary": "美的在第31届科技月上提出全屋智能规模化落地新路径，核心是今年3月推出的自进化家居智能体MevoX。该系统通过深度推理与长期记忆两大能力，把传统家电转变为能理解家庭成员习惯并自主联动设备的中枢。行业竞争焦点已从单品联网能力、大模型接入速度转向生态兼容、交付体系与用户留存。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1100642947_122066678",
+      "keywords": [
+        "美的",
+        "MevoX",
+        "家居智能体",
+        "长期记忆",
+        "全屋智能"
+      ],
+      "published": "2026-11-12",
+      "categoryLabel": "产品方案",
+      "id": 1029
+    },
+    {
+      "date": "2026-11-14",
+      "category": "product",
+      "title": "TCL加速布局AI+智慧家庭，家电从被动执行转向主动服务",
+      "summary": "依托伏羲等垂域大模型，TCL推动家电产品从被动执行指令升级为主动感知服务，产品矩阵覆盖全品类智能家电。其逻辑是把AI能力嵌入到具体家居环节而非独立App，形成跨设备联动的主动服务闭环，争夺家庭场景的AI入口。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1098527742_120539363",
+      "keywords": [
+        "TCL",
+        "AI+智慧家庭",
+        "伏羲大模型",
+        "主动感知",
+        "全品类家电"
+      ],
+      "published": "2026-11-07",
+      "categoryLabel": "产品方案",
+      "id": 1030
+    },
+    {
+      "date": "2026-11-14",
+      "category": "product",
+      "title": "亚马逊发布五款Alexa+智能家居设备，覆盖安防、生活管理与影音",
+      "summary": "10月28日亚马逊推出五款Alexa+智能家居设备，涵盖家庭安防、生活管理、影音娱乐等场景，被视为推动家庭AI服务入口发展的重要一步。评测认为其市场优势仍待验证，头部品牌正以硬件入口与自研大模型双线切入家庭中枢。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1100177397_122066679",
+      "keywords": [
+        "亚马逊",
+        "Alexa+",
+        "智能家居设备",
+        "家庭安防",
+        "AI入口"
+      ],
+      "published": "2026-11-11",
+      "categoryLabel": "产品方案",
+      "id": 1031
+    },
+    {
+      "date": "2026-11-14",
+      "category": "product",
+      "title": "苹果首款带屏智能家庭中枢HomeView首销，国行上市时间仍未公布",
+      "summary": "11月13日苹果HomeView在美国、英国、加拿大、澳大利亚、新西兰、印度六个首批市场正式开售，国行版至今未公布上市时间。首发反馈显示设备能激活联网，但核心卖点Siri AI在国内无法使用，首发系统也没有简体中文，回国用户得到的仅是基础功能完整的中控屏。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a95465lo/",
+      "keywords": [
+        "苹果HomeView",
+        "智能家庭中枢",
+        "Siri AI",
+        "国行缺失",
+        "带屏中控"
+      ],
+      "published": "2026-11-14",
+      "categoryLabel": "产品方案",
+      "id": 1032
+    },
+    {
+      "date": "2026-11-14",
+      "category": "product",
+      "title": "Nordic nRF54L15加持的HAOJAI Matter over Thread智能开关上市",
+      "summary": "HAOJAI Matter智能开关集成Nordic nRF54L15多协议SoC，主打处理器性能与射频灵敏度，提供可自定义的家庭自动化与场景控制能力。该方案代表Thread侧设备在Matter生态中的持续落地，芯片原厂通过具体终端方案支撑协议普及。",
+      "source": "Nordic Semiconductor",
+      "url": "https://www.nordicsemi.com/Nordic-news/2026/11/HAOJAI-Matter-Smart-Switch-uses-nRF54L15-for-processor-performance-and-radio-sensitivity",
+      "keywords": [
+        "Matter over Thread",
+        "nRF54L15",
+        "智能开关",
+        "Nordic",
+        "多协议SoC"
+      ],
+      "published": "2026-11-09",
+      "categoryLabel": "产品方案",
+      "id": 1033
+    },
+    {
+      "date": "2026-11-14",
+      "category": "scenario",
+      "title": "中国移动“移动看家”AI看护上线：一键呼叫降低老人使用门槛",
+      "summary": "中国移动杭州研发中心打通智能识别、消息推送、远程响应一体化服务链路，可对门口人员长时间逗留、儿童独自居家、宠物异常活动等情形做全天候AI感知识别。产品以“一键呼叫”替代多层级菜单降低老年群体使用门槛，并在老人长时间未活动时向子女推送提醒。",
+      "source": "新华网",
+      "url": "http://www.zj.xinhuanet.com/20261111/9e417061ef3c4c5a94ac3a2c6da2ba22/c.html",
+      "keywords": [
+        "移动看家",
+        "AI看护",
+        "适老化",
+        "一键呼叫",
+        "异常识别"
+      ],
+      "published": "2026-11-11",
+      "categoryLabel": "场景落地",
+      "id": 1034
+    },
+    {
+      "date": "2026-11-14",
+      "category": "scenario",
+      "title": "索尼发布“养老神器”：不靠摄像头与穿戴设备，用Wi-Fi信号感知老人跌倒",
+      "summary": "索尼全球首发基于Wi-Fi信号的跌倒感知系统，老人无需佩戴额外设备，日常起居不受打扰。系统不涉及摄像头画面采集，尤其适合卧室、卫生间等隐私敏感场景，照护人员无需增加画面监控即可获得跌倒告警信息。",
+      "source": "凤凰网科技",
+      "url": "https://tech.ifeng.com/c/8xrhHQyUk3D",
+      "keywords": [
+        "索尼",
+        "Wi-Fi感知",
+        "跌倒检测",
+        "无摄像头",
+        "隐私敏感场景"
+      ],
+      "published": "2026-11-07",
+      "categoryLabel": "场景落地",
+      "id": 1035
+    },
+    {
+      "date": "2026-11-14",
+      "category": "scenario",
+      "title": "中国太保进博会发布养老照护服务生态成果，探索“保险+科技+服务”居家享老",
+      "summary": "第九届进博会期间，中国太保寿险联合太保养老投资、杉泰健康科技、南山居等发布居家养老与认知照护系列成果，聚焦居家养老与认知照护两大课题。杉泰健康科技推出百岁居2.0，提出“家庭诊室+智能手表”双终端守护、心血管专病管理“心光计划”等升级，构建全周期居家健康管理闭环。",
+      "source": "华龙网",
+      "url": "https://www.cqnews.net/web/content_1569744534005633024.html",
+      "keywords": [
+        "居家养老",
+        "认知照护",
+        "中国太保",
+        "百岁居",
+        "保险+科技+服务"
+      ],
+      "published": "2026-11-11",
+      "categoryLabel": "场景落地",
+      "id": 1036
+    },
+    {
+      "date": "2026-11-14",
+      "category": "scenario",
+      "title": "科大讯飞联合中国移动、上海海思推出家庭安防交互新品",
+      "summary": "新品以国产AI大模型重塑家庭安防交互，集成语音、视觉、触控多元交互模式，通过灵动眼动态表情与拟人化语音合成提升交互温度。产品兼顾不同年龄群体使用习惯并支持个性化外观配件，由多方协同打造，推动家庭安防终端智能化迭代。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-09/doc-iniycfne3337627.shtml",
+      "keywords": [
+        "科大讯飞",
+        "家庭安防",
+        "多模态交互",
+        "中国移动",
+        "上海海思"
+      ],
+      "published": "2026-11-09",
+      "categoryLabel": "场景落地",
+      "id": 1037
+    },
+    {
+      "date": "2026-11-14",
+      "category": "scenario",
+      "title": "华盛昌携全场景AI智家新品亮相2026移动网络大会",
+      "summary": "作为中国移动核心生态合作伙伴，华盛昌以“智家新启·AI护家”为主题展示全场景AI智家新品。方案围绕银发康养、儿童成长、宠物守护、健康监测、智能穿戴五大场景构建一站式智能守护体验，聚焦家庭健康管理与养老看护细分需求。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-11-08/doc-inixywfa3922603.shtml",
+      "keywords": [
+        "华盛昌",
+        "AI智家",
+        "银发康养",
+        "智能穿戴",
+        "健康监测"
+      ],
+      "published": "2026-11-08",
+      "categoryLabel": "场景落地",
+      "id": 1038
+    },
+    {
+      "date": "2026-11-14",
+      "category": "security",
+      "title": "韩国消费者机构抽检：10款家用摄像头中3款存在高隐私泄露风险",
+      "summary": "韩国消费者协会对国内销售的10款家用摄像头进行安全检测，发现其中3款存在用户身份验证机制不足等问题，可能导致未授权查看他人家庭内部实时画面。抽检覆盖婴儿、幼儿与宠物监控等高敏感场景，暴露家用摄像头在认证与默认配置上的共性短板。",
+      "source": "SBS News",
+      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008843535",
+      "keywords": [
+        "家用摄像头",
+        "隐私泄露",
+        "身份认证",
+        "韩国消费者协会",
+        "安全抽检"
+      ],
+      "published": "2026-11-12",
+      "categoryLabel": "数据安全",
+      "id": 1039
+    },
+    {
+      "date": "2026-11-14",
+      "category": "security",
+      "title": "韩国拟加强IP摄像头等物联网产品安全检查",
+      "summary": "在本土检查发现部分IP摄像头产品存在漏洞、并有欧洲制冷冷冻设备被黑客入侵事件后，韩国科学技术信息通信部表示将加强IP摄像头等物联网产品的安全管理。政策动向显示消费级智能家居设备的安全审查力度正在系统性提升。",
+      "source": "Digital Today",
+      "url": "https://www.digitaltoday.co.kr/en/view/124747/south-korea-ministry-steps-up-security-checks-after-ip-camera-hacking-risks-found",
+      "keywords": [
+        "IP摄像头",
+        "物联网安全",
+        "韩国科技部",
+        "安全检查",
+        "漏洞"
+      ],
+      "published": "2026-11-12",
+      "categoryLabel": "数据安全",
+      "id": 1040
+    },
+    {
+      "date": "2026-11-14",
+      "category": "security",
+      "title": "评论：摄像头再聪明，也要有边界",
+      "summary": "文章指出智能设备应遵循必要、适度的信息收集原则，明确数据访问和设备联动的权限，并通过数据保护、漏洞修复和异常提醒机制降低信息泄露与非法控制风险。涉及敏感信息或可能产生重要后果的操作应设置与风险匹配的确认机制，不能只留作“高级设置”由用户自行摸索。",
+      "source": "京报网",
+      "url": "https://news.bjd.com.cn/2026/11/11/12026310.shtml",
+      "keywords": [
+        "摄像头边界",
+        "信息收集原则",
+        "权限管理",
+        "漏洞修复",
+        "风险确认"
+      ],
+      "published": "2026-11-11",
+      "categoryLabel": "数据安全",
+      "id": 1041
+    },
+    {
+      "date": "2026-11-14",
+      "category": "security",
+      "title": "普法观察：守护数据安全，保护个人信息",
+      "summary": "文章结合《个人信息保护法》厘清个人信息的范围，指出个人信息是以电子或其他方式记录的与已识别或可识别自然人有关的各种信息，不包括匿名化处理后的信息。围绕智慧家庭等场景，提示家庭数据采集、存储与流转各环节需落实告知同意与最小必要原则。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34474425",
+      "keywords": [
+        "个人信息保护法",
+        "数据安全",
+        "匿名化",
+        "最小必要",
+        "家庭数据"
+      ],
+      "published": "2026-11-14",
+      "categoryLabel": "数据安全",
+      "id": 1042
     }
   ]
 }
