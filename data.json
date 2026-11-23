@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14",
+  "lastUpdated": "2026-11-23",
   "news": [
     {
       "id": 1,
@@ -18687,6 +18687,489 @@
       "published": "2026-11-14",
       "categoryLabel": "数据安全",
       "id": 1042
+    },
+    {
+      "date": "2026-11-23",
+      "category": "tech",
+      "title": "集微咨询：边缘推理爆发，VPU跃升算力体系“第三极”",
+      "summary": "集微咨询发布《AI产业系列报告之VPU芯片（2026）》，指出IDC与Gartner预测到2027年超过一半生成式AI推理将在边缘侧完成。后摩智能基于SRAM-CIM路线量产的M50芯片以160 TOPS@INT8算力、10W典型功耗定义端侧大模型推理新基准，量产不到一年获超150个产品定点。国产阵营进入业绩集中兑现期。",
+      "source": "网易（集微咨询）",
+      "url": "https://www.163.com/dy/article/LBRIQJKK0511RIVP.html",
+      "keywords": [
+        "VPU芯片",
+        "边缘推理",
+        "端侧大模型",
+        "后摩智能",
+        "SRAM-CIM"
+      ],
+      "published": "2026-11-16",
+      "categoryLabel": "技术前沿",
+      "id": 1043
+    },
+    {
+      "date": "2026-11-23",
+      "category": "tech",
+      "title": "存算一体芯片报告：国产厂商呈“端侧领先、大算力追赶”分层格局",
+      "summary": "集微咨询发布《AI产业系列报告之存算一体芯片（2026）》。端侧方面，头部厂商芯片累计出货量已超1000万颗，进入华为、小米等品牌供应链；炬芯科技2025年营收9.2亿元、同比增长41.5%。大算力场景，后摩智能漫界M50量产不到一年获超150个定点，服务客户超百家。",
+      "source": "微博（集微咨询）",
+      "url": "https://weibo.com/ttarticle/x/m/geoshow/id/2309405366710386688032?domain=digital",
+      "keywords": [
+        "存算一体",
+        "端侧芯片",
+        "出货量",
+        "NPU",
+        "国产替代"
+      ],
+      "published": "2026-11-19",
+      "categoryLabel": "技术前沿",
+      "id": 1044
+    },
+    {
+      "date": "2026-11-23",
+      "category": "tech",
+      "title": "算力网攻坚：云边端分散算力资源走向统一调度“全国一张网”",
+      "summary": "算力网要依托计算、通信、协议和调度技术，把云、边、端等分散算力资源整合为统一调度的“全国一张网”，涉及流量预测、弹性扩缩容、异构芯片混合部署、模型加载速度等系统级工程能力。国家超算互联网平台截至2026年9月注册用户超170万，汇聚超25万张GPU卡，95%为国产算力。",
+      "source": "21财经",
+      "url": "https://m.21jingji.com/article/20261118/herald/a6ef26640bc773772656fbb73d0d3073.html",
+      "keywords": [
+        "算力网",
+        "云边端",
+        "异构调度",
+        "国产算力",
+        "国家超算平台"
+      ],
+      "published": "2026-11-18",
+      "categoryLabel": "技术前沿",
+      "id": 1045
+    },
+    {
+      "date": "2026-11-23",
+      "category": "tech",
+      "title": "Matter统一智能家居标准进展：跨品牌互联仍受商业壁垒制约",
+      "summary": "海外技术媒体梳理Matter标准发展，指出Matter允许本地连接，同时厂商仍保留云端连接；仅Matter设备的远程控制需要家中联网控制器。标准仍在成熟过程中，跨品牌深度互通的阻力主要来自商业壁垒而非技术本身。",
+      "source": "TechLawNews",
+      "url": "https://www.techlawnews.com/matter-one-smart-home-standard-every-brand/",
+      "keywords": [
+        "Matter标准",
+        "跨品牌互联",
+        "本地控制",
+        "智能家居生态"
+      ],
+      "published": "2026-11-20",
+      "categoryLabel": "技术前沿",
+      "id": 1046
+    },
+    {
+      "date": "2026-11-23",
+      "category": "tech",
+      "title": "Matter over Wi-Fi 与 Matter over Thread 的网关与可靠性对比解析",
+      "summary": "技术分析文章对比两种Matter承载方式：Matter over Wi-Fi复用家庭路由器，Matter over Thread使用低功耗Mesh并需边界路由器。文章从网关形态、速度、电池续航与可靠性维度展开，为家庭网关选型提供依据。",
+      "source": "Offline Protocol",
+      "url": "https://www.offlineprotocol.com/learning/embedded/matter-over-wi-fi-vs-matter-over-thread",
+      "keywords": [
+        "Matter over Thread",
+        "家庭网关",
+        "边界路由器",
+        "低功耗Mesh"
+      ],
+      "published": "2026-11-16",
+      "categoryLabel": "技术前沿",
+      "id": 1047
+    },
+    {
+      "date": "2026-11-23",
+      "category": "policy",
+      "title": "两部门印发《以标准提升引领轻工业优化升级实施方案》，统筹编制智能家居产业标准体系",
+      "summary": "工信部、市场监管总局提出到2027年轻工业制修订产品标准、方法标准等约200项。研究制定数据接口、通信协议等基础共性标准，智能控制、云边协同等关键技术标准。消费终端重点研制基于物联网、人工智能技术的新产品标准，以标准引领智能家居、智能骑行、智能眼镜等新产业生态发展。",
+      "source": "21经济网",
+      "url": "https://www.21jingji.com/article/20261116/herald/cf00da67c5af776758a13fa35e6a0269.html",
+      "keywords": [
+        "智能家居标准体系",
+        "云边协同标准",
+        "工信部",
+        "市场监管总局",
+        "智能家居消费终端"
+      ],
+      "published": "2026-11-16",
+      "categoryLabel": "政策标准",
+      "id": 1048
+    },
+    {
+      "date": "2026-11-23",
+      "category": "policy",
+      "title": "工信部批准274项行业标准，含《人工智能 关键基础技术 具身智能数据生成系统技术要求》",
+      "summary": "工业和信息化部公告2026年第30号批准274项行业标准，覆盖轻工行业41项、电子行业92项、通信行业65项等，其中包含具身智能数据生成系统技术要求等人工智能关键基础技术标准，为家庭具身智能设备的数据与接口规范提供行业依据。",
+      "source": "工业和信息化部",
+      "url": "https://www.miit.gov.cn/jgsj/kjs/wjfb/art/2026/art_1ecfcc7030e949c79254b6fafa01f0fa.html",
+      "keywords": [
+        "行业标准",
+        "具身智能",
+        "人工智能基础技术",
+        "工信部公告",
+        "轻工行业"
+      ],
+      "published": "2026-11-17",
+      "categoryLabel": "政策标准",
+      "id": 1049
+    },
+    {
+      "date": "2026-11-23",
+      "category": "policy",
+      "title": "《智能家居互联互通》系列国家标准进入落地倒计时",
+      "summary": "GB/T 46456系列推荐性国标于2025年10月5日发布、2026年2月1日实施，是国内跨品牌智能家居互联的核心国标。已落地部分包括架构与通用要求、测试方法、局域互联通用要求三部分，其中局域互联标准规定不依赖云端即可跨品牌联动，断网可用。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-17/doc-iniyzsvz1761600.shtml",
+      "keywords": [
+        "GB/T 46456",
+        "互联互通国标",
+        "局域互联",
+        "物模型",
+        "断网可用"
+      ],
+      "published": "2026-11-17",
+      "categoryLabel": "政策标准",
+      "id": 1050
+    },
+    {
+      "date": "2026-11-23",
+      "category": "policy",
+      "title": "智能家居强制国标推进：“8台家电7个App”或迎终结",
+      "summary": "此前2025年12月发布的4项智能家居互联互通推荐性国标已于2026年3月1日实施，但生态孤岛依旧。今年3月工信部就《智能家居互联互通》系列5项强制性国标公开征求意见，9月商务部等8部门印发《促进智能家居消费行动方案》明确加快制定实施强制国标，业内预期强制国标有望明年落地。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/aomqmrg6/",
+      "keywords": [
+        "强制性国标",
+        "智能家居互联互通",
+        "生态孤岛",
+        "促进智能家居消费行动方案"
+      ],
+      "published": "2026-11-17",
+      "categoryLabel": "政策标准",
+      "id": 1051
+    },
+    {
+      "date": "2026-11-23",
+      "category": "policy",
+      "title": "民政部等六部门印发《关于培育多元场景 促进适老用品产品消费的若干措施》",
+      "summary": "11月4日民政部等六部门联合印发文件，鼓励社区养老服务设施开设适老用品的体验、租售网点，并培育多元场景推动适老用品消费。政策推动适老智能设备从销售走向体验式落地，杭州留下街道等社区据此建设康养机器人测试场与体验网点。",
+      "source": "凤凰网",
+      "url": "https://feng.ifeng.com/c/8yBH0LYW0NS&gsessionid=JldzG5TiK9JbUduQ9G4QKa_KPyQUqx84FQ7wCDnTKR3ppiLKmfVM0A",
+      "keywords": [
+        "适老用品",
+        "民政部",
+        "多元场景",
+        "社区养老",
+        "体验网点"
+      ],
+      "published": "2026-11-19",
+      "categoryLabel": "政策标准",
+      "id": 1052
+    },
+    {
+      "date": "2026-11-23",
+      "category": "policy",
+      "title": "“AI+人工陪护”团体标准公布，填补家政养老智能化照护标准空白",
+      "summary": "11月11日，《老年人居家照护AI服务与人工陪护协同规范》团体标准正式公布，由互助家政集团联合互助县民政局、浙江方圆检测集团、浙江大学等起草。该标准聚焦居家养老中人机协同照护的服务边界与流程规范，是行业首个此类标准。",
+      "source": "新浪财经（青海日报）",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-17/doc-iniyymav2499206.shtml",
+      "keywords": [
+        "AI+人工陪护",
+        "团体标准",
+        "居家照护",
+        "适老化",
+        "标准空白"
+      ],
+      "published": "2026-11-17",
+      "categoryLabel": "政策标准",
+      "id": 1053
+    },
+    {
+      "date": "2026-11-23",
+      "category": "product",
+      "title": "苹果HomeView智能家庭中枢开售：7英寸屏、A18芯片、299美元",
+      "summary": "苹果首款带屏智能家庭中枢HomeView于11月13日在美英加澳等市场开售，售价299美元，搭载7英寸屏与A18芯片，内置音箱，跑专属HomeOS，支持桌面摆放与壁挂，具备面部识别可识别最多6位家庭成员并切换专属界面，暂未登陆中国大陆。",
+      "source": "新浪新闻",
+      "url": "https://sina.cn/detail/nizcvvf6988632",
+      "keywords": [
+        "HomeView",
+        "家庭中枢",
+        "A18芯片",
+        "HomeOS",
+        "面部识别"
+      ],
+      "published": "2026-11-19",
+      "categoryLabel": "产品方案",
+      "id": 1054
+    },
+    {
+      "date": "2026-11-23",
+      "category": "product",
+      "title": "新一代华为鸿蒙智家定档11月24日发布，主打“无界交互”",
+      "summary": "华为官方11月19日宣布新一代鸿蒙智家将于11月24日14时30分发布，主题为“无界交互”。现有全屋智能方案采用“1+3+N”架构：家庭大脑承担设备连接与计算，触控、语音、无感三种交互方式，N覆盖照明、遮阳、安防、冷暖新风、网络、影音娱乐等子系统。",
+      "source": "CNMO科技",
+      "url": "https://home.cnmo.com/news/822848.html",
+      "keywords": [
+        "鸿蒙智家",
+        "无界交互",
+        "家庭大脑",
+        "1+3+N",
+        "全屋智能"
+      ],
+      "published": "2026-11-19",
+      "categoryLabel": "产品方案",
+      "id": 1055
+    },
+    {
+      "date": "2026-11-23",
+      "category": "product",
+      "title": "荣耀进军全屋智能，命名为“荣耀智慧家”（HONOR Home）",
+      "summary": "11月20日消息称荣耀将进军全屋智能领域，命名“荣耀智慧家”（HONOR Home）。此前在HGDC 2026上荣耀已发布全屋智能“1+X+N”产品与落地战略，计划至2027年建设500家线下体验阵地、覆盖200座核心城市，方案与小米、华为存在差异。",
+      "source": "CNMO科技",
+      "url": "https://home.cnmo.com/news/822901.html",
+      "keywords": [
+        "荣耀智慧家",
+        "HONOR Home",
+        "1+X+N",
+        "全屋智能",
+        "线下体验店"
+      ],
+      "published": "2026-11-20",
+      "categoryLabel": "产品方案",
+      "id": 1056
+    },
+    {
+      "date": "2026-11-23",
+      "category": "product",
+      "title": "Aqara 推出六款 Matter 智能灯，支持 Thread/Zigbee 与 Apple 自适应灯光",
+      "summary": "Aqara 面向全球市场发布六款支持 Matter 的智能灯，同时兼容 Thread 与 Zigbee，可配合 Aqara 传感器与开关使用，支持 Apple Home 与 Adaptive Lighting。售价120美元的 Floor Lamp T1采用杆形结构并具备洗墙光效。",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/17/aqara-matter-lights-apple-home/",
+      "keywords": [
+        "Aqara",
+        "Matter智能灯",
+        "Thread",
+        "Apple Home",
+        "自适应灯光"
+      ],
+      "published": "2026-11-17",
+      "categoryLabel": "产品方案",
+      "id": 1057
+    },
+    {
+      "date": "2026-11-23",
+      "category": "product",
+      "title": "家庭陪伴机器人成具身智能落地家庭场景新方向",
+      "summary": "面向居家养老需求，家庭陪伴机器人一站式集成用药管理与提醒、跌倒识别紧急报警、健康辅诊、营养热量计算、自动跟随、AI智能陪伴六大能力，移动底盘支持全屋跟随陪护，并搭建家属联动端口。产品采用语音加屏幕触控的适老化交互，并明确健康功能仅作辅助参考。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1103832987_123036280",
+      "keywords": [
+        "家庭陪伴机器人",
+        "跌倒识别",
+        "用药提醒",
+        "适老化交互",
+        "具身智能"
+      ],
+      "published": "2026-11-20",
+      "categoryLabel": "产品方案",
+      "id": 1058
+    },
+    {
+      "date": "2026-11-23",
+      "category": "scenario",
+      "title": "上海菊园街道适老化改造：一把智能锁、一台安全灶装进老人家中",
+      "summary": "上海嘉定菊园街道2026年重点民生实事项目已为151户特殊困难老年家庭完成适老化改造，从扶手、安全灶到具备人脸识别能力的智能锁。改造以“看得见、用得上”为导向，将安防类智能设备与居家安全结合，改善独居老人居家生活。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34484919",
+      "keywords": [
+        "适老化改造",
+        "智能锁",
+        "居家安全",
+        "独居老人",
+        "民生实事"
+      ],
+      "published": "2026-11-17",
+      "categoryLabel": "场景落地",
+      "id": 1059
+    },
+    {
+      "date": "2026-11-23",
+      "category": "scenario",
+      "title": "华曦达携手Altice Labs落地以电视为中心的AI Home葡萄牙家庭试点",
+      "summary": "11月17日华曦达与Altice Labs在谷歌2026 TV Summit期间签署合作备忘录，共建AI Home联合创新实验室。技术层面结合Google Cloud AI能力与谷歌电视生态，聚焦家庭智能助手、家庭安防与状态感知、智能家居控制三个场景，率先在葡萄牙开展真实家庭试点，目标2027年底前完成商业验证。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-17/doc-inizaitt1556053.shtml",
+      "keywords": [
+        "AI Home",
+        "电视中枢",
+        "云边协同",
+        "葡萄牙试点",
+        "Google Cloud AI"
+      ],
+      "published": "2026-11-17",
+      "categoryLabel": "场景落地",
+      "id": 1060
+    },
+    {
+      "date": "2026-11-23",
+      "category": "scenario",
+      "title": "2026中原银发生态博览会郑州启幕，百余家康养品牌集中展示智慧适老产品",
+      "summary": "展会上第三届适老化设计大赛获奖作品集中展出，“银龄智享·未来生活空间”与“银龄生活集”以实景和市集形式呈现智慧适老产品与老年生活方式。展会持续至11月23日，覆盖智能设备、康复医疗、适老设计、旅居康养、专业照护与社区运营等全链条。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1104928319_123034656",
+      "keywords": [
+        "银发经济",
+        "智慧适老",
+        "适老化设计",
+        "康养博览会",
+        "场景落地"
+      ],
+      "published": "2026-11-22",
+      "categoryLabel": "场景落地",
+      "id": 1061
+    },
+    {
+      "date": "2026-11-23",
+      "category": "scenario",
+      "title": "2026长沙银发产业博览会开幕，跌倒监测雷达、紧急呼叫终端、陪护机器人集中亮相",
+      "summary": "长沙银发产业博览会设综合展区与食药同源专题展区，涵盖文旅康养及适老化改造、智慧养老、康复辅助医疗器具等六大板块。跌倒监测雷达、紧急呼叫终端、陪护机器人等居家与机构养老智能设备集中展示，体现养老全产业链场景的线上线下一体化。",
+      "source": "华声在线（湖南在线）",
+      "url": "https://hunan.voc.com.cn/news/202611/34304908.html",
+      "keywords": [
+        "跌倒监测雷达",
+        "紧急呼叫终端",
+        "陪护机器人",
+        "智慧养老",
+        "银发产业"
+      ],
+      "published": "2026-11-20",
+      "categoryLabel": "场景落地",
+      "id": 1062
+    },
+    {
+      "date": "2026-11-23",
+      "category": "scenario",
+      "title": "杭州留下街道成康养机器人首发测试场，8100余名老人受益",
+      "summary": "杭州西湖区留下街道依托智元研究院外骨骼机器人、遐龄交互“柔擎”康养机器人与“柿宝”情感陪伴机器人，打造智慧颐养院并辐射周边。该街道不生产养老科技新品，而以社区密集、老人集聚的优势成为科技新品首发地与测试场。",
+      "source": "凤凰网",
+      "url": "https://feng.ifeng.com/c/8yBH0LYW0NS&gsessionid=JldzG5TiK9JbUduQ9G4QKa_KPyQUqx84FQ7wCDnTKR3ppiLKmfVM0A",
+      "keywords": [
+        "康养机器人",
+        "情感陪伴",
+        "社区养老",
+        "测试场",
+        "智慧颐养院"
+      ],
+      "published": "2026-11-19",
+      "categoryLabel": "场景落地",
+      "id": 1063
+    },
+    {
+      "date": "2026-11-23",
+      "category": "security",
+      "title": "苹果详解HomeView隐私架构：Secure Enclaves隔离传感器数据",
+      "summary": "苹果披露HomeView的“Secure Exclaves”安全系统，将摄像头与麦克风等敏感传感器数据与应用、操作系统及苹果服务器彻底隔离。该设计回应了带屏家庭中枢具备人员识别与个性化信息显示能力所引发的隐私担忧，并将延伸至iPhone 18。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1102278298_120333371",
+      "keywords": [
+        "Secure Enclaves",
+        "HomeView",
+        "传感器隔离",
+        "隐私架构",
+        "本地处理"
+      ],
+      "published": "2026-11-16",
+      "categoryLabel": "数据安全",
+      "id": 1064
+    },
+    {
+      "date": "2026-11-23",
+      "category": "security",
+      "title": "台湾资安署提醒：网络监控摄影机与智能手表恐存资安风险",
+      "summary": "资安署长蔡福隆表示，智慧装置本质上是联网的小型电脑，若缺乏适当防护可能成为黑客入侵破口，呼吁民众掌握慎选购、改密码等3项防范要点。事件反映出消费级智能家居与可穿戴设备正成为家庭网络的新攻击面。",
+      "source": "中央社（Yahoo奇摩股市）",
+      "url": "https://tw.stock.yahoo.com/news/%E7%B6%B2%E8%B7%AF%E7%9B%A3%E6%8E%A7%E6%94%9D%E5%BD%B1%E6%A9%9F-%E6%99%BA%E6%85%A7%E6%89%8B%E9%8C%B6%E6%81%90%E5%AD%98%E8%B3%87%E5%AE%89%E9%A2%A8%E9%9A%AA-%E8%B3%87%E5%AE%89%E7%BD%B2%E6%8F%90%E9%86%923%E9%BB%9E%E9%98%B2%E7%AF%84-073535797.html",
+      "keywords": [
+        "智能装置安全",
+        "监控摄影机",
+        "资安风险",
+        "密码安全",
+        "可穿戴设备"
+      ],
+      "published": "2026-11-19",
+      "categoryLabel": "数据安全",
+      "id": 1065
+    },
+    {
+      "date": "2026-11-23",
+      "category": "security",
+      "title": "欧洲超市冷藏柜遭远程网络攻击，专家提示智能家居设备风险",
+      "summary": "欧洲多家超市的冷藏制冷设备遭遇来源不明的网络攻击并被远程破坏。安全专家认为普通用户智能设备被黑的概率较低但并非为零，家庭中部署的联网家电、摄像头与网关应作为IoT攻击面重点防护。",
+      "source": "Daily News",
+      "url": "https://www.dailynews.com/2026/11/19/smart-home-devices-security/",
+      "keywords": [
+        "IoT攻击",
+        "冷藏设备被黑",
+        "智能家居安全",
+        "联网家电",
+        "家庭网关防护"
+      ],
+      "published": "2026-11-19",
+      "categoryLabel": "数据安全",
+      "id": 1066
+    },
+    {
+      "date": "2026-11-23",
+      "category": "security",
+      "title": "网警发布个人信息保护提示：宅家期间绷紧数据安全防线",
+      "summary": "网警发布网络安全小贴士，围绕出游宅家场景提示个人信息保护要点，涉及公民合法权益维护与日常防护措施，提醒用户在智能家居与移动设备使用中收紧权限、警惕信息外泄。",
+      "source": "澎湃新闻（政务）",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34514600",
+      "keywords": [
+        "个人信息保护",
+        "网警提示",
+        "数据安全",
+        "权限收紧",
+        "隐私防护"
+      ],
+      "published": "2026-11-20",
+      "categoryLabel": "数据安全",
+      "id": 1067
+    },
+    {
+      "date": "2026-11-23",
+      "category": "security",
+      "title": "近200万条“诱饵”请求揭开AI隐私漏洞：“零数据保留”也会泄密",
+      "summary": "安全公司Dragos首席研究官HD Moore向多家AI服务商发送近200万条带有可追踪诱饵的请求，发现AI服务链存在黑客窃取会话数据与密钥的途径。即便服务商承诺“零数据保留”，其服务链上下游（提示、密钥、服务链路）仍存在泄露风险，对家庭云端AI助手的隐私设计有直接启示。",
+      "source": "新浪科技（IT之家）",
+      "url": "https://finance.sina.cn/tech/2026-11-21/detail-iniznakk6854052.d.html",
+      "keywords": [
+        "AI隐私漏洞",
+        "零数据保留",
+        "会话数据泄露",
+        "Dragos",
+        "服务链安全"
+      ],
+      "published": "2026-11-21",
+      "categoryLabel": "数据安全",
+      "id": 1068
+    },
+    {
+      "date": "2026-11-23",
+      "category": "security",
+      "title": "全国摄像头或成入侵帮凶：联网民用摄像头被远程攻破并被调整视角",
+      "summary": "报道引述乌克兰安全局披露的案例，基辅街头两台联网民用摄像头被远程攻破，其中一台装于居民楼停车场且拍摄角度被悄悄调整，画面被直接直播至公开平台。事件凸显家庭与社区摄像头默认密码、固件更新与访问控制的管理缺失风险。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1102048576_121145577",
+      "keywords": [
+        "摄像头安全",
+        "默认密码",
+        "远程入侵",
+        "固件更新",
+        "家庭监控"
+      ],
+      "published": "2026-11-16",
+      "categoryLabel": "数据安全",
+      "id": 1069
     }
   ]
 }
