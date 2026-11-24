@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23",
+  "lastUpdated": "2026-11-24",
   "news": [
     {
       "id": 1,
@@ -19170,6 +19170,456 @@
       "published": "2026-11-16",
       "categoryLabel": "数据安全",
       "id": 1069
+    },
+    {
+      "date": "2026-11-24",
+      "category": "tech",
+      "title": "Matter 1.6 已发布但多数认证设备仍在 1.4：2026 年智能家居协议落地现状",
+      "summary": "Matter 1.5 于 2025 年 11 月定稿并新增摄像头、门铃、对讲支持，1.6 于 2026 年 6 月发布，重点改进安装配置与能源管理。但市场上绝大多数已认证产品仍停留在 1.4 版本，协议版本号与实际可用能力存在明显落差。选购与方案设计应以设备当下支持的功能为准，而非版本标识。",
+      "source": "Smartify Daily",
+      "url": "https://www.smartifydaily.com/2026/11/what-is-matter-smart-home.html",
+      "keywords": [
+        "Matter协议",
+        "智能家居",
+        "互联互通",
+        "Matter 1.6",
+        "认证"
+      ],
+      "published": "2026-11-21",
+      "categoryLabel": "技术前沿",
+      "id": 1070
+    },
+    {
+      "date": "2026-11-24",
+      "category": "tech",
+      "title": "Matter 协议：一套标准打通全品牌生态，超过 4000 款产品获认证",
+      "summary": "Matter 的目标是让不同品牌的灯、锁、摄像头、恒温器实现即插即用，断网情况下仍可本地化控制。截至 2026 年初，携带 Matter 认证的产品已超过 4000 款。协议版本演进为 1.5（2025 年 11 月，含摄像头）到 1.6（2026 年 6 月，安装与能源管理优化），并配套 2026 年 3 月 31 日的 1.5.1 维护版本。",
+      "source": "TechLawNews",
+      "url": "https://www.techlawnews.com/matter-one-smart-home-standard-every-brand/",
+      "keywords": [
+        "Matter",
+        "跨品牌互联",
+        "家庭中枢",
+        "摄像头支持",
+        "能源管理"
+      ],
+      "published": "2026-11-20",
+      "categoryLabel": "技术前沿",
+      "id": 1071
+    },
+    {
+      "date": "2026-11-24",
+      "category": "tech",
+      "title": "Google Home 支持 Nest 恒温器对接第三方 Matter 温湿度传感器，12 月开放",
+      "summary": "Google 于 2026 年 11 月 17 日宣布，美国与加拿大地区 Nest Learning Thermostat（第四代）用户从 12 月起可配对 IKEA、Eve、Aqara 等品牌的 Matter 温度传感器。恒温器从此可基于跨品牌环境传感器数据自动调节，弱化了对单一品牌传感器的依赖。",
+      "source": "MatterHome.io",
+      "url": "https://matterhome.io/google-home",
+      "keywords": [
+        "Google Home",
+        "Nest恒温器",
+        "Matter传感器",
+        "跨品牌",
+        "家庭环境"
+      ],
+      "published": "2026-11-23",
+      "categoryLabel": "技术前沿",
+      "id": 1072
+    },
+    {
+      "date": "2026-11-24",
+      "category": "tech",
+      "title": "国产端侧大模型 Edge0-145B 开源：1450 亿参数在笔记本上跑到每秒 80+ Token",
+      "summary": "无界方舟开源 Edge0-145B 端侧大模型，配套全新端侧统一推理引擎在 GitHub 开源，并提供一键部署工具与硬件适配指南。发布首日即支持 macOS、Windows、Linux 三大系统，覆盖苹果 M 系列芯片及 NVIDIA RTX Spark、RTX 4090/5090 等 GPU 平台，标志端侧大模型从能跑走向可用。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/LCEHB33J0511DSSR.html",
+      "keywords": [
+        "端侧推理",
+        "大模型",
+        "Edge0-145B",
+        "开源",
+        "统一推理引擎"
+      ],
+      "published": "2026-11-23",
+      "categoryLabel": "技术前沿",
+      "id": 1073
+    },
+    {
+      "date": "2026-11-24",
+      "category": "tech",
+      "title": "2026 边缘计算趋势观察：27% 组织已在部署边缘 AI",
+      "summary": "边缘 AI 从试点走向规模化部署，当前约 27% 的组织已在生产环境中落地边缘智能。边缘侧算力在时延敏感、带宽受限与数据不出域场景中的价值凸显，成为云边端协同架构的核心增量。家庭网关作为家庭侧的边缘节点，正承接越来越多的本地推理任务。",
+      "source": "InternetPort Blog",
+      "url": "https://blog.internetport.com/blog/edge-computing-trends",
+      "keywords": [
+        "边缘计算",
+        "边缘AI",
+        "云边端协同",
+        "家庭网关",
+        "本地推理"
+      ],
+      "published": "2026-11-19",
+      "categoryLabel": "技术前沿",
+      "id": 1074
+    },
+    {
+      "date": "2026-11-24",
+      "category": "policy",
+      "title": "《智能家居互联互通》系列推荐性国家标准进入发布倒计时",
+      "summary": "工信部主导、美的海尔等企业参与制定的《智能家居互联互通》系列推荐性国家标准即将发布，将统一设备连接与数据传输等技术要求，解决不同品牌难以协同的问题。该系列为推荐性国标，覆盖底层接入、公共指令集、物模型到安全规范的全技术链。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-17/doc-iniyzsvz1761600.shtml",
+      "keywords": [
+        "国家标准",
+        "互联互通",
+        "工信部",
+        "物模型",
+        "智能家居"
+      ],
+      "published": "2026-11-17",
+      "categoryLabel": "政策标准",
+      "id": 1075
+    },
+    {
+      "date": "2026-11-24",
+      "category": "policy",
+      "title": "强制国标来了：智能家居互联互通 5 项强制性国标公开征求意见",
+      "summary": "2025 年 12 月发布的 4 项智能家居互联互通推荐性国标已于 2026 年 3 月 1 日实施，但生态孤岛依旧。今年 3 月工信部就《智能家居互联互通》系列 5 项强制性国家标准公开征求意见，从底层接入到安全规范全链条覆盖，业内预期有望在明年落地，8 台家电 7 个 App 的现状将受约束。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/aomqmrg6/",
+      "keywords": [
+        "强制性国标",
+        "生态孤岛",
+        "App割裂",
+        "互联互通",
+        "工信部"
+      ],
+      "published": "2026-11-17",
+      "categoryLabel": "政策标准",
+      "id": 1076
+    },
+    {
+      "date": "2026-11-24",
+      "category": "policy",
+      "title": "四部门印发《一老一小服务体系建设实施方案》：鼓励养老场景 AI 智能体与服务机器人",
+      "summary": "国家发改委、民政部、国家卫健委、教育部联合印发《一老一小服务体系建设实施方案》，提出支持养老、托育机构应用智能管理服务、智慧消防安防等系统，推动养老机构配置智能健康监测与辅助器具设备。方案鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品，并支持在养老机构、社区设置体验区。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-23/doc-iniztmtw5435814.shtml",
+      "keywords": [
+        "一老一小",
+        "养老服务",
+        "智能体",
+        "服务机器人",
+        "智慧消防安防"
+      ],
+      "published": "2026-11-23",
+      "categoryLabel": "政策标准",
+      "id": 1077
+    },
+    {
+      "date": "2026-11-24",
+      "category": "policy",
+      "title": "工信部批准 274 项行业标准，含具身智能数据生成系统等人工智能关键基础技术标准",
+      "summary": "工业和信息化部批准《人工智能 关键基础技术 具身智能数据生成系统技术要求》等 274 项行业标准，覆盖化工、石化、建材、机械、汽车、轻工、纺织、电子、通信等 17 个行业，其中电子行业 92 项、通信行业 65 项。人工智能基础技术与行业应用标准体系进一步完善。",
+      "source": "工业和信息化部",
+      "url": "https://wap.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2026/art_eb2325cb1a844fe99958eb8d104a34fc.html",
+      "keywords": [
+        "行业标准",
+        "具身智能",
+        "人工智能",
+        "工信部公告",
+        "标准体系"
+      ],
+      "published": "2026-11-17",
+      "categoryLabel": "政策标准",
+      "id": 1078
+    },
+    {
+      "date": "2026-11-24",
+      "category": "policy",
+      "title": "广东发布全屋智能专项政策：租赁、补贴、适老化三线并进",
+      "summary": "广东出台全屋智能相关红头文件，涉及租赁住房智能改造、配套补贴与适老化落地，并推动装修即智能写入商品房项目投资估算。业内认为该模板具备全国示范效应，跨品牌设备归属纠纷等问题有望随强制国标落地而收敛。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a5rp37m3/",
+      "keywords": [
+        "全屋智能",
+        "适老化",
+        "智能改造补贴",
+        "装修即智能",
+        "地方政策"
+      ],
+      "published": "2026-11-17",
+      "categoryLabel": "政策标准",
+      "id": 1079
+    },
+    {
+      "date": "2026-11-24",
+      "category": "product",
+      "title": "Yeelight 易来发布 AI 全屋智能战略，Lucore Max AI 智能中控舱与全球旗舰展厅亮相",
+      "summary": "11 月 19 日 Yeelight 易来举行 AI 智能空间战略暨新品发布会，重磅推出 Lucore Max AI 智能中控舱，并启用全球首个 AI 智能空间旗舰展厅。会上集中发布覆盖全屋智能多个领域的全新产品矩阵，标志着照明厂商向 AI 空间整体解决方案转型。",
+      "source": "新浪家居",
+      "url": "https://jiaju.sina.com.cn/news-ZG202611201534380001.html",
+      "keywords": [
+        "Yeelight易来",
+        "AI全屋智能",
+        "智能中控舱",
+        "智能空间",
+        "新品发布"
+      ],
+      "published": "2026-11-20",
+      "categoryLabel": "产品方案",
+      "id": 1080
+    },
+    {
+      "date": "2026-11-24",
+      "category": "product",
+      "title": "新一代华为鸿蒙智家定档 11 月 24 日发布，主打无界交互",
+      "summary": "华为官方宣布新一代鸿蒙智家将于 2026 年 11 月 24 日 14:30 发布，升级方向为无界交互。现有全屋智能方案采用 1+3+N 架构：家庭大脑承担设备连接与计算，触控、语音、无感三种交互并列，覆盖照明、遮阳、安防、冷暖新风、影音、能耗、家电与家具家私等子系统。",
+      "source": "CNMO科技",
+      "url": "https://home.cnmo.com/news/822848.html",
+      "keywords": [
+        "鸿蒙智家",
+        "无界交互",
+        "家庭大脑",
+        "1+3+N",
+        "全屋智能"
+      ],
+      "published": "2026-11-19",
+      "categoryLabel": "产品方案",
+      "id": 1081
+    },
+    {
+      "date": "2026-11-24",
+      "category": "product",
+      "title": "荣耀布局全屋智能，推荣耀智慧家 HONOR Home，2027 年建 500 家体验阵地",
+      "summary": "荣耀被曝将全屋智能业务命名为荣耀智慧家（HONOR Home）。荣耀 AIoT 事业部已在 HGDC 2026 发布全屋智能 1+X+N 产品与落地战略，以 PLC+BLE+WiFi 为互联互通底座，计划至 2027 年在全国建成 500 家线下体验阵地、覆盖 200 座核心城市。",
+      "source": "CNMO科技",
+      "url": "https://home.cnmo.com/news/822901.html",
+      "keywords": [
+        "荣耀智慧家",
+        "HONOR Home",
+        "PLC互联",
+        "1+X+N",
+        "线下体验店"
+      ],
+      "published": "2026-11-20",
+      "categoryLabel": "产品方案",
+      "id": 1082
+    },
+    {
+      "date": "2026-11-24",
+      "category": "product",
+      "title": "Aqara 发布六款支持 Matter over Thread / Zigbee 的智能灯",
+      "summary": "Aqara 一次推出六款智能灯，支持 Matter over Thread 与 Zigbee 双协议，可接入 Apple Home，摆脱对单一 Wi-Fi 或自有专有网关的依赖。用户需具备 HomePod mini、HomePod 或 Apple TV 作为 Thread 边界路由器与 Matter 中枢，Aqara 继续扩充其 Matter 照明产品矩阵。",
+      "source": "HomeKit News",
+      "url": "https://homekitnews.com/2026/11/17/aqara-launches-six-new-smart-lights-with-matter-over-thread-zigbee/",
+      "keywords": [
+        "Aqara",
+        "Matter over Thread",
+        "智能灯",
+        "Apple Home",
+        "边界路由器"
+      ],
+      "published": "2026-11-17",
+      "categoryLabel": "产品方案",
+      "id": 1083
+    },
+    {
+      "date": "2026-11-24",
+      "category": "product",
+      "title": "紫光展锐联合比派科技发布全球首款集成全制式 5G 基带的开源单板计算机 BPI-M2C",
+      "summary": "BPI-M2C 搭载 6nm 八核 CPU 与 8TOPS NPU，集成全制式 5G 基带，开源单板形态支持边缘计算、机器视觉与摄像头接入。该产品面向 5G AI 视觉、智能终端、移动边缘计算与数据采集等场景，为家庭网关与轻量边缘节点提供了国产化算力选型。",
+      "source": "新浪新闻",
+      "url": "https://www.sina.cn/weibo/detail/5368492259282250.html",
+      "keywords": [
+        "紫光展锐",
+        "BPI-M2C",
+        "5G基带",
+        "NPU",
+        "边缘计算"
+      ],
+      "published": "2026-11-24",
+      "categoryLabel": "产品方案",
+      "id": 1084
+    },
+    {
+      "date": "2026-11-24",
+      "category": "scenario",
+      "title": "一老一小方案落地，3.2 亿老人背后的康养机器人采购考题",
+      "summary": "四部门《一老一小服务体系建设实施方案》明确鼓励养老场景人工智能体、服务机器人、智能穿戴设备与外骨骼产品落地，牵动百亿级康养机器人赛道估值逻辑。方案在养老机构、社区支持设置体验区，采购需求正从试点示范转向规模化招标，落地路径与商业闭环成为行业焦点。",
+      "source": "21经济网",
+      "url": "https://www.21jingji.com/article/20261123/herald/93138b28360219b4ce8c9c870ae0ac10.html",
+      "keywords": [
+        "康养机器人",
+        "养老场景",
+        "3.2亿老人",
+        "采购",
+        "落地路径"
+      ],
+      "published": "2026-11-23",
+      "categoryLabel": "场景落地",
+      "id": 1085
+    },
+    {
+      "date": "2026-11-24",
+      "category": "scenario",
+      "title": "广东前三季度智能消费设备制造销售收入增长 26.3%，智慧养老场景加速",
+      "summary": "税收数据显示，广东省前三季度可穿戴智能设备制造等智能消费设备制造销售收入同比增长 26.3%，康复辅具制造等医疗器械销售同比增长 12.3%。适老化智能手环、健康监测设备快速发展，为远程监护、居家安全预警等智慧养老场景注入动能。",
+      "source": "21经济网",
+      "url": "https://www.21jingji.com/article/20261123/herald/4a1e81390aa51edb19c85c7d41686e73.html",
+      "keywords": [
+        "智慧养老",
+        "可穿戴设备",
+        "远程监护",
+        "居家安全预警",
+        "适老化"
+      ],
+      "published": "2026-11-23",
+      "categoryLabel": "场景落地",
+      "id": 1086
+    },
+    {
+      "date": "2026-11-24",
+      "category": "scenario",
+      "title": "家庭陪伴机器人探索居家养老新路径：兼顾独居老人安全感与子女牵挂",
+      "summary": "面向居家养老场景的智能陪护产品不局限于功能堆叠，强调让科技守护陪伴、让养老更有尊严，同时满足长辈居家安全感与远方子女牵挂需求。产品研发与产业共建并行，未来将联动社区、康养机构与渠道伙伴推动智慧养老服务普惠化与规范化。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1103832987_123036280",
+      "keywords": [
+        "陪伴机器人",
+        "居家养老",
+        "独居老人",
+        "养老服务",
+        "场景落地"
+      ],
+      "published": "2026-11-20",
+      "categoryLabel": "场景落地",
+      "id": 1087
+    },
+    {
+      "date": "2026-11-24",
+      "category": "scenario",
+      "title": "智慧住区解决方案：人行车行无感通行、机器人配送巡检等场景按需分期启用",
+      "summary": "智慧住区方案以统一底座加场景生长的架构设计，落地场景涵盖人行无感通行、车行无感通行、机器人配送与巡检、充电服务、物业费线上收缴与社区增值运营。场景可按项目分期启用而底座保持不变，降低了智慧社区项目的分期投入门槛。",
+      "source": "西墨Thinmoo",
+      "url": "https://m.thinmoo.com/%E6%99%BA%E6%85%A7%E4%BD%8F%E5%8C%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/",
+      "keywords": [
+        "智慧住区",
+        "智慧社区",
+        "无感通行",
+        "机器人巡检",
+        "场景分期"
+      ],
+      "published": "2026-11-18",
+      "categoryLabel": "场景落地",
+      "id": 1088
+    },
+    {
+      "date": "2026-11-24",
+      "category": "scenario",
+      "title": "Matter 未解决的智能家居交接难题：租赁场景下的账号与权限困境",
+      "summary": "在租赁场景中，新租客入住时门锁拒绝新的配对码，恒温器仍显示在上一位住户的 Google Home 账户中，物业方在数小时内无法找到对应账号。Matter 解决了设备互联，却未解决账户、权限与设备归属在租户更替时的迁移问题，成为运营商与物业的现实痛点。",
+      "source": "Nokiamob",
+      "url": "https://nokiamob.net/2026/11/21/the-smart-home-handoff-problem-matter-didnt-solve-for-rentals/",
+      "keywords": [
+        "Matter局限",
+        "租赁场景",
+        "设备交接",
+        "账户权限",
+        "家庭管理"
+      ],
+      "published": "2026-11-21",
+      "categoryLabel": "场景落地",
+      "id": 1089
+    },
+    {
+      "date": "2026-11-24",
+      "category": "security",
+      "title": "欧盟智能家居合规全景：GDPR、Data Act 与网络韧性法案如何影响设备",
+      "summary": "文章系统梳理欧盟 GDPR、ePrivacy 规则、《数据法案》（Data Act）与《网络韧性法案》（Cyber Resilience Act）对智能家居设备数据访问、共享、摄像头、应用与云安全的合规影响。出海厂商需同步应对隐私保护、数据可携带与产品全生命周期安全义务。",
+      "source": "TechBloat",
+      "url": "https://www.techbloat.com/how-eu-rules-change-smart-home-privacy-data-access-and-security.html",
+      "keywords": [
+        "GDPR",
+        "欧盟数据法案",
+        "网络韧性法案",
+        "智能家居合规",
+        "数据访问"
+      ],
+      "published": "2026-11-23",
+      "categoryLabel": "数据安全",
+      "id": 1090
+    },
+    {
+      "date": "2026-11-24",
+      "category": "security",
+      "title": "研究：智能家居应用数据收集量排名，Amazon Alexa 居首，其后为 Google Health 与 Google Home",
+      "summary": "Surfshark 发布的隐私研究显示，主流智能家居应用在数据收集量上 Amazon Alexa 位居第一，其后为 Google Health 与 Google Home。该结果为家庭场景下语音交互与健康类应用的隐私治理提供了量化参考，也提示用户在授权第三方智能音箱时应审慎评估。",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000032.000176142.html",
+      "keywords": [
+        "数据收集",
+        "Amazon Alexa",
+        "Google Home",
+        "隐私研究",
+        "Surfshark"
+      ],
+      "published": "2026-11-23",
+      "categoryLabel": "数据安全",
+      "id": 1091
+    },
+    {
+      "date": "2026-11-24",
+      "category": "security",
+      "title": "资安部门示警：家用智慧设备恐藏骇客入侵风险，吁掌握三要诀",
+      "summary": "台湾资安部门负责人表示，资安风险已从企业与机关延伸至个人与家庭，儿童智慧手表、扫地机器人等联网设备可能面临密码强度不足、软件版本漏洞与隐私防护不完善等入侵风险。只要设备连网，小则隐私泄露、大则个资外泄，家庭侧防护需格外重视。",
+      "source": "禁闻网",
+      "url": "https://www.bannedbook.org/bnews/cnnews/20261120/2382861.html",
+      "keywords": [
+        "家庭网络安全",
+        "智慧手表",
+        "漏洞",
+        "密码强度",
+        "隐私防护"
+      ],
+      "published": "2026-11-20",
+      "categoryLabel": "数据安全",
+      "id": 1092
+    },
+    {
+      "date": "2026-11-24",
+      "category": "security",
+      "title": "工信部通报侵害用户权益 APP 与 SDK，2026 年个人信息保护系列专项行动持续推进",
+      "summary": "11 月 23 日工信部依据《个人信息保护法》《网络安全法》《电信条例》等及《关于开展 2026 年个人信息保护系列专项行动的公告》，通报一批侵害用户权益行为的 APP 与 SDK。移动应用过度索取授权、违规收集个人信息仍是监管重点，家庭类应用同样在整治范围内。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34539505",
+      "keywords": [
+        "个人信息保护",
+        "APP通报",
+        "SDK",
+        "工信部",
+        "专项行动"
+      ],
+      "published": "2026-11-23",
+      "categoryLabel": "数据安全",
+      "id": 1093
+    },
+    {
+      "date": "2026-11-24",
+      "category": "security",
+      "title": "智能家居摄像头隐私保护实践：权限、云存储与视频访问的审查清单",
+      "summary": "文章针对 Ring、Nest、Arlo 等主流摄像头品牌，给出家庭摄像头隐私与安全的实操建议，包括审查应用权限、关联账号、云存储与视频访问控制。核心措施包括开启双因素认证、及时更新固件与强化网络层安全，回应家庭监控场景下的隐私焦虑。",
+      "source": "Gearbrain",
+      "url": "https://www.gearbrain.com/smart-home-camera-privacy-security-2678416877.html",
+      "keywords": [
+        "摄像头隐私",
+        "云存储",
+        "双因素认证",
+        "固件更新",
+        "家庭监控"
+      ],
+      "published": "2026-11-17",
+      "categoryLabel": "数据安全",
+      "id": 1094
     }
   ]
 }
