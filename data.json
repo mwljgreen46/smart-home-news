@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24",
+  "lastUpdated": "2026-11-25",
   "news": [
     {
       "id": 1,
@@ -19620,6 +19620,366 @@
       "published": "2026-11-17",
       "categoryLabel": "数据安全",
       "id": 1094
+    },
+    {
+      "date": "2026-11-25",
+      "category": "tech",
+      "title": "业界首提“端侧超节点”：让端侧AI组队计算，AI效率暴涨270%",
+      "summary": "文章提出“端侧超节点”概念，把云端超节点的超节点互联思路下沉到端侧，让智能相机、机器人、传感器、边缘计算盒等设备组队协同计算。端侧芯片架构与性能参差不齐成为关键挑战，该方案主张在不更换芯片或模型的前提下提升端侧AI效率，对家庭多设备协同推理具有直接参考价值。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/LCGOHNSI0511DSSR.html",
+      "keywords": [
+        "端侧超节点",
+        "端侧AI",
+        "边缘计算盒",
+        "多设备协同",
+        "推理效率"
+      ],
+      "published": "2026-11-24",
+      "categoryLabel": "技术前沿",
+      "id": 1095
+    },
+    {
+      "date": "2026-11-25",
+      "category": "tech",
+      "title": "AMD与Unsloth合作：全球首个NPU支持Unsloth Desktop，本地推理覆盖100+智能体应用",
+      "summary": "AMD宣布通过Unsloth Desktop为其XDNA 2 NPU提供支持，将本地NPU推理能力带入上百个agentic AI应用与工作流。官方称NPU每token生成能耗比传统GPU低2至4倍，为终端设备长期在线的本地模型推理提供了低功耗范式。",
+      "source": "AMD Newsroom",
+      "url": "https://newsroom.amd.com/news/amd-unsloth-bring-npu-support-agentic-ai-applications/",
+      "keywords": [
+        "AMD XDNA 2",
+        "NPU",
+        "Unsloth",
+        "端侧推理",
+        "智能体"
+      ],
+      "published": "2026-11-20",
+      "categoryLabel": "技术前沿",
+      "id": 1096
+    },
+    {
+      "date": "2026-11-25",
+      "category": "tech",
+      "title": "紫光展锐联合比派科技发布全球首款5G开源单板计算机：能跑AI、能接摄像头",
+      "summary": "紫光展锐与比派科技发布全球首款集成全制式5G基带的开源单板计算机BPI-M2C，搭载6nm八核CPU加8TOPS NPU。官方称其面向边缘计算、机器视觉等场景，可同时承担AI推理与摄像头接入双重负载，售价与开售时间尚未公布。",
+      "source": "新浪新闻",
+      "url": "https://www.sina.cn/weibo/detail/5368492259282250.html",
+      "keywords": [
+        "紫光展锐",
+        "BPI-M2C",
+        "5G开源单板",
+        "8TOPS NPU",
+        "边缘计算"
+      ],
+      "published": "2026-11-24",
+      "categoryLabel": "技术前沿",
+      "id": 1097
+    },
+    {
+      "date": "2026-11-25",
+      "category": "tech",
+      "title": "Matter：一统多品牌的智能家居标准，仍在成熟中",
+      "summary": "文章系统梳理Matter作为跨品牌智能家居标准的发展现状与落地边界：设备可在Alexa、Google Home、Apple Home之间协同工作，但标准仍在持续演进，并非所有品类都已完成支持。对判断“是否仍需要中枢网关”给出了务实答案。",
+      "source": "TechLawNews",
+      "url": "https://www.techlawnews.com/matter-one-smart-home-standard-every-brand/",
+      "keywords": [
+        "Matter协议",
+        "跨品牌互联",
+        "智能家居标准",
+        "网关",
+        "Matter成熟度"
+      ],
+      "published": "2026-11-20",
+      "categoryLabel": "技术前沿",
+      "id": 1098
+    },
+    {
+      "date": "2026-11-25",
+      "category": "policy",
+      "title": "四部门印发《“一老一小”服务体系建设实施方案》：鼓励养老场景AI体、服务机器人",
+      "summary": "国家发展改革委、民政部、国家卫生健康委、教育部印发实施方案，提出支持养老、托育机构应用智能管理服务与智慧消防安防系统，推动配置智能健康监测、辅助器具等设备。方案鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备与外骨骼等新产品，支持在养老机构、社区设置体验区。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-23/doc-iniztmtw5435814.shtml",
+      "keywords": [
+        "一老一小",
+        "养老服务",
+        "人工智能体",
+        "智慧消防安防",
+        "政策"
+      ],
+      "published": "2026-11-23",
+      "categoryLabel": "政策标准",
+      "id": 1099
+    },
+    {
+      "date": "2026-11-25",
+      "category": "policy",
+      "title": "工信部批准274项行业标准，含《具身智能数据生成系统技术要求》",
+      "summary": "2026年11月16日，工业和信息化部发布2026年第30号公告，正式批准《人工智能 关键基础技术 具身智能数据生成系统技术要求》等共计274项行业标准。标准体系覆盖人工智能关键基础技术与具身智能等方向，为智能终端与家庭机器人的数据与能力评价提供依据。",
+      "source": "半导体行业观察",
+      "url": "https://www.banchangyi.com/policies/quanguo-52375",
+      "keywords": [
+        "工信部",
+        "行业标准",
+        "具身智能",
+        "AI标准体系",
+        "第30号公告"
+      ],
+      "published": "2026-11-18",
+      "categoryLabel": "政策标准",
+      "id": 1100
+    },
+    {
+      "date": "2026-11-25",
+      "category": "policy",
+      "title": "我国牵头制定78项人工智能国际标准，情感计算标准惠及智能家居",
+      "summary": "我国已牵头制定78项人工智能国际标准，覆盖智慧城市、智能制造等全生命周期应用。其中情感计算标准构建了AI准确感知人类情绪并响应的技术体系，将提升智能客服、人形机器人、智能家居与车载交互等产品的安全性和可信度。",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/LCIJ21D405129QAF.html",
+      "keywords": [
+        "国际标准",
+        "情感计算",
+        "人工智能标准",
+        "智能家居",
+        "可信度"
+      ],
+      "published": "2026-11-25",
+      "categoryLabel": "政策标准",
+      "id": 1101
+    },
+    {
+      "date": "2026-11-25",
+      "category": "policy",
+      "title": "“六网协同”开放物联标准体系建设工作正式启动",
+      "summary": "围绕水网、新型电网、算力网、新一代通信网、城市地下管网、物流网“六张网”规划建设，开放物联标准体系建设正式启动。2026年六张网相关投资预计超7万亿元，统一开放的物联底座是实现互联互通、共建共享的关键支撑，家居网关与边缘节点是其中的重要接入层。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34513792",
+      "keywords": [
+        "六网协同",
+        "开放物联标准",
+        "算力网",
+        "物联底座",
+        "互联互通"
+      ],
+      "published": "2026-11-20",
+      "categoryLabel": "政策标准",
+      "id": 1102
+    },
+    {
+      "date": "2026-11-25",
+      "category": "product",
+      "title": "华为发布鸿蒙智家无界交互方案，多款智能家居新品亮相",
+      "summary": "华为发布鸿蒙智家新一代“无界交互”方案，围绕家庭场景提供软硬件能力升级，包括更懂用户的小艺管家、意式美学智能开关都灵、隐形AI超感传感器Air以及智慧睡眠2.0。同时支持人车家联动，鸿蒙智行车辆与手机、手表均可操控家中智能设备。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1105818892_362225",
+      "keywords": [
+        "鸿蒙智家",
+        "无界交互",
+        "家庭大脑",
+        "人车家",
+        "智慧睡眠"
+      ],
+      "published": "2026-11-24",
+      "categoryLabel": "产品方案",
+      "id": 1103
+    },
+    {
+      "date": "2026-11-25",
+      "category": "product",
+      "title": "COLMO AI HOME 全屋智能方案拆解：本地执行为稳定性核心",
+      "summary": "文章拆解COLMO全屋智能（COLMO AI HOME）方案，其稳定性来自“智能家电+智能家居+管家服务”三位一体结构，减少跨品牌协议转译层。墅智家庭主机CG-PLA1支持以太网、双频Wi-Fi、Zigbee 3.0、蓝牙与RS485等接入方式，关联网关侧的本地闭环执行能力。",
+      "source": "中关村在线",
+      "url": "https://news.zol.com.cn/1276/12765192.html",
+      "keywords": [
+        "COLMO",
+        "全屋智能",
+        "家庭主机",
+        "本地执行",
+        "多协议接入"
+      ],
+      "published": "2026-11-24",
+      "categoryLabel": "产品方案",
+      "id": 1104
+    },
+    {
+      "date": "2026-11-25",
+      "category": "product",
+      "title": "涂鸦智能Q3营收9860万美元，AI原生新品类出货同比增长超400%",
+      "summary": "涂鸦智能发布2026年第三季度业绩，总收入9860万美元同比增长19.5%，连续13个季度增长，净利润1850万美元同比增23.8%。公司称AI原生新品类出货量同比增长超400%，已在IFA等首发AI家庭陪伴机器人Doova，并以AI生活助手Hey Tuya为核心入口整合AI Home、AI Robot、AI Energy三大生态与全栈Matter方案。",
+      "source": "金融界",
+      "url": "https://finance.jrj.com.cn/2026/11/24065759236064.shtml",
+      "keywords": [
+        "涂鸦智能",
+        "AI原生硬件",
+        "Doova",
+        "Hey Tuya",
+        "Matter生态"
+      ],
+      "published": "2026-11-24",
+      "categoryLabel": "产品方案",
+      "id": 1105
+    },
+    {
+      "date": "2026-11-25",
+      "category": "product",
+      "title": "酷森AI智慧家APP上线：手机远程控制与多设备一键联动",
+      "summary": "酷森AI智慧家APP主打全屋智能中枢定位，提供手机远程控制门窗与家电状态、多设备同步联动的一键执行与自定义编辑逻辑。其产品逻辑是以单一App收敛分散设备的控制入口，反映出智慧家庭在移动端聚合入口的竞争方向。",
+      "source": "经济日报",
+      "url": "https://money.udn.com/money/story/5721/9895861",
+      "keywords": [
+        "AI智慧家",
+        "全屋联动",
+        "远程控制",
+        "手机APP",
+        "智能中枢"
+      ],
+      "published": "2026-11-23",
+      "categoryLabel": "产品方案",
+      "id": 1106
+    },
+    {
+      "date": "2026-11-25",
+      "category": "scenario",
+      "title": "跌倒报警器“智能守护”独居老人：60G毫米波雷达+150秒自动呼救",
+      "summary": "项目落地以实物宣讲切入社区，巴掌大小的跌倒报警器搭载60G毫米波雷达吸顶安装，实时监测人体姿态变化，识别到跌倒先推送后台预警，150秒内老人未起身则自动拨打并短信通知紧急联系人。语音报警器与拉绳报警器构成双重兜底，可装于卧室、卫生间等高危区域。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.cn/article_5952915720_162d24908067056cmw.html",
+      "keywords": [
+        "跌倒检测",
+        "毫米波雷达",
+        "独居老人",
+        "适老看护",
+        "紧急呼叫"
+      ],
+      "published": "2026-11-18",
+      "categoryLabel": "场景落地",
+      "id": 1107
+    },
+    {
+      "date": "2026-11-25",
+      "category": "scenario",
+      "title": "苹果出中枢、亚马逊摆矩阵、运营商盯上电视：家庭AI三条路线成形",
+      "summary": "文章梳理家庭AI的三条路线：苹果推出家庭中枢，亚马逊以电视矩阵承接家庭共享AI入口，运营商则以电视为家庭入口发力，路线是“云边协同”，底层绑定云厂商AI与电视生态。报道提到该方案先在葡萄牙做真实家庭试点，目标2027年完成商业验证，并强调能接入Home Assistant的才是真智能。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/avgdm37p/",
+      "keywords": [
+        "家庭中枢",
+        "云边协同",
+        "家庭AI入口",
+        "运营商",
+        "电视"
+      ],
+      "published": "2026-11-22",
+      "categoryLabel": "场景落地",
+      "id": 1108
+    },
+    {
+      "date": "2026-11-25",
+      "category": "scenario",
+      "title": "断网后全屋瘫痪？米家中枢网关本地化能力实测拆解",
+      "summary": "实测梳理米家中枢网关的断网可用边界：人体传感器、无线开关触发已保存自动化照常执行，经网关接入的蓝牙/Zigbee设备指令在网关层闭环，同一局域网内手机App仍可手动触发场景。真正失效的是异地远程控制，凸显家庭中枢本地化程度对体验的决定性影响。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/a7045mel/",
+      "keywords": [
+        "米家",
+        "中枢网关",
+        "断网可用",
+        "本地化",
+        "Zigbee"
+      ],
+      "published": "2026-11-24",
+      "categoryLabel": "场景落地",
+      "id": 1109
+    },
+    {
+      "date": "2026-11-25",
+      "category": "scenario",
+      "title": "美国亚利桑那养老社区用“PAUL”设备监测老人跌倒与睡眠",
+      "summary": "亚利桑那州数百名老人现由被称为“PAUL”的设备监测，该设备外形类似烟雾探测器，可追踪住户的睡眠模式与在公寓内的移动轨迹。案例显示非摄像头形态的家居感知设备正在成为养老社区防跌倒管理的低成本技术路径。",
+      "source": "WDBJ7",
+      "url": "https://www.wdbj7.com/2026/11/23/senior-living-communities-turn-ai-help-with-fall-prevention/",
+      "keywords": [
+        "养老社区",
+        "跌倒预防",
+        "无感监测",
+        "睡眠追踪",
+        "AI照护"
+      ],
+      "published": "2026-11-23",
+      "categoryLabel": "场景落地",
+      "id": 1110
+    },
+    {
+      "date": "2026-11-25",
+      "category": "security",
+      "title": "欧盟智能家居规则解读：GDPR、Data Act与网络韧性法案如何影响设备",
+      "summary": "文章系统说明欧盟GDPR、ePrivacy、《数据法案》(Data Act)与《网络韧性法案》(Cyber Resilience Act)对智能家居设备的影响，涵盖数据访问与共享、摄像头、应用与云服务安全。对出海厂商而言，合规成本需前置到产品设计与固件更新环节。",
+      "source": "iTechGuides",
+      "url": "https://www.itechguides.com/eu-smart-home-privacy-and-data-rules-what-gdpr-the-data-act-and-the-cyber-resilience-act-mean/",
+      "keywords": [
+        "GDPR",
+        "欧盟数据法案",
+        "网络韧性法案",
+        "智能家居合规",
+        "数据访问"
+      ],
+      "published": "2026-11-24",
+      "categoryLabel": "数据安全",
+      "id": 1111
+    },
+    {
+      "date": "2026-11-25",
+      "category": "security",
+      "title": "黑客入侵你家：智慧家电藏资安破口，资安署提醒三招自保",
+      "summary": "台湾资安署指出，家庭联网设备日增，智能IoT设备极易因防护薄弱或出厂漏洞沦为黑客窃取隐私或发动攻击的跳板，从家庭摄像头、儿童智能手表、扫地机器人到无线路由器均在内。资安署长蔡福隆表示资安风险已从企业与机关延伸至个人与家庭，并给出更新软件、强化密码等三项自保建议。",
+      "source": "联合新闻网",
+      "url": "https://udn.com/news/story/7240/9888959",
+      "keywords": [
+        "IoT安全",
+        "家庭摄像头",
+        "资安署",
+        "漏洞",
+        "隐私泄露"
+      ],
+      "published": "2026-11-19",
+      "categoryLabel": "数据安全",
+      "id": 1112
+    },
+    {
+      "date": "2026-11-25",
+      "category": "security",
+      "title": "国家计算机病毒应急处理中心检测发现86款App违法违规收集使用个人信息",
+      "summary": "依据《关于开展2026年个人信息保护系列专项行动的公告》以及《网络安全法》《个人信息保护法》等规定，国家计算机病毒应急处理中心检测发现86款移动应用存在一项或多项违法违规收集使用个人信息情况。专项治理持续覆盖与家庭数据高度相关的终端应用。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1105752343_115362",
+      "keywords": [
+        "个人信息保护",
+        "App合规",
+        "国家计算机病毒应急处理中心",
+        "专项行动",
+        "数据安全"
+      ],
+      "published": "2026-11-24",
+      "categoryLabel": "数据安全",
+      "id": 1113
+    },
+    {
+      "date": "2026-11-25",
+      "category": "security",
+      "title": "装修选全屋智能，哪家数据隐私保护好？三款方案对比复盘",
+      "summary": "文章给出全屋智能数据隐私的三个核查维度：一是采集边界是否说得清，门锁、摄像头采什么、存在哪、谁能看需明确交代；二是背书能否查验，第三方检测报告、证书编号与有效期应能在签约前核对；三是数据在本地还是云端处理，比“银行级加密”这类话术更关键。",
+      "source": "中关村在线",
+      "url": "https://news.zol.com.cn/1276/12764185.html",
+      "keywords": [
+        "数据隐私",
+        "采集边界",
+        "本地存储",
+        "第三方检测",
+        "全屋智能选型"
+      ],
+      "published": "2026-11-24",
+      "categoryLabel": "数据安全",
+      "id": 1114
     }
   ]
 }
