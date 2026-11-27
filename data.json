@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26",
+  "lastUpdated": "2026-11-27",
   "news": [
     {
       "id": 1,
@@ -20517,6 +20517,448 @@
       "published": "2026-11-24",
       "categoryLabel": "数据安全",
       "id": 1144
+    },
+    {
+      "date": "2026-11-27",
+      "category": "tech",
+      "title": "Matter Promises One Smart Home Standard for Every Brand",
+      "summary": "文章系统梳理 Matter 协议当前进展，指出这一跨品牌统一标准虽仍在成熟中，但已能覆盖照明、插座、传感器、门锁等主流品类。对家庭用户而言，Matter 的核心价值在于免去多 App 管理，但对不支持 Matter 的存量设备仍需依赖网关桥接。",
+      "source": "TechLawNews",
+      "url": "https://www.techlawnews.com/matter-one-smart-home-standard-every-brand/",
+      "keywords": [
+        "Matter协议",
+        "智能家居标准",
+        "跨品牌互联",
+        "家庭网关"
+      ],
+      "published": "2026-11-20",
+      "categoryLabel": "技术前沿",
+      "id": 1145
+    },
+    {
+      "date": "2026-11-27",
+      "category": "tech",
+      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "summary": "辛米尔科技提出“端侧超节点（Edge SuperPOD）”概念，为分散的边缘AI设备搭建协同路网，可在不更换芯片与模型的前提下显著提升AI效率。思路从云端超节点扩展到端侧，对家庭多设备协同推理有直接借鉴意义。",
+      "source": "网易",
+      "url": "https://www.163.com/dy/article/LCGOHNSI0511DSSR.html",
+      "keywords": [
+        "端侧超节点",
+        "边缘推理",
+        "多设备协同",
+        "边缘AI"
+      ],
+      "published": "2026-11-24",
+      "categoryLabel": "技术前沿",
+      "id": 1146
+    },
+    {
+      "date": "2026-11-27",
+      "category": "tech",
+      "title": "高端GPU一卡难求！清华团队联手国产芯破局，推理性能暴涨3倍",
+      "summary": "清华团队联合国产芯片厂商，通过自研推理引擎补齐“芯片—模型”之间的软件断层，实现推理性能约3倍提升。文章强调国产芯片的关键短板已从硬件转向推理引擎与软件栈适配层。",
+      "source": "凤凰网科技",
+      "url": "https://tech.ifeng.com/c/8yMWqoeZu0V",
+      "keywords": [
+        "国产AI芯片",
+        "推理引擎",
+        "清华团队",
+        "性能优化"
+      ],
+      "published": "2026-11-26",
+      "categoryLabel": "技术前沿",
+      "id": 1147
+    },
+    {
+      "date": "2026-11-27",
+      "category": "tech",
+      "title": "国产芯片怎么训练大模型：从驱动到框架的适配层拆解",
+      "summary": "文章将国产芯片适配大模型拆分为驱动、编译器、高性能库、通信库、框架五层，指出各层责任归属与协作难点，并提及平头哥开源 T-Head SAIL 软件栈的进展。对端侧芯片厂商的生态建设有参考价值。",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7711652805635751945",
+      "keywords": [
+        "芯片适配",
+        "SAIL软件栈",
+        "国产算力",
+        "AI框架"
+      ],
+      "published": "2026-11-24",
+      "categoryLabel": "技术前沿",
+      "id": 1148
+    },
+    {
+      "date": "2026-11-27",
+      "category": "tech",
+      "title": "踩坑无数才总结：边缘计算盒子选型，算力从来不是第一标准",
+      "summary": "作者从智慧零售、工业视觉、园区安防等落地经验出发，指出边缘盒子选型的首要考量是模型适配能力、部署运维成本与稳定性，而非单纯TOPS算力。低时延、高隐私、离线可用是端侧部署的天然优势。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1106581006_99907863",
+      "keywords": [
+        "边缘计算盒子",
+        "选型",
+        "离线可用",
+        "低时延"
+      ],
+      "published": "2026-11-26",
+      "categoryLabel": "技术前沿",
+      "id": 1149
+    },
+    {
+      "date": "2026-11-27",
+      "category": "tech",
+      "title": "2026边缘网关格局观察：工业互联赛道上的三种路径",
+      "summary": "文章梳理边缘网关厂商的三种路线：以思科 IC3000 为代表的基础设施化容器平台路线，以及面向工业现场和轻量接入的差异化路线。趋势是网关从协议转换设备升级为可部署容器化边缘应用的算力节点。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/anv5zvd7/",
+      "keywords": [
+        "边缘网关",
+        "容器化",
+        "思科IC3000",
+        "工业互联网"
+      ],
+      "published": "2026-11-26",
+      "categoryLabel": "技术前沿",
+      "id": 1150
+    },
+    {
+      "date": "2026-11-27",
+      "category": "policy",
+      "title": "广东“打样”智能家居新国标！首批互联互通产品力争年底亮相",
+      "summary": "11月25日，智能家居互联互通生态培育“万里行”广东首站活动在佛山举行，《智能家居互联互通》系列强制性国家标准正式进入产业化落地阶段。标准含局域网接入、测试方法、公共指令集、物模型、安全规范五部分，力争年底前发布首批互联互通产品与场景。",
+      "source": "21经济网",
+      "url": "https://www.21jingji.com/article/20261125/herald/460daf6dd0b1b15ae48a254f31e47e1a.html",
+      "keywords": [
+        "智能家居国标",
+        "互联互通",
+        "物模型",
+        "工信部"
+      ],
+      "published": "2026-11-25",
+      "categoryLabel": "政策标准",
+      "id": 1151
+    },
+    {
+      "date": "2026-11-27",
+      "category": "policy",
+      "title": "告别“一屋家电十几个App”，智能家居国标首次联调联试落地广东",
+      "summary": "《智能家居互联互通》国标首次在广东开展联调联试，标志不同品牌产品“讲同一种语言”进入实操验证阶段。广东省工信厅将提速编制试点实施方案，力争2026年12月底前推出首批互联互通产品与示范场景，并促成粤家电产业联盟落地。",
+      "source": "21财经",
+      "url": "https://m.21jingji.com/article/20261126/herald/4e86b28901eb5d73cba62eaaafced6dd.html",
+      "keywords": [
+        "联调联试",
+        "强制国标",
+        "广东试点",
+        "生态孤岛"
+      ],
+      "published": "2026-11-26",
+      "categoryLabel": "政策标准",
+      "id": 1152
+    },
+    {
+      "date": "2026-11-27",
+      "category": "policy",
+      "title": "三部门印发《新一代通信网建设实施方案》：到2030年建成性能领先的新一代通信网",
+      "summary": "工信部、国家网信办、国家发改委联合印发《新一代通信网建设实施方案》，提出构建“枢纽—区域—边缘”多层级算力设施架构，建设全国统一算力监测调度平台。同时加快人工智能手机、电脑、智能穿戴等新一代智能终端普及，并已发布智能手机、电脑、电视、眼镜等7个品类的《人工智能终端智能化分级》标准。",
+      "source": "工业和信息化部",
+      "url": "https://wap.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_808db1814bb74a0e87965d66e74f5b4b.html",
+      "keywords": [
+        "新一代通信网",
+        "算网协同",
+        "边缘算力",
+        "智能终端分级"
+      ],
+      "published": "2026-11-26",
+      "categoryLabel": "政策标准",
+      "id": 1153
+    },
+    {
+      "date": "2026-11-27",
+      "category": "policy",
+      "title": "国家网信办就《实施网络安全标识的产品目录（第二批）》公开征求意见",
+      "summary": "网信办发布第二批实施网络安全标识的产品目录及规则征求意见稿，明确智能音箱须依据《网络安全标识 智能音箱安全要求》检测，涵盖物理与硬件安全、系统与软件安全、网络与通信安全、数据安全与个人信息保护等能力等级。智能家居设备进入标识化管理序列。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34540025",
+      "keywords": [
+        "网络安全标识",
+        "智能音箱",
+        "网信办",
+        "数据安全"
+      ],
+      "published": "2026-11-23",
+      "categoryLabel": "政策标准",
+      "id": 1154
+    },
+    {
+      "date": "2026-11-27",
+      "category": "policy",
+      "title": "网数中心推出个人信息保护负责人能力认证（CCRC-PIPO）",
+      "summary": "中国网络安全审查认证和市场监管大数据中心正式推出个人信息保护负责人能力认证，依据《个人信息保护法》《个人信息保护合规审计管理办法》及GB/T 42446国家标准研发。该认证覆盖十五项合规评估指标，回应家用智能设备规模化部署后数据合规管理的人才缺口。",
+      "source": "新浪新闻",
+      "url": "https://finance.sina.cn/2026-11-24/detail-inizvuyz9991793.d.html",
+      "keywords": [
+        "个人信息保护法",
+        "合规审计",
+        "能力认证",
+        "数据治理"
+      ],
+      "published": "2026-11-25",
+      "categoryLabel": "政策标准",
+      "id": 1155
+    },
+    {
+      "date": "2026-11-27",
+      "category": "product",
+      "title": "智能电机AI化升级：RM MAX Matter超级网桥接入红外与射频传统设备",
+      "summary": "以智能电机为入口切入家庭AI升级，产品主打自研云端架构、设备通电自动发现批量配网以减少现场施工工时。其 RM MAX Matter 超级网桥可接入红外、射频类传统设备，涵盖空调、电视、窗帘电机等存量家电，是老旧家庭低成本智能化路径。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1106848525_123048884",
+      "keywords": [
+        "Matter超级网桥",
+        "智能电机",
+        "存量家电改造",
+        "批量配网"
+      ],
+      "published": "2026-11-26",
+      "categoryLabel": "产品方案",
+      "id": 1156
+    },
+    {
+      "date": "2026-11-27",
+      "category": "product",
+      "title": "曝荣耀正布局全屋智能业务，或命名为“荣耀智慧家”（HONOR Home）",
+      "summary": "据爆料，荣耀将进军全屋智能领域，品牌名为“荣耀智慧家”（HONOR Home）。荣耀此前在 HGDC 2026 已发布该业务“1+X+N”落地战略，计划2027年建设500家线下体验阵地，方案在技术上融合 PLC+BLE+WiFi，与小米、华为路线存在差异。",
+      "source": "CNMO",
+      "url": "https://home.cnmo.com/news/822901.html",
+      "keywords": [
+        "荣耀智慧家",
+        "HONOR Home",
+        "全屋智能",
+        "1+X+N"
+      ],
+      "published": "2026-11-20",
+      "categoryLabel": "产品方案",
+      "id": 1157
+    },
+    {
+      "date": "2026-11-27",
+      "category": "product",
+      "title": "中国联通集采427.6万台家庭网关设备，多家厂商投标报价差距明显",
+      "summary": "中国联通启动大规模家庭网关设备集采，采购规模达427.6万台。同期中国电信年内已启动3000万套家庭FTTR产品集采（Wi-Fi 6约2000万套、Wi-Fi 7约1000万套），中国移动2026—2027年智能家庭网关集采首批规模1135.3362万台。运营商家庭入口争夺持续升温。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.cn/article_5953740931_162dee083067046a56.html",
+      "keywords": [
+        "家庭网关集采",
+        "中国联通",
+        "FTTR",
+        "运营商"
+      ],
+      "published": "2026-11-21",
+      "categoryLabel": "产品方案",
+      "id": 1158
+    },
+    {
+      "date": "2026-11-27",
+      "category": "product",
+      "title": "5 Best Matter Smart Thermostats for a More Connected Home in 2026",
+      "summary": "评测对比 Mysa、Nest、Tado、Honeywell、Meross 五款 Matter 智能温控器在价格、功能与兼容性上的差异。智能家居标准迭代较快，选择温控设备时需关注跨生态兼容与长期固件支持能力。",
+      "source": "Gearbrain",
+      "url": "https://www.gearbrain.com/best-matter-smart-thermostats-2026-2678512392.html",
+      "keywords": [
+        "Matter",
+        "智能温控器",
+        "生态兼容",
+        "选购指南"
+      ],
+      "published": "2026-11-25",
+      "categoryLabel": "产品方案",
+      "id": 1159
+    },
+    {
+      "date": "2026-11-27",
+      "category": "scenario",
+      "title": "凤县首个智慧养老看护示范点在东庄村建成：依托“云网边端”一体化",
+      "summary": "秦岭深处东庄村独居老人占比高，村“两委”在中国电信凤县分公司支持下依托“云网边端”一体化能力建成智慧养老看护示范点，重点覆盖独居、空巢、行动不便群体。为80户老人家庭免费安装智能监控摄像头、烟雾报警器等设备。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1105663623_121119015",
+      "keywords": [
+        "智慧养老",
+        "云网边端",
+        "独居老人",
+        "空巢家庭"
+      ],
+      "published": "2026-11-24",
+      "categoryLabel": "场景落地",
+      "id": 1160
+    },
+    {
+      "date": "2026-11-27",
+      "category": "scenario",
+      "title": "会巡逻、会陪聊、还能照护失能长辈：这些智能设备点亮养老日常",
+      "summary": "以怡乐家园养护院试运行为例，智能设备在机构养老场景落地中需与厂家持续协同磨合，结合长者真实照护需求动态优化功能。落地难点集中在设备与照护流程的适配，而非单纯功能演示。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34555656",
+      "keywords": [
+        "智慧养老",
+        "照护机器人",
+        "机构养老",
+        "场景适配"
+      ],
+      "published": "2026-11-25",
+      "categoryLabel": "场景落地",
+      "id": 1161
+    },
+    {
+      "date": "2026-11-27",
+      "category": "scenario",
+      "title": "苹果出中枢、亚马逊摆矩阵，运营商盯上你家电视：家庭AI三条路线摆开",
+      "summary": "家庭AI入口路线分化：苹果“欢迎回家”发布会推出首款智能家庭中枢 HomeView，运行专属 HomeOS，支持最多6位家庭成员面部识别与专属界面切换；亚马逊与谷歌路线则把电视变为家庭共享AI入口，技术上走云边协同，先在葡萄牙做真实家庭试点。",
+      "source": "什么值得买",
+      "url": "https://post.smzdm.com/p/avgdm37p/",
+      "keywords": [
+        "HomeView",
+        "HomeOS",
+        "云边协同",
+        "家庭AI入口"
+      ],
+      "published": "2026-11-22",
+      "categoryLabel": "场景落地",
+      "id": 1162
+    },
+    {
+      "date": "2026-11-27",
+      "category": "scenario",
+      "title": "居家养老的那些事，来这里都有“解法”：真实家庭成为适老产品试验田",
+      "summary": "上海居家养老服务场景中，老人使用“悠妮”智能陪伴机器人后提出放大字体、增加用药提醒等建议，企业迅速采纳；消费券则按失能等级与照护需求组合助浴、助医、康复项目。形成“试用—反馈—优化—推广”的良性互动。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.cn/article_5953740931_162dee083067046i7m.html",
+      "keywords": [
+        "居家养老",
+        "陪伴机器人",
+        "适老改造",
+        "需求反馈"
+      ],
+      "published": "2026-11-25",
+      "categoryLabel": "场景落地",
+      "id": 1163
+    },
+    {
+      "date": "2026-11-27",
+      "category": "scenario",
+      "title": "智能家居困于“生态孤岛”，AI大模型开启“算力变现”",
+      "summary": "AI正从聊天工具进化为办事入口：千问将推出 PersonalAgent 并上线办公电商版，国行 iPhone 确认接入通义千问完成大模型备案，千问AI耳机同步开售。同时 Token 成为硬通货，“淘宝能买token”成为现实，算力商业化推动硬件智能化普及。",
+      "source": "新浪财经",
+      "url": "https://t.cj.sina.com.cn/articles/view/7828958404/1d2a46cc400101blu8",
+      "keywords": [
+        "AI Agent",
+        "算力变现",
+        "生态孤岛",
+        "智能硬件"
+      ],
+      "published": "2026-11-23",
+      "categoryLabel": "场景落地",
+      "id": 1164
+    },
+    {
+      "date": "2026-11-27",
+      "category": "scenario",
+      "title": "运营商深耕全龄场景：电信天翼智屏打造家庭智能中枢",
+      "summary": "三大运营商持续推进全光组网与家庭智能中枢建设。中国电信依托天翼智屏，集少儿网课、安防看护、适老陪护于一体，联动家庭摄像头实现云回看与AI守护，AI伴学生成学情报告，FTTR组网保障全屋信号与绿色上网管控。",
+      "source": "新浪新闻",
+      "url": "https://k.sina.cn/article_6668674555_18d7be5fb00101m512.html",
+      "keywords": [
+        "天翼智屏",
+        "FTTR",
+        "看家看娃",
+        "运营商智慧家庭"
+      ],
+      "published": "2026-11-26",
+      "categoryLabel": "场景落地",
+      "id": 1165
+    },
+    {
+      "date": "2026-11-27",
+      "category": "security",
+      "title": "韩国发现10款家用摄像头安全缺陷，AI放大黑客入侵风险",
+      "summary": "韩国方面在10款家用摄像头中发现安全漏洞，认为AI技术的普及进一步放大了被入侵风险。事件提示家庭监控设备在固件更新、默认口令与云端传输链路上的安全缺陷可能直接导致家庭隐私泄露。",
+      "source": "CHOSUNBIZ",
+      "url": "https://biz.chosun.com/en/en-it/2026/11/26/XHCN2EH7KBEYFIKGDSDAS4AYT4/",
+      "keywords": [
+        "家用摄像头",
+        "安全漏洞",
+        "黑客入侵",
+        "隐私泄露"
+      ],
+      "published": "2026-11-26",
+      "categoryLabel": "数据安全",
+      "id": 1166
+    },
+    {
+      "date": "2026-11-27",
+      "category": "security",
+      "title": "EU smart-home rules explained: GDPR, Data Act and Cyber Resilience Act",
+      "summary": "文章解读欧盟 GDPR、ePrivacy、《数据法案》与《网络弹性法案》对智能家居设备的影响，涵盖数据访问权、数据共享、摄像头与云服务安全要求。对出海的中国智能家居厂商具有合规参考价值。",
+      "source": "ITechGuides",
+      "url": "https://www.itechguides.com/eu-smart-home-privacy-and-data-rules-what-gdpr-the-data-act-and-the-cyber-resilience-act-mean/",
+      "keywords": [
+        "GDPR",
+        "数据法案",
+        "网络弹性法案",
+        "出海合规"
+      ],
+      "published": "2026-11-24",
+      "categoryLabel": "数据安全",
+      "id": 1167
+    },
+    {
+      "date": "2026-11-27",
+      "category": "security",
+      "title": "德施曼、小米、360实测：避开监控摄像头选购误区，2026家装安防怎么选",
+      "summary": "实测指出两个常见误区：盲目追求云台旋转范围而忽视安装死角，以及迷信软件遮蔽——断网或系统重启时纯软件遮蔽并不可靠。推荐物理镜头遮蔽开关与双云台等硬件级隐私设计，兼顾覆盖与安全。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1104552635_122645258",
+      "keywords": [
+        "监控摄像头",
+        "物理遮蔽",
+        "安装死角",
+        "家庭安防"
+      ],
+      "published": "2026-11-21",
+      "categoryLabel": "数据安全",
+      "id": 1168
+    },
+    {
+      "date": "2026-11-27",
+      "category": "security",
+      "title": "伦理AI黑客详解：陌生人如何通过被入侵的智能设备窥视任何家庭",
+      "summary": "安全研究员 Ryan Montgomery 指出，AI 重塑了黑客攻击方式，大量智能设备被入侵后往往沦为摄像头，陌生人可远程观看住户室内画面。该案例凸显家庭设备默认口令与补丁更新的关键性。",
+      "source": "SoapCentral",
+      "url": "https://www.soapcentral.com/entertainment/lot-end-cameras-ethical-ai-hacker-explains-strangers-can-watch-anyone-hacked-smart-devices",
+      "keywords": [
+        "智能设备入侵",
+        "伦理黑客",
+        "家庭隐私",
+        "固件更新"
+      ],
+      "published": "2026-11-26",
+      "categoryLabel": "数据安全",
+      "id": 1169
+    },
+    {
+      "date": "2026-11-27",
+      "category": "security",
+      "title": "普法宣传：一起学习《中华人民共和国个人信息保护法》",
+      "summary": "文章系统梳理《个人信息保护法》核心义务，指出对提供重要互联网平台服务、用户数量巨大、业务类型复杂的处理者（即“守门人”）规定了更多义务，包括建立健全合规制度体系、成立主要由外部成员组成的独立监督机构。智能家居云平台正属重点监管对象。",
+      "source": "搜狐",
+      "url": "https://www.sohu.com/a/1105631080_121106875",
+      "keywords": [
+        "个人信息保护法",
+        "守门人",
+        "合规体系",
+        "独立监督"
+      ],
+      "published": "2026-11-24",
+      "categoryLabel": "数据安全",
+      "id": 1170
     }
   ]
 }
